@@ -759,8 +759,8 @@
       branch: 'gaiennie',
       photo: 'assets/img/joseph-gervaise-pierre-gaiennie.webp',
       photoCaption: 'Joseph Gervaise Gaiennie (1797–1854). Portrait via the deGruy family history.',
-      occupation: 'Veteran of the War of 1812',
-      blurb: 'Twenty-two years old and already an orphan when he married in January 1820. Eleven children. Gaiennie Street in the Warehouse District carries the family name.',
+      occupation: 'War of 1812 — 6th Regiment (Landry\'s), Louisiana Militia',
+      blurb: 'Seventeen years old when the British came up the river. Twenty-two and already an orphan when he married in January 1820. Eleven children. Gaiennie Street in the Warehouse District still carries the family name.',
       records: [
         {
           title: 'Marriage — St. Michael, Convent',
@@ -769,14 +769,22 @@
           highlight: 'One record fixes four things: his 1797 birth, his New Orleans origin, both his parents, and both of his wife\'s parents.'
         },
         {
+          title: 'Militia roll — War of 1812',
+          citation: 'Louisiana Soldiers in the War of 1812 (compiled state militia rosters)',
+          text: '"Gervais Gainne — 6 Reg\'t. (Landry\'s), La. Militia."',
+          highlight: 'He was not alone. The same roster carries "Francis Gaignie — 4 Reg\'t. (Morgan\'s), La. Militia" and a "U. Gaignie" — his father and, most likely, his uncle Urbain. Seven Gaiennie entries in all, across the usual spelling variants.'
+        },
+        {
           title: 'Burial — St. Michael, Convent',
           citation: 'Diocese of Baton Rouge, Vol. 8 (1853–1857), SMI-4, 236',
           text: 'Gervais Gaiennie, age 57 yrs., bur. 9 June 1854.'
         }
       ],
       sources: [
+        { label: 'Louisiana Soldiers in the War of 1812 (index)', url: 'https://www.ancestry.com/search/collections/3339/?name=_Gaiennie&count=50' },
         { label: 'deGruy Family History — Joseph Gervaise Gaiennie', url: 'https://degruyfamily.wordpress.com/joseph-gervaise-gaiennie-1797-1854/' }
-      ]
+      ],
+      note: 'On the arithmetic: he was born 1 June 1797, so he was seventeen and a half at the Battle of New Orleans on 8 January 1815. That is not a contradiction — Louisiana\'s war was the New Orleans campaign of December 1814 to January 1815, and the militia called up essentially every able-bodied man and boy in the state. A seventeen-year-old on a militia roll in 1814–15 is unremarkable. The deGruy family history adds that "his name appears in the pension indexes," which is the weaker half of the claim: he died in 1854, long before the pension acts of 1871 and 1878, so he could never have applied himself. Any pension file would be a widow\'s claim by Marie Nathalie Chenet — and since she died in 1878, only the 1878 act, which dropped the requirement that the marriage predate the peace treaty, would have let her file at all. Unverified.'
     },
 
     marieNathalieChenet: {
@@ -799,7 +807,19 @@
       death: { date: 'before January 1820' },
       lifespanText: 'd. before 1820',
       evidence: 'verified', branch: 'gaiennie',
-      blurb: 'Named, already deceased, in his son\'s 1820 marriage record. A "Pat. GP: Francois and Eulalie SARDE" appears again in an 1836 baptism, independently confirming the couple.'
+      occupation: 'War of 1812 — 4th Regiment (Morgan\'s), Louisiana Militia',
+      blurb: 'Named, already deceased, in his son\'s 1820 marriage record. A "Pat. GP: Francois and Eulalie SARDE" appears again in an 1836 baptism, independently confirming the couple.',
+      records: [
+        {
+          title: 'Militia roll — War of 1812',
+          citation: 'Louisiana Soldiers in the War of 1812 (compiled state militia rosters)',
+          text: '"Francis Gaignie — 4 Reg\'t. (Morgan\'s), La. Militia."',
+          highlight: 'Father and son both turned out for the New Orleans campaign, in different regiments.'
+        }
+      ],
+      sources: [
+        { label: 'Louisiana Soldiers in the War of 1812 (index)', url: 'https://www.ancestry.com/search/collections/3339/?name=_Gaiennie&count=50' }
+      ]
     },
 
     elisabethSarde: {
