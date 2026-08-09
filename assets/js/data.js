@@ -851,7 +851,7 @@
       evidence: 'verified',
       branch: 'brunetti',
       immigrant: true,
-      blurb: 'Came over as a teenager, spent his twenties in Chicago, and turned up in New Orleans in time to marry a Croatian oysterman\'s daughter in June 1921. He and Veronica are the only two Brunettis in St. Louis Cemetery No. 3, and the only Brunettis in the Louisiana index at all — he left no kin behind him here.',
+      blurb: 'Came over as a teenager, spent his twenties in Chicago, and turned up in New Orleans in time to marry a Croatian oysterman\'s daughter in June 1921. He and Veronica are the only two Brunettis in St. Louis Cemetery No. 3, and apart from his own daughter\'s there is not another Brunetti birth in the Louisiana index — no sibling or cousin followed him south, so the surname ended with him here.',
       records: [
         {
           title: 'Louisiana marriage record',
