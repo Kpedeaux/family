@@ -10,6 +10,10 @@
  *
  * Rule of the house: never add a parent link without a record naming both people.
  * A shared surname is not evidence.
+ *
+ * spouse: only needed when someone married a person who is NOT in the tree.
+ *   For everyone in the direct line the UI derives the spouse automatically — it is
+ *   simply the other parent of their direct-line child — and renders it as a link.
  */
 (function (global) {
   'use strict';
@@ -18,12 +22,12 @@
     /* ─────────────────────────  LIVING / RECENT  ───────────────────────── */
 
     kevin: {
+      spouse: 'Lauren Ashley Dauro Pedeaux',
       siblings: [
         'Aaron John Pedeaux',
         'Catherine Ann Pedeaux'
       ],
       children: [
-        'Ashley Pedeaux',
         'Owen Pedeaux',
         'Philip Pedeaux',
         'John Pedeaux'
@@ -32,7 +36,7 @@
       birth: { place: 'Meraux, St. Bernard Parish, Louisiana' },
       father: 'buddy', mother: 'jeanLarmann',
       evidence: 'verified',
-      blurb: 'Raised in Meraux; Archbishop Hannan. Father of Ashley, Owen, Philip and John. Siblings Aaron John and Catherine Ann.'
+      blurb: 'Raised in Meraux; Archbishop Hannan. Married to Lauren Ashley Dauro Pedeaux; father of Owen, Philip and John.'
     },
 
     buddy: {

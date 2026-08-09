@@ -28,6 +28,9 @@ someId: {
   death: { date: '11 May 1862' },
   father: 'someOtherId',        // omit if unknown
   mother: 'someOtherId',
+  spouse: 'Someone Not In The Tree',   // only when the spouse isn't an ancestor
+  siblings: ['Name (dates)', ...],
+  children: ['Name (dates)', { id: 'someId' }],  // { id } = already in the tree
   evidence: 'verified',         // 'verified' | 'confirm' | 'inferred'
   branch: 'pedeaux',            // optional; inherited from descendants if omitted
   blurb: 'One or two sentences.',
@@ -39,6 +42,14 @@ someId: {
 
 The tree is an **ancestor** tree: the root is `kevin`, and a node's children in the UI are
 that person's *parents*. Add a person, point a `father`/`mother` at their id, and they appear.
+
+**Spouses are derived, not stored.** For anyone in the direct line the panel works out the spouse
+automatically — it's the other parent of their direct-line child — and renders it as a link. Only
+set `spouse` explicitly when someone married a person who isn't in the tree.
+
+**Children written as `{ id: 'someId' }`** resolve against the dataset, show that person's dates, and
+get tagged "your line" with a link that jumps the panel and scrolls the tree. Anyone else is a plain
+string.
 
 ### The one rule
 

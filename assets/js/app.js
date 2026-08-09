@@ -51,6 +51,25 @@
     return `d. ${yr(d)}`;
   }
 
+  /* A person's spouse: an explicit `spouse` string when they married someone who
+     isn't in the tree, otherwise derived — the other parent of their direct-line child. */
+  function spouseHtml(id) {
+    const p = people[id];
+    if (p.spouse) return esc(p.spouse);
+    for (const [cid, c] of Object.entries(people)) {
+      let sid = null;
+      if (c.father === id) sid = c.mother;
+      else if (c.mother === id) sid = c.father;
+      if (sid && people[sid]) {
+        const q = people[sid];
+        const span = lifespan(q);
+        return `<button class="fam__link" type="button" data-goto="${esc(sid)}">${esc(fullName(q))}</button>${
+          span ? ` <span class="fam__dates">${esc(span)}</span>` : ''}`;
+      }
+    }
+    return '';
+  }
+
   function branchOf(id) {
     let cur = id, guard = 0;
     while (cur && guard++ < 40) {
@@ -169,7 +188,11 @@
 
     if (p.blurb) html += `<p>${esc(p.blurb)}</p>`;
 
-    html += `<dl class="kv">${rows.map(([k, v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join('')}</dl>`;
+    /* Spouse row goes first — it's the fact people look for. Already HTML-safe. */
+    const sp = spouseHtml(id);
+    const rowsHtml = (sp ? `<dt>Married</dt><dd>${sp}</dd>` : '')
+      + rows.map(([k, v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join('');
+    html += `<dl class="kv">${rowsHtml}</dl>`;
 
     /* Siblings and children. An entry of the form { id } points at someone already in
        the tree — resolve their name and dates, and flag them as the direct line. */
