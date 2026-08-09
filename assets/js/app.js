@@ -171,6 +171,27 @@
 
     html += `<dl class="kv">${rows.map(([k, v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join('')}</dl>`;
 
+    /* Siblings and children. An entry of the form { id } points at someone already in
+       the tree — resolve their name and dates, and flag them as the direct line. */
+    const famList = (items) => `<ul class="fam">${items.map((it) => {
+      if (it && typeof it === 'object' && it.id) {
+        const q = people[it.id];
+        if (!q) return '';
+        const span = lifespan(q);
+        return `<li class="fam--line"><button class="fam__link" type="button" data-goto="${esc(it.id)}">${esc(fullName(q))}</button>${
+          span ? ` <span class="fam__dates">${esc(span)}</span>` : ''
+        } <span class="fam__tag">your line</span></li>`;
+      }
+      return `<li>${esc(it)}</li>`;
+    }).join('')}</ul>`;
+
+    if (p.siblings && p.siblings.length) {
+      html += `<h4>Brothers and sisters</h4>${famList(p.siblings)}`;
+    }
+    if (p.children && p.children.length) {
+      html += `<h4>Children</h4>${famList(p.children)}`;
+    }
+
     if (p.records && p.records.length) {
       html += `<h4>The record itself</h4>`;
       html += p.records.map((r) => `
@@ -191,6 +212,16 @@
 
     $('#panel-body').innerHTML = html;
     $('#panel-body').scrollTop = 0;
+
+    /* jump straight to a relative without closing the panel */
+    $$('.fam__link', $('#panel-body')).forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const target = btn.dataset.goto;
+        openPanel(target);
+        const node = $(`.node[data-id="${target}"]`);
+        if (node) node.scrollIntoView({ block: 'center', behavior: 'smooth' });
+      });
+    });
 
     panel.classList.add('is-open');
     scrim.classList.add('is-open');
@@ -289,7 +320,7 @@
     pedeaux:   'A ship’s carpenter’s son from the Nantes quayside. Michel Pedeau reached Louisiana after 1803 and was dead within a decade, leaving three boys on Bayou Lafourche.',
     aucoin:    'Acadians deported from Île Saint-Jean in 1758, landed at Saint-Malo, settled at Saint-Énogat, and sailed for Louisiana in 1785 with ten children aboard La Ville d’Archangel.',
     gaiennie:  'French New Orleans, established enough by the 1820s that a street in the Warehouse District still carries the name. A War of 1812 veteran sits at the head of it.',
-    brunetti:  'The Sicilian wave through the Port of New Orleans. John Brunetti was born in Italy about 1893 and left no Louisiana-born kin behind him.',
+    brunetti:  'John Brunetti was born in Italy in May 1893, came through Ellis Island as a teenager, spent his twenties in Chicago and married in New Orleans in 1921. Almost certainly from Plataci in Calabria — an Arbëreshë village — though that is a lead, not yet proof.',
     franovich: 'Dalmatian oystermen in the lower delta — Buras, Empire, Port Sulphur. Anthony Franovich died at thirty-eight and lies at Our Lady of Good Harbor.',
     moizant:   'French Louisiana, married repeatedly into the Plaquemines Croatian community. Alfred Moizant lived to ninety-five.',
     larmann:   'German New Orleans, with an English or Irish grandmother — Eugenie Moore — quietly complicating the picture.',

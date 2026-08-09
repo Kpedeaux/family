@@ -18,6 +18,16 @@
     /* ─────────────────────────  LIVING / RECENT  ───────────────────────── */
 
     kevin: {
+      siblings: [
+        'Aaron John Pedeaux',
+        'Catherine Ann Pedeaux'
+      ],
+      children: [
+        'Ashley Pedeaux',
+        'Owen Pedeaux',
+        'Philip Pedeaux',
+        'John Pedeaux'
+      ],
       given: 'Kevin Joseph', surname: 'Pedeaux', sex: 'M',
       birth: { place: 'Meraux, St. Bernard Parish, Louisiana' },
       father: 'buddy', mother: 'jeanLarmann',
@@ -26,6 +36,14 @@
     },
 
     buddy: {
+      siblings: [
+        'Patricia Pedeaux Ruda — married Sheldon Ruda, moved to Rochester, New York'
+      ],
+      children: [
+        { id: 'kevin' },
+        'Aaron John Pedeaux',
+        'Catherine Ann Pedeaux'
+      ],
       given: 'Herbert John', nickname: 'Buddy', surname: 'Pedeaux', sex: 'M',
       birth: { date: '20 October 1956' },
       death: { date: '17 February 2009' },
@@ -38,6 +56,16 @@
     },
 
     jeanLarmann: {
+      siblings: [
+        'John R. Larmann Jr.',
+        'James C. Larmann',
+        'Judy Larmann Gifford'
+      ],
+      children: [
+        { id: 'kevin' },
+        'Aaron John Pedeaux',
+        'Catherine Ann Pedeaux'
+      ],
       given: 'Jean', surname: 'Larmann', sex: 'F',
       father: 'johnLarmannSr', mother: 'annWellmeyer',
       evidence: 'verified',
@@ -47,6 +75,17 @@
     /* ─────────────────────────  PEDEAUX  ───────────────────────── */
 
     herbertJoseph: {
+      siblings: [
+        'Robert Louis Pedeaux (1918–1980)',
+        'Lorraine Marie Pedeaux (1925–1932, died at six)',
+        'Edna Pedeaux Perret (1928–2019)',
+        'Numa Louis Pedeaux Jr. (1930–2014) — the family\'s “Uncle Sonny”',
+        'Joy Marie Pedeaux Byrne (1935–2013)'
+      ],
+      children: [
+        'Patricia Pedeaux Ruda',
+        { id: 'buddy' }
+      ],
       given: 'Herbert Joseph', surname: 'Pedeaux', sex: 'M',
       birth: { date: '10 July 1921', place: 'New Orleans' },
       death: { date: '22 July 1992', place: 'Chalmette, St. Bernard Parish' },
@@ -74,6 +113,13 @@
     },
 
     veronicaBrunetti: {
+      siblings: [
+        'None found — she appears alone with her parents in both the 1930 and 1940 censuses'
+      ],
+      children: [
+        'Patricia Pedeaux Ruda',
+        { id: 'buddy' }
+      ],
       given: 'Veronica Marie', surname: 'Brunetti', sex: 'F',
       birth: { date: '20 November 1923', place: 'New Orleans' },
       death: { date: '6 August 2013', place: 'Long Beach, Mississippi' },
@@ -95,6 +141,23 @@
     },
 
     numaSr: {
+      siblings: [
+        'Antoine Philippe Joseph “Philip” Pedeaux (1872–1946)',
+        'Edward Hector Pedeaux (1876–1930)',
+        'Louise Pedeaux (b. 1878)',
+        'Eugenie Pedeaux (1880–1974, died at 94)',
+        'Anna Pedeaux (b. 1883)',
+        'Agnes Pedeaux (b. 1890)',
+        'Rosa Pedeaux (b. 1892)'
+      ],
+      children: [
+        'Robert Louis Pedeaux (1918–1980)',
+        { id: 'herbertJoseph' },
+        'Lorraine Marie Pedeaux (1925–1932)',
+        'Edna Pedeaux Perret (1928–2019)',
+        'Numa Louis Pedeaux Jr. (1930–2014)',
+        'Joy Marie Pedeaux Byrne (1935–2013)'
+      ],
       given: 'Numa Louis Charles', suffix: 'Sr.', surname: 'Pedeaux', sex: 'M',
       birth: { date: '16 March 1888', place: 'probably Lafourche or Assumption Parish' },
       death: { date: '17 July 1958', place: 'Orleans Parish' },
@@ -121,6 +184,24 @@
     },
 
     ednaGaiennie: {
+      siblings: [
+        'Charles Seymour Gaiennie (b. 1889)',
+        'Corinne Marie Gaiennie Jessup (1890–1946)',
+        'Edward J. Gaiennie (1892–1894)',
+        'Marie Lucile Gaiennie Brown (b. 1896)',
+        'an infant, died June 1897',
+        'Lawrence Herbert Gaiennie (1897–1906)',
+        'George Florestan Gaiennie (b. 1905)',
+        'Roland Francis Gaiennie (b. 1909)'
+      ],
+      children: [
+        'Robert Louis Pedeaux (1918–1980)',
+        { id: 'herbertJoseph' },
+        'Lorraine Marie Pedeaux (1925–1932)',
+        'Edna Pedeaux Perret (1928–2019)',
+        'Numa Louis Pedeaux Jr. (1930–2014)',
+        'Joy Marie Pedeaux Byrne (1935–2013)'
+      ],
       given: 'Edna Marie', surname: 'Gaiennie', sex: 'F',
       birth: { date: '8 September 1894', place: 'Thibodaux, Lafourche Parish' },
       death: { date: '21 April 1962', place: 'Orleans Parish' },
@@ -132,6 +213,22 @@
     },
 
     pierreNuma: {
+      siblings: [
+        'Honoré Alcée Cyprien Pedeau (b. 3 March 1849)',
+        'Zéphirin Ulysse Pedeaux (1851–1933)',
+        'Marie Alice Pedeaux (b. 13 Aug 1852) — married Taylor Paul Himel, 11 Sept 1873',
+        'Rosalia Florence Pedeaux (1855–1943)'
+      ],
+      children: [
+        'Antoine Philippe Joseph “Philip” Pedeaux (1872–1946)',
+        'Edward Hector Pedeaux (1876–1930)',
+        'Louise Pedeaux (b. 1878)',
+        'Eugenie Pedeaux (1880–1974)',
+        'Anna Pedeaux (b. 1883)',
+        { id: 'numaSr' },
+        'Agnes Pedeaux (b. 1890)',
+        'Rosa Pedeaux (b. 1892)'
+      ],
       given: 'Pierre Numa', surname: 'Pedeau', sex: 'M',
       alsoKnownAs: 'Numa A. Pedeaux',
       birth: { date: '20 November 1847', place: 'Assumption Parish' },
@@ -161,6 +258,20 @@
     },
 
     eulalieBorne: {
+      siblings: [
+        'Edouard Borne — a witness at her 1871 wedding',
+        'Marie Borne — godmother to her first child in 1872'
+      ],
+      children: [
+        'Antoine Philippe Joseph “Philip” Pedeaux (1872–1946)',
+        'Edward Hector Pedeaux (1876–1930)',
+        'Louise Pedeaux (b. 1878)',
+        'Eugenie Pedeaux (1880–1974)',
+        'Anna Pedeaux (b. 1883)',
+        { id: 'numaSr' },
+        'Agnes Pedeaux (b. 1890)',
+        'Rosa Pedeaux (b. 1892)'
+      ],
       given: 'Eulalie', surname: 'Borne', sex: 'F',
       birth: { date: '1849', place: 'Lafourche Parish' },
       death: { date: '14 November 1908', place: 'Labadieville' },
@@ -186,6 +297,17 @@
     },
 
     antoineFlorentin: {
+      siblings: [
+        'Michel Pedeau (b. 28 Oct 1808, buried 25 March 1853)',
+        'Jean Baptiste Pedeau (b. 12 Nov 1810, buried 13 Nov 1855) — the Baptiste living next door in the 1850 census'
+      ],
+      children: [
+        { id: 'pierreNuma' },
+        'Honoré Alcée Cyprien Pedeau (b. 1849)',
+        'Zéphirin Ulysse Pedeaux (1851–1933)',
+        'Marie Alice Pedeaux (b. 1852)',
+        'Rosalia Florence Pedeaux (1855–1943)'
+      ],
       given: 'Antoine Florentin', surname: 'Pedeau', sex: 'M',
       birth: { date: '1 November 1812', place: 'Assumption Parish' },
       death: { date: '7 August 1858', place: 'Assumption Parish' },
@@ -209,6 +331,13 @@
     },
 
     marieCancienne: {
+      children: [
+        { id: 'pierreNuma' },
+        'Honoré Alcée Cyprien Pedeau (b. 1849)',
+        'Zéphirin Ulysse Pedeaux (1851–1933)',
+        'Marie Alice Pedeaux (b. 1852)',
+        'Rosalia Florence Pedeaux (1855–1943)'
+      ],
       given: 'Marie', alsoKnownAs: 'Marie Antoinette', surname: 'Cancienne', sex: 'F',
       birth: { date: 'about 1822', place: 'Assumption Parish' },
       death: { date: '11 May 1862', place: 'Assumption Parish' },
@@ -222,10 +351,24 @@
           text: 'Marie Cancienne, age 40 years, wife of Antoine PEDO, bur. 12 May 1862 d. yesterday.'
         }
       ],
-      note: 'Her father or brother was very likely Pierre Cancienne, who was godfather to two of her children — and for whose own daughter Zulma, Antoine and Marie stood together as godparents in February 1847. This burial record also corrects an earlier reading: the "Mary Pedaux, b. 1812" living in Numa\'s household in the 1900 census cannot be her, and is most likely his mother-in-law Anne Marie Guedry.'
+      note: 'Her father or brother was very likely Pierre Cancienne, who was godfather to two of her children — and for whose own daughter Zulma, Antoine and Marie stood together as godparents in February 1847. This burial record also corrects an earlier reading: the "Mary Pedaux, b. 1812" living in Numa\'s household in the 1900 census cannot be her, and is most likely his mother-in-law Anne Marie Guedry. One tantalising loose end: the Louisiana Cancienne surname descends from Pietro Cancieni, son of Giorgio Cancieni and Margherita Catharina Yearne of Venice, whose name became Pierre Cancienne on the bayou. If Marie belongs to that family — not yet proven — there is an Italian thread here two centuries older than the Brunettis.'
     },
 
     michelPedeau: {
+      siblings: [
+        'Marie (1766–1772)',
+        'Jeanne Yvonne (b. 1769, living 1815)',
+        'Michel (1770–1771, died an infant)',
+        'Jean (1771–1772)',
+        'Pierre (1773–1866)',
+        'Michel Pierre (b. 20 May 1777, Chantenay) — the other candidate for the emigrant',
+        'Anne'
+      ],
+      children: [
+        'Michel Pedeau (b. 28 Oct 1808)',
+        'Jean Baptiste Pedeau (b. 12 Nov 1810)',
+        { id: 'antoineFlorentin' }
+      ],
       given: 'Michel', surname: 'Pedeau', sex: 'M',
       origin: 'Nantes, Brittany',
       birth: { date: 'about 1765–1777', place: 'Nantes' },
@@ -250,6 +393,17 @@
     },
 
     michelPedeauPere: {
+      children: [
+        'Michel André (b. 7 April 1765)',
+        'Marie (1766–1772)',
+        'Jeanne Yvonne (b. 1769)',
+        'Michel (1770–1771)',
+        'Jean (1771–1772)',
+        'Pierre (1773–1866)',
+        'Michel Pierre (b. 1777)',
+        'Anne',
+        { id: 'michelPedeau' }
+      ],
       given: 'Michel', surname: 'Pédeau', sex: 'M',
       birth: { date: '19 February 1739', place: 'Sainte-Pazanne, Pays de Retz' },
       death: { date: '30 December 1799', place: 'Nantes' },
@@ -272,6 +426,17 @@
     },
 
     jeanneMuraille: {
+      children: [
+        'Michel André (b. 7 April 1765)',
+        'Marie (1766–1772)',
+        'Jeanne Yvonne (b. 1769)',
+        'Michel (1770–1771)',
+        'Jean (1771–1772)',
+        'Pierre (1773–1866)',
+        'Michel Pierre (b. 1777)',
+        'Anne',
+        { id: 'michelPedeau' }
+      ],
       given: 'Jeanne Marguerite', surname: 'Muraille', sex: 'F',
       birth: { date: '17 February 1734', place: 'La Trinité de Machecoul, Pays de Retz' },
       death: { date: 'living after 1814' },
@@ -287,6 +452,27 @@
     /* ─────────────────────────  AUCOIN — the Acadian branch  ───────────────────────── */
 
     florenceAucoin: {
+      siblings: [
+        'Joseph-Michel (b. May 1760)',
+        'Jean-Charles (b. July 1761, St-Lunaire)',
+        'Françoise (1763–1763)',
+        'Marie-Josèphe (b. 1764) — never married',
+        'Anne-Théodose (1765–1798)',
+        'François David (1766–1769)',
+        'Grégoire-Alexis (1767–1844) — her godfather at the font',
+        'Michel-Pierre (1769–1833)',
+        'Pierre-Paul (1770–1818)',
+        'Élisabeth “Isabelle” (1772–1843) — married Baptiste-Olivier Potier',
+        'François-Étienne (1773–1837)',
+        'Jeanne (1778–1779)',
+        'Constant-Jean-Baptiste (b. Oct 1782)'
+      ],
+      children: [
+        'Michel Pedeau (b. 1808)',
+        'Jean Baptiste Pedeau (b. 1810)',
+        { id: 'antoineFlorentin' },
+        'Marie Bariot — married Joseph Felix Colbut, 27 Nov 1841, with her half-brother Jean Baptiste Pedeaux as witness'
+      ],
       given: 'Florianne Marguerite', alsoKnownAs: 'Florence', surname: 'Aucoin', sex: 'F',
       origin: 'Saint-Énogat, Brittany',
       birth: { date: '28 November 1780', place: 'Saint-Énogat, Diocese of Saint-Malo, Brittany' },
@@ -321,32 +507,82 @@
         { label: 'AD Ille-et-Vilaine — archives en ligne', url: 'https://archives-en-ligne.ille-et-vilaine.fr/thot_internet/' },
         { label: 'La Ville d\'Archangel passenger list', url: 'https://www.acadian.org/culture/louisiana/ships-transportation-acadians-louisiana/la-ville-darchangel-acadian-passenger-list/' }
       ],
-      note: 'Her death date was long disputed — WeRelate gives 30 March 1872, Broussard gives March 1852. The burial register settles it: 31 March 1852, age 72, which also fixes her birth at about 1780. After Michel Pedeau died she remarried François Bariot on 26 November 1814.'
+      note: 'Her death date was long disputed — WeRelate gives 30 March 1872, Broussard gives March 1852. The burial register settles it: 31 March 1852, age 72, which also fixes her birth at about 1780. She was also called Clémence, which is worth knowing when searching. After Michel Pedeau died she remarried on 26 November 1814 at Plattenville: the register records the groom as Francisco, son of Santiago and Maria MAZEROLLE, filed under the surname heading "BARIOT, BARIAU, VARIOT, BARRILLEAU." Steven Cormier\'s Acadians in Gray instead names her second husband François Allain le jeune — but Cormier\'s own summary line says the Aucoin daughters married into the "Potier, Pedeau, and Barrilleaux" families, and the sacramental register is unambiguous. Bariot it is.'
+    },
+
+    antoineAucoin: {
+      children: [
+        { id: 'michelAucoin' }
+      ],
+      given: 'Antoine', suffix: 'le jeune', surname: 'Aucoin', sex: 'M',
+      origin: 'Acadia',
+      birth: { date: 'about 1700' }, death: { date: 'about 1756' },
+      evidence: 'confirm', branch: 'aucoin',
+      blurb: 'Of Cobeguit, Acadia. Moved his family to Île Saint-Jean in 1755 or 1756, in the first wave of flight ahead of the British.',
+      sources: [{ label: 'Acadians in Gray — Book Ten', url: 'http://www.acadiansingray.com/Acadians%20of%20LA-Intro-5a.htm' }]
+    },
+
+    elisabethAmireau: {
+      children: [
+        { id: 'michelAucoin' }
+      ],
+      given: 'Élisabeth', surname: 'Amireau', sex: 'F',
+      origin: 'Acadia',
+      birth: { date: 'about 1709' }, death: { date: 'about 1766' },
+      evidence: 'confirm', branch: 'aucoin',
+      sources: [{ label: 'Acadians in Gray — Book Ten', url: 'http://www.acadiansingray.com/Acadians%20of%20LA-Intro-5a.htm' }]
     },
 
     michelAucoin: {
-      given: 'Michel', surname: 'Aucoin', sex: 'M',
-      origin: 'Acadia',
-      birth: { date: 'about 1732', place: 'Acadia' },
-      evidence: 'verified',
+      children: [
+        'Fourteen in all, ten of whom sailed for Louisiana in 1785:',
+        'Joseph-Michel (b. 1760)',
+        'Jean-Charles (b. 1761)',
+        'Marie-Josèphe (b. 1764)',
+        'Anne-Théodose (1765–1798)',
+        'Grégoire-Alexis (1767–1844)',
+        'Michel-Pierre (1769–1833)',
+        'Pierre-Paul (1770–1818)',
+        'Élisabeth “Isabelle” (1772–1843)',
+        'François-Étienne (1773–1837)',
+        { id: 'florenceAucoin' },
+        'Constant-Jean-Baptiste (b. 1782)',
+        'and three who died young at Saint-Énogat: Françoise (1763), François David (1766–1769), Jeanne (1778–1779)'
+      ],
+      given: 'Michel', suffix: 'le jeune', surname: 'Aucoin', sex: 'M',
+      origin: 'Cobeguit, Acadia',
+      birth: { date: 'about 1732', place: 'probably Cobeguit, Acadia' },
+      death: { date: 'by 1793', place: 'Bayou des Écores, Louisiana' },
+      father: 'antoineAucoin', mother: 'elisabethAmireau',
+      evidence: 'confirm',
       branch: 'aucoin',
       immigrant: true,
-      blurb: 'Deported from Île Saint-Jean, landed at Saint-Malo on 23 January 1759, settled at Saint-Énogat, and sailed for Louisiana in 1785 at fifty-three with his wife and ten children.',
+      blurb: 'Followed his family to Île Saint-Jean around 1755, married there in about 1758, and was deported to Saint-Malo within the year. Twenty-five years at Saint-Énogat, fourteen children, then Louisiana at fifty-three. Dead within eight years of landing.',
       records: [
         {
           title: 'Passenger list — La Ville d\'Archangel, 1785, entry 21',
           citation: 'Rev. Donald J. Hébert, Acadian Families in Exile 1785, p. 93',
           text: 'Michel AUCOIN 53 years, Isabelle HEBERT, his wife 48 years — with ten named children including "Floriane 4 years."'
+        },
+        {
+          title: 'The voyage',
+          citation: 'Sixth of the Seven Ships — Steven A. Cormier, Acadians in Gray, appendix',
+          text: 'La Ville d\'Archangel, a 600-ton frigate. Left Saint-Malo 12 August 1785, arrived New Orleans 3 December 1785 — a 113-day crossing with 309 people aboard.'
         }
       ],
       sources: [
         { label: 'La Ville d\'Archangel passenger list', url: 'https://www.acadian.org/culture/louisiana/ships-transportation-acadians-louisiana/la-ville-darchangel-acadian-passenger-list/' },
-        { label: 'Croatians & Acadians of south Louisiana — Louisiana Folklife', url: 'https://www.louisianafolklife.org/lt/articles_essays/main_misc_croatians_s_la.html' }
+        { label: 'Acadians in Gray — Seven Ships appendix', url: 'http://www.acadiansingray.com/Appendices-Seven%20Ships\'%20Passengers.htm' },
+        { label: 'Acadians in Gray — Book Ten', url: 'http://www.acadiansingray.com/Acadians%20of%20LA-Intro-5a.htm' }
       ],
-      note: 'The published transcription that would carry every Saint-Énogat act for this family is Albert J. Robichaux, Jr., The Acadian Exiles in Saint-Malo, 1758–1785, vol. 1, pp. 22–24, family #31.'
+      note: 'The family went first to Bayou des Écores, north of Baton Rouge, where Michel died. Afterwards his widow and children joined the Acadian exodus from that settlement to upper Bayou Lafourche — which is how Florence came to be in Assumption Parish to meet a Frenchman from Nantes. The published transcription that would carry every Saint-Énogat act for this family is Albert J. Robichaux, Jr., The Acadian Exiles in Saint-Malo, 1758–1785, vol. 1, pp. 22–24, family #31.'
     },
 
     isabelleHebert: {
+      children: [
+        'The same fourteen — see Michel Aucoin',
+        { id: 'florenceAucoin' }
+      ],
       given: 'Isabelle', alsoKnownAs: 'Ysabel', surname: 'Hébert', sex: 'F',
       origin: 'Acadia',
       birth: { date: 'about 1738', place: 'Acadia' },
@@ -360,6 +596,28 @@
     /* ─────────────────────────  GAIENNIE  ───────────────────────── */
 
     alphonseJr: {
+      siblings: [
+        'Marie Sophie Gaiennie (1853–1933)',
+        'Francois George Gaiennie (1858–1875)',
+        'Mary Emma Gaiennie (1860–1862)',
+        'Joseph Ernest Gaiennie (1864–1937)',
+        'Louis Raphael Gaiennie Sr. (1865–1930)',
+        'Seymour Gaiennie (1868–1948)',
+        'Louis Fernand Gaiennie (1870–1963)',
+        'Marie Alix Gaiennie (1873–1957)',
+        'Blanche Marie Gaiennie (1875–1965)'
+      ],
+      children: [
+        'Charles Seymour Gaiennie (b. 1889)',
+        'Corinne Marie Gaiennie Jessup (1890–1946)',
+        'Edward J. Gaiennie (1892–1894)',
+        { id: 'ednaGaiennie' },
+        'Marie Lucile Gaiennie Brown (b. 1896)',
+        'an infant, died June 1897',
+        'Lawrence Herbert Gaiennie (1897–1906)',
+        'George Florestan Gaiennie (b. 1905)',
+        'Roland Francis Gaiennie (b. 1909)'
+      ],
       given: 'Alphonse Florestan', suffix: 'Jr.', surname: 'Gaiennie', sex: 'M',
       birth: { date: '28 August 1862' },
       death: { date: '19 March 1919', place: 'Orleans Parish' },
@@ -385,6 +643,17 @@
     },
 
     jeanneCurien: {
+      children: [
+        'Charles Seymour Gaiennie (b. 1889)',
+        'Corinne Marie Gaiennie Jessup (1890–1946)',
+        'Edward J. Gaiennie (1892–1894)',
+        { id: 'ednaGaiennie' },
+        'Marie Lucile Gaiennie Brown (b. 1896)',
+        'an infant, died June 1897',
+        'Lawrence Herbert Gaiennie (1897–1906)',
+        'George Florestan Gaiennie (b. 1905)',
+        'Roland Francis Gaiennie (b. 1909)'
+      ],
       given: 'Jeanne Elizabeth', nickname: 'Jennie', surname: 'Curien', sex: 'F',
       birth: { date: '15 June 1868' },
       death: { date: '12 January 1919', place: 'Orleans Parish' },
@@ -400,6 +669,30 @@
     },
 
     alphonseSr: {
+      siblings: [
+        'Joseph Gervaise Gaiennie (1821–1825)',
+        'Eulalie Aurelia Gaiennie (1823–1909)',
+        'Joseph Alceste Gaiennie (1825–1903)',
+        'David Ernest Gaiennie (1831–1832)',
+        'Augustine Gaiennie (b. 1832)',
+        'Fernand Gaiennie (b. 1835)',
+        'Marie Floreska Gaiennie (1836–1881) — married Achille Druilhet, 1853',
+        'Jeanne Nathalie Gaiennie (b. 1839) — married François Poché, 1860',
+        'Louis Rene Gaiennie (1839–1839)',
+        'Pierre Francois Gaiennie (1841–1862)'
+      ],
+      children: [
+        'Marie Sophie (1853–1933)',
+        'Francois George (1858–1875)',
+        'Mary Emma (1860–1862)',
+        { id: 'alphonseJr' },
+        'Joseph Ernest (1864–1937)',
+        'Louis Raphael Sr. (1865–1930)',
+        'Seymour (1868–1948)',
+        'Louis Fernand (1870–1963)',
+        'Marie Alix (1873–1957)',
+        'Blanche Marie (1875–1965)'
+      ],
       given: 'Alphonse Florestan', suffix: 'Sr.', surname: 'Gaiennie', sex: 'M',
       alsoKnownAs: 'recorded at baptism simply as "Florentin"',
       birth: { date: '9 September 1826', place: 'St. James Parish' },
@@ -424,6 +717,10 @@
     },
 
     marieAlixFazende: {
+      children: [
+        'The younger Gaiennie children of Alphonse Sr., including',
+        { id: 'alphonseJr' }
+      ],
       given: 'Marie Alix', surname: 'Fazende', sex: 'F',
       alsoKnownAs: 'indexed by the New Orleans obituary index as "Marie Alix Morière"',
       birth: { date: '6 June 1841' },
@@ -437,6 +734,22 @@
     },
 
     josephGervais: {
+      siblings: [
+        'Joseph François Gaiennie — married Marceline Labatut; his children share the same grandparents in the register'
+      ],
+      children: [
+        'Joseph Gervaise (1821–1825)',
+        'Eulalie Aurelia (1823–1909)',
+        'Joseph Alceste (1825–1903)',
+        { id: 'alphonseSr' },
+        'David Ernest (1831–1832)',
+        'Augustine (b. 1832)',
+        'Fernand (b. 1835)',
+        'Marie Floreska (1836–1881)',
+        'Jeanne Nathalie (b. 1839)',
+        'Louis Rene (1839–1839)',
+        'Pierre Francois (1841–1862)'
+      ],
       given: 'Joseph Gervais', surname: 'Gaiennie', sex: 'M',
       birth: { date: '1 June 1797', place: 'New Orleans' },
       death: { date: 'buried 9 June 1854', place: 'St. James Parish' },
@@ -467,6 +780,10 @@
     },
 
     marieNathalieChenet: {
+      children: [
+        'The same eleven — see Joseph Gervais',
+        { id: 'alphonseSr' }
+      ],
       given: 'Marie Nathalie', surname: 'Chenet', sex: 'F',
       birth: { date: 'about 1803' },
       death: { date: '1878' },
@@ -500,19 +817,33 @@
     /* ─────────────────────────  BRUNETTI / FRANOVICH / MOIZANT  ───────────────────────── */
 
     johnBrunetti: {
-      given: 'John', surname: 'Brunetti', sex: 'M',
-      origin: 'Italy',
-      birth: { date: 'about 1893', place: 'Italy' },
+      children: [
+        { id: 'veronicaBrunetti' }
+      ],
+      given: 'John', alsoKnownAs: 'Giovanni', surname: 'Brunetti', sex: 'M',
+      origin: 'Italy — via Chicago',
+      birth: { date: '5 May 1893', place: 'Italy' },
       death: { date: '12 January 1987' },
       evidence: 'verified',
       branch: 'brunetti',
       immigrant: true,
-      blurb: 'A first-generation immigrant with no Louisiana-born kin — there are no Brunetti births and no pre-1900 Brunetti deaths anywhere in the Louisiana index. Buried St. Louis Cemetery No. 3.',
+      blurb: 'Came over as a teenager, spent his twenties in Chicago, and turned up in New Orleans in time to marry a Croatian oysterman\'s daughter in June 1921. He and Veronica are the only two Brunettis in St. Louis Cemetery No. 3, and the only Brunettis in the Louisiana index at all — he left no kin behind him here.',
       records: [
         {
           title: 'Louisiana marriage record',
           citation: 'Orleans Parish, June 1921 — Vol. 46, p. 90',
           text: 'BRUNETTI, JOHN × FRANOVICH, VERONICA.'
+        },
+        {
+          title: 'WWI draft registration — Chicago',
+          citation: 'Cook County, Illinois, 1917–18 (NARA RG 163)',
+          text: 'Exactly one John Brunetti registered in Chicago — and no Brunetti at all registered anywhere in Louisiana.',
+          highlight: 'This is what turns the family\'s "he was in Chicago" story into a documented fact, and brackets his move south to somewhere between 1918 and his June 1921 wedding.'
+        },
+        {
+          title: 'Illinois federal naturalization index',
+          citation: 'US District Court, Northern District of Illinois — NARA Chicago, RG 21',
+          text: 'One Declaration of Intention for a Giovanni Brunetti, birth year 1893, birthplace Italy.'
         },
         {
           title: '1930 U.S. Census, Orleans Parish',
@@ -521,12 +852,23 @@
         }
       ],
       sources: [
-        { label: 'Find a Grave 282264524', url: 'https://www.findagrave.com/memorial/282264524/john-brunetti' }
+        { label: 'Find a Grave 282264524', url: 'https://www.findagrave.com/memorial/282264524/john-brunetti' },
+        { label: 'Ellis Island — Giovanni Brunetti, 16 April 1912', url: 'https://www.statueofliberty.org/arrival-details/?id=JJ11-KJ4' },
+        { label: 'Ellis Island — every Brunetti who left Plataci', url: 'https://www.statueofliberty.org/arrival-result/?last_name=Brunetti&residence_place=Plataci&arrival_year_from=1790&arrival_year_to=1974' }
       ],
-      note: 'His parents and his Italian hometown are the last real gap in this branch. The original 1921 marriage licence application — Orleans Parish, Vol. 46 p. 90 — names both parties\' parents and would close it.'
+      note: 'A STRONG LEAD, NOT PROOF. An Ellis Island manifest dated 16 April 1912 records Giovanni Brunetti, 19, arriving on the S.S. Luisiana out of Naples — last residence PLATACI, province of Cosenza, Calabria; nearest relative "father Michele, Plataci"; final destination CHICAGO. Fifteen Brunettis left that one village between 1905 and 1922, a textbook chain migration, and Plataci is an Arbëreshë village — an Italo-Albanian community settled in Calabria since the fifteenth century. Everything fits but one detail: a man born 5 May 1893 would have been eighteen that day, not nineteen. Manifest ages are routinely a year out, and nothing on the document mentions New Orleans or Veronica Franovich. So Michele Brunetti is deliberately NOT entered here as his father. The Declaration of Intention at NARA Chicago would give his exact town and date of birth and settle it — as would his daughter\'s 1923 birth certificate, now public, or the 1921 marriage licence application, which names both parties\' parents.'
     },
 
     veronicaFranovich: {
+      siblings: [
+        'Nicholas Franovich Sr. (1886–1955)',
+        'Dominick Franovich (1892–1986)',
+        'Anthony L. Franovich Jr. (1895–1975)',
+        'Elizabeth “Isabelle” Franovich (b. 1897) — married Pascal Liuzza'
+      ],
+      children: [
+        { id: 'veronicaBrunetti' }
+      ],
       given: 'Veronica', surname: 'Franovich', sex: 'F',
       birth: { date: '22 March 1902', place: 'Buras, Plaquemines Parish' },
       death: { date: '23 August 1981' },
@@ -541,6 +883,13 @@
     },
 
     anthonyFranovich: {
+      children: [
+        'Nicholas Sr. (1886–1955)',
+        'Dominick (1892–1986)',
+        'Anthony L. Jr. (1895–1975)',
+        'Elizabeth “Isabelle” (b. 1897)',
+        { id: 'veronicaFranovich' }
+      ],
       given: 'Anthony L.', suffix: 'Sr.', surname: 'Franovich', sex: 'M',
       origin: 'Dalmatia (Croatia)',
       birth: { date: '22 September 1873' },
@@ -556,6 +905,21 @@
     },
 
     melanieMoizant: {
+      siblings: [
+        'Delphine Marie Moizant (1867–1943)',
+        'Amelia Marcellin Moizant (1881–1928)',
+        'Louise Moizant Mistich (1883–1972)',
+        'Annicia Moizant Scobel (1886–1964)',
+        'Adeline V. “Dina” Moizant Pareti (1888–1966)',
+        'Angeline Moizant Bordelon (1892–1970)'
+      ],
+      children: [
+        'Nicholas Sr. (1886–1955)',
+        'Dominick (1892–1986)',
+        'Anthony L. Jr. (1895–1975)',
+        'Elizabeth “Isabelle” (b. 1897)',
+        { id: 'veronicaFranovich' }
+      ],
       given: 'Melanie', surname: 'Moizant', sex: 'F',
       birth: { date: 'January 1877', place: 'Louisiana' },
       death: { date: '17 October 1957', place: 'Orleans Parish' },
@@ -583,6 +947,15 @@
     },
 
     alfredMoizant: {
+      children: [
+        'Delphine Marie (1867–1943)',
+        { id: 'melanieMoizant' },
+        'Amelia Marcellin (1881–1928)',
+        'Louise (1883–1972)',
+        'Annicia (1886–1964)',
+        'Adeline “Dina” (1888–1966)',
+        'Angeline (1892–1970)'
+      ],
       given: 'Alfred Leopold', surname: 'Moizant', sex: 'M',
       birth: { date: 'January 1838' },
       death: { date: '23 February 1933', place: 'Orleans Parish' },
@@ -593,6 +966,15 @@
     },
 
     victoriaDaroca: {
+      children: [
+        'Delphine Marie (1867–1943)',
+        { id: 'melanieMoizant' },
+        'Amelia Marcellin (1881–1928)',
+        'Louise (1883–1972)',
+        'Annicia (1886–1964)',
+        'Adeline “Dina” (1888–1966)',
+        'Angeline (1892–1970)'
+      ],
       given: 'Victoria Juliene', surname: 'Daroca', sex: 'F',
       birth: { date: '9 January 1850' },
       death: { date: '9 October 1928' },
@@ -604,6 +986,12 @@
     /* ─────────────────────────  LARMANN / WELLMEYER  ───────────────────────── */
 
     johnLarmannSr: {
+      children: [
+        'John R. Larmann Jr.',
+        'James C. Larmann',
+        { id: 'jeanLarmann' },
+        'Judy Larmann Gifford'
+      ],
       given: 'John Richard', suffix: 'Sr.', surname: 'Larmann', sex: 'M',
       birth: { date: '10 September 1926' },
       death: { date: '30 December 2018', place: 'Metairie' },
@@ -627,6 +1015,19 @@
     },
 
     annWellmeyer: {
+      siblings: [
+        'Leslie Henry Wellmeyer (1911–1994) — married Ivel Roeling; his children Buzzy and Jill are remembered in the family',
+        'Clare Agnes Wellmeyer (b. 1912)',
+        'Cyril Raymond Wellmeyer (1915–1996)',
+        'Henry John Wellmeyer Jr. (1918–2001)',
+        'Edward W. Wellmeyer (1925–2021)'
+      ],
+      children: [
+        'John R. Larmann Jr.',
+        'James C. Larmann',
+        { id: 'jeanLarmann' },
+        'Judy Larmann Gifford'
+      ],
       given: 'Ann Geraldine', surname: 'Wellmeyer', sex: 'F',
       birth: { date: '25 October 1927' },
       death: { date: '9 June 2010' },
@@ -641,6 +1042,16 @@
     },
 
     charlesEmileLarmann: {
+      siblings: [
+        'Mary Eugenia Larmann (b. 1896)',
+        'Louise Frances Larmann (b. 1897)',
+        'Bernadine Louisa Larmann (b. 1898)',
+        'Anthony Leo Larmann (b. 1900) — father of the attorney Laurence “Larry” Larmann',
+        'Esther Margerita Larmann (b. 1904)'
+      ],
+      children: [
+        { id: 'johnLarmannSr' }
+      ],
       given: 'Charles Emile', surname: 'Larmann', sex: 'M',
       birth: { date: '12 July 1902', place: 'New Orleans' },
       father: 'anthonyLarmann', mother: 'eugeniaMoore',
@@ -662,6 +1073,9 @@
     },
 
     johannaLemoine: {
+      children: [
+        { id: 'johnLarmannSr' }
+      ],
       given: 'Johanna K.', surname: 'Lemoine', sex: 'F',
       evidence: 'verified',
       branch: 'larmann',
@@ -669,6 +1083,14 @@
     },
 
     anthonyLarmann: {
+      children: [
+        'Mary Eugenia (b. 1896)',
+        'Louise Frances (b. 1897)',
+        'Bernadine Louisa (b. 1898)',
+        'Anthony Leo (b. 1900)',
+        { id: 'charlesEmileLarmann' },
+        'Esther Margerita (b. 1904)'
+      ],
       given: 'Anthony H.', surname: 'Larmann', sex: 'M',
       evidence: 'verified', branch: 'larmann',
       records: [
@@ -678,12 +1100,37 @@
     },
 
     eugeniaMoore: {
+      children: [
+        'Mary Eugenia (b. 1896)',
+        'Louise Frances (b. 1897)',
+        'Bernadine Louisa (b. 1898)',
+        'Anthony Leo (b. 1900)',
+        { id: 'charlesEmileLarmann' },
+        'Esther Margerita (b. 1904)'
+      ],
       given: 'Eugenie', surname: 'Moore', sex: 'F',
       evidence: 'verified', branch: 'larmann',
       blurb: 'An English or Irish name in an otherwise German household — the "all-German maternal line" assumption turned out to be too simple.'
     },
 
     henryJohnWellmeyer: {
+      siblings: [
+        'Gertrude Cecilia Wellmeyer (b. 1884)',
+        'Louis Mathias Wellmeyer (b. 1888)',
+        'Aloysius Roch Wellmeyer (b. 1890)',
+        'Henrietta Cecilia “Rita” Wellmeyer (1892–1961)',
+        'Mary Ione Wellmeyer (b. 1894)',
+        'Zoe Hyacynth Wellmeyer (b. 1897)',
+        'John Edmond Wellmeyer (1900–1983)'
+      ],
+      children: [
+        'Leslie Henry (1911–1994)',
+        'Clare Agnes (b. 1912)',
+        'Cyril Raymond (1915–1996)',
+        'Henry John Jr. (1918–2001)',
+        'Edward W. (1925–2021)',
+        { id: 'annWellmeyer' }
+      ],
       given: 'Henry John', surname: 'Wellmeyer', sex: 'M',
       birth: { date: '13 March 1886', place: 'New Orleans' },
       death: { date: '23 February 1970' },
@@ -706,12 +1153,30 @@
     },
 
     berthaSander: {
+      children: [
+        'Leslie Henry (1911–1994)',
+        'Clare Agnes (b. 1912)',
+        'Cyril Raymond (1915–1996)',
+        'Henry John Jr. (1918–2001)',
+        'Edward W. (1925–2021)',
+        { id: 'annWellmeyer' }
+      ],
       given: 'Bertha Florence', surname: 'Sander', sex: 'F',
       birth: { date: '1885' }, death: { date: '1956' },
       evidence: 'verified', branch: 'wellmeyer'
     },
 
     johnWellmeyer: {
+      children: [
+        'Gertrude Cecilia (b. 1884)',
+        { id: 'henryJohnWellmeyer' },
+        'Louis Mathias (b. 1888)',
+        'Aloysius Roch (b. 1890)',
+        'Henrietta Cecilia “Rita” (1892–1961)',
+        'Mary Ione (b. 1894)',
+        'Zoe Hyacynth (b. 1897)',
+        'John Edmond (1900–1983)'
+      ],
       given: 'John', surname: 'Wellmeyer', sex: 'M',
       evidence: 'verified', branch: 'wellmeyer',
       records: [
@@ -720,6 +1185,16 @@
     },
 
     catherineLange: {
+      children: [
+        'Gertrude Cecilia (b. 1884)',
+        { id: 'henryJohnWellmeyer' },
+        'Louis Mathias (b. 1888)',
+        'Aloysius Roch (b. 1890)',
+        'Henrietta Cecilia “Rita” (1892–1961)',
+        'Mary Ione (b. 1894)',
+        'Zoe Hyacynth (b. 1897)',
+        'John Edmond (1900–1983)'
+      ],
       given: 'Catherine Elizabeth', surname: 'Lange', sex: 'F',
       evidence: 'verified', branch: 'wellmeyer',
       blurb: 'Eight children, born 1884 to 1900.'
