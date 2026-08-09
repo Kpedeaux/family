@@ -91,6 +91,26 @@ empty, output directory `/`. Add `family.kevinpedeaux.com` as a custom domain.
 `_headers` sets a strict CSP. It allows Google Fonts and nothing else. If you add a
 third-party script or embed, widen it there deliberately rather than removing it.
 
+### Caching — read this before you change `_headers`
+
+`index.html`, `assets/css/*` and `assets/js/*` are served `max-age=0, must-revalidate`. That is
+deliberate: those files are **edited in place and keep their filenames**, so any long cache would
+serve stale content after a deploy. Revalidation is cheap — the browser sends an ETag and gets a
+304 back. Only `assets/img/*` is cached long and `immutable`, because a new picture gets a new
+filename.
+
+The asset URLs in `index.html` also carry a `?v=` token:
+
+```html
+<link rel="stylesheet" href="assets/css/styles.css?v=20260809b">
+<script src="assets/js/data.js?v=20260809b"></script>
+<script src="assets/js/app.js?v=20260809b"></script>
+```
+
+**Bump that token whenever you edit CSS or JS** (any new value works — a date is easiest). It
+defeats any intermediary or service worker that ignores cache headers. If a change still doesn't
+appear after a deploy, purge the Cloudflare cache: Pages project → Caching → Purge Everything.
+
 ## Images
 
 `assets/img/aucoin-baptism-1780.jpg` is a screen capture from the Ille-et-Vilaine archives

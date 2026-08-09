@@ -5,6 +5,19 @@
   Permissions-Policy: geolocation=(), microphone=(), camera=(), interest-cohort=()
   Strict-Transport-Security: max-age=31536000; includeSubDomains
   Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self'; frame-ancestors 'self'; base-uri 'self'; form-action 'none'
+  Cache-Control: public, max-age=0, must-revalidate
 
-/assets/*
+# Code and content change in place and keep their filenames, so they must be
+# revalidated on every load. ETags make that cheap — a 304 is a few hundred bytes.
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+/assets/js/*
+  Cache-Control: public, max-age=0, must-revalidate
+
+/assets/css/*
+  Cache-Control: public, max-age=0, must-revalidate
+
+# Images are effectively immutable — a new picture gets a new filename.
+/assets/img/*
   Cache-Control: public, max-age=31536000, immutable
