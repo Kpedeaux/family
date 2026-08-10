@@ -1063,6 +1063,12 @@ Louisiana emigrant is Michel Pierre beyond argument. Sources, in order of safety
    from disk (this exact pattern read the 1810 census).
 3. Chantenay TD likewise for Michel Pierre's absence (small commune, quick).
 
+First pass run 2026-08-10: Geneanet's free layer returns **zero events for any Michel Pédeau in
+Loire-Atlantique, 1790–1870** — no compiler has André marrying, fathering, or dying there. A
+soft negative that leans the same way as the census. The search teased that Premium-indexed
+relevé results DO exist behind the paywall — worth one Geneanet Premium month (Kevin's call) or
+the free TD route above.
+
 ### Casper — documents to order next
 
 1. **Times-Picayune 22 + 23 Nov 1921, p. 2 col. 8** — his obituary notices (NOPL microfilm, or
