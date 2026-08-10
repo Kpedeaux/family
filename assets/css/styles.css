@@ -381,6 +381,11 @@ img { max-width: 100%; height: auto; display: block; }
 .prose ul { font-family: var(--serif); font-size: 1.1rem; line-height: 1.6; padding-left: 1.15em; margin: 0 0 1.2em; }
 .prose li { margin-bottom: .5em; }
 
+/* Figures (field notes page) */
+.fig { margin: 26px 0; }
+.fig img { display: block; width: 100%; max-width: 520px; border: 1px solid var(--rule); border-radius: var(--radius); box-shadow: var(--shadow); }
+.fig figcaption { font-size: .78rem; color: var(--ink-3); margin-top: 8px; font-style: italic; max-width: 520px; }
+
 /* Archival data tables (field notes page) */
 .tablewrap { overflow-x: auto; margin: 24px 0; border: 1px solid var(--rule); border-radius: var(--radius); background: var(--card); box-shadow: var(--shadow); }
 .ftable { width: 100%; border-collapse: collapse; font-size: .9rem; min-width: 560px; }
