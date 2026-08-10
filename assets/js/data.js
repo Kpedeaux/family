@@ -1012,7 +1012,7 @@
 
     johnLarmannSr: {
       siblings: [
-        'Esther Mae Larmann (18 July 1925 – 15 February 1928) — an elder sister who died at two and a half, a year and a half after he was born. Her aunt Esther\'s ledger kept her dates; the state index confirms them.'
+        'Esther Mae Larmann (18 July 1925 – 15 February 1928) — an elder sister who died at two and a half, a year and a half after he was born. Her aunt Esther\'s ledger kept her dates; the state index confirms them; and the family remembered exactly this — that John lost his only sister when they were small.'
       ],
       children: [
         'John R. Larmann Jr. — married Jacqueline Ledet',
@@ -1145,10 +1145,9 @@
 
     anthonyLarmann: {
       siblings: [
-        'Probable, from birth years and godparent duty at his children\'s baptisms: John C. Larmann (c.1875–1909)',
-        'Bernard Leo Larmann (c.1878–1955) — godfather to Anthony Leo in 1900; married Matilda Jones in 1901',
-        'Charles A. Clemence Larmann (c.1877–1880) — died at three',
-        'and half-siblings from his father\'s 1884 remarriage, including Joseph Benedict Larmann (c.1885–1950) and Hilda Larmann, godmother to Esther in 1904'
+        'Full brothers, per the 1900 census of his father\'s household: John C. Larmann (b. 1874, d. 1909) and Bernard Leo Larmann (b. 1878, d. 1955) — godfather to Anthony Leo in 1900; married Matilda Jones in 1901',
+        'Charles A. Clemence Larmann (c.1877–1880) — died at three, before the census could catch him',
+        'Half-siblings from the 1884 remarriage, all in the 1900 household: Joseph Benedict (1885–1950), Hilda (b. 1886) — godmother to Esther in 1904, Henry (b. 1889), Albert (b. 1891), Edward (b. 1896), and Casper Jr. (b. 1899)'
       ],
       children: [
         'Mary Eugenia (20 Sept 1896 – 3 Oct 1971)',
@@ -1179,7 +1178,7 @@
           highlight: 'Exactly the date in Esther\'s ledger: "Fri. Feb. 12th, Age 32."'
         }
       ],
-      note: 'He was born nine and a half months after his parents\' November 1870 Orleans wedding. The old sibling list carried "Louise Frances (b. 1897)" as if she grew up; the death index shows Louisa Francis died at eight months, on 30 May 1898.'
+      note: 'He was born nine and a half months after his parents\' November 1870 Orleans wedding. The old sibling list carried "Louise Frances (b. 1897)" as if she grew up; the death index shows Louisa Francis died at eight months, on 30 May 1898 — and the 1900 census confirms it, catching his household that June with only Mary E and Bernadine at home.'
     },
 
     eugeniaMoore: {
@@ -1223,7 +1222,9 @@
     johnCasparLarmann: {
       children: [
         { id: 'anthonyLarmann' },
-        'and, probably, the other Larmanns of his generation\'s New Orleans: John C. (c.1875–1909), Charles A. Clemence (c.1877–1880), Bernard Leo (c.1878–1955), and — by his second wife — Joseph Benedict (c.1885–1950) and Hilda'
+        'By Emily: John C. (b. 1874, d. 1909), Charles A. Clemence (c.1877–1880), Bernard Leo (b. 1878, d. 1955)',
+        'By Louisa Ehmann: Joseph Benedict (1885–1950), Hilda (b. 1886), Henry (b. 1889), Albert (b. 1891), Edward (b. 1896), Casper Jr. (b. 1899)',
+        'The 1900 census catches the household whole: Casper, wife Louisa, and the eight children then at home'
       ],
       given: 'John Casper', surname: 'Larmann', sex: 'M',
       origin: 'Hanover, Germany',
@@ -1257,13 +1258,15 @@
           text: 'John Henry Casper Larmann (born [Gruswald?], Hanover, Germany) — Jan 1st. 1846. Emily Mevers — died Feb. 13 1882.'
         }
       ],
-      note: 'Esther gives his birth as 1 January 1846; the death index age of 73 in November 1921 back-computes to about 1848. The German birthplace word in the photocopy defies a confident reading — Gruswald, Grunwald or similar, somewhere in the old Kingdom of Hanover. Finding him on a passenger list or in a German civil register is an open front.'
+      note: 'Esther gives his birth as 1 January 1846; the death index age of 73 in November 1921 back-computes to about 1848, and the 1900 census also says 1848 — so 1846–48 brackets it. The German birthplace word in the photocopy defies a confident reading — Gruswald, Grunwald or similar, somewhere in the old Kingdom of Hanover. Finding him on a passenger list or in a German civil register is an open front.'
     },
 
     emilyMevers: {
       children: [
         { id: 'anthonyLarmann' },
-        'and probably John C., Charles A. Clemence, and Bernard Leo'
+        'John C. (b. 1874, d. 1909)',
+        'Charles A. Clemence (c.1877–1880)',
+        'Bernard Leo (b. 1878, d. 1955)'
       ],
       given: 'Marie Emily', surname: 'Mevers', sex: 'F',
       birth: { date: 'about 1844–45' },

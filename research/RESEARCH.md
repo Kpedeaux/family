@@ -678,6 +678,24 @@ Negative: no LEMOINE × ROUSSELLE marriage in Orleans (they married upriver). Al
 Edward John Larmann × Marie Edna Fernandez, 1921, Vol. 45 p. 526 — the "E1" Larmann family,
 still unconnected to ours.
 
+## 1900 census cross-check (2026-08-10, logged-out list view)
+
+The 1900 census of Orleans Parish catches both Larmann households whole, in adjacent records:
+
+**Casper's household:** Casper Larmann (b. 1848 by its count — Esther says 1 Jan 1846; the death
+index's age also points to 1848, so 1846–48 brackets him), wife **Louisa (b. 1857)** [= Louisa
+Margaret Ehmann ✓], then John (b. 1874), Bernard (b. 1878), Joseph (b. 1885), **Hilda (b. 1886 —
+Esther's 1904 godmother)**, Henry (b. 1889), Albert (b. 1891), Edward (b. 1896), Casper Jr.
+(b. 1899). This upgrades Anthony's sibling roster from "probable" to census-documented, and
+splits it cleanly: Emily's sons John, Bernard (+ Charles A. Clemence, d. 1880 before the census);
+Louisa's children Joseph through Casper Jr.
+
+**Anthony's household:** Anthony H (b. 1871) and Eugenia (b. 1874), with children **Mary E
+(b. 1896) and Bernadine L (b. 1898) — and no Louisa (b. 1897)**. Enumerated June 1900; Anthony
+Leo arrived that October. Louisa's absence independently confirms the death-index finding: Louisa
+Francis died in infancy on 30 May 1898. (Raised and checked after Kevin recalled photos of a
+young girl who died as a child — those photos are almost certainly Esther Mae, 1925–1928.)
+
 ## What this settles, and what it opens
 
 - **Ann Wellmeyer's parent link** — was [INFERRED] from the tomb roster; now [CONFIRM]: her
@@ -779,8 +797,9 @@ still unconnected to ours.
 11. **The John Moisant / MSY story is UNLIKELY** (see the verdict above).
 12. **Nicholas Franovich Sr. (1886–1955) is not a child of Anthony × Melanie** — impossible ages
     (2026-08-10).
-13. **Louisa Francis Larmann died at 8 months** (30 May 1898) — not a childless adult daughter
-    (2026-08-10).
+13. **Louisa Francis Larmann died at 8 months** (30 May 1898) — not a childless adult daughter.
+    Double-sourced: the death index row AND her absence from her parents' June 1900 census
+    household (2026-08-10).
 14. **Anthony Leo Larmann died 4 March 1969**, not 1968 (2026-08-10, index vs. ledger).
 15. **John Edward Wellmeyer died 15 December 1922**, not 1920 (2026-08-10, index vs. Judy's notes).
 
@@ -828,6 +847,11 @@ still unconnected to ours.
 - **Judy Larmann Gifford (2026-08-10):** supplied Esther's ledger + her own tree notes + the tomb
   roster. Quote: "Aunt Esther was my Dad's aunt, sister to Charles E Larmann… This isn't updated
   as there's more to add. I have tons of info."
+- **Kevin (2026-08-10):** remembered photos of a young girl on the Larmann side who died as a
+  child, and that **his grandfather John was said to have lost his only sister as a child** —
+  which is Esther Mae (1925–1928) exactly. First read as possibly contradicting Louisa's infant
+  death; the 1900 census check it prompted ended up confirming both stories. Family memory and
+  the paper record now agree.
 - **Standing asks:** Aunt Patricia → John Brunetti's hometown. Judy → the rest of the "tons."
   Anyone → tomb photographs; Buras/Moizant memories; the orphanage brother's name.
 
