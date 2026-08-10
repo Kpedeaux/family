@@ -692,9 +692,98 @@ Louisa's children Joseph through Casper Jr.
 
 **Anthony's household:** Anthony H (b. 1871) and Eugenia (b. 1874), with children **Mary E
 (b. 1896) and Bernadine L (b. 1898) — and no Louisa (b. 1897)**. Enumerated June 1900; Anthony
-Leo arrived that October. Louisa's absence independently confirms the death-index finding: Louisa
+Leo arrived that August. Louisa's absence independently confirms the death-index finding: Louisa
 Francis died in infancy on 30 May 1898. (Raised and checked after Kevin recalled photos of a
 young girl who died as a child — those photos are almost certainly Esther Mae, 1925–1928.)
+
+## ★ Casper Larmann deep-dive (2026-08-10, second session) ★
+
+### NOPL obituary index — the Larmann sweep
+
+| Entry | Detail | Citations |
+|---|---|---|
+| **Larmann, John Casper d. 1921-11-21, AGE 75** | The 75 lands exactly on Esther's 1 Jan 1846 (death index said 73) | **Times-Picayune 22 Nov 1921 p. 2 c. 8; 23 Nov 1921 p. 2 c. 8** — order/microfilm these; they may name his German town |
+| **Prinz, Mrs. Marie Antoinette d. 1899-01-29, age 54**, husband Joseph Prinz | Cross-indexed under LARMANN by both NOPL and the state death index → born a Larmann, c. 1845. **Probable sister of Casper** [INFERRED — age + surname rarity] | Times-Democrat 29 Jan + 5 Feb 1899; Daily Picayune 29 Jan p. 4 c. 5 + 5 Feb 1899 |
+| Larmann, Louisa d. 1898-05-30, "age 8 **years**" | NOPL's transcription slip — see resolution below | Daily Picayune 31 May p. 4 c. 7; 5 Jun; 12 Jun; States 5 Jun 1898 |
+| Cook, Mrs Hilda M. d. 1940 | Hilda Margaretha Larmann (b. 1886) died a Mrs Cook | cross-indexed under Larmann |
+| Johnson, Mrs Bernadine L d. 1956 | Bernadine under her 2nd husband's name (Harry G. Johnson ✓ Judy) | — |
+| Larmann, Casper M d. 1945 | **Caspar Maurice**, "Casper Jr." (b. 15 Jan 1899), dead at 46 | — |
+| Larmann, Mrs Frances d. 1965 | Joseph Benedict's widow, Frances Virginia Reems | — |
+| Maher, Mrs Anna Mae d. 1951-05-23, age 25, husband Raymond Maher | A Larmann granddaughter (b. c. 1926, parents not yet placed) — five notices, big funeral | Item/States/T-P 23–25 May 1951 |
+| Larmann, Mrs. John — "see Donald, Mrs. John" | A woman married to a John Larmann, then a John Donald — probably John C.'s widow Julia Siler remarried | — |
+
+### Orleans birth register — every LARM birth, with parents (SOS births index)
+
+Casper's second family, each record naming both parents [VERIFIED identities]:
+
+| Child | Born | Parents as indexed | Cite |
+|---|---|---|---|
+| Joseph Benedict | 9 Apr 1885 | EHMANN, LOUISA M × LARMANN, **JOHN G** | Vol. 82 p. 1122 |
+| Hilda Margaretha | 22 Dec 1886 | **AMANN** [sic], LOUISA M × LARMANN, **JOHN CASPER** | Vol. 84 p. 1119 |
+| Henry | 25 May 1889 | EHMANN, LOUISA × LARMANN, CASPAR | Vol. 87 p. 1038 |
+| Albert | 22 Dec 1891 | EHMANN, LOUISA × LARMANN, CASPAR | Vol. 93 p. 247 |
+| Edward John | 16 Dec 1896 | EHMANN, LOUISA × LARMANN, **CASPER JOHN** | Vol. 109 p. 542 |
+| Caspar Maurice | 15 Jan 1899 | EHMANN, LOUISE M × LARMANN, CASPAR | Vol. 115 p. 383 |
+
+Anthony × Eugenia's six, all registered: Mary Eugenia 20 Sep 1896 (Vol. 108 p. 91) · **Louise
+Frances** [official spelling] 17 Sep 1897 (Vol. 111 p. 1025) · Bernadine Louisa 28 Oct 1898
+(Vol. 114 p. 463) · **Anthony Leo 9 AUG 1900** (Vol. 118 p. 595) · Charles Emile 12 Jul 1902
+(Vol. 123 p. 485) · Esther Margerita 2 Jan 1904 (Vol. 126 p. 1134).
+
+Also: Bernard Leo × Matilda Jones's five (Ellen Amelia 1903, Bernard Henry 1905, Marguerite
+Bertrice 1906, John Edgar 1910, Albert Francis Xavier 1915) · John C. × Julia Siler's two (Ethel
+Cecelia 1904, John Waldemar 1906) · Joseph B. × Frances Reems's two (Dorothy Louise 1910, George
+John Joseph 1912) · Edward J. × Marie Fernandez's two (Marie Louise Claire 1921, Edward John
+1923) · and — a generation earlier — **Christine Gertrude, b. 15 Jun 1857 (BRUNING, ELIZABETH ×
+LARMANN, JOHN MATHIAS), Vol. 20 p. 754**.
+
+### What the second session settled
+
+1. **The Louisa age dispute, closed.** NOPL says the 1898 Louisa was "8 years"; the state index
+   says 8 months. The birth register lists **no second Louisa** — Casper × Louisa Ehmann's
+   children are fully enumerated 1885–1899 with none by that name — so the only candidate is
+   Louise Frances (b. 17 Sep 1897): **8 months**, with the June 1900 census absence concurring.
+   NOPL's "years" is the slip. (Raised by Kevin; the check made the record stronger.)
+2. **Anthony Leo was born 9 August 1900, not 9 October.** Esther wrote "Thurs. Oct. 9th" — but
+   9 Aug 1900 was the Thursday and 9 Oct was a Tuesday. Her weekday memory sides with the
+   register against her own month. Ledger slip, corrected.
+3. **The "E1 family" is ours.** Edward John Larmann (m. Marie Edna Fernandez 1921, children 1921
+   and 1923) is Casper's son, b. 16 Dec 1896 — the old "unconnected Larmann family" puzzle is
+   retired.
+4. **"Casper Jr." = Caspar Maurice** (15 Jan 1899 – 1945).
+5. **Casper's birth year: 1846 favored.** Obit index (75) agrees with Esther's 1 Jan 1846;
+   death index (73) and 1900 census say 1848.
+6. **Probable sister: Marie Antoinette Larmann Prinz** (c. 1845 – 29 Jan 1899, m. Joseph Prinz) —
+   Casper may not have crossed alone.
+7. **New elder lead: John Mathias Larmann × Elizabeth Bruning**, in New Orleans with a daughter
+   by 1857 — candidate father/uncle for Casper (and possibly the reason a Hanover teenager chose
+   New Orleans). [TODO — chase in 1860/1870 censuses, city directories, church records.]
+
+### Negatives and blocks this session
+
+- Ancestry logged-out hit the signup wall (query budget spent on the 1900 census pull) — 1880 /
+  1910 / 1920 censuses for Casper still unpulled; they would give immigration year and
+  naturalization status.
+- castlegarden.org is dead (has been for a while) — pre-1892 NY arrivals not freely searchable.
+- **Find a Grave has ZERO Larmann memorials in Louisiana** — no graves indexed for the whole
+  family. (Family tomb photos would be doubly valuable; also explains the line's obscurity.)
+- LOC Chronicling America blocked the session at a bot-check; untried. Worth retrying another
+  day for 1870s–1920s New Orleans papers full-text ("Larmann").
+
+### Casper — documents to order next
+
+1. **Times-Picayune 22 + 23 Nov 1921, p. 2 col. 8** — his obituary notices (NOPL microfilm, or
+   GenealogyBank at a library). Best cheap shot at the German town and the survivor list.
+2. **Death certificate, 21 Nov 1921, Orleans** (Vol. 183 p. 215) — parents' names, birthplace,
+   burial place. LA State Archives, $5.
+3. **Naturalization** — Orleans parish/federal courts; also the 1900-census naturalization column
+   via any library Ancestry session (1880/1910/1920 too).
+4. **Passenger arrival** — New Orleans lists 1846–1870 (NARA microfilm; Ancestry/FamilySearch at
+   a library), watching for Larmann/Laarmann family groups including John Mathias and Marie
+   Antoinette.
+5. **Where is Casper buried?** Not on Find a Grave. The 1921 notices will say; German Catholic
+   parishes (St. Boniface, Holy Trinity, St. Henry) and St. Joseph / Greenwood are the likely
+   grounds.
 
 ## What this settles, and what it opens
 
@@ -802,6 +891,12 @@ young girl who died as a child — those photos are almost certainly Esther Mae,
     household (2026-08-10).
 14. **Anthony Leo Larmann died 4 March 1969**, not 1968 (2026-08-10, index vs. ledger).
 15. **John Edward Wellmeyer died 15 December 1922**, not 1920 (2026-08-10, index vs. Judy's notes).
+16. **Anthony Leo Larmann was born 9 August 1900**, not 9 October — Esther's ledger slipped the
+    month, but her "Thursday" matches 9 August exactly (2026-08-10, birth register Vol. 118
+    p. 595 + weekday check).
+17. **The 1898 Louisa was 8 months old, not 8 years** — the NOPL obituary index's "8 years" is a
+    transcription slip; the birth register contains no second Louisa, and the state index and
+    1900 census agree on the infant (2026-08-10).
 
 ---
 

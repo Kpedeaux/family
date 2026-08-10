@@ -1074,7 +1074,7 @@
         'Mary Eugenia Larmann Thomas (20 Sept 1896 – 3 Oct 1971) — married Matthew U. Thomas in 1926',
         'Louisa Francis Larmann (17 Sept 1897 – 30 May 1898) — died at eight months',
         'Bernadine Louise Larmann (28 Oct 1898 – 21 Aug 1956) — married Ed Porter in 1926, later Harry G. Johnson',
-        'Anthony Leo Larmann (9 Oct 1900 – 4 March 1969) — father of Barbara and of the attorney Lawrence “Larry” Emig Larmann',
+        'Anthony Leo Larmann (9 Aug 1900 – 4 March 1969) — father of Barbara and of the attorney Lawrence “Larry” Emig Larmann',
         'Esther Marguerite Larmann (2 Jan 1904 – 1976) — never married; her handwritten ledger preserved this whole family\'s dates'
       ],
       children: [
@@ -1153,7 +1153,7 @@
         'Mary Eugenia (20 Sept 1896 – 3 Oct 1971)',
         'Louisa Francis (17 Sept 1897 – 30 May 1898)',
         'Bernadine Louise (28 Oct 1898 – 21 Aug 1956)',
-        'Anthony Leo (9 Oct 1900 – 4 March 1969)',
+        'Anthony Leo (9 Aug 1900 – 4 March 1969)',
         { id: 'charlesEmileLarmann' },
         'Esther Marguerite (2 Jan 1904 – 1976)'
       ],
@@ -1192,7 +1192,7 @@
         'Mary Eugenia (20 Sept 1896 – 3 Oct 1971)',
         'Louisa Francis (17 Sept 1897 – 30 May 1898)',
         'Bernadine Louise (28 Oct 1898 – 21 Aug 1956)',
-        'Anthony Leo (9 Oct 1900 – 4 March 1969)',
+        'Anthony Leo (9 Aug 1900 – 4 March 1969)',
         { id: 'charlesEmileLarmann' },
         'Esther Marguerite (2 Jan 1904 – 1976)'
       ],
@@ -1220,10 +1220,14 @@
     },
 
     johnCasparLarmann: {
+      siblings: [
+        'Marie Antoinette Larmann Prinz (c.1845 – 29 January 1899) — a probable sister: born a Larmann a year before him, died in Orleans as Joseph Prinz\'s wife, cross-indexed under both names',
+        'and a lead a generation older: John Mathias Larmann, married to Elizabeth Bruning, was raising a family in New Orleans by 1857 — possibly Casper\'s father or uncle, and possibly how a Hanover boy knew where to sail'
+      ],
       children: [
         { id: 'anthonyLarmann' },
         'By Emily: John C. (b. 1874, d. 1909), Charles A. Clemence (c.1877–1880), Bernard Leo (b. 1878, d. 1955)',
-        'By Louisa Ehmann: Joseph Benedict (1885–1950), Hilda (b. 1886), Henry (b. 1889), Albert (b. 1891), Edward (b. 1896), Casper Jr. (b. 1899)',
+        'By Louisa Ehmann, each with an Orleans birth record naming both parents: Joseph Benedict (9 Apr 1885 – 1950), Hilda Margaretha (22 Dec 1886 – 1940, died a Mrs Cook), Henry (b. 25 May 1889), Albert (b. 22 Dec 1891), Edward John (b. 16 Dec 1896) — the Edward who married Marie Edna Fernandez in 1921, and Caspar Maurice "Casper Jr." (15 Jan 1899 – 1945)',
         'The 1900 census catches the household whole: Casper, wife Louisa, and the eight children then at home'
       ],
       given: 'John Casper', surname: 'Larmann', sex: 'M',
@@ -1256,9 +1260,15 @@
           title: 'Aunt Esther\'s ledger — "Father\'s Parents"',
           citation: 'Handwritten family record of Esther Marguerite Larmann; photocopy via Judy Larmann Gifford, 2026',
           text: 'John Henry Casper Larmann (born [Gruswald?], Hanover, Germany) — Jan 1st. 1846. Emily Mevers — died Feb. 13 1882.'
+        },
+        {
+          title: 'Obituary notices',
+          citation: 'NOPL obituary index — Times-Picayune, 22 Nov 1921, p. 2 col. 8, and 23 Nov 1921, p. 2 col. 8',
+          text: 'LARMANN, JOHN CASPER — death date 1921-11-21, age 75 years.',
+          highlight: 'The obituary index says seventy-five — which lands exactly on Esther\'s 1 January 1846 birthdate, against the death index\'s 73. The notices themselves, on microfilm at the New Orleans Public Library, may well name his home town.'
         }
       ],
-      note: 'Esther gives his birth as 1 January 1846; the death index age of 73 in November 1921 back-computes to about 1848, and the 1900 census also says 1848 — so 1846–48 brackets it. The German birthplace word in the photocopy defies a confident reading — Gruswald, Grunwald or similar, somewhere in the old Kingdom of Hanover. Finding him on a passenger list or in a German civil register is an open front.'
+      note: 'Esther gives his birth as 1 January 1846 and his obituary index age agrees; the death index and the 1900 census point at 1848 — so 1846 has the better of it. The German birthplace word in the photocopy defies a confident reading — Gruswald, Grunwald or similar, somewhere in the old Kingdom of Hanover. The paths to the town: his two 1921 obituary notices, his death certificate, a naturalization record, or a New Orleans passenger arrival. Notably, Find a Grave has not a single Larmann memorial anywhere in Louisiana — this family was never memorialized online, which is part of why the line stayed dark so long.'
     },
 
     emilyMevers: {
