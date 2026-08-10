@@ -797,6 +797,12 @@ Cemetery not yet confirmed in writing (presumed St. Vincent de Paul No. 3, where
 buried). The photo files themselves should be dropped into the repo so Joseph's and Johanna's
 panels can carry them.
 
+**The NEW tablet (Kevin's second photo, 2026-08-10):** matches Judy's typed roster line for line —
+her roster was evidently a transcription of this stone. Thirteen names, Lucien Goubler through
+John R. Larmann Sr. It also spells **VICTOIRE CIRLOT GOUBLER**, confirming the old slab's CIRLOT
+against Judy's "Circlot." One digit is ambiguous at photo resolution: Lucien's birth year reads
+1853 or 1855 (the death index's "age 22" in Oct 1876 favors 1853–54).
+
 ### Casper — documents to order next
 
 1. **Times-Picayune 22 + 23 Nov 1921, p. 2 col. 8** — his obituary notices (NOPL microfilm, or
