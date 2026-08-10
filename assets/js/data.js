@@ -740,7 +740,8 @@
 
     josephGervais: {
       siblings: [
-        'Joseph François Gaiennie — married Marceline Labatut; his children share the same grandparents in the register'
+        'François Gaiennie (b. 14 Oct 1793, New Orleans) — probably the Joseph François who married Marceline Labatut; his children share the same grandparents in the register',
+        'Eulalie Gaiennie (b. 30 April 1795, New Orleans)'
       ],
       children: [
         'Joseph Gervaise (1821–1825)',
@@ -769,10 +770,16 @@
       blurb: 'Seventeen years old when the British came up the river. Twenty-two and already an orphan when he married in January 1820. Twelve children. Gaiennie Street in the Warehouse District still carries the family name.',
       records: [
         {
+          title: 'Baptism — St. James Parish',
+          citation: 'Diocese of Baton Rouge, Vol. 2 (1770–1803), SJA-3, 157',
+          text: 'Gervasio (Francisco & Eulalia Sarde) bt. 6 Sep 1797 bn. 1 Jun 1797 spo. Estevain Rene & Eufrosyna Sarde. Pat. GP: (Juliano Gagnier & Renata de Brun) Mat. GP: (Nicolas Sarde & Margarita Rene).',
+          highlight: 'His own baptism, found in 2026 under the spelling GANIER — with both parents and all four grandparents named in a single entry. The godfather is his great-uncle Étienne Reyne; the godmother his aunt Euphrosine.'
+        },
+        {
           title: 'Marriage — St. Michael, Convent',
           citation: 'Diocese of Baton Rouge, Vol. 4 (1820–1829), SMI-2, 77',
           text: 'Gervais, age 22, nat. of New Orleans (Francois and Elisabete SARDE, both decd.) m. 22 Jan. 1820 Nathalie CHENET, age 17 (Pierre and Susanne LAVIGNE) wit. Jean Baptiste Oury; Dominique LeBourgeois; Orter Reine; Maximillien Rousselle.',
-          highlight: 'One record fixes four things: his 1797 birth, his New Orleans origin, both his parents, and both of his wife\'s parents.'
+          highlight: 'One record fixes four things: his 1797 birth, his New Orleans origin, both his parents, and both of his wife\'s parents. Note the witness "Orter Reine" — his grandmother\'s family, still standing up for him twenty-three years on.'
         },
         {
           title: 'Militia roll — War of 1812',
@@ -809,33 +816,215 @@
     },
 
     francoisGaiennie: {
+      siblings: [
+        'Urbain Gaiennie ("Martin Urbano," of La Bazouge-de-Chemeré in Maine) — married Eulalie\'s sister Marie Jeanne Sardet in 1789; his son François Urbain (b. 1792) carried on the other Gaiennie line'
+      ],
+      children: [
+        'François (b. 14 Oct 1793, New Orleans) — very likely the Joseph François who married Marceline Labatut',
+        'Eulalie (b. 30 April 1795, New Orleans)',
+        { id: 'josephGervais' }
+      ],
       given: 'François', surname: 'Gaiennie', sex: 'M',
+      alsoKnownAs: 'Ganier, Gagnier, Gannier, Gaigne in the registers — the spelling settled into Gaiennie in Louisiana',
+      origin: 'Brûlon, province of Maine, France',
+      birth: { date: 'about the 1760s', place: 'Brûlon, province of Maine (now dept. of Sarthe), France' },
       death: { date: 'before January 1820' },
-      lifespanText: 'd. before 1820',
-      evidence: 'verified', branch: 'gaiennie',
-      occupation: 'War of 1812 — 4th Regiment (Morgan\'s), Louisiana Militia',
-      blurb: 'Named, already deceased, in his son\'s 1820 marriage record. A "Pat. GP: Francois and Eulalie SARDE" appears again in an 1836 baptism, independently confirming the couple.',
+      lifespanText: 'of Brûlon — d. before 1820',
+      father: 'julienGagnier', mother: 'reneeLeBrun',
+      evidence: 'verified',
+      branch: 'gaiennie',
+      immigrant: true,
+      occupation: 'War of 1812 — 4th Regiment (Morgan\'s), Louisiana Militia (probable)',
+      blurb: 'The Gaiennie immigrant, found at last: a man of Brûlon in the old province of Maine, in New Orleans by the early 1790s, married at St. James in 1793, upriver with the Sardet clan by 1797. His brother Urbain came too, and married his wife\'s sister.',
       records: [
+        {
+          title: 'Marriage — St. James Parish',
+          citation: 'Diocese of Baton Rouge, Vol. 2 (1770–1803), SJA-2, 19',
+          text: 'Francisco (Julian & Reneta Lebrum, of Brulon, France) m. 10 Feb 1793 Eulalia SARDE (Nicolas & Margarita Renne, of New Orleans) wit. Juan Haydel & Margarita Sarde.',
+          highlight: 'One line names his parents, his French home town, his bride, and her parents. This record sat unfound for years because the clerk filed the family under GANIER — the "no Gaiennie in Volume 2" conclusion was a spelling artifact.'
+        },
         {
           title: 'Militia roll — War of 1812',
           citation: 'Louisiana Soldiers in the War of 1812 (compiled state militia rosters)',
           text: '"Francis Gaignie — 4 Reg\'t. (Morgan\'s), La. Militia."',
-          highlight: 'Almost certainly this François — which would put father and son in the campaign in different regiments. The roster carries seven Gaiennie entries across spelling variants, so the identification is probable rather than proven.'
+          highlight: 'Almost certainly this François — which would put father and son in the campaign in different regiments. Probable rather than proven.'
         }
       ],
       sources: [
         { label: 'Louisiana Soldiers in the War of 1812 (index)', url: 'https://www.ancestry.com/search/collections/3339/?name=_Gaiennie&count=50' }
       ],
-      note: 'The deGruy family history gives him 1760–1804, dying the same year as his wife — 1804 was a yellow-fever year in New Orleans — which squares with the 1820 register calling both parents dead. Those dates are unsourced, so they stay off the header line. The hunt for his own baptism or marriage now runs through the Archdiocese of New Orleans colonial registers, digitized online for 1718–1812.'
+      note: 'The deGruy family history gives him 1760–1804, dying the same year as his wife — 1804 was a yellow-fever year — which squares with the 1820 register calling both parents dead. The 1804 deaths await confirmation in the New Orleans abstracts for 1804–06. His baptism should sit in the parish registers of Brûlon (Sarthe), which are online at the departmental archives — the next French hunt.'
+    },
+
+    julienGagnier: {
+      children: [
+        { id: 'francoisGaiennie' },
+        'Urbain ("Martin Urbano") Gaiennie — married Marie Jeanne Sardet, New Orleans, 19 March 1789'
+      ],
+      given: 'Julien', surname: 'Gagnier', sex: 'M',
+      origin: 'Brûlon, province of Maine, France',
+      evidence: 'verified',
+      branch: 'gaiennie',
+      blurb: 'Of Brûlon in the old province of Maine, on the Sarthe–Mayenne border country of northwestern France. He never left it, as far as the record shows: his two sons carried the name to Louisiana, where the clerks respelled it until it became Gaiennie.',
+      records: [
+        {
+          title: 'Named in his son Urbain\'s marriage record',
+          citation: 'St. Louis Cathedral, 19 March 1789 — SLC, M5, 62 (SRANO Vol. 4)',
+          text: 'Urbano (Julián and Renata LEBRUN), native of la Bassouge de Chesnery, Province Dumene [La Bazouge-de-Chemeré, province of Maine], m. Maria SARDET, Mar. 19, 1789.'
+        },
+        {
+          title: 'Named in his grandson Gervais\'s baptism',
+          citation: 'St. James Parish, 6 September 1797 — SJA-3, 157 (Diocese of Baton Rouge Vol. 2)',
+          text: 'Pat. GP: Juliano Gagnier & Renata de Brun.'
+        }
+      ]
+    },
+
+    reneeLeBrun: {
+      children: [
+        { id: 'francoisGaiennie' },
+        'Urbain Gaiennie'
+      ],
+      given: 'Renée', surname: 'Le Brun', sex: 'F',
+      origin: 'Brûlon, province of Maine, France',
+      evidence: 'verified',
+      branch: 'gaiennie',
+      blurb: 'Named as "Renata Lebrun" and "Renata de Brun" in her sons\' Louisiana records — of Brûlon, in Maine. Le Brun is thick in that country; her own act should sit in the Brûlon registers.'
+    },
+
+    nicolasSardet: {
+      children: [
+        'A first child baptized in the lost 1767–68 folios of St. Louis church — probably Marguerite, who married Joseph Gillard in 1783',
+        'Marie Françoise (b. 19 Aug 1769)',
+        'Marie Jeanne (b. 15 April 1772) — married Urbain Gaiennie, 1789',
+        { id: 'elisabethSarde' },
+        'Françoise (b. about 1775)',
+        'Euphrosine (b. 10 June 1776) — married Jean Gleiser at St. James, 1807',
+        'Étienne (b. 29 Jan 1778)',
+        'Eugénie (b. 6 Jan 1780) — married Jacques Nadau; the "Eugénie Sardet" of family tradition',
+      ],
+      given: 'Nicolas', surname: 'Sardet', sex: 'M',
+      origin: 'Bordeaux, France',
+      birth: { place: 'Bordeaux, France' },
+      death: { date: 'between 1780 and May 1784', place: 'New Orleans' },
+      lifespanText: 'of Bordeaux — d. by 1784',
+      evidence: 'verified',
+      branch: 'gaiennie',
+      immigrant: true,
+      occupation: 'Master cooper',
+      blurb: 'A Bordeaux barrel-maker in Spanish New Orleans. He married a fourteen-year-old Creole girl in 1767, raised eight children on the strength of the cooper\'s trade, and was dead before his daughters married the two brothers from Brûlon.',
+      records: [
+        {
+          title: 'Marriage — St. Louis church, New Orleans',
+          citation: '20 January 1767 — SLC, M2, 25 (SRANO Vol. 2)',
+          text: 'Marguerite [REINE], m. Nicolas SARDE, Jan. 20, 1767.'
+        },
+        {
+          title: 'Daughter Eulalie\'s baptism, naming his trade',
+          citation: '16 January 1774 — SLC, B7, 35 (SRANO Vol. 3)',
+          text: 'Eulalie Alexandrine (Nicolas, master cooper, and Marie Margueritte REINE), b. Jan. 16, 1774, bn. Jan. 5, 1774.'
+        }
+      ],
+      note: 'His widow remarried Pierre Bourgeois of Normandy on 2 May 1784, which brackets Nicolas\'s death. His own Bordeaux parents are the next step on this line.'
+    },
+
+    margueriteReyne: {
+      children: [
+        'The same eight — see Nicolas Sardet',
+        { id: 'elisabethSarde' }
+      ],
+      given: 'Marguerite', surname: 'Reyne', sex: 'F',
+      alsoKnownAs: 'Reine, Renne, Rehene in the registers',
+      birth: { date: '6 November 1752', place: 'New Orleans' },
+      father: 'etienneReyne', mother: 'francoiseRenard',
+      evidence: 'verified',
+      branch: 'gaiennie',
+      blurb: 'Born in French colonial New Orleans a decade before Spain took the colony. Married the Bordeaux cooper at fourteen, widowed with eight children by thirty-one, remarried a Norman at thirty-one, and stood godmother to her grandchildren into the 1790s.',
+      records: [
+        {
+          title: 'Baptism — St. Louis church, New Orleans',
+          citation: '6 November 1752 — SLC, B2, 269 (SRANO Vol. 2)',
+          text: 'Marie Marguerite (Etienne and Francoise [RENARD]), b. Nov. 6, 1752, bn. Nov. 6, 1752, s. Laurant BAILLY and Marguerite CHENET.'
+        },
+        {
+          title: 'Remarriage, naming her parents',
+          citation: '2 May 1784 — SLC, M5, 27 (SRANO Vol. 4)',
+          text: 'Maria Margarita (Estevan and Francisca RENARD, natives of this parish), native of this parish, widow of [o] CADET SARDE, m. Pedro BOURGEOIS, May 2, 1784.'
+        }
+      ]
+    },
+
+    etienneReyne: {
+      children: [
+        'Marie Marguerite — see below',
+        'Marie Jeanne (b. 25 Oct 1755)',
+        'Louise Françoise (b. 9 Nov 1757)',
+        'Pierre (b. 1 Dec 1761)',
+        'Marie Joseph (b. 19 June 1766)',
+        { id: 'margueriteReyne' }
+      ],
+      given: 'Étienne', surname: 'Reyne', sex: 'M',
+      evidence: 'verified',
+      branch: 'gaiennie',
+      occupation: 'Master mason',
+      blurb: 'A master mason of French colonial New Orleans, raising children there through the 1750s and 1760s. The deepest documented ancestor on the Gaiennie side — the tenth generation of this tree.',
+      records: [
+        {
+          title: 'His children\'s baptisms — St. Louis church',
+          citation: 'SLC registers B2–B5, 1752–1766 (SRANO Vol. 2)',
+          text: 'Marie Marguerite (1752) · Marie Jeanne (1755) · Louise Françoise (1757) · Pierre (1761, "Etienne, master mason") · Marie Joseph (1766) — all children of Etienne and Francoise RENARD.'
+        }
+      ],
+      note: 'Whether he was born in France or in the colony is not yet documented. A "Ste. Reyne concession" appears in the earliest New Orleans records of the 1720s — possibly connected, possibly coincidence.'
+    },
+
+    francoiseRenard: {
+      children: [
+        'The same six — see Étienne Reyne',
+        { id: 'margueriteReyne' }
+      ],
+      given: 'Françoise', surname: 'Renard', sex: 'F',
+      evidence: 'verified',
+      branch: 'gaiennie',
+      blurb: 'Named across fifteen years of her children\'s baptisms, and still standing godmother to a Sardet granddaughter in 1769. Her daughter Françoise Reyne married into the Caraby family, whose records call the couple "natives of New Orleans."'
     },
 
     elisabethSarde: {
-      given: 'Élisabeth', alsoKnownAs: 'given as Eulalie in later records, and as "Eugénie Sardet" in family tradition',
-      surname: 'Sarde', sex: 'F',
+      siblings: [
+        'Marguerite Sardet — married Joseph Gillard of Le Croisic in 1783; died 1794 at Cabahanoce (St. James Parish)',
+        'Marie Françoise Sardet (b. 1769)',
+        'Marie Jeanne Sardet (b. 15 April 1772) — married Urbain Gaiennie, her sister\'s brother-in-law, in 1789',
+        'Françoise Sardet (b. about 1775)',
+        'Euphrosine Sardet (b. 1776) — godmother at Gervais\'s baptism; married Jean Gleiser at St. James, 1807',
+        'Étienne Sardet (b. 1778)',
+        'Eugénie Sardet (b. 6 Jan 1780) — married Jacques Nadau; the name family tradition later pinned on her sister'
+      ],
+      children: [
+        'François (b. 14 Oct 1793)',
+        'Eulalie (b. 30 April 1795)',
+        { id: 'josephGervais' }
+      ],
+      given: 'Eulalie Alexandrine', surname: 'Sardet', sex: 'F',
+      alsoKnownAs: '"Elisabete Sarde" on her son\'s 1820 marriage record; "Eugénie Sardet" in garbled family tradition — Eugénie was her youngest sister',
+      birth: { date: '5 January 1774', place: 'New Orleans' },
       death: { date: 'before January 1820' },
-      lifespanText: 'd. before 1820',
-      evidence: 'verified', branch: 'gaiennie',
-      note: 'The deGruy family history, unsourced, gives her 1756–1804 — dying the same yellow-fever year as her husband. The Sarde family ran two generations deep in the city: her sister was almost certainly Jeanne Marguerite Sarde, wife of Urbain Gaiennie (the "GAIENNIE, MARGUERITE SARDE" who died in 1835 at 65, and the NOPL index\'s "Mrs. Urbain") — two Gaiennie brothers married two Sarde sisters.'
+      father: 'nicolasSardet', mother: 'margueriteReyne',
+      evidence: 'verified',
+      branch: 'gaiennie',
+      blurb: 'A cooper\'s daughter from Spanish New Orleans, baptized at St. Louis church in 1774. She married the newcomer from Brûlon three weeks after her nineteenth birthday and raised her family upriver at St. James.',
+      records: [
+        {
+          title: 'Baptism — St. Louis church, New Orleans',
+          citation: '16 January 1774 — SLC, B7, 35 (SRANO Vol. 3)',
+          text: 'Eulalie Alexandrine (Nicolas, master cooper, and Marie Margueritte REINE), b. Jan. 16, 1774, bn. Jan. 5, 1774, s. Nicolas Alexandre DELASSIZE and Marie Eulalie DELASSIZE.'
+        },
+        {
+          title: 'Marriage — St. James Parish',
+          citation: '10 February 1793 — SJA-2, 19 (Diocese of Baton Rouge Vol. 2)',
+          text: 'Eulalia (Nicolas & Margarita Renne, of New Orleans) m. 10 Feb 1793 Francisco GANIER (Julian & Renata Lebrum, of Brulon, France) wit. Juan Haydel & Margarita Sarde.'
+        }
+      ],
+      note: 'For two centuries she wore the wrong names. The 1820 clerk wrote her as Élisabeth; the family remembered her as Eugénie, which was actually her youngest sister; the deGruy history dated her 1756, twenty years early. Her own baptism settles it: Eulalie Alexandrine Sardet, born 5 January 1774. The deGruy claim that she and François both died in 1804 — a yellow-fever year — still awaits the New Orleans abstracts for 1804–06.'
     },
 
     pierreChenet: { given: 'Pierre', surname: 'Chenet', sex: 'M', evidence: 'verified', branch: 'gaiennie', blurb: 'Named in his daughter\'s 1820 marriage record.' },
@@ -1677,7 +1866,7 @@
   const BRANCHES = {
     pedeaux:   { label: 'Pedeaux',            origin: 'Nantes, Brittany' },
     aucoin:    { label: 'Aucoin & Hébert',    origin: 'Acadia, via Saint-Énogat' },
-    gaiennie:  { label: 'Gaiennie',           origin: 'French New Orleans' },
+    gaiennie:  { label: 'Gaiennie',           origin: 'Brûlon, in Maine → New Orleans' },
     brunetti:  { label: 'Brunetti',           origin: 'Italy' },
     franovich: { label: 'Franovich',          origin: 'Dalmatia' },
     moizant:   { label: 'Moizant',            origin: 'French Louisiana' },

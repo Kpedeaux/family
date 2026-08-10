@@ -875,6 +875,107 @@ list the 43 registers, find St. Louis Cathedral baptisms 1792/1797, read the Gai
 jlthomas, jmlarousse) for any French death/marriage of either Michel · (g) Chantenay tables
 décennales on archives-numerisees.nantes.fr.
 
+## ★★★ THE GAIENNIE ORIGIN — SOLVED (2026-08-10, session 3) ★★★
+
+The Archdiocese of New Orleans publishes ALL NINETEEN SRANO volumes (1718–1831) as **free PDFs**
+at nolacatholic.org/publications — same setup as the Baton Rouge diocese. Vols 1–8 are now
+downloaded to `Memory\SRANO\` and text-searched (vol 8, 1804–06, is image-only — no text layer).
+The breakthrough came from combining them with a RE-GREP of the on-disk Baton Rouge Vol. 2 under
+spelling variants: **the old "no Gaiennie in Vol 2" negative was a spelling artifact — the family
+is filed under GANIER/GAGNIER.**
+
+### The verbatim records
+
+> **Diobr Vol. 2, p. 350 — GANIER, GANEER, GAGNIER:**
+> **Francisco (Julian & Reneta Lebrum, of Brulon, France) m. 10 Feb 1793 Eulalia SARDE (Nicolas
+> & Margarita Renne, of New Orleans) wit. Juan Haydel & Margarita Sarde (SJA-2, 19)**
+> [cross-listed p. 752 under SARDE, JARDE]
+>
+> **Gervasio (Francisco & Eulalia Sarde) bt. 6 Sep 1797 bn. 1 Jun 1797 spo. Estevain Rene &
+> Eufrosyna Sarde. Pat. GP: (Juliano Gagnier & Renata de Brun) Mat. GP: (Nicolas Sarde &
+> Margarita Rene) (SJA-3, 157)**
+
+> **SRANO Vol. 4 (SLC, M5, 62), 19 Mar 1789:** Urbano (Julián and Renata LEBRUN), **native of la
+> Bassouge de Chesnery, Province Dumene** [= La Bazouge-de-Chemeré, province of Maine], m. Maria
+> [Jeanne] SARDET. [bride-side entry: "Maria (Nicolas and Margarita RENNE), native of this
+> parish."]
+
+> **SRANO Vol. 5, GAIENNIE [@GAIENIE, GANNIER, GUENNIER] (SLC):** Juana (bn. 11 Mar 1790) ·
+> Francisco Urvano (bn. 6 Aug 1792 — "Urvano, native of Basouse de Chemeray in Maine in France")
+> · Eufrasina (bn. 17 Jun 1794) — every entry naming pgp. **Julian GANNIER × Renata LE BRUN**
+> (he "of Barsude"/Brûlon) and mgp. **Nicolas SARDET, native of Bordeaux × Margarita REHENE, of
+> this parish**. GANNIE section, same volume: François's own SLC children **Francisco (bn. 14
+> Oct 1793)** and **Eulalia (bn. 30 Apr 1795)** — "Francisco, native of **Brulon** in Maine in
+> France [Brulon, dept. of Sarthe]" × Eulalia SARDET.
+> **SRANO Vol. 7, GAGNIER [@GAINE, GAINIE, REGNIER] (SLC):** Urbain as "**Martin Urbano**"; sons
+> Eugenio Francisco (bn. 8 Nov 1801) and Urbano Luis (bn. 17 Feb 1797, baptized late 1802); a
+> young son buried Nov 1801.
+
+> **SRANO Vol. 2 — REINE [@REYNE, RENNE]:** children of **Etienne [Étienne] REINE, master mason,
+> × Francoise RENARD** (SLC): Marie Marguerite **b. 6 Nov 1752** (s. Marguerite CHENET!) · Marie
+> Jeanne 1755 · Louise Françoise 1757 · Pierre 1761 · Marie Joseph 1766. And: "**Marguerite, m.
+> Nicolas SARDE, Jan. 20, 1767** (SLC, M2, 25)." Appendix: the lost 1767–68 baptismal folios
+> include a reconstructed "REYNE and SARDE" child.
+> **SRANO Vol. 3 — SARDET [@SARDE, SARDEL, SARDI]:** Jeanne (b. 15 Apr 1772) · **Eulalie
+> Alexandrine, bapt. 16 Jan 1774, born 5 Jan 1774 — "Nicolas, master cooper, and Marie
+> Margueritte REINE"** (SLC, B7, 35) · Euphrosine (bn. 10 Jun 1776) · Estevan (bn. 29 Jan 1778)
+> · Eugenia (b. 6 Jan 1780) · Marguerite m. **Joseph GILLARD, Oct. 5, 1783**.
+> **SRANO Vol. 4:** "Maria Margarita (**Estevan and Francisca RENARD**, natives of this parish),
+> widow of [o] CADET SARDE, m. **Pedro BOURGEOIS, May 2, 1784**" — Marguerite Reyne's parents
+> named at her remarriage; Nicolas Sardet dead 1780×1784.
+> **SRANO Vol. 5:** Margarita Sardet-Gillard "resident of **Cabanoce [St. James Parish]**"
+> buried 17 Oct 1794 — the clan was moving upriver in the 1790s, which is why the Gaiennie
+> records shift from SLC to SJA/SMI. **Diobr Vol. 3:** Euphrosine Sarde m. Jean GLEISER at SJA,
+> 2 May 1807 (parents named again); Eugénie Sarde × Jacques NADAU (daughter Eliza bn. 1806).
+
+### The verified chain (all links register-named)
+
+1. **Joseph Gervais Gaiennie** — b. 1 Jun 1797 (deGruy's day confirmed), bt. 6 Sep 1797,
+   St. James (SJA-3, 157): parents AND all four grandparents named. [VERIFIED]
+2. **François Gaiennie** (Ganier/Gagnier/Gaigne) — native of **Brûlon, province of Maine
+   (Sarthe), France**; m. 10 Feb 1793, St. James; son of **Julien Gagnier × Renée Le Brun, of
+   Brûlon**. Brother **Urbain ("Martin Urbano")**, of **La Bazouge-de-Chemeré (Mayenne)**,
+   m. 19 Mar 1789 **Marie Jeanne Sardet** — two brothers, two sisters. [VERIFIED]
+3. **Eulalie Alexandrine Sardet** — b. 5 Jan 1774, New Orleans (SLC B7, 35); d/o **Nicolas
+   Sardet, native of Bordeaux, master cooper** (m. 20 Jan 1767, SLC M2, 25; d. 1780×1784) ×
+   **Marguerite Reyne** (b. 6 Nov 1752, SLC B2, 269; remarried Pierre Bourgeois 1784). [VERIFIED]
+4. **Marguerite Reyne** — d/o **Étienne Reyne, master mason, × Françoise Renard** (SLC baptisms
+   1752–1766; parents re-named at her 1784 remarriage). [VERIFIED]
+   → **Étienne Reyne and Françoise Renard are the tree's TENTH generation** (7x-great-
+   grandparents). Site updated: 67 people, 10 generations.
+
+### Corrections this forces
+
+18. **deGruy's "Eugenie Sardet (1756–1804)" is doubly wrong**: she was **Eulalie Alexandrine
+    Sardet, b. 5 Jan 1774**; Eugénie (b. 1780, m. Nadau) was her youngest sister. The 1820
+    clerk's "Elisabete" was also off; the registers say Eulalie throughout (2026-08-10).
+19. **"No Gaiennie in diobr Vol. 2" was a spelling artifact** — filed under GANIER. Standing
+    lesson: **always re-grep negatives under period spelling variants** (2026-08-10).
+20. The Gaiennie male line's "New Orleans origin" reframed: the brothers were **immigrants from
+    Maine (Brûlon / La Bazouge-de-Chemeré)** who married into a New-Orleans-born line (Sardet/
+    Reyne/Renard) that goes back to the 1750s city and, via the Reyne name, possibly the 1720s.
+
+### Still open on this side
+
+- **François's own baptism** — Brûlon parish registers, AD Sarthe (archives.sarthe.fr, online);
+  Julien Gagnier × Renée Le Brun's marriage likewise. Expect GAGNIER/GASNIER spellings.
+- **The 1804 deaths** of François and Eulalie — SRANO Vol. 8 (1804–06) is image-only; eyeball
+  its G and S sections (alphabetical) or OCR it. Their burials would also give ages.
+- **Nicolas Sardet's Bordeaux parents**; **Étienne Reyne's origins** (France or the colony? cf.
+  the 1726 "Ste. Reyne concession" in SRANO Vol. 1 — possibly coincidence).
+- Urbain's line: François Urbain (b. 1792) m. ~1815+, the "Urbain d. 1824" and "Mrs. Urbain
+  d. 1835" NOPL entries, and Marguerite Sarde Gaiennie's 1835 death (Vol. 85 of the state
+  index... see earlier note) — flesh out the cousin branch.
+
+### Michel front, same session (status)
+
+FG memorial 155718958 ("d. 1811, aged 44") has been **removed from Find a Grave** — the phantom
+date is gone from the internet and its age claim dies unverifiable. Geneanet is now behind a
+bot-check the assistant will not bypass (Kevin can open gw.geneanet.org/duraton?n=pedeau in his
+own browser). usgwarchives.net was unreachable even from a real browser tonight — the 1810
+Assumption census transcript needs another route (library Ancestry session, or FamilySearch
+login by Kevin). The Chantenay/Nantes tables décennales remain the decisive French test.
+
 ### Casper — documents to order next
 
 1. **Times-Picayune 22 + 23 Nov 1921, p. 2 col. 8** — his obituary notices (NOPL microfilm, or
