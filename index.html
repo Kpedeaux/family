@@ -9,13 +9,13 @@
 
 <meta property="og:type" content="website">
 <meta property="og:title" content="The Pedeaux Family Archive">
-<meta property="og:description" content="Nantes to New Orleans — eight generations, with the record behind every link.">
+<meta property="og:description" content="Nantes to New Orleans — nine generations, with the record behind every link.">
 <meta property="og:site_name" content="Pedeaux Family Archive">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/styles.css?v=20260809d">
+<link rel="stylesheet" href="assets/css/styles.css?v=20260810b">
 </head>
 <body>
 
@@ -30,6 +30,7 @@
       <a href="#streams-section">Lines</a>
       <a href="#corrections">Corrections</a>
       <a href="#method">Method</a>
+      <a href="research.html" class="always">Field notes</a>
     </nav>
   </div>
 </header>
@@ -40,7 +41,7 @@
   <section class="hero">
     <div class="wrap">
       <p class="hero__eyebrow">Nantes · Saint-Énogat · Bayou Lafourche · New Orleans</p>
-      <h1>Eight generations,<br>and the <em>paper</em> to prove it.</h1>
+      <h1>Nine generations,<br>and the <em>paper</em> to prove it.</h1>
       <p class="hero__lede">
         This is the Pedeaux family as the records actually have it — traced from Meraux back through
         Bayou Lafourche to a ship's carpenter's son on the Nantes quayside and an Acadian family
@@ -74,6 +75,8 @@
         <button class="btn" type="button" data-branch="aucoin" aria-pressed="false">Aucoin</button>
         <button class="btn" type="button" data-branch="gaiennie" aria-pressed="false">Gaiennie</button>
         <button class="btn" type="button" data-branch="franovich" aria-pressed="false">Franovich</button>
+        <button class="btn" type="button" data-branch="larmann" aria-pressed="false">Larmann</button>
+        <button class="btn" type="button" data-branch="wellmeyer" aria-pressed="false">Wellmeyer</button>
         <span id="result-count" style="font-size:.8rem;color:var(--ink-3);letter-spacing:.06em" aria-live="polite"></span>
       </div>
 
@@ -187,10 +190,11 @@
   <section class="section" id="streams-section">
     <div class="wrap">
       <p class="section__label">The lines</p>
-      <h2>Eight surnames, eight arrivals</h2>
+      <h2>Nine lines, nine origins</h2>
       <p class="section__intro">
         A fairly typical New Orleans mix, and an unusually well-documented one — French, Acadian,
-        Italian, Croatian and German, all landing in the same city within a century of each other.
+        Italian, Croatian, German and Creole, all converging on the same city within a century of
+        each other.
       </p>
       <div class="streams" id="streams"></div>
     </div>
@@ -242,6 +246,21 @@
           <div class="now">John Richard Larmann Sr. died 30 November 2018.</div>
           <div class="why">Its own metadata and both published obituaries say 30 December, and the funeral was 5 January 2019.</div>
         </li>
+        <li>
+          <div class="was">Find a Grave says</div>
+          <div class="now">Numa Pedeaux married Eulalie Borne on 17 April 1871.</div>
+          <div class="why">The St. Philomena register says 27 April 1871 — and, as a bonus, names Eulalie's parents, Marcellin Borne and Anne Marie Guedry.</div>
+        </li>
+        <li>
+          <div class="was">Acadians in Gray says</div>
+          <div class="now">Florence Aucoin's second husband was François Allain le jeune.</div>
+          <div class="why">The Plattenville register records her 26 November 1814 remarriage under the heading "BARIOT, BARIAU, VARIOT, BARRILLEAU" — the groom was François Bariot. Cormier's own summary line ("the Aucoin daughters married into the Potier, Pedeau, and Barrilleaux families") agrees with the register; only his Allain paragraph doesn't.</div>
+        </li>
+        <li>
+          <div class="was">The 1900 census says</div>
+          <div class="now">"Mary Pedaux, b. 1812, Mother" lived in Numa's Lafourche household.</div>
+          <div class="why">His mother Marie Cancienne had been dead thirty-eight years by then — the burial register has her buried 12 May 1862. The old woman in the household is almost certainly his mother-in-law, Anne Marie Guedry Borne; census takers routinely wrote "mother" for a mother-in-law.</div>
+        </li>
       </ul>
     </div>
   </section>
@@ -280,6 +299,12 @@
         <strong>Loire-Atlantique</strong> and <strong>Ille-et-Vilaine</strong>, whose registers are
         online as scanned images with no name index — you page through them by hand.
       </p>
+      <p>
+        And in August 2026 a fourth kind of source arrived: <strong>the family's own papers</strong>.
+        Judy Larmann Gifford sent a photocopy of her great-aunt Esther's handwritten ledger and her
+        own tree notes, and nearly every date in them has since checked out against the state index —
+        the full story is on the <a href="research.html">field notes page</a>.
+      </p>
 
       <h3>What's still open</h3>
       <p>
@@ -289,7 +314,10 @@
         1921 marriage licence application would each name a town or a parent outright.
       </p>
       <p>
-        <strong>Johanna Lemoine</strong> was born outside Orleans Parish and hasn't been placed at all.
+        <strong>The Lemoines upriver.</strong> Johanna Lemoine, unplaced for years, now has parents —
+        Alonzo Lemoine and Genevieve Rousselle, from her granddaughter Judy's family notes. What's missing is the
+        paper above them: no Lemoine–Rousselle marriage in the Orleans index means the family married
+        in the river parishes, and the brother who died in the orphanage has no name yet.
       </p>
       <p>
         <strong>Which Michel crossed.</strong> Michel Pédeau and Jeanne Muraille had <em>two</em>
@@ -335,7 +363,7 @@
   <div class="panel__body" id="panel-body"></div>
 </aside>
 
-<script src="assets/js/data.js?v=20260809d"></script>
-<script src="assets/js/app.js?v=20260809d"></script>
+<script src="assets/js/data.js?v=20260810b"></script>
+<script src="assets/js/app.js?v=20260810b"></script>
 </body>
 </html>

@@ -263,8 +263,8 @@
 
     eulalieBorne: {
       siblings: [
-        'Edouard Borne — a witness at her 1871 wedding',
-        'Marie Borne — godmother to her first child in 1872'
+        'Edouard Borne — probably a brother; he witnessed her 1871 wedding',
+        'Marie Borne — probably a sister; godmother to her first child in 1872'
       ],
       children: [
         'Antoine Philippe Joseph “Philip” Pedeaux (1872–1946)',
@@ -303,7 +303,8 @@
     antoineFlorentin: {
       siblings: [
         'Michel Pedeau (b. 28 Oct 1808, buried 25 March 1853)',
-        'Jean Baptiste Pedeau (b. 12 Nov 1810, buried 13 Nov 1855) — the Baptiste living next door in the 1850 census'
+        'Jean Baptiste Pedeau (b. 12 Nov 1810, buried 13 Nov 1855) — the Baptiste living next door in the 1850 census',
+        'Marie Bariot — a half-sister from his mother\'s second marriage; she married Joseph Felix Colbut in 1841 with Jean Baptiste as witness'
       ],
       children: [
         { id: 'pierreNuma' },
@@ -365,8 +366,8 @@
         'Michel (1770–1771, died an infant)',
         'Jean (1771–1772)',
         'Pierre (1773–1866)',
-        'Michel Pierre (b. 20 May 1777, Chantenay) — the other candidate for the emigrant',
-        'Anne'
+        'Anne',
+        'and a surviving brother also named Michel — he himself was either Michel André (b. 1765) or Michel Pierre (b. 1777), and whichever he was not stayed in France'
       ],
       children: [
         'Michel Pedeau (b. 28 Oct 1808)',
@@ -398,15 +399,14 @@
 
     michelPedeauPere: {
       children: [
-        'Michel André (b. 7 April 1765)',
+        { id: 'michelPedeau' },
+        'He was either Michel André (b. 7 April 1765) or Michel Pierre (b. 20 May 1777, Chantenay) — the record cannot yet say which of the two crossed',
         'Marie (1766–1772)',
         'Jeanne Yvonne (b. 1769)',
         'Michel (1770–1771)',
         'Jean (1771–1772)',
         'Pierre (1773–1866)',
-        'Michel Pierre (b. 1777)',
-        'Anne',
-        { id: 'michelPedeau' }
+        'Anne'
       ],
       given: 'Michel', surname: 'Pédeau', sex: 'M',
       birth: { date: '19 February 1739', place: 'Sainte-Pazanne, Pays de Retz' },
@@ -431,15 +431,14 @@
 
     jeanneMuraille: {
       children: [
-        'Michel André (b. 7 April 1765)',
+        { id: 'michelPedeau' },
+        'He was either Michel André (b. 7 April 1765) or Michel Pierre (b. 20 May 1777, Chantenay) — the record cannot yet say which of the two crossed',
         'Marie (1766–1772)',
         'Jeanne Yvonne (b. 1769)',
         'Michel (1770–1771)',
         'Jean (1771–1772)',
         'Pierre (1773–1866)',
-        'Michel Pierre (b. 1777)',
-        'Anne',
-        { id: 'michelPedeau' }
+        'Anne'
       ],
       given: 'Jeanne Marguerite', surname: 'Muraille', sex: 'F',
       birth: { date: '17 February 1734', place: 'La Trinité de Machecoul, Pays de Retz' },
@@ -539,8 +538,8 @@
 
     michelAucoin: {
       children: [
-        'Fourteen in all, ten of whom sailed for Louisiana in 1785:',
-        'Joseph-Michel (b. 1760)',
+        'Fourteen in all:',
+        'Joseph-Michel (b. 1760) — not on the 1785 passenger list; his fate is unrecorded',
         'Jean-Charles (b. 1761)',
         'Marie-Josèphe (b. 1764)',
         'Anne-Théodose (1765–1798)',
@@ -551,7 +550,8 @@
         'François-Étienne (1773–1837)',
         { id: 'florenceAucoin' },
         'Constant-Jean-Baptiste (b. 1782)',
-        'and three who died young at Saint-Énogat: Françoise (1763), François David (1766–1769), Jeanne (1778–1779)'
+        'and three who died young at Saint-Énogat: Françoise (1763), François David (1766–1769), Jeanne (1778–1779)',
+        'The 1785 passenger list names ten of them aboard with their parents; Joseph-Michel is the one surviving child it does not carry'
       ],
       given: 'Michel', suffix: 'le jeune', surname: 'Aucoin', sex: 'M',
       origin: 'Cobeguit, Acadia',
@@ -677,6 +677,7 @@
         'Joseph Gervaise Gaiennie (1821–1825)',
         'Eulalie Aurelia Gaiennie (1823–1909)',
         'Joseph Alceste Gaiennie (1825–1903)',
+        'Marie Emeline Gaiennie (baptised with him, 27 September 1829)',
         'David Ernest Gaiennie (1831–1832)',
         'Augustine Gaiennie (b. 1832)',
         'Fernand Gaiennie (b. 1835)',
@@ -746,6 +747,7 @@
         'Eulalie Aurelia (1823–1909)',
         'Joseph Alceste (1825–1903)',
         { id: 'alphonseSr' },
+        'Marie Emeline (baptised 27 September 1829, the same day as Florentin — in the register but absent from the family history)',
         'David Ernest (1831–1832)',
         'Augustine (b. 1832)',
         'Fernand (b. 1835)',
@@ -764,7 +766,7 @@
       photo: 'assets/img/joseph-gervaise-pierre-gaiennie.webp',
       photoCaption: 'Joseph Gervaise Gaiennie (1797–1854). Portrait via the deGruy family history.',
       occupation: 'War of 1812 — 6th Regiment (Landry\'s), Louisiana Militia',
-      blurb: 'Seventeen years old when the British came up the river. Twenty-two and already an orphan when he married in January 1820. Eleven children. Gaiennie Street in the Warehouse District still carries the family name.',
+      blurb: 'Seventeen years old when the British came up the river. Twenty-two and already an orphan when he married in January 1820. Twelve children. Gaiennie Street in the Warehouse District still carries the family name.',
       records: [
         {
           title: 'Marriage — St. Michael, Convent',
@@ -818,7 +820,7 @@
           title: 'Militia roll — War of 1812',
           citation: 'Louisiana Soldiers in the War of 1812 (compiled state militia rosters)',
           text: '"Francis Gaignie — 4 Reg\'t. (Morgan\'s), La. Militia."',
-          highlight: 'Father and son both turned out for the New Orleans campaign, in different regiments.'
+          highlight: 'Almost certainly this François — which would put father and son in the campaign in different regiments. The roster carries seven Gaiennie entries across spelling variants, so the identification is probable rather than proven.'
         }
       ],
       sources: [
@@ -851,7 +853,7 @@
       evidence: 'verified',
       branch: 'brunetti',
       immigrant: true,
-      blurb: 'Came over as a teenager, spent his twenties in Chicago, and turned up in New Orleans in time to marry a Croatian oysterman\'s daughter in June 1921. He and Veronica are the only two Brunettis in St. Louis Cemetery No. 3, and apart from his own daughter\'s there is not another Brunetti birth in the Louisiana index — no sibling or cousin followed him south, so the surname ended with him here.',
+      blurb: 'Left Italy as a young man, spent his twenties in Chicago, and turned up in New Orleans in time to marry a Dalmatian oyster family\'s daughter in June 1921. He and Veronica are the only two Brunettis in St. Louis Cemetery No. 3, and apart from his own daughter\'s there is not another Brunetti birth in the Louisiana index — no sibling or cousin followed him south, so the surname ended with him here.',
       records: [
         {
           title: 'Louisiana marriage record',
@@ -885,10 +887,10 @@
 
     veronicaFranovich: {
       siblings: [
-        'Nicholas Franovich Sr. (1886–1955)',
         'Dominick Franovich (1892–1986)',
         'Anthony L. Franovich Jr. (1895–1975)',
-        'Elizabeth “Isabelle” Franovich (b. 1897) — married Pascal Liuzza'
+        'Elizabeth “Isabelle” Franovich (b. 1897) — married Pascal Liuzza',
+        'Nicholas Franovich Sr. (1886–1955) was long listed here too, but he cannot be a child of this marriage — see the note on Melanie Moizant'
       ],
       children: [
         { id: 'veronicaBrunetti' }
@@ -899,33 +901,31 @@
       father: 'anthonyFranovich', mother: 'melanieMoizant',
       evidence: 'inferred',
       branch: 'franovich',
-      blurb: 'A Dalmatian oyster family\'s daughter from the lower delta. Widowed mother brought the children up to New Orleans; she married a Sicilian immigrant\'s son in 1921. Buried St. Louis Cemetery No. 3.',
+      blurb: 'A Dalmatian oyster family\'s daughter from the lower delta. Her widowed mother brought the children up to New Orleans, and in 1921 she married John Brunetti, an Italian immigrant lately of Chicago. Buried St. Louis Cemetery No. 3.',
       sources: [
         { label: 'Find a Grave 282264581', url: 'https://www.findagrave.com/memorial/282264581/veronica-brunetti' }
       ],
-      note: 'Not to be confused with her daughter, Veronica Marie Brunetti Pedeaux. The circumstantial chain to Anthony Franovich Sr. is airtight — same household in 1900 and 1910, Melanie is his wife, he dies in 1911, she is in Orleans as his widow with the children by 1920 and remarries in 1926 as his widow — but no single record yet names Veronica and Anthony together. The 1910 Plaquemines census image would settle it.'
+      note: 'Not to be confused with her daughter, Veronica Marie Brunetti Pedeaux. The circumstantial chain to Anthony Franovich Sr. is strong: he married Melanie about 1890-92, he died in 1911 at Buras where Veronica was born, Melanie was in Orleans as his widow with the children by 1920, and she remarried in 1926 as his widow. But no single record yet names Veronica and Anthony together. The 1910 Plaquemines census image, with its relation-to-head column, would settle it outright.'
     },
 
     anthonyFranovich: {
       children: [
-        'Nicholas Sr. (1886–1955)',
         'Dominick (1892–1986)',
         'Anthony L. Jr. (1895–1975)',
         'Elizabeth “Isabelle” (b. 1897)',
         { id: 'veronicaFranovich' }
       ],
       given: 'Anthony L.', suffix: 'Sr.', surname: 'Franovich', sex: 'M',
-      origin: 'Dalmatia (Croatia)',
+      origin: 'Dalmatian family — Buras, Plaquemines Parish',
       birth: { date: '22 September 1873' },
       death: { date: '19 July 1911', place: 'Plaquemines Parish' },
       evidence: 'confirm',
       branch: 'franovich',
-      immigrant: true,
       blurb: 'Dead at thirty-eight. Buried at Our Lady of Good Harbor Catholic Cemetery, Buras; the headstone reads "Age 38 years."',
       sources: [
         { label: 'Find a Grave 74161215', url: 'https://www.findagrave.com/memorial/74161215/anthony-l-franovich' }
       ],
-      note: 'His marriage to Melanie Moizant, about 1890–92, was in Plaquemines Parish and is held only by the Clerk of Court in Belle Chasse — the Louisiana state marriage index covers Orleans only.'
+      note: 'His marriage to Melanie Moizant, about 1890–92, was in Plaquemines Parish and is held only by the Clerk of Court in Belle Chasse — the Louisiana state marriage index covers Orleans only. Whether Anthony himself was born in Dalmatia or in Louisiana is not yet documented: an Antonio Franovich who died in Orleans in 1902 at about 77 may be his immigrant father, so no "crossed the Atlantic" claim is made for Anthony here.'
     },
 
     melanieMoizant: {
@@ -938,7 +938,6 @@
         'Angeline Moizant Bordelon (1892–1970)'
       ],
       children: [
-        'Nicholas Sr. (1886–1955)',
         'Dominick (1892–1986)',
         'Anthony L. Jr. (1895–1975)',
         'Elizabeth “Isabelle” (b. 1897)',
@@ -946,11 +945,11 @@
       ],
       given: 'Melanie', surname: 'Moizant', sex: 'F',
       birth: { date: 'January 1877', place: 'Louisiana' },
-      death: { date: '17 October 1957', place: 'Orleans Parish' },
+      death: { date: '17 or 18 October 1957', place: 'Orleans Parish' },
       father: 'alfredMoizant', mother: 'victoriaDaroca',
       evidence: 'verified',
       branch: 'moizant',
-      blurb: 'Widowed at thirty-four with five children; remarried Theodore Adolph Paasch in 1926. Buried St. Louis Cemetery No. 3, Square 3, Section B, Lot 11.',
+      blurb: 'Widowed at thirty-four with young children; remarried Theodore Adolph Paasch in 1926. Buried St. Louis Cemetery No. 3, Square 3, Section B, Lot 11.',
       records: [
         {
           title: 'Louisiana death index',
@@ -967,7 +966,7 @@
       sources: [
         { label: 'Find a Grave 143366670', url: 'https://www.findagrave.com/memorial/143366670/melanie-moizant-franovichpaasch' }
       ],
-      note: 'Moizant is a French-Louisiana name, not Croatian — but the family married into the Plaquemines Dalmatian community repeatedly. Two Moizant women married Mistiches; Melanie\'s sister Annicia married a Scobel, and an Antoinette Scobel Franovich lies at Our Lady of Good Harbor.'
+      note: 'Moizant is a French-Louisiana name, not Croatian — but the family married into the Plaquemines Dalmatian community repeatedly. Two Moizant women married Mistiches; Melanie\'s sister Annicia married a Scobel, and an Antoinette Scobel Franovich lies at Our Lady of Good Harbor. Her death is given as the 17th on her memorial and the 18th in the state index. A correction: Nicholas Franovich Sr. (1886–1955), long carried as one of her children, was born when she was nine years old and when Anthony was twelve — he cannot be a child of this marriage, and belongs to the wider Buras Franovich clan, perhaps as Anthony\'s younger brother.'
     },
 
     alfredMoizant: {
@@ -981,12 +980,14 @@
         'Angeline (1892–1970)'
       ],
       given: 'Alfred Leopold', surname: 'Moizant', sex: 'M',
-      birth: { date: 'January 1838' },
+      birth: { date: 'January 1838', place: 'France (per his memorial)' },
       death: { date: '23 February 1933', place: 'Orleans Parish' },
       evidence: 'confirm',
       branch: 'moizant',
+      immigrant: true,
       blurb: 'Died at ninety-five. Buried in the same plot as his daughter — St. Louis No. 3, Square 3, Section B, Lot 11.',
-      sources: [{ label: 'Find a Grave 143366668', url: 'https://www.findagrave.com/memorial/143366668' }]
+      sources: [{ label: 'Find a Grave 143366668', url: 'https://www.findagrave.com/memorial/143366668' }],
+      note: 'The family story that the Moizants are kin to John Moisant, the aviator MSY was named for, was checked and judged unlikely. Alfred was born in France in 1838 and came to New Orleans; the aviator\'s father Medard Moisant was born in Quebec the same year and went to Illinois — exact contemporaries from different continents\' migrations, so no parent or sibling link is possible. In ninety years of Louisiana records the MOIS- and MOIZ- spellings never once cross: no shared given names, spouses, parents or plots. The story probably took hold because a real New Orleans Moisant family, descended from the aviator\'s Quebec cousins, does exist. Alfred\'s French birth record or passenger manifest would end the question for good.'
     },
 
     victoriaDaroca: {
@@ -1010,11 +1011,14 @@
     /* ─────────────────────────  LARMANN / WELLMEYER  ───────────────────────── */
 
     johnLarmannSr: {
+      siblings: [
+        'Esther Mae Larmann (18 July 1925 – 15 February 1928) — an elder sister who died at two and a half, a year and a half after he was born. Her aunt Esther\'s ledger kept her dates; the state index confirms them.'
+      ],
       children: [
-        'John R. Larmann Jr.',
-        'James C. Larmann',
+        'John R. Larmann Jr. — married Jacqueline Ledet',
+        'James C. Larmann — married Donna Maylie',
         { id: 'jeanLarmann' },
-        'Judy Larmann Gifford'
+        'Judy Larmann Gifford — married Craig Gifford; her family papers rebuilt this whole side of the tree'
       ],
       given: 'John Richard', suffix: 'Sr.', surname: 'Larmann', sex: 'M',
       birth: { date: '10 September 1926' },
@@ -1056,31 +1060,34 @@
       birth: { date: '25 October 1927' },
       death: { date: '9 June 2010' },
       father: 'henryJohnWellmeyer', mother: 'berthaSander',
-      evidence: 'inferred',
+      evidence: 'confirm',
       branch: 'wellmeyer',
       blurb: 'Buried in her father\'s tomb at St. Vincent de Paul No. 3 — the plot is inscribed "Sect C, 3rd Alley, Left, Wellmeyer, H."',
       sources: [
         { label: 'Find a Grave 147183498', url: 'https://www.findagrave.com/memorial/147183498' }
       ],
-      note: 'All ten Wellmeyers in that cemetery lie in the same plot, and the group resolves cleanly as Henry John\'s household — parents, three sons, their wives, a brother and a sister. Ann is the only occupant who fits no role but daughter. Family memory supports it too: Kevin\'s mother spoke of Buzzy and Jill Wellmeyer as cousins, and they are Leslie\'s children. Still, no document yet names Ann and Henry together. The 1947 marriage licence would.'
+      note: 'The case was built backwards from a cemetery: all ten Wellmeyers in St. Vincent de Paul No. 3 lie in one plot that resolves cleanly as Henry John\'s household, and Ann is the only occupant who fits no role but daughter. In August 2026 her own daughter Judy\'s family notes confirmed it in writing — "Papa\'s Family," listing Ann Geraldine m. John Richard Larmann among Henry John and Bertha\'s six children. A family record now names them together; the 1947 marriage licence application would make it civil-record verified.'
     },
 
     charlesEmileLarmann: {
       siblings: [
-        'Mary Eugenia Larmann (b. 1896)',
-        'Louise Frances Larmann (b. 1897)',
-        'Bernadine Louisa Larmann (b. 1898)',
-        'Anthony Leo Larmann (b. 1900) — father of the attorney Laurence “Larry” Larmann',
-        'Esther Margerita Larmann (b. 1904)'
+        'Mary Eugenia Larmann Thomas (20 Sept 1896 – 3 Oct 1971) — married Matthew U. Thomas in 1926',
+        'Louisa Francis Larmann (17 Sept 1897 – 30 May 1898) — died at eight months',
+        'Bernadine Louise Larmann (28 Oct 1898 – 21 Aug 1956) — married Ed Porter in 1926, later Harry G. Johnson',
+        'Anthony Leo Larmann (9 Oct 1900 – 4 March 1969) — father of Barbara and of the attorney Lawrence “Larry” Emig Larmann',
+        'Esther Marguerite Larmann (2 Jan 1904 – 1976) — never married; her handwritten ledger preserved this whole family\'s dates'
       ],
       children: [
+        'Esther Mae Larmann (18 July 1925 – 15 February 1928)',
         { id: 'johnLarmannSr' }
       ],
-      given: 'Charles Emile', surname: 'Larmann', sex: 'M',
+      given: 'Charles Emile', nickname: 'Charlie', surname: 'Larmann', sex: 'M',
       birth: { date: '12 July 1902', place: 'New Orleans' },
+      death: { date: '13 July 1969', place: 'Orleans Parish' },
       father: 'anthonyLarmann', mother: 'eugeniaMoore',
       evidence: 'verified',
       branch: 'larmann',
+      blurb: 'Lost his father at eighteen months and his mother at eighteen years. Married Johanna Lemoine on 23 August 1924, lost a two-year-old daughter in 1928, and died the day after his sixty-seventh birthday. His brother Anthony had died four months earlier.',
       records: [
         {
           title: 'Louisiana birth record',
@@ -1090,69 +1097,373 @@
         {
           title: 'Louisiana marriage record',
           citation: 'Orleans Parish, August 1924 — Vol. 49, p. 468',
-          text: 'LEMOINE, JOHANNA K × LARMANN, CHARLES EMILE.'
+          text: 'LEMOINE, JOHANNA K × LARMANN, CHARLES EMILE.',
+          highlight: 'His sister Esther\'s ledger supplies the exact day: 23 August 1924, New Orleans.'
+        },
+        {
+          title: 'Louisiana death record',
+          citation: 'Orleans Parish, 13 July 1969 — p. 4760',
+          text: 'LARMANN, CHARLES EMILE, age 67.'
+        },
+        {
+          title: 'Aunt Esther\'s ledger — his birth and sponsors',
+          citation: 'Handwritten family record of Esther Marguerite Larmann; photocopy via Judy Larmann Gifford, 2026',
+          text: 'Charles Emile Larmann — Sat. July 12th 1902 (sponsors: Emile Moore, Dorothea Mevers).',
+          highlight: 'Named for his godfather, his mother\'s brother Emile Moore. The godmother carries the Mevers surname of his father\'s mother.'
         }
       ],
-      note: 'For a long time he existed only as a name in his son\'s 2018 obituary. These two records put him on the public record and add a generation above him.'
+      note: 'For a long time he existed only as a name in his son\'s 2018 obituary. The 1902 birth record put him on the public record, and in August 2026 his sister Esther\'s handwritten ledger and his tomb roster — supplied by his granddaughter Judy Larmann Gifford — filled in the rest of his life.'
     },
 
     johannaLemoine: {
+      siblings: [
+        'Robert Lemoine — married Agnes Hanley, then Sophie Anderson',
+        'Eugene (possibly Ernest) Lemoine',
+        'and a brother who died in the orphanage — his name is not yet recovered'
+      ],
       children: [
+        'Esther Mae Larmann (18 July 1925 – 15 February 1928)',
         { id: 'johnLarmannSr' }
       ],
-      given: 'Johanna K.', surname: 'Lemoine', sex: 'F',
-      evidence: 'verified',
-      branch: 'larmann',
-      blurb: 'Born outside Orleans Parish — she is not in the Orleans birth index, and her origins are still open.'
+      given: 'Johanna Catherine', surname: 'Lemoine', sex: 'F',
+      birth: { date: '1907', place: 'outside Orleans Parish' },
+      death: { date: '1992' },
+      father: 'alonzoLemoine', mother: 'genevieveRousselle',
+      evidence: 'confirm',
+      branch: 'lemoine',
+      blurb: 'For years she was the blankest name on this side of the tree — not even in the Orleans birth index. Judy Larmann Gifford\'s family notes gave her back her parents, her middle name, and a hard childhood: a brother lost in the orphanage.',
+      records: [
+        {
+          title: 'Family record — her parents',
+          citation: 'Judy Larmann Gifford\'s handwritten notes, "Johanna\'s Family," 2026',
+          text: 'Alonzo Lemoine m. (Poppone) Genevieve Rousselle. Children (Lemoine): Johanna. (Brother died in orphanage.)',
+          highlight: 'Her mother is very likely the Genevieve Rousselle who died in Orleans on 24 August 1915, aged 54 — Johanna was eight, which would explain the orphanage years.'
+        }
+      ],
+      note: 'The state index has her only at her 1924 marriage, as LEMOINE, JOHANNA K. Her tomb reads 1907–1992. Born outside Orleans Parish — the Lemoine, Rousselle and Delatte names all point to the river parishes above New Orleans. No Lemoine × Rousselle marriage appears in the Orleans index, which fits a family that married upriver too.'
     },
 
     anthonyLarmann: {
+      siblings: [
+        'Probable, from birth years and godparent duty at his children\'s baptisms: John C. Larmann (c.1875–1909)',
+        'Bernard Leo Larmann (c.1878–1955) — godfather to Anthony Leo in 1900; married Matilda Jones in 1901',
+        'Charles A. Clemence Larmann (c.1877–1880) — died at three',
+        'and half-siblings from his father\'s 1884 remarriage, including Joseph Benedict Larmann (c.1885–1950) and Hilda Larmann, godmother to Esther in 1904'
+      ],
       children: [
-        'Mary Eugenia (b. 1896)',
-        'Louise Frances (b. 1897)',
-        'Bernadine Louisa (b. 1898)',
-        'Anthony Leo (b. 1900)',
+        'Mary Eugenia (20 Sept 1896 – 3 Oct 1971)',
+        'Louisa Francis (17 Sept 1897 – 30 May 1898)',
+        'Bernadine Louise (28 Oct 1898 – 21 Aug 1956)',
+        'Anthony Leo (9 Oct 1900 – 4 March 1969)',
         { id: 'charlesEmileLarmann' },
-        'Esther Margerita (b. 1904)'
+        'Esther Marguerite (2 Jan 1904 – 1976)'
       ],
-      given: 'Anthony H.', surname: 'Larmann', sex: 'M',
-      evidence: 'verified', branch: 'larmann',
+      given: 'Anthony Henry', surname: 'Larmann', sex: 'M',
+      birth: { date: '26 August 1871', place: 'New Orleans' },
+      death: { date: '12 February 1904', place: 'Orleans Parish' },
+      father: 'johnCasparLarmann', mother: 'emilyMevers',
+      evidence: 'confirm',
+      branch: 'larmann',
+      blurb: 'Dead at thirty-two, six weeks after his sixth child was born. His widow raised six children alone; the family record his daughter Esther kept is how all of their dates survived.',
       records: [
-        { title: 'Louisiana marriage record', citation: 'Orleans Parish, November 1895 — Vol. 18, p. 718', text: 'MOORE, EUGENIE × LARMANN, ANTHONY.' }
+        {
+          title: 'Louisiana marriage record',
+          citation: 'Orleans Parish, November 1895 — Vol. 18, p. 718',
+          text: 'MOORE, EUGENIE × LARMANN, ANTHONY.',
+          highlight: 'Esther\'s ledger supplies the day — Tuesday, 12 November 1895 — and his exact ages: born Saturday 26 August 1871, married at 24, dead at 32.'
+        },
+        {
+          title: 'Louisiana death record',
+          citation: 'Orleans Parish, 12 February 1904 — Vol. 131, p. 1097',
+          text: 'LARMANN, ANTHONY, age 32.',
+          highlight: 'Exactly the date in Esther\'s ledger: "Fri. Feb. 12th, Age 32."'
+        }
       ],
-      blurb: 'Six children: Mary Eugenia 1896, Louise Frances 1897, Bernadine Louisa 1898, Anthony Leo 1900, Charles Emile 1902, Esther Margerita 1904.'
+      note: 'He was born nine and a half months after his parents\' November 1870 Orleans wedding. The old sibling list carried "Louise Frances (b. 1897)" as if she grew up; the death index shows Louisa Francis died at eight months, on 30 May 1898.'
     },
 
     eugeniaMoore: {
-      children: [
-        'Mary Eugenia (b. 1896)',
-        'Louise Frances (b. 1897)',
-        'Bernadine Louisa (b. 1898)',
-        'Anthony Leo (b. 1900)',
-        { id: 'charlesEmileLarmann' },
-        'Esther Margerita (b. 1904)'
+      siblings: [
+        'Louise Moore (1877–1948) — godmother to Louisa in 1897; buried in the family tomb',
+        'Leontine Moore (1880–1947) — godmother to Anthony Leo in 1900; buried in the family tomb',
+        'Anthony Moore (1883–1920) — godfather to Esther in 1904; buried in the family tomb',
+        'Emile Moore — godfather to Charles Emile in 1902'
       ],
-      given: 'Eugenie', surname: 'Moore', sex: 'F',
-      evidence: 'verified', branch: 'larmann',
-      blurb: 'An English or Irish name in an otherwise German household — the "all-German maternal line" assumption turned out to be too simple.'
+      children: [
+        'Mary Eugenia (20 Sept 1896 – 3 Oct 1971)',
+        'Louisa Francis (17 Sept 1897 – 30 May 1898)',
+        'Bernadine Louise (28 Oct 1898 – 21 Aug 1956)',
+        'Anthony Leo (9 Oct 1900 – 4 March 1969)',
+        { id: 'charlesEmileLarmann' },
+        'Esther Marguerite (2 Jan 1904 – 1976)'
+      ],
+      given: 'Eugenie Bernadine', surname: 'Moore', sex: 'F',
+      birth: { date: 'October 1874', place: 'New Orleans' },
+      death: { date: '23 February 1921', place: 'Orleans Parish' },
+      father: 'henryMoore', mother: 'valentineGoubler',
+      evidence: 'confirm',
+      branch: 'larmann',
+      blurb: 'Married at twenty-one, widowed at twenty-nine with six children under eight, dead at forty-six. Probably named for her aunt Eugenie Goubler, who died three years before she was born.',
+      records: [
+        {
+          title: 'Louisiana death record',
+          citation: 'Orleans Parish, 23 February 1921 — Vol. 181, p. 257',
+          text: 'LARMANN, EUGENIE B MOORE, age 46.',
+          highlight: 'Esther\'s ledger has the same day: "Feb. 23rd 1921, Age 46."'
+        },
+        {
+          title: 'Aunt Esther\'s ledger — her dates',
+          citation: 'Handwritten family record of Esther Marguerite Larmann; photocopy via Judy Larmann Gifford, 2026',
+          text: 'Mother: Eugenia Bernadine Moore. Born Oct. 1874 — married Tues. Nov. 12, 1895, age 21 — died Feb. 23rd, 1921, age 46.'
+        }
+      ],
+      note: 'An English or Irish surname in an otherwise German-French household — her father Henry Moore married into the Alsatian-sounding Goubler family. The day of her October 1874 birth is hard to read in the photocopy, a 5th or an 11th.'
+    },
+
+    johnCasparLarmann: {
+      children: [
+        { id: 'anthonyLarmann' },
+        'and, probably, the other Larmanns of his generation\'s New Orleans: John C. (c.1875–1909), Charles A. Clemence (c.1877–1880), Bernard Leo (c.1878–1955), and — by his second wife — Joseph Benedict (c.1885–1950) and Hilda'
+      ],
+      given: 'John Casper', surname: 'Larmann', sex: 'M',
+      origin: 'Hanover, Germany',
+      birth: { date: '1 January 1846', place: 'Hanover, Germany (per Esther\'s ledger; the town reads like "Gruswald")' },
+      death: { date: '21 November 1921', place: 'Orleans Parish' },
+      evidence: 'confirm',
+      branch: 'larmann',
+      immigrant: true,
+      blurb: 'The Larmann immigrant: "Casper Sr." to his family. A Hanoverian who married in New Orleans in 1870, buried his first wife in 1882, remarried in 1884, and died nine months after his daughter-in-law Eugenie — having outlived his son Anthony by seventeen years.',
+      records: [
+        {
+          title: 'First marriage',
+          citation: 'Orleans Parish, November 1870 — Vol. 1, p. 662',
+          text: 'MEVERS, MARIE E × LARMANN, JOHN G [sic — Casper].',
+          highlight: 'This settles a smudged digit in Esther\'s ledger: the wedding was 1870, not 1876 — nine and a half months before Anthony was born.'
+        },
+        {
+          title: 'Second marriage',
+          citation: 'Orleans Parish, April 1884 — Vol. 10, p. 589',
+          text: 'EHMANN, LOUISA MARGARET × LARMANN, JOHN CASPER.',
+          highlight: 'Two years after Emily\'s death. Judy\'s notes remember her as "Louise Standed"; the index makes her Louisa Margaret Ehmann (c.1856 – 17 Sept 1931), the "Mrs Casper Larmann" who stood godmother in 1898.'
+        },
+        {
+          title: 'Louisiana death record',
+          citation: 'Orleans Parish, 21 November 1921 — Vol. 183, p. 215',
+          text: 'LARMANN, JOHN CASPER, age 73.'
+        },
+        {
+          title: 'Aunt Esther\'s ledger — "Father\'s Parents"',
+          citation: 'Handwritten family record of Esther Marguerite Larmann; photocopy via Judy Larmann Gifford, 2026',
+          text: 'John Henry Casper Larmann (born [Gruswald?], Hanover, Germany) — Jan 1st. 1846. Emily Mevers — died Feb. 13 1882.'
+        }
+      ],
+      note: 'Esther gives his birth as 1 January 1846; the death index age of 73 in November 1921 back-computes to about 1848. The German birthplace word in the photocopy defies a confident reading — Gruswald, Grunwald or similar, somewhere in the old Kingdom of Hanover. Finding him on a passenger list or in a German civil register is an open front.'
+    },
+
+    emilyMevers: {
+      children: [
+        { id: 'anthonyLarmann' },
+        'and probably John C., Charles A. Clemence, and Bernard Leo'
+      ],
+      given: 'Marie Emily', surname: 'Mevers', sex: 'F',
+      birth: { date: 'about 1844–45' },
+      death: { date: '11 February 1882', place: 'Orleans Parish' },
+      evidence: 'confirm',
+      branch: 'larmann',
+      blurb: 'Anthony\'s mother, dead at thirty-seven when he was ten. A Dorothea Mevers — sister, cousin or niece — stood godmother to Charles Emile twenty years later, so her family stayed close.',
+      records: [
+        {
+          title: 'Louisiana death record',
+          citation: 'Orleans Parish, 11 February 1882 — Vol. 80, p. 272',
+          text: 'LARMANN, EMILY MEVERS, age 37.',
+          highlight: 'Esther\'s ledger, written decades later, gives 13 February — two days off the civil record.'
+        }
+      ],
+      note: 'The surname is Mevers in Esther\'s cursive and the state index, "Meners" in Judy\'s typed-up notes — plausibly Meiners in the German original.'
+    },
+
+    henryMoore: {
+      children: [
+        'Louise Moore (1877–1948)',
+        'Leontine Moore (1880–1947)',
+        'Anthony Moore (1883–1920)',
+        'Emile Moore',
+        { id: 'eugeniaMoore' }
+      ],
+      given: 'Henry', surname: 'Moore', sex: 'M',
+      birth: { date: '27 February 1847' },
+      death: { date: '9 December 1893', place: 'Orleans Parish' },
+      evidence: 'confirm',
+      branch: 'larmann',
+      blurb: 'Married Valentine Goubler in May 1871 and was dead at forty-six, leaving her a widow for thirty-three years. His children carried French names — Eugenie, Leontine, Emile — from their mother\'s side.',
+      records: [
+        {
+          title: 'Louisiana marriage record',
+          citation: 'Orleans Parish, May 1871 — Vol. 2, p. 162',
+          text: 'GOUBLER, VALENTINE × MOORE, HENRY.'
+        },
+        {
+          title: 'Louisiana death record',
+          citation: 'Orleans Parish, 9 December 1893 — Vol. 105, p. 417',
+          text: 'MOORE, HENRY, age 46.',
+          highlight: 'Esther\'s ledger reads "Dec 9, 189─" with the last digit clipped by the photocopier. The index restores it: 1893 — and the age of 46 lands exactly on her 27 February 1847 birthdate for him.'
+        }
+      ]
+    },
+
+    valentineGoubler: {
+      children: [
+        'Louise Moore (1877–1948)',
+        'Leontine Moore (1880–1947)',
+        'Anthony Moore (1883–1920)',
+        'Emile Moore',
+        { id: 'eugeniaMoore' }
+      ],
+      given: 'Marie Valentine', surname: 'Goubler', sex: 'F',
+      birth: { date: '20 March 1848 (her tomb reads 1847)' },
+      death: { date: '14 February 1926', place: 'Orleans Parish' },
+      father: 'josephGoubler', mother: 'victoireCirclot',
+      evidence: 'confirm',
+      branch: 'larmann',
+      blurb: 'Widowed at forty-five, she lived on to 1926 — long enough to bury her daughter Eugenie and her son Anthony. The tomb she lies in is her parents\', and it eventually took in her Larmann great-grandchildren\'s line too.',
+      records: [
+        {
+          title: 'Louisiana death record — under her maiden name',
+          citation: 'Orleans Parish, 14 February 1926 — Vol. 192, p. 169',
+          text: 'GOUBLER, MARIE VALENTINE.',
+          highlight: 'The same date Esther wrote: "Feb. 14 - 1926." The index\'s age column is garbled (it prints 7), but the date is exact.'
+        }
+      ],
+      note: 'Her sister was probably the Eugenie Goubler who died in 1871 at twenty-three — which would explain her daughter\'s name. Brothers Lucien (d. 1876, at 22) and Emile Joseph (d. 1889, at 37) share the family tomb.'
+    },
+
+    josephGoubler: {
+      children: [
+        'Emile Joseph Goubler (c.1852–1889)',
+        'Lucien Goubler (c.1853–1876)',
+        'Louis Goubler (1858–1940)',
+        'probably Eugenie Goubler (c.1848–1871)',
+        { id: 'valentineGoubler' }
+      ],
+      given: 'Joseph', surname: 'Goubler', sex: 'M',
+      birth: { date: 'about 1818' },
+      death: { date: '7 November 1892', place: 'Orleans Parish' },
+      evidence: 'confirm',
+      branch: 'larmann',
+      blurb: 'Patriarch of the tomb the Larmann line still uses. The Goubler name — likely Alsatian or German — was in New Orleans by the 1840s.',
+      records: [
+        {
+          title: 'Louisiana death record',
+          citation: 'Orleans Parish, 7 November 1892 — Vol. 102, p. 1145',
+          text: 'GOUBLER, JOSEPH, age 74.',
+          highlight: 'Age 74 in 1892 puts his birth at about 1818 — exactly what his tomb face says: 1818–1892.'
+        },
+        {
+          title: 'The tomb roster',
+          citation: 'John Larmann Sr. tomb; typed roster via Judy Larmann Gifford, 2026',
+          text: 'Joseph Goubler 1818–1892 · Victoire Circlot Goubler 1821–1895 · Lucien Goubler 1853–1876 · Emile Goubler 1852–1889 · Louis Goubler 1858–1940 · Valentine Goubler Moore 1847–1926 · Louise Moore 1877–1948 · Leontine Moore 1880–1947 · Anthony Moore 1883–1920 · Charles Larmann 1902–1969 · Esther Larmann 1904–1976 · Johanna Lemoine Larmann 1907–1992 · John Larmann 1926–2018.',
+          highlight: 'Five generations in one vault: a family tomb bought by Goublers in the 1870s, passed through the Moores to the Larmanns.'
+        }
+      ]
+    },
+
+    victoireCirclot: {
+      children: [
+        'The same Goubler children — see Joseph Goubler',
+        { id: 'valentineGoubler' }
+      ],
+      given: 'Victoire Théoline', surname: 'Circlot', sex: 'F',
+      birth: { date: 'about 1821' },
+      death: { date: '23 December 1895', place: 'Orleans Parish' },
+      evidence: 'confirm',
+      branch: 'larmann',
+      blurb: 'Her tomb face says Victoire Circlot; the death index reversed her to "Theoline Victoire." Judy\'s notes preserve both names.',
+      records: [
+        {
+          title: 'Louisiana death record',
+          citation: 'Orleans Parish, 23 December 1895 — Vol. 110, p. 79',
+          text: 'GOUBLER, THEOLINE VICTOIRE, age 74.'
+        }
+      ]
+    },
+
+    alonzoLemoine: {
+      children: [
+        'Robert Lemoine',
+        'Eugene (possibly Ernest) Lemoine',
+        'a son who died in the orphanage',
+        { id: 'johannaLemoine' }
+      ],
+      given: 'Alonzo', surname: 'Lemoine', sex: 'M',
+      evidence: 'confirm',
+      branch: 'lemoine',
+      blurb: 'Johanna\'s father, known so far only from the family\'s memory of him. A French-Creole name from the river parishes above New Orleans.',
+      note: 'The only Alonzo Lemoine in the state death index (Alonzo James, 1911–1973, Orleans) is a generation too young to be him — possibly a son or nephew. The elder Alonzo may be indexed under Alphonse, or died outside Louisiana. Finding his marriage to Genevieve Rousselle — not recorded in Orleans — is the next step for this line.'
+    },
+
+    genevieveRousselle: {
+      children: [
+        'The same Lemoine children — see Alonzo Lemoine',
+        { id: 'johannaLemoine' }
+      ],
+      given: 'Genevieve', nickname: 'Poppone', surname: 'Rousselle', sex: 'F',
+      death: { date: 'probably 24 August 1915', place: 'Orleans Parish' },
+      father: 'valeryRousselle', mother: 'marieEveDelatte',
+      evidence: 'confirm',
+      branch: 'lemoine',
+      blurb: 'Remembered in the family as "Poppone" — surely Poupone, an old Creole endearment. If the 1915 death is hers, Johanna lost her at eight, and the orphanage years follow directly.',
+      records: [
+        {
+          title: 'Louisiana death record — probably hers',
+          citation: 'Orleans Parish, 24 August 1915 — Vol. 164, p. 309',
+          text: 'ROUSSELLE, GENEVIEVE, age 54.',
+          highlight: 'Indexed under her maiden name, as this index often does with married women. Right name, right city, right generation — but no document yet ties this death to Johanna\'s mother, so it is offered as probable, not proven.'
+        }
+      ],
+      note: 'Her parents were Valery Rousselle and Marie Eve Delatte, per Judy\'s notes. Her siblings: Joseph, Aurelian (married Mamie Dixon), Marie (married Joseph Bernard Grelien) and Naomi (married a Zellar).'
+    },
+
+    valeryRousselle: {
+      children: [
+        { id: 'genevieveRousselle' },
+        'Joseph Rousselle',
+        'Aurelian Rousselle',
+        'Marie Rousselle Grelien',
+        'Naomi Rousselle Zellar'
+      ],
+      given: 'Valery', surname: 'Rousselle', sex: 'M',
+      evidence: 'confirm',
+      branch: 'lemoine',
+      blurb: 'Named at the head of Judy\'s "Johanna\'s Family" page. Nothing else is documented yet — no Valery Rousselle appears in the state death index, so he likely died before the index\'s reach or under another spelling.'
+    },
+
+    marieEveDelatte: {
+      children: [
+        { id: 'genevieveRousselle' },
+        'and the other Rousselle children — see Valery Rousselle'
+      ],
+      given: 'Marie Eve', surname: 'Delatte', sex: 'F',
+      evidence: 'confirm',
+      branch: 'lemoine',
+      blurb: 'Judy\'s notes first wrote her surname "Deslattes," then corrected it to Delatte — both are real river-parish spellings of the same family, thick in Ascension and St. James parishes.'
     },
 
     henryJohnWellmeyer: {
       siblings: [
         'Gertrude Cecilia Wellmeyer (b. 1884)',
         'Louis Mathias Wellmeyer (b. 1888)',
-        'Aloysius Roch Wellmeyer (b. 1890)',
-        'Henrietta Cecilia “Rita” Wellmeyer (1892–1961)',
-        'Mary Ione Wellmeyer (b. 1894)',
-        'Zoe Hyacynth Wellmeyer (b. 1897)',
-        'John Edmond Wellmeyer (1900–1983)'
+        'Aloysius Roch Wellmeyer (16 Aug 1890 – 30 Sept 1901) — drowned at eleven years, one month and fourteen days; the family counted it that closely',
+        'Henrietta Cecilia “Rita” Wellmeyer (29 Aug 1892 – 1961) — never married',
+        'Mary Ione Wellmeyer (b. 9 Sept 1894) — married Charles Edward Hammel; no children',
+        'Zoe Hyacynth Wellmeyer (16 Aug 1897 – 5 Nov 1955) — married Frederick Gottlieb Siegfried',
+        'John Edward Wellmeyer (29 March 1900 – Nov 1983) — named for his father; never married'
       ],
       children: [
         'Leslie Henry (1911–1994)',
-        'Clare Agnes (b. 1912)',
-        'Cyril Raymond (1915–1996)',
-        'Henry John Jr. (1918–2001)',
-        'Edward W. (1925–2021)',
+        'Clare Agnes (b. 1912) — married Wilfred B. Jones',
+        'Cyril Raymond (1915–1996) — married Cecelia Froeba, later Jean',
+        'Henry John Jr. (1918–2001) — married Rita Mae Bayard',
+        'Edward William (1925–2021) — married Alberta Rome',
         { id: 'annWellmeyer' }
       ],
       given: 'Henry John', surname: 'Wellmeyer', sex: 'M',
@@ -1161,7 +1472,7 @@
       father: 'johnWellmeyer', mother: 'catherineLange',
       evidence: 'verified',
       branch: 'wellmeyer',
-      blurb: 'The "H" of the Wellmeyer tomb at St. Vincent de Paul No. 3.',
+      blurb: '"Papa" in his granddaughter Judy\'s notes, and the "H" of the Wellmeyer tomb at St. Vincent de Paul No. 3.',
       records: [
         {
           title: 'Louisiana birth record',
@@ -1171,41 +1482,137 @@
         {
           title: 'Louisiana marriage record',
           citation: 'Orleans Parish, 1910 — Vol. 32, p. 303',
-          text: 'SANDER, BERTHA FLORENCE × WELLMEYER, HENRY JOHN.'
+          text: 'SANDER, BERTHA FLORENCE × WELLMEYER, HENRY JOHN.',
+          highlight: 'Judy\'s notes supply the day: 15 April 1910.'
         }
-      ]
+      ],
+      note: 'His brother Aloysius\'s drowning is recorded in Judy\'s notes with the family\'s own arithmetic — eleven years, one month, fourteen days — the kind of number a mother keeps.'
     },
 
     berthaSander: {
+      siblings: [
+        'Laura Elizabeth Sander — married Oscar Newman',
+        'Julia Sander — married James A. Olson',
+        'William Edward Sander (b. 18 April 1877) — married Violet Elizabeth Hunter',
+        'John Henry Sander — married Georgiana Schmitt',
+        'Louis Franklin Sander — married Gertrude “Aunt Gertie” Molenaar',
+        'Oscar Joseph Sander (b. April 1890) — married Marie D\'Lion'
+      ],
       children: [
         'Leslie Henry (1911–1994)',
         'Clare Agnes (b. 1912)',
         'Cyril Raymond (1915–1996)',
         'Henry John Jr. (1918–2001)',
-        'Edward W. (1925–2021)',
+        'Edward William (1925–2021)',
         { id: 'annWellmeyer' }
       ],
       given: 'Bertha Florence', surname: 'Sander', sex: 'F',
-      birth: { date: '1885' }, death: { date: '1956' },
-      evidence: 'verified', branch: 'wellmeyer'
+      birth: { date: '27 August 1885', place: 'New Orleans' },
+      death: { date: '1956' },
+      father: 'louisSander', mother: 'catharineOhr',
+      evidence: 'confirm',
+      branch: 'wellmeyer',
+      blurb: '"Grandma Bertha" of Judy\'s notes, which give her exact birthday and her whole birth family — six siblings from Laura to Oscar.'
+    },
+
+    louisSander: {
+      children: [
+        'Laura Elizabeth, Julia, William Edward (b. 1877), John Henry, Louis Franklin, Oscar Joseph (b. 1890)',
+        { id: 'berthaSander' }
+      ],
+      given: 'Louis Edward', surname: 'Sander', sex: 'M',
+      birth: { date: 'March 1851' },
+      death: { date: '12 November 1914', place: 'Orleans Parish' },
+      evidence: 'confirm',
+      branch: 'wellmeyer',
+      blurb: 'Married Catherine Ohr in New Orleans in June 1872. Judy\'s notes carried his death date to the day, and the state index confirms it exactly.',
+      records: [
+        {
+          title: 'Louisiana marriage record',
+          citation: 'Orleans Parish, June 1872 — Vol. 3, p. 109',
+          text: 'OHR, CATHERINE × SANDERS, LOUIS ED.'
+        },
+        {
+          title: 'Louisiana death record',
+          citation: 'Orleans Parish, 12 November 1914 — Vol. 161, p. 1051',
+          text: 'SANDER, LOUIS E, age 63.',
+          highlight: 'Judy\'s notes: "B-3/1851, D-11/12/1914." The index agrees on both, to the day.'
+        }
+      ]
+    },
+
+    catharineOhr: {
+      children: [
+        'The same seven — see Louis Edward Sander',
+        { id: 'berthaSander' }
+      ],
+      given: 'Catherine', surname: 'Ohr', sex: 'F',
+      evidence: 'confirm',
+      branch: 'wellmeyer',
+      blurb: 'A German surname — Ohr — in the same downtown New Orleans world as the Wellmeyers, Langes and Sanders her children married into.'
     },
 
     johnWellmeyer: {
+      siblings: [
+        'Henry Wellmeyer (13 Sept 1856 – 1 April 1889) — married Louisa Blohm',
+        'Louis Wellmeyer',
+        'Joseph Wellmeyer'
+      ],
       children: [
         'Gertrude Cecilia (b. 1884)',
         { id: 'henryJohnWellmeyer' },
         'Louis Mathias (b. 1888)',
-        'Aloysius Roch (b. 1890)',
+        'Aloysius Roch (1890–1901)',
         'Henrietta Cecilia “Rita” (1892–1961)',
         'Mary Ione (b. 1894)',
-        'Zoe Hyacynth (b. 1897)',
-        'John Edmond (1900–1983)'
+        'Zoe Hyacynth (1897–1955)',
+        'John Edward (1900–1983)'
       ],
-      given: 'John', surname: 'Wellmeyer', sex: 'M',
-      evidence: 'verified', branch: 'wellmeyer',
+      given: 'John Edward', surname: 'Wellmeyer', sex: 'M',
+      birth: { date: 'December 1853' },
+      death: { date: '15 December 1922', place: 'Orleans Parish' },
+      father: 'henryBernardWellmeyer', mother: 'carolineLobmeyer',
+      evidence: 'confirm',
+      branch: 'wellmeyer',
+      blurb: 'The middle Wellmeyer generation, restored by Judy\'s notes: son of Henry Bernard and Caroline, father of eight.',
       records: [
-        { title: 'Louisiana marriage record', citation: 'Orleans Parish, January 1883 — Vol. 9, p. 738', text: 'LANGE, CATHARINE ELIZABETH × WELLMEYER, JOHN.' }
-      ]
+        {
+          title: 'Louisiana marriage record',
+          citation: 'Orleans Parish, January 1883 — Vol. 9, p. 738',
+          text: 'LANGE, CATHARINE ELIZABETH × WELLMEYER, JOHN.'
+        },
+        {
+          title: 'Louisiana death record',
+          citation: 'Orleans Parish, 15 December 1922 — Vol. 186, p. 121',
+          text: 'WELLMEYER, JOHN, age 69.',
+          highlight: 'Judy\'s notes give 15 December 1920; the index says the same day in 1922, and its age of 69 fits the December 1853 birth her notes record. The index year is preferred.'
+        }
+      ],
+      note: 'His parent link to Henry Bernard Wellmeyer and Caroline Lobmeyer rests on Judy\'s family notes; no civil or church record naming them together has been pulled yet.'
+    },
+
+    henryBernardWellmeyer: {
+      children: [
+        { id: 'johnWellmeyer' },
+        'Henry Wellmeyer (1856–1889)',
+        'Louis Wellmeyer',
+        'Joseph Wellmeyer'
+      ],
+      given: 'Henry Bernard', surname: 'Wellmeyer', sex: 'M',
+      evidence: 'confirm',
+      branch: 'wellmeyer',
+      blurb: 'The earliest Wellmeyer the family record reaches — almost certainly the German immigrant of the line, in New Orleans by the early 1850s.'
+    },
+
+    carolineLobmeyer: {
+      children: [
+        'The same four sons — see Henry Bernard Wellmeyer',
+        { id: 'johnWellmeyer' }
+      ],
+      given: 'Caroline', surname: 'Lobmeyer', sex: 'F',
+      evidence: 'confirm',
+      branch: 'wellmeyer',
+      blurb: 'Wellmeyer married Lobmeyer: two German -meyer families joined a generation before the Langes and Sanders came into the line.'
     },
 
     catherineLange: {
@@ -1233,8 +1640,9 @@
     brunetti:  { label: 'Brunetti',           origin: 'Italy' },
     franovich: { label: 'Franovich',          origin: 'Dalmatia' },
     moizant:   { label: 'Moizant',            origin: 'French Louisiana' },
-    larmann:   { label: 'Larmann',            origin: 'German New Orleans' },
-    wellmeyer: { label: 'Wellmeyer',          origin: 'German New Orleans' }
+    larmann:   { label: 'Larmann & Moore',    origin: 'Hanover → New Orleans' },
+    lemoine:   { label: 'Lemoine & Rousselle', origin: 'Creole river parishes' },
+    wellmeyer: { label: 'Wellmeyer & Sander', origin: 'German New Orleans' }
   };
 
   global.FAMILY = { people: P, branches: BRANCHES, root: 'kevin' };

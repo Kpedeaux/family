@@ -343,11 +343,12 @@
     pedeaux:   'A ship’s carpenter’s son from the Nantes quayside. Michel Pedeau reached Louisiana after 1803 and was dead within a decade, leaving three boys on Bayou Lafourche.',
     aucoin:    'Acadians deported from Île Saint-Jean in 1758, landed at Saint-Malo, settled at Saint-Énogat, and sailed for Louisiana in 1785 with ten children aboard La Ville d’Archangel.',
     gaiennie:  'French New Orleans, established enough by the 1820s that a street in the Warehouse District still carries the name. A War of 1812 veteran sits at the head of it.',
-    brunetti:  'John Brunetti was born in Italy in May 1893, came through Ellis Island as a teenager, spent his twenties in Chicago and married in New Orleans in 1921. Almost certainly from Plataci in Calabria — an Arbëreshë village — though that is a lead, not yet proof.',
+    brunetti:  'John Brunetti was born in Italy in May 1893, spent his twenties in Chicago and married in New Orleans in 1921. The strongest lead on his origin points to Plataci in Calabria, an Arbëreshë village — a lead, deliberately not yet drawn on the tree.',
     franovich: 'Dalmatian oystermen in the lower delta — Buras, Empire, Port Sulphur. Anthony Franovich died at thirty-eight and lies at Our Lady of Good Harbor.',
     moizant:   'French Louisiana, married repeatedly into the Plaquemines Croatian community. Alfred Moizant lived to ninety-five.',
-    larmann:   'German New Orleans, with an English or Irish grandmother — Eugenie Moore — quietly complicating the picture.',
-    wellmeyer: 'German New Orleans. Ten of them share one tomb at St. Vincent de Paul No. 3, and that tomb is how the line was found at all.'
+    larmann:   'John Casper Larmann came from Hanover and married in New Orleans in 1870. His son Anthony married into the Moore and Goubler families, whose tomb the Larmanns still share. Aunt Esther’s handwritten ledger preserved every date.',
+    lemoine:   'Johanna Lemoine’s people — Lemoine, Rousselle, Delatte — are French-Creole names from the river parishes above New Orleans. Her mother died young, a brother died in the orphanage, and the line is the tree’s newest open front.',
+    wellmeyer: 'German New Orleans, four documented generations deep. Ten Wellmeyers share one tomb at St. Vincent de Paul No. 3, and that tomb is how the line was cracked.'
   };
 
   function renderStreams() {

@@ -23,7 +23,7 @@
 
   /* Evidence */
   --ev-verified:  #4a6b45;
-  --ev-confirm:   --gold;
+  --ev-confirm:   #a8873f;
   --ev-inferred:  #8a6a3a;
 
   /* Branch hues */
@@ -34,6 +34,7 @@
   --b-franovich:  #2f6b63;
   --b-moizant:    #7d6a3f;
   --b-larmann:    #55603f;
+  --b-lemoine:    #4a5d7d;
   --b-wellmeyer:  #6b4a52;
 
   --serif: 'Cormorant Garamond', 'Iowan Old Style', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
@@ -377,6 +378,18 @@ img { max-width: 100%; height: auto; display: block; }
 .prose { max-width: 68ch; }
 .prose p { font-family: var(--serif); font-size: 1.12rem; line-height: 1.72; }
 .prose h3 { font-size: 1.5rem; margin-top: 1.9em; }
+.prose ul { font-family: var(--serif); font-size: 1.1rem; line-height: 1.6; padding-left: 1.15em; margin: 0 0 1.2em; }
+.prose li { margin-bottom: .5em; }
+
+/* Archival data tables (field notes page) */
+.tablewrap { overflow-x: auto; margin: 24px 0; border: 1px solid var(--rule); border-radius: var(--radius); background: var(--card); box-shadow: var(--shadow); }
+.ftable { width: 100%; border-collapse: collapse; font-size: .9rem; min-width: 560px; }
+.ftable caption { text-align: left; font-size: .74rem; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-3); padding: 12px 14px 4px; }
+.ftable th { text-align: left; font-size: .72rem; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-3); padding: 10px 14px; border-bottom: 1px solid var(--rule); background: var(--paper-2); }
+.ftable td { padding: 9px 14px; border-bottom: 1px solid var(--rule-soft); vertical-align: top; }
+.ftable tr:last-child td { border-bottom: 0; }
+.ftable .ok { color: var(--ev-verified); font-weight: 600; white-space: nowrap; }
+.ftable .fix { color: var(--oxblood); font-weight: 600; white-space: nowrap; }
 .pull {
   font-family: var(--serif); font-style: italic; font-size: 1.2rem;
   border-left: 2px solid var(--oxblood); padding: 4px 0 4px 20px;

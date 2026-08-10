@@ -6,13 +6,20 @@ A static, dependency-free family-history site. Deploys to Cloudflare Pages at
 ## Structure
 
 ```
-index.html                 the whole page (semantic HTML, no templating)
+index.html                 the main page (semantic HTML, no templating)
+research.html              "Field notes" — the investigations, verdicts and open questions
 assets/css/styles.css      all styles; design tokens live in :root
 assets/js/data.js          THE DATA — every person, record and source
 assets/js/app.js           rendering, tree interaction, detail panel, search
 assets/img/                portraits and record images
+research/RESEARCH.md       the full research log: verbatim records, citations, corrections
+From-Judy-Larmann-Gifford/ raw family document scans — GITIGNORED, local only
 _headers                   Cloudflare Pages security headers
 ```
+
+`research/RESEARCH.md` is the evidence locker: every fact on the site traces to it. Update it in
+the same commit as any `data.js` change. The raw scans folder stays out of git deliberately;
+publish scans only if Kevin decides to.
 
 There is no build step and no framework. Open `index.html` in a browser and it works,
 including from `file://`.
@@ -107,7 +114,8 @@ The asset URLs in `index.html` also carry a `?v=` token:
 <script src="assets/js/app.js?v=20260809b"></script>
 ```
 
-**Bump that token whenever you edit CSS or JS** (any new value works — a date is easiest). It
+**Bump that token whenever you edit CSS or JS** (any new value works — a date is easiest), and
+remember `research.html` carries the stylesheet token too — bump it in both pages. It
 defeats any intermediary or service worker that ignores cache headers. If a change still doesn't
 appear after a deploy, purge the Cloudflare cache: Pages project → Caching → Purge Everything.
 

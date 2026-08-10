@@ -2,3 +2,7 @@
 Thumbs.db
 node_modules/
 *.log
+
+# Raw family document scans — kept local, not published, until Kevin says otherwise.
+# The transcriptions live in research/RESEARCH.md.
+From-Judy-Larmann-Gifford/
