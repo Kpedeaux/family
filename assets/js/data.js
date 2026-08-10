@@ -389,18 +389,24 @@
           title: 'Marriage — Church of the Assumption, Plattenville',
           citation: 'Diocese of Baton Rouge, Vol. 3 (1804–1818), ASM-2, 127',
           text: 'Michel, of Nantes, Brittany, France (Michel and Jeanne MURAILLE) m. 26 Jan 1808 Florence Marguerite AUCOIN, of St. Malo, Brittany, France (Michel and Isabelle HEBERT, both decd.) wit. Pierre Hypolite Brais; Jean Baptiste Tojan; Isaac Landry.'
+        },
+        {
+          title: 'The 1810 census — his only census',
+          citation: 'Assumption Parish, Territory of Orleans, 1810 — NARA M252, p. 30, indexed as "Michel Peddoe"',
+          text: 'Males: one aged 16–26, three aged 26–45, none 45 and upwards. Females: one 10–16, one 16–26, one 26–45 (Florence, then 29). Neighbors on the same page: Isaac Landry, a witness at his wedding; Pierre Cansien [Cancienne], the future in-law; Olivier Potier, his wife\'s brother-in-law; Jean Baptiste Aucoin.',
+          highlight: 'No man of forty-five or over lived in this household. Michel André, born 1765, was past forty-five by census time; Michel Pierre, born 1777, was thirty-three. The tick marks lean hard toward Michel Pierre as the brother who crossed.'
         }
       ],
       sources: [
         { label: 'Diocese of Baton Rouge sacramental abstracts', url: 'https://diobr.org/archives-publications' }
       ],
-      note: 'For years this line was thought to be a dead end — "no child of the marriage appears anywhere." The children were in the published register abstracts the whole time. Three sons: Michel (1808), Jean Baptiste (1810) and Antoine Florentin (1812). In the entire 1850 census of Louisiana there are exactly two adult Pedeau men, Baptiste and Antoine, living in adjacent households in Assumption Parish. He did NOT die on 22 September 1811 as Find a Grave has it — that is impossible, since Antoine was born in November 1812. The widely-cited c.1767 birth year was back-calculated from that bad burial date and is equally unreliable.'
+      note: 'For years this line was thought to be a dead end — "no child of the marriage appears anywhere." The children were in the published register abstracts the whole time. Three sons: Michel (1808), Jean Baptiste (1810) and Antoine Florentin (1812). He did NOT die on 22 September 1811 as a since-deleted Find a Grave memorial had it — impossible, since Antoine was born in November 1812. As to WHICH Michel he was: the 1810 census, found in August 2026, is the first document that discriminates. His household held no male aged forty-five or over — which fits Michel Pierre, then thirty-three, and sits badly with Michel André, four months past forty-five at the official census day. Probable rather than proven: a man just over the bracket edge could be mis-slotted, the household was extended (four grown men; the toddler Michel is unticked, perhaps with Aucoin kin while Florence carried Jean Baptiste, born that November), and the Nantes burial registers still hold the final word. But the scale now tips toward the Chantenay-born younger brother.'
     },
 
     michelPedeauPere: {
       children: [
         { id: 'michelPedeau' },
-        'He was either Michel André (b. 7 April 1765) or Michel Pierre (b. 20 May 1777, Chantenay) — the record cannot yet say which of the two crossed',
+        'He was either Michel André (b. 7 April 1765) or Michel Pierre (b. 20 May 1777, Chantenay) — and the 1810 census age columns now favor Michel Pierre, though the Nantes burial registers hold the final word',
         'Marie (1766–1772)',
         'Jeanne Yvonne (b. 1769)',
         'Michel (1770–1771)',
@@ -432,7 +438,7 @@
     jeanneMuraille: {
       children: [
         { id: 'michelPedeau' },
-        'He was either Michel André (b. 7 April 1765) or Michel Pierre (b. 20 May 1777, Chantenay) — the record cannot yet say which of the two crossed',
+        'He was either Michel André (b. 7 April 1765) or Michel Pierre (b. 20 May 1777, Chantenay) — and the 1810 census age columns now favor Michel Pierre, though the Nantes burial registers hold the final word',
         'Marie (1766–1772)',
         'Jeanne Yvonne (b. 1769)',
         'Michel (1770–1771)',

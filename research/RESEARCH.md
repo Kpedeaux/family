@@ -994,11 +994,35 @@ the surname mangled exactly as 1850's "Pedo" was. Record 15263; census page imag
 The record and image pages are paywalled logged-out (the birth-year filter control test showed
 this collection carries no derived birth field, so the un-redaction trick cannot reach the
 columns; a field-checklist teaser HINTED at "Males 26 thru 44" with no 45+, but that panel is
-marketing-grade — noted, not evidence). **To finish: read one line of the image** — via a free
-FamilySearch account (1810 census, Assumption Parish, Territory of Orleans — Kevin can register;
-the assistant does not create accounts) or any library's Ancestry Library Edition. Also record
-Florence's column (F 26–44 expected; she was 29) and little Michel's (M under 10) as a
-same-line sanity check.
+marketing-grade — noted, not evidence). Kevin then registered a free FamilySearch account
+himself, opened the image (FS ark 1:1:XH2C-4QT → "View Original Document"), and saved the page
+as a PDF when the desktop app crashed — archived at
+`Memory\census-images\1810-assumption-p30-M252-michel-peddoe.pdf`.
+
+**THE READING (from the archived image, zoomed and column-aligned against the running totals):**
+
+> **"Michel Peddoe," Assumption, p. 30 (M252):**
+> Free white males: <10 **·** | 10–16 **·** | 16–26 **1** | 26–45 **3** | 45+ **·**
+> Free white females: <10 **·** | 10–16 **1** | 16–26 **1** | 26–45 **1** | 45+ **·**
+> No other free persons; no slaves. Eight people, none under ten, none over forty-five.
+>
+> Same page, adjacent lines: Michel Clos · **Isaac Landry** (1808 wedding witness) · Michel
+> Peddoe · **Pierre Cansien** [Cancienne — the future in-law] · Joseph Granger · **Olivier
+> Potier** [Florence's brother-in-law] · … · Jacques + F. Barillo [Barrilleaux] · … · **Jn. Bte.
+> Aucoin** · Belonie Bertran · Nicholas Hebert. The Aucoin-Pedeau neighborhood entire — the
+> identification is certain.
+
+**VERDICT [CONFIRM]: the census favors MICHEL PIERRE (b. 20 May 1777, Chantenay) as the
+emigrant.** The household contains NO male aged 45 or over; Michel André (b. 7 Apr 1765) was
+45y4m at the official census day (older at actual enumeration), while Michel Pierre was 33 —
+one of the three males 26–45. Caveats, stated honestly: (a) a man four months past the bracket
+edge could be mis-slotted by an enumerator; (b) the household is extended — four grown men and
+three women (hands, boarders, or Aucoin kin — Constant-Jean-Baptiste Aucoin, b. 1782, fits the
+16–26 or 26–45 males; Florence, 29, is the F 26–45); (c) the toddler Michel (b. Oct 1808) is
+unticked — infants were routinely missed, or he was with kin while Florence carried Jean
+Baptiste (born that November). **The site now states the Michel Pierre lean at confirm tier.
+Final proof remains the French test: find Michel André dead or living-on in the Nantes registers
+(tables décennales), or Michel Pierre demonstrably absent from them.**
 
 ### Casper — documents to order next
 
