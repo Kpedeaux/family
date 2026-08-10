@@ -405,6 +405,10 @@
     },
 
     michelPedeauPere: {
+      siblings: [
+        'Half-siblings from his father\'s first marriage: Madeleine Pédeau (b. 1716) and Jean Pédeau (b. 1721)',
+        'Full siblings: Martin (1729–1746), Anne (b. 1732), Sébastienne (b. 1733), Jeanne (b. 1735), Marie (b. 1735), Sébastienne (b. 1737), Pierre (b. 1742)'
+      ],
       children: [
         { id: 'michelPedeau' },
         'He was either Michel André (b. 7 April 1765) or Michel Pierre (b. 20 May 1777, Chantenay) — and the 1810 census age columns now favor Michel Pierre, though the Nantes burial registers hold the final word',
@@ -418,10 +422,11 @@
       given: 'Michel', surname: 'Pédeau', sex: 'M',
       birth: { date: '19 February 1739', place: 'Sainte-Pazanne, Pays de Retz' },
       death: { date: '30 December 1799', place: 'Nantes' },
+      father: 'pierrePedeauFarinier', mother: 'anneBety',
       occupation: 'Charpentier et calfat de marine — ship\'s carpenter and caulker, port of Nantes',
-      evidence: 'verified',
+      evidence: 'confirm',
       branch: 'pedeaux',
-      blurb: 'Lived "au bas de la Fosse" — the foot of the Nantes quay, in the thick of the port.',
+      blurb: 'A miller\'s son from Sainte-Pazanne who went to the city and the sea trades. Lived "au bas de la Fosse" — the foot of the Nantes quay, in the thick of the port.',
       records: [
         {
           title: 'Baptism of his son Michel André — Nantes, paroisse Saint-Nicolas',
@@ -433,7 +438,81 @@
       sources: [
         { label: 'Archives municipales de Nantes — register viewer', url: 'https://archives-numerisees.nantes.fr/v2/am441/visualiseur/etatcivil.html?id=451014875' },
         { label: 'AD44 — Sainte-Pazanne BMS 1739, 3 E 186/3', url: 'https://archives-numerisees.loire-atlantique.fr/v2/ark:/42067/a529e4a123c8e50b841cceb60fd771ab' }
-      ]
+      ],
+      note: 'One wrinkle, kept honestly: a compiler notes that his 1739 baptism act appears to name his mother "Marie" rather than Anne. His father\'s 1729 remarriage to Anne Béty and the run of siblings born 1729–1742 fit the family as given here, but the baptism act deserves a fresh reading in the Sainte-Pazanne register, which is online.'
+    },
+
+    pierrePedeauFarinier: {
+      children: [
+        'By Jeanne Garnier: Madeleine (b. 1716), Jean (b. 1721)',
+        'By Anne Béty: Martin (1729–1746), Anne (b. 1732), Sébastienne (b. 1733), Jeanne (b. 1735), Marie (b. 1735), Sébastienne (b. 1737), Pierre (b. 1742)',
+        { id: 'michelPedeauPere' }
+      ],
+      given: 'Pierre', surname: 'Pédeau', sex: 'M',
+      origin: 'Sainte-Croix de Machecoul, Pays de Retz',
+      birth: { date: 'about 1683', place: 'Sainte-Croix de Machecoul' },
+      death: { date: 'between 1746 and 1764' },
+      lifespanText: 'c.1683 – between 1746 and 1764',
+      father: 'celtonPedeau', mother: 'reneeCharteau',
+      evidence: 'confirm',
+      branch: 'pedeaux',
+      occupation: 'Farinier — flour miller, probably at the Moulin de la Marche, Sainte-Pazanne',
+      blurb: 'The miller of Sainte-Pazanne. Born at Machecoul about 1683, he married there twice — Jeanne Garnier in 1705, and after her death Anne Béty in 1729 — and ground flour, probably at the Moulin de la Marche near the rue de l\'Abreuvoir. His son Michel left the mill for the Nantes shipyards; his grandson left France altogether.',
+      records: [
+        {
+          title: 'First marriage — Sainte-Croix, Machecoul',
+          citation: '10 November 1705, to Jeanne Garnier — act imaged at the AD Loire-Atlantique',
+          text: 'The act gives his age as 22 and calls him "de Sainte Croix de Machecoul" — and names his parents, though his father\'s first name is nearly illegible.'
+        },
+        {
+          title: 'Second marriage — Sainte-Croix, Machecoul',
+          citation: '10 January 1729, to Anne Béty (Bethuis) — act imaged at the AD Loire-Atlantique',
+          text: 'His first wife is cited in this act, tying the two marriages to one man. Anne Béty is the mother of Michel, the future ship\'s carpenter.'
+        }
+      ],
+      sources: [
+        { label: 'Marriage act, 1705 — AD44 (Archinoe viewer)', url: 'https://www.archinoe.fr/v2/ark:/42067/b437331c4553d1fd4107ab80fd216841' },
+        { label: 'Marriage act, 1729 — AD44 (Archinoe viewer)', url: 'https://www.archinoe.fr/v2/ark:/42067/640b75d1d5bba0e791052979e9bb56a5' },
+        { label: 'Geneanet — duraton\'s Pédeau research', url: 'https://gw.geneanet.org/duraton?n=pedeau&p=pierre' }
+      ],
+      note: 'Assembled from compiled French research that cites and links the original acts; carried here at single-source confidence until the acts are re-read directly.'
+    },
+
+    anneBety: {
+      children: [
+        'The seven of the second marriage — see Pierre Pédeau',
+        { id: 'michelPedeauPere' }
+      ],
+      given: 'Anne', surname: 'Béty', sex: 'F',
+      alsoKnownAs: 'Bethuis',
+      birth: { date: 'before 1704' },
+      death: { date: 'before 1764' },
+      lifespanText: 'd. before 1764',
+      evidence: 'confirm',
+      branch: 'pedeaux',
+      blurb: 'The miller\'s second wife, married at Machecoul in January 1729, mother of the ship\'s carpenter. Her surname wobbles between Béty and Bethuis in the compilers\' readings — and one act may call her Marie.'
+    },
+
+    celtonPedeau: {
+      children: [
+        { id: 'pierrePedeauFarinier' },
+        'and possibly brothers Michel and René Pédeau — the researcher who found them writes, honestly, that he has no proof'
+      ],
+      given: 'Celton(?)', surname: 'Pédeau', sex: 'M',
+      evidence: 'confirm',
+      branch: 'pedeaux',
+      blurb: 'The edge of the record. He is named as Pierre\'s father in the 1705 marriage act, but three centuries have nearly erased his first name — the researcher who read the act writes "j\'ai cru lire Celton": I thought I read Celton. A Pays de Retz man of the mid-1600s, and for now, the first Pédeau.',
+      note: 'His name, whatever it was, survives only in one hard-to-read line of a 1705 Machecoul marriage act. A fresh reading of that act — imaged online — is the only way to recover it.'
+    },
+
+    reneeCharteau: {
+      children: [
+        { id: 'pierrePedeauFarinier' }
+      ],
+      given: 'Renée', surname: 'Charteau', sex: 'F',
+      evidence: 'confirm',
+      branch: 'pedeaux',
+      blurb: 'Named clearly, where her husband\'s name is not, in their son Pierre\'s 1705 marriage act. A woman of the Machecoul country in the middle 1600s.'
     },
 
     jeanneMuraille: {

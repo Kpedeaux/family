@@ -1024,6 +1024,45 @@ Baptiste (born that November). **The site now states the Michel Pierre lean at c
 Final proof remains the French test: find Michel André dead or living-on in the Nantes registers
 (tables décennales), or Michel Pierre demonstrably absent from them.**
 
+### The miller of Sainte-Pazanne — the Pédeau line extended (2026-08-10, session 4)
+
+Kevin asked for the ship's carpenter's father. From duraton's Geneanet research (act-citing,
+with Archinoe image links; jlthomas corroborates with minor variances) — all [CONFIRM]:
+
+- **Pierre Pédeau, farinier (flour miller)** — b. c. 1683, Sainte-Croix de Machecoul ("aged 22"
+  and "de Sainte Croix de Machecoul" on his marriage act); worked probably at the **Moulin de la
+  Marche**, Sainte-Pazanne (so placed at his son Pierre's 1742 baptism); d. between 1746 (son
+  Martin's death, where he's cited) and 1764.
+- m. (1) **10 Nov 1705, Sainte-Croix de Machecoul: Jeanne Garnier** (b. c. 1682; d. c. 1728 per
+  jlthomas) — children Madeleine (1716), Jean (1721). Act: archinoe.fr ark
+  b437331c4553d1fd4107ab80fd216841.
+- m. (2) **10 Jan 1729, Sainte-Croix de Machecoul: Anne Béty [Bethuis]** (†/1764) — children
+  Martin (1729–1746), Anne (1732), Sébastienne (1733), Jeanne (1735), Marie (1735), Sébastienne
+  (1737), **Michel (1739–1799, the ship's carpenter)**, Pierre (1742). Act: archinoe.fr ark
+  640b75d1d5bba0e791052979e9bb56a5.
+- **Pierre's parents, named in the 1705 act: "[Illisible] Pédeau" × Renée Charteau.** The
+  father's first name is nearly illegible; duraton: "j'ai cru lire **Celton**." Possible brothers
+  Michel and René Pédeau ("no proof," the compiler says). The edge of the record, mid-1600s
+  Pays de Retz.
+- Standing caveat carried on the site: Michel-1739's baptism act reportedly reads the mother as
+  "Marie," not Anne — re-read 3 E 186/3 directly.
+- Site updated: +4 people (Pierre the miller, Anne Béty, Celton(?), Renée Charteau) → 71 total;
+  michelPedeauPere link set to confirm-tier accordingly. The family arc now runs miller →
+  ship's carpenter → emigrant → bayou farmers → New Orleans.
+
+### Did Michel André stay in France? — the closing test (queued)
+
+If Michel André (b. 1765) married, fathered, or died in France after January 1808, the
+Louisiana emigrant is Michel Pierre beyond argument. Sources, in order of safety:
+1. **Geneanet indexed relevés** (CGO indexes Nantes marriages/burials) — search results readable
+   without subscription in a browser.
+2. **Nantes tables décennales** (décès + mariages, 1793 onward, by city section) at
+   archives-numerisees.nantes.fr — image paging. ⚠️ Deep-zoom viewers have crashed the desktop
+   app repeatedly; use **Kevin's print-to-PDF pattern**: the assistant navigates to the right
+   register and page range, Kevin saves the P-section pages as PDFs, the assistant reads them
+   from disk (this exact pattern read the 1810 census).
+3. Chantenay TD likewise for Michel Pierre's absence (small commune, quick).
+
 ### Casper — documents to order next
 
 1. **Times-Picayune 22 + 23 Nov 1921, p. 2 col. 8** — his obituary notices (NOPL microfilm, or
