@@ -374,9 +374,10 @@
         'Jean Baptiste Pedeau (b. 12 Nov 1810)',
         { id: 'antoineFlorentin' }
       ],
-      given: 'Michel', surname: 'Pedeau', sex: 'M',
+      given: 'Michel', surname: 'Pedeau', suffix: '(probably Michel Pierre)', sex: 'M',
+      alsoKnownAs: 'recorded in Louisiana only as "Michel" — the 1810 census points to him being Michel Pierre, baptized at Chantenay 20 May 1777, rather than his elder brother Michel André (b. 1765)',
       origin: 'Nantes, Brittany',
-      birth: { date: 'about 1765–1777', place: 'Nantes' },
+      birth: { date: 'probably 20 May 1777, else 7 April 1765', place: 'Chantenay or Nantes' },
       death: { date: 'between early 1812 and November 1814', place: 'Assumption Parish, Louisiana' },
       lifespanText: 'in Louisiana by 1808 — d. 1812×1814',
       father: 'michelPedeauPere', mother: 'jeanneMuraille',
