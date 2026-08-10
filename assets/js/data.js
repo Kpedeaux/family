@@ -1131,8 +1131,8 @@
       father: 'alonzoLemoine', mother: 'genevieveRousselle',
       evidence: 'confirm',
       branch: 'lemoine',
-      photo: 'assets/img/goubler-tomb.jpg',
-      photoCaption: 'The family tomb. Her granite marker, shared with Charles, stands at the left of the step.',
+      photo: 'assets/img/goubler-tomb-new-tablet.jpg',
+      photoCaption: 'The family tomb, restored. Her name stands with Charles\'s near the foot of the new tablet.',
       blurb: 'For years she was the blankest name on this side of the tree — not even in the Orleans birth index. Judy Larmann Gifford\'s family notes gave her back her parents, her middle name, and a hard childhood: a brother lost in the orphanage.',
       records: [
         {
@@ -1379,8 +1379,8 @@
       death: { date: '7 November 1892', place: 'Orleans Parish' },
       evidence: 'confirm',
       branch: 'larmann',
-      photo: 'assets/img/goubler-tomb.jpg',
-      photoCaption: 'The Goubler family tomb. The pediment reads "Family — Joseph Goubler"; the broken original tablet leans in the doorway between the family\'s new granite markers. Family photograph, All Saints\' Day 2023.',
+      photo: 'assets/img/goubler-tomb-new-tablet.jpg',
+      photoCaption: 'The Goubler family tomb, restored with its new marble tablet — thirteen names, Lucien Goubler to John R. Larmann Sr. The pediment reads "Family — Joseph Goubler." Family photograph.',
       blurb: 'Patriarch of the tomb the Larmann line still uses. The Goubler name — likely Alsatian or German — was in New Orleans by the 1840s.',
       records: [
         {

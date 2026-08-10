@@ -797,6 +797,11 @@ Cemetery not yet confirmed in writing (presumed St. Vincent de Paul No. 3, where
 buried). The photo files themselves should be dropped into the repo so Joseph's and Johanna's
 panels can carry them.
 
+*Site presentation note: Kevin wants the RESTORED tomb shown as the tomb's portrait
+(goubler-tomb-new-tablet.jpg), not the broken-state All Saints' Day 2023 photo. The pre-restoration
+portrait stays in assets/img/goubler-tomb.jpg for the record but is only used on Valentine's panel
+as the old-tablet document close-up (that file is the tablet close-up, goubler-tomb-old-tablet.jpg).*
+
 **The NEW tablet (Kevin's second photo, 2026-08-10):** matches Judy's typed roster line for line —
 her roster was evidently a transcription of this stone. Thirteen names, Lucien Goubler through
 John R. Larmann Sr. It also spells **VICTOIRE CIRLOT GOUBLER**, confirming the old slab's CIRLOT

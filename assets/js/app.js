@@ -201,18 +201,20 @@
 
     $('#panel-branch').style.setProperty('--branch', b ? `var(--b-${b})` : 'var(--oxblood)');
     $('#panel-name').textContent  = fullName(p);
-    $('#panel-dates').textContent = [lifespan(p), p.occupation].filter(Boolean).join(' · ');
+    /* Age at death sits right beside the lifespan, so nobody has to do the math. */
+    const ageLine = ageAtDeath(p);
+    const span0 = lifespan(p);
+    $('#panel-dates').textContent = [
+      span0 ? span0 + (ageLine ? ` (${ageLine})` : '') : '',
+      p.occupation
+    ].filter(Boolean).join(' · ');
 
     const rows = [];
     const rel = relationLabel(TREE.id === id ? 0 : depthOf(id), p.sex);
     if (rel) rows.push(['Relation', 'Kevin’s ' + rel]);
     if (p.alsoKnownAs) rows.push(['Also', p.alsoKnownAs]);
     if (p.birth && (p.birth.date || p.birth.place)) rows.push(['Born', [p.birth.date, p.birth.place].filter(Boolean).join(', ')]);
-    if (p.death && (p.death.date || p.death.place)) {
-      const when = [p.death.date, p.death.place].filter(Boolean).join(', ');
-      const age = ageAtDeath(p);
-      rows.push(['Died', age ? `${when} · ${age}` : when]);
-    }
+    if (p.death && (p.death.date || p.death.place)) rows.push(['Died', [p.death.date, p.death.place].filter(Boolean).join(', ')]);
     if (p.occupation) rows.push(['Trade', p.occupation]);
     if (b && branches[b]) rows.push(['Line', `${branches[b].label} — ${branches[b].origin}`]);
     if (p.evidence) rows.push(['Evidence', `${EVIDENCE_LABEL[p.evidence]} — ${EVIDENCE_HELP[p.evidence]}`]);
