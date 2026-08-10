@@ -970,11 +970,35 @@ is filed under GANIER/GAGNIER.**
 ### Michel front, same session (status)
 
 FG memorial 155718958 ("d. 1811, aged 44") has been **removed from Find a Grave** — the phantom
-date is gone from the internet and its age claim dies unverifiable. Geneanet is now behind a
-bot-check the assistant will not bypass (Kevin can open gw.geneanet.org/duraton?n=pedeau in his
-own browser). usgwarchives.net was unreachable even from a real browser tonight — the 1810
-Assumption census transcript needs another route (library Ancestry session, or FamilySearch
-login by Kevin). The Chantenay/Nantes tables décennales remain the decisive French test.
+date is gone from the internet and its age claim dies unverifiable. usgwarchives.net is fully
+down (browser included). The Chantenay/Nantes tables décennales remain the decisive French test.
+
+**Geneanet read (bot-wall cleared on a later pass):** duraton's tree has **no French death for
+either Michel**. It equates Michel André (b. 7 Apr 1765) with the emigrant, but its "deceased
+before 1814" is back-derived from Florence's remarriage, not a French record. **Michel Pierre
+(b. 20 May 1777, Chantenay) is a total blank after birth** — no marriage, no death, no trace.
+Also banked: grandfather Pierre Pedeau (b. 1683) married twice — (1705) Jeanne Garnier, (1729)
+Anne Bethuis — which explains the old mother-name discrepancy; Murail grandparents Pierre Murail
+(1701–1773) × Marguerite Germain (1704–1747).
+
+### ★ THE 1810 CENSUS HOUSEHOLD — FOUND (2026-08-10) ★
+
+Ancestry's 1810 index (logged out, collection 7613, fuzzy search restricted to Louisiana)
+returns exactly one candidate in the whole state: **"Michel Peddie — Assumption, Louisiana"** —
+the surname mangled exactly as 1850's "Pedo" was. Record 15263; census page image
+4433226_00033. **The household exists; the age columns decide the Michel question:**
+
+- Head male ticked in **"26–44"** → born 1766–1784 → the emigrant is **Michel Pierre (b. 1777)**
+- Head male ticked in **"45 and upwards"** → born by 1765 → the emigrant is **Michel André (b. 1765)**
+
+The record and image pages are paywalled logged-out (the birth-year filter control test showed
+this collection carries no derived birth field, so the un-redaction trick cannot reach the
+columns; a field-checklist teaser HINTED at "Males 26 thru 44" with no 45+, but that panel is
+marketing-grade — noted, not evidence). **To finish: read one line of the image** — via a free
+FamilySearch account (1810 census, Assumption Parish, Territory of Orleans — Kevin can register;
+the assistant does not create accounts) or any library's Ancestry Library Edition. Also record
+Florence's column (F 26–44 expected; she was 29) and little Michel's (M under 10) as a
+same-line sanity check.
 
 ### Casper — documents to order next
 
