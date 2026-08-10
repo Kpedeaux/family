@@ -770,6 +770,33 @@ LARMANN, JOHN MATHIAS), Vol. 20 p. 754**.
 - LOC Chronicling America blocked the session at a bot-check; untried. Worth retrying another
   day for 1870s–1920s New Orleans papers full-text ("Larmann").
 
+### The tomb photographed (2026-08-10, Kevin)
+
+Kevin photographed the Goubler/Larmann tomb: the pediment reads **"FAMILY — JOSEPH GOUBLER"**,
+confirming the deduced ownership chain. The original marble tablet has broken (the family replaced
+it; a photo of the NEW tablet with all dates is coming from Kevin's mother). Read from the photos:
+
+**Old tablet (weathered, partial):** Lucien Goubler d. Oct 2[3] 1876 · Emile Goubler d. 1889 ·
+Joseph Goubler d. Nov [5 or 7] 1892 aged 74 yrs · **Victoire CIRLOT, wife of Joseph Goubler**,
+d. 1895 [stone spelling: CIRLOT — Judy's "Circlot" was her reading of this slab; index: "Theoline
+Victoire"] · **Anthony Moore d. Nov. 1, 1920 aged 37 yrs** [exact date new] · **Valentine Goubler,
+wife of Henry Moore, d. Feb. 14 1926 aged 77 yrs** [names the marriage in stone; resolves the
+index's garbled age "7" → 77] · **Louis Goubler d. March [3?] 1940** [the death the state GOUBL
+index sweep is missing — now stone-documented] · Leontine M. Moore d. March 27 1947 aged 6[6?] ·
+Louise M. Moore d. [May?] 12 194[8].
+
+**New granite tablets:** LARMANN — Charles Emile, July 12 1902 – July 13 1969 ✓ · **Johanna
+Lemoine, Jan. 9 1907 – Dec. 11 1992** [exact dates NEW — previously years only] · **Esther
+Marguerite, Jan. 2 1904 – Sept. 14 1976** [death day NEW; also explains her absence from the
+state index, whose coverage thins right at 1976] · John Richard, Sept. 10 1926 – Dec. 30 2018 ✓
+[the stone agrees with our corrected 30 December].
+
+Unexplained: the marble base step carries the name **"GRETHER"** and a fragment reading "…years" —
+possibly the stonecutter's signature, possibly an earlier interment. Ask Judy / Kevin's mom.
+Cemetery not yet confirmed in writing (presumed St. Vincent de Paul No. 3, where John Sr. is
+buried). The photo files themselves should be dropped into the repo so Joseph's and Johanna's
+panels can carry them.
+
 ### Casper — documents to order next
 
 1. **Times-Picayune 22 + 23 Nov 1921, p. 2 col. 8** — his obituary notices (NOPL microfilm, or

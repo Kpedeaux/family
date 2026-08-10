@@ -1075,7 +1075,7 @@
         'Louisa Francis Larmann (17 Sept 1897 – 30 May 1898) — died at eight months',
         'Bernadine Louise Larmann (28 Oct 1898 – 21 Aug 1956) — married Ed Porter in 1926, later Harry G. Johnson',
         'Anthony Leo Larmann (9 Aug 1900 – 4 March 1969) — father of Barbara and of the attorney Lawrence “Larry” Emig Larmann',
-        'Esther Marguerite Larmann (2 Jan 1904 – 1976) — never married; her handwritten ledger preserved this whole family\'s dates'
+        'Esther Marguerite Larmann (2 Jan 1904 – 14 Sept 1976) — never married; her handwritten ledger preserved this whole family\'s dates'
       ],
       children: [
         'Esther Mae Larmann (18 July 1925 – 15 February 1928)',
@@ -1126,8 +1126,8 @@
         { id: 'johnLarmannSr' }
       ],
       given: 'Johanna Catherine', surname: 'Lemoine', sex: 'F',
-      birth: { date: '1907', place: 'outside Orleans Parish' },
-      death: { date: '1992' },
+      birth: { date: '9 January 1907', place: 'outside Orleans Parish' },
+      death: { date: '11 December 1992' },
       father: 'alonzoLemoine', mother: 'genevieveRousselle',
       evidence: 'confirm',
       branch: 'lemoine',
@@ -1138,9 +1138,15 @@
           citation: 'Judy Larmann Gifford\'s handwritten notes, "Johanna\'s Family," 2026',
           text: 'Alonzo Lemoine m. (Poppone) Genevieve Rousselle. Children (Lemoine): Johanna. (Brother died in orphanage.)',
           highlight: 'Her mother is very likely the Genevieve Rousselle who died in Orleans on 24 August 1915, aged 54 — Johanna was eight, which would explain the orphanage years.'
+        },
+        {
+          title: 'Her headstone — the Goubler family tomb',
+          citation: 'Photographed by the family, August 2026',
+          text: 'LARMANN — JOHANNA LEMOINE, JAN. 9, 1907 — DEC. 11, 1992.',
+          highlight: 'The stone supplies what no index could: her exact birthday and death day.'
         }
       ],
-      note: 'The state index has her only at her 1924 marriage, as LEMOINE, JOHANNA K. Her tomb reads 1907–1992. Born outside Orleans Parish — the Lemoine, Rousselle and Delatte names all point to the river parishes above New Orleans. No Lemoine × Rousselle marriage appears in the Orleans index, which fits a family that married upriver too.'
+      note: 'The state index has her only at her 1924 marriage, as LEMOINE, JOHANNA K. Born outside Orleans Parish — the Lemoine, Rousselle and Delatte names all point to the river parishes above New Orleans. No Lemoine × Rousselle marriage appears in the Orleans index, which fits a family that married upriver too.'
     },
 
     anthonyLarmann: {
@@ -1155,7 +1161,7 @@
         'Bernadine Louise (28 Oct 1898 – 21 Aug 1956)',
         'Anthony Leo (9 Aug 1900 – 4 March 1969)',
         { id: 'charlesEmileLarmann' },
-        'Esther Marguerite (2 Jan 1904 – 1976)'
+        'Esther Marguerite (2 Jan 1904 – 14 Sept 1976)'
       ],
       given: 'Anthony Henry', surname: 'Larmann', sex: 'M',
       birth: { date: '26 August 1871', place: 'New Orleans' },
@@ -1194,7 +1200,7 @@
         'Bernadine Louise (28 Oct 1898 – 21 Aug 1956)',
         'Anthony Leo (9 Aug 1900 – 4 March 1969)',
         { id: 'charlesEmileLarmann' },
-        'Esther Marguerite (2 Jan 1904 – 1976)'
+        'Esther Marguerite (2 Jan 1904 – 14 Sept 1976)'
       ],
       given: 'Eugenie Bernadine', surname: 'Moore', sex: 'F',
       birth: { date: 'October 1874', place: 'New Orleans' },
@@ -1345,6 +1351,12 @@
           citation: 'Orleans Parish, 14 February 1926 — Vol. 192, p. 169',
           text: 'GOUBLER, MARIE VALENTINE.',
           highlight: 'The same date Esther wrote: "Feb. 14 - 1926." The index\'s age column is garbled (it prints 7), but the date is exact.'
+        },
+        {
+          title: 'The old tomb tablet',
+          citation: 'Goubler family tomb; photographed by the family, August 2026',
+          text: 'VALENTINE GOUBLER, wife of Henry Moore — died Feb. 14, 1926, aged 77 yrs.',
+          highlight: 'The stone names her marriage outright and restores the age the index garbled: seventy-seven.'
         }
       ],
       note: 'Her sister was probably the Eugenie Goubler who died in 1871 at twenty-three — which would explain her daughter\'s name. Brothers Lucien (d. 1876, at 22) and Emile Joseph (d. 1889, at 37) share the family tomb.'
@@ -1376,6 +1388,12 @@
           citation: 'John Larmann Sr. tomb; typed roster via Judy Larmann Gifford, 2026',
           text: 'Joseph Goubler 1818–1892 · Victoire Circlot Goubler 1821–1895 · Lucien Goubler 1853–1876 · Emile Goubler 1852–1889 · Louis Goubler 1858–1940 · Valentine Goubler Moore 1847–1926 · Louise Moore 1877–1948 · Leontine Moore 1880–1947 · Anthony Moore 1883–1920 · Charles Larmann 1902–1969 · Esther Larmann 1904–1976 · Johanna Lemoine Larmann 1907–1992 · John Larmann 1926–2018.',
           highlight: 'Five generations in one vault: a family tomb bought by Goublers in the 1870s, passed through the Moores to the Larmanns.'
+        },
+        {
+          title: 'The tomb itself',
+          citation: 'Family photographs, August 2026',
+          text: 'The pediment reads "FAMILY — JOSEPH GOUBLER." The original marble tablet, now broken and replaced by the family, is still partly legible: Lucien (d. Oct. 1876) · Emile (d. 1889) · Joseph Goubler (d. Nov. 1892, aged 74 yrs) · Victoire Cirlot, wife of Joseph Goubler (d. 1895) · Anthony Moore (d. Nov. 1, 1920, aged 37 yrs) · Valentine Goubler, wife of Henry Moore (d. Feb. 14, 1926, aged 77 yrs) · Louis Goubler (d. March 1940) · Leontine M. Moore (d. March 27, 1947) · Louise M. Moore (d. 1948).',
+          highlight: 'The stone documents Louis Goubler\'s 1940 death, which the state index missed entirely, and gives Anthony Moore and Leontine their exact dates.'
         }
       ]
     },
@@ -1385,12 +1403,13 @@
         'The same Goubler children — see Joseph Goubler',
         { id: 'valentineGoubler' }
       ],
-      given: 'Victoire Théoline', surname: 'Circlot', sex: 'F',
+      given: 'Victoire Théoline', surname: 'Cirlot', sex: 'F',
+      alsoKnownAs: '"Circlot" in Judy\'s transcription; indexed at death as "Theoline Victoire"',
       birth: { date: 'about 1821' },
       death: { date: '23 December 1895', place: 'Orleans Parish' },
       evidence: 'confirm',
       branch: 'larmann',
-      blurb: 'Her tomb face says Victoire Circlot; the death index reversed her to "Theoline Victoire." Judy\'s notes preserve both names.',
+      blurb: 'The old tablet reads "Victoire Cirlot, wife of Joseph Goubler"; the death index reversed her to "Theoline Victoire"; Judy\'s notes made it Circlot. One woman, three spellings — the stone\'s is preferred here.',
       records: [
         {
           title: 'Louisiana death record',

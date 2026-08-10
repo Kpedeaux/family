@@ -51,6 +51,42 @@
     return `d. ${yr(d)}`;
   }
 
+  /* Best-effort date parsing for the age-at-death line. Returns null for anything
+     that isn't a single real date ("living after 1814", "between 1812 and 1814"). */
+  const MONTH_IDX = {
+    january: 0, february: 1, march: 2, april: 3, may: 4, june: 5,
+    july: 6, august: 7, september: 8, october: 9, november: 10, december: 11
+  };
+  function parseDateParts(s) {
+    if (!s) return null;
+    const str = String(s);
+    if (/living|between|before\s|after\s|by\s+1/i.test(str)) return null;
+    const years = str.match(/\b(1[5-9]\d\d|20\d\d)\b/g) || [];
+    if (years.length !== 1) return null;
+    const mMatch = str.toLowerCase().match(/january|february|march|april|may|june|july|august|september|october|november|december/);
+    const dayTokens = (str.match(/\b[0-3]?\d\b/g) || []).map(Number).filter((n) => n >= 1 && n <= 31);
+    return {
+      y: +years[0],
+      m: mMatch ? MONTH_IDX[mMatch[0]] : null,
+      d: dayTokens.length ? dayTokens[0] : null,
+      approx: /about|c\.|probably|\bor\b|\?/i.test(str)
+    };
+  }
+  function ageAtDeath(p) {
+    const b = p.birth && parseDateParts(p.birth.date);
+    const d = p.death && parseDateParts(p.death.date);
+    if (!b || !d) return '';
+    let age = d.y - b.y;
+    let exact = !b.approx && !d.approx && b.m != null && d.m != null && b.d != null && d.d != null;
+    if (b.m != null && d.m != null) {
+      if (d.m < b.m || (d.m === b.m && b.d != null && d.d != null && d.d < b.d)) age -= 1;
+    } else if (exact) {
+      exact = false;
+    }
+    if (age <= 0 || age > 115) return '';
+    return (exact ? 'aged ' : 'aged about ') + age;
+  }
+
   /* A person's spouse: an explicit `spouse` string when they married someone who
      isn't in the tree, otherwise derived — the other parent of their direct-line child. */
   function spouseHtml(id) {
@@ -172,7 +208,11 @@
     if (rel) rows.push(['Relation', 'Kevin’s ' + rel]);
     if (p.alsoKnownAs) rows.push(['Also', p.alsoKnownAs]);
     if (p.birth && (p.birth.date || p.birth.place)) rows.push(['Born', [p.birth.date, p.birth.place].filter(Boolean).join(', ')]);
-    if (p.death && (p.death.date || p.death.place)) rows.push(['Died', [p.death.date, p.death.place].filter(Boolean).join(', ')]);
+    if (p.death && (p.death.date || p.death.place)) {
+      const when = [p.death.date, p.death.place].filter(Boolean).join(', ');
+      const age = ageAtDeath(p);
+      rows.push(['Died', age ? `${when} · ${age}` : when]);
+    }
     if (p.occupation) rows.push(['Trade', p.occupation]);
     if (b && branches[b]) rows.push(['Line', `${branches[b].label} — ${branches[b].origin}`]);
     if (p.evidence) rows.push(['Evidence', `${EVIDENCE_LABEL[p.evidence]} — ${EVIDENCE_HELP[p.evidence]}`]);
