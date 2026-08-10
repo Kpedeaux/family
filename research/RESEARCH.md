@@ -1069,6 +1069,41 @@ soft negative that leans the same way as the census. The search teased that Prem
 relevé results DO exist behind the paywall — worth one Geneanet Premium month (Kevin's call) or
 the free TD route above.
 
+### The Nantes death-table sweep — six registers, one Michel (2026-08-10, session 4, evening)
+
+The test was run the same night. Kevin drove the first registers by print-to-PDF; when that
+turned tedious he authorized direct driving of the Archinoe viewer in his Chrome ("Let's see if
+it crashes" — it froze twice, recovered twice, never took the app down). **Every Nantes tables
+décennales des décès register from 1793 to 1852 was read at the Ped- pages**, at
+archives-numerisees.nantes.fr (commune Nantes, acte Décès, Table décennale):
+
+| Decade | Cote | Ped- entries found |
+|---|---|---|
+| 1793–an X | 1E 1675 (view 185, p. 1234) | Pedan Jean (an 3) · **Pedo [Pédeau], Michel — 9 nivôse an VIII, 1re section** · Pedrailleau ×3 · Pedron Jean |
+| an XI–1812 | 1E 1678/2 (view 149) | Pedaille · Pedaux, demoiselle Jeanne (an 12) · Pedersin · Pedron · Pedu — no Michel |
+| 1813–1822 | 1E 1681 (view 637) | **Pedeau, Anne, Ve Renaudin (1817)** — probably the emigrant's sister Anne. No Michel |
+| 1823–1832 | 1E 1684 (view 818) | zero Pedeau |
+| 1833–1842 (H–Z) | 1E 1687/2 (view 293) | zero Pedeau |
+| 1843–1852 (I–Z) | 1E 1690/2 (view 296) | Pedeau, Jeanne (Sept 1849 — plausibly Jeanne Yvonne, b. 1769) · Pedeau, Joséphine Élisabeth (2 Aug 1851). Women only |
+
+**Two results:**
+
+1. **The father's death is now record-confirmed to the day.** "Pedo — Michel — 9 nivôse — an 8 —
+   1er sect." = **30 December 1799, 1st section of Nantes** (the riverfront quarter containing
+   La Fosse, where the family lived). The compilers' date, previously carried on trust, matches
+   the city's own index exactly. Added to the site as a record on the ship's carpenter.
+2. **Neither son named Michel died at Nantes, 1793–1852.** The tables demonstrably capture Ped-
+   deaths (five of them, spelled four ways), so the silence is meaningful: no Nantes burial of
+   Michel André remains to be found in the covered years. He either left the city, or outlived
+   1852 (he'd be 87+), or died in a neighboring commune. This is a **negative that removes the
+   easiest disproof** of the Michel-Pierre reading; the census lean stands, unopposed.
+
+**Remaining French checks, in order of value:** (a) **Chantenay-sur-Loire's own tables** — a
+separate commune until 1908, with combined N/M/D tables décennales per decade from 1793 (cotes
+2Z TD1793-an10, 2Z 338–343…), reachable from the same search page, commune "Chantenay sur
+Loire." Michel Pierre was born there; André could have died there. Not yet read. (b) Nantes
+1853–1862 (1E 1693) for a very old André. (c) The parents' 1764 Saint-Saturnin marriage act.
+
 ### Casper — documents to order next
 
 1. **Times-Picayune 22 + 23 Nov 1921, p. 2 col. 8** — his obituary notices (NOPL microfilm, or
@@ -1205,8 +1240,10 @@ the free TD route above.
    birth certificate (Orleans Vol. 181 p. 2241, public since 2024, LA State Archives, 3851 Essen
    Lane, Baton Rouge, $5 non-certified). Then the 1921 licence application (Vol. 46 p. 90), then
    NARA Chicago (soundex B653). Ask **Aunt Patricia (Pedeaux Ruda)** — she may simply know the town.
-2. **Which Michel crossed** — read the Nantes/Chantenay burial registers for Michel André (1765)
-   and Michel Pierre (1777); also the parents' 1764 Saint-Saturnin marriage act (AD44 3 E 109/207).
+2. **Which Michel crossed** — Nantes city death tables 1793–1852 now swept: no Michel but the
+   father (see the sweep section). Remaining: Chantenay-sur-Loire's own tables décennales
+   (commune dropdown on the same search page), Nantes 1853–62, and the parents' 1764
+   Saint-Saturnin marriage act (AD44 3 E 109/207).
 3. **Casper Larmann's Hanover town** — "Gruswald"? Passenger lists and German civil registers;
    also his and Anthony's death certificates (certificates, unlike the index, name parents).
 4. **The Lemoines upriver** — Alonzo Lemoine × Genevieve Rousselle marriage (river parishes);

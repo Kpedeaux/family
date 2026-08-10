@@ -401,7 +401,7 @@
       sources: [
         { label: 'Diocese of Baton Rouge sacramental abstracts', url: 'https://diobr.org/archives-publications' }
       ],
-      note: 'For years this line was thought to be a dead end — "no child of the marriage appears anywhere." The children were in the published register abstracts the whole time. Three sons: Michel (1808), Jean Baptiste (1810) and Antoine Florentin (1812). He did NOT die on 22 September 1811 as a since-deleted Find a Grave memorial had it — impossible, since Antoine was born in November 1812. As to WHICH Michel he was: the 1810 census, found in August 2026, is the first document that discriminates. His household held no male aged forty-five or over — which fits Michel Pierre, then thirty-three, and sits badly with Michel André, four months past forty-five at the official census day. Probable rather than proven: a man just over the bracket edge could be mis-slotted, the household was extended (four grown men; the toddler Michel is unticked, perhaps with Aucoin kin while Florence carried Jean Baptiste, born that November), and the Nantes burial registers still hold the final word. But the scale now tips toward the Chantenay-born younger brother.'
+      note: 'For years this line was thought to be a dead end — "no child of the marriage appears anywhere." The children were in the published register abstracts the whole time. Three sons: Michel (1808), Jean Baptiste (1810) and Antoine Florentin (1812). He did NOT die on 22 September 1811 as a since-deleted Find a Grave memorial had it — impossible, since Antoine was born in November 1812. As to WHICH Michel he was: the 1810 census, found in August 2026, is the first document that discriminates. His household held no male aged forty-five or over — which fits Michel Pierre, then thirty-three, and sits badly with Michel André, four months past forty-five at the official census day. Probable rather than proven: a man just over the bracket edge could be mis-slotted, the household was extended (four grown men; the toddler Michel is unticked, perhaps with Aucoin kin while Florence carried Jean Baptiste, born that November). The Nantes side has since been checked: every city death table from 1793 to 1852, read page by page in August 2026, holds no Michel Pédeau but the father, dead 30 December 1799. Neither brother died at Nantes. The scale tips toward the Chantenay-born younger brother; Chantenay-sur-Loire\'s own registers get the final word.'
     },
 
     michelPedeauPere: {
@@ -411,7 +411,7 @@
       ],
       children: [
         { id: 'michelPedeau' },
-        'He was either Michel André (b. 7 April 1765) or Michel Pierre (b. 20 May 1777, Chantenay) — and the 1810 census age columns now favor Michel Pierre, though the Nantes burial registers hold the final word',
+        'He was either Michel André (b. 7 April 1765) or Michel Pierre (b. 20 May 1777, Chantenay) — and the 1810 census age columns now favor Michel Pierre. The Nantes death tables 1793–1852 hold no Michel but the father himself; Chantenay\'s own registers get the final word',
         'Marie (1766–1772)',
         'Jeanne Yvonne (b. 1769)',
         'Michel (1770–1771)',
@@ -433,6 +433,12 @@
           citation: 'AD Loire-Atlantique 3 E 109/154, view 69 of 299 (7 April 1765)',
           text: '"Le septieme jour de avril mil sept cent soixante cinq a été baptisé par moi prestre soussigné michel andré né ce jour fils de michel pédeau charpentier de navire et de jeanne muraille son épouse, demeurants au bas de la Fosse…"',
           highlight: 'Read in the original register. "On the seventh day of April 1765 was baptised… Michel André, born this day, son of Michel Pédeau, ship\'s carpenter, and of Jeanne Muraille his wife, dwelling at the bottom of La Fosse."'
+        },
+        {
+          title: 'Death — Nantes table décennale des décès, 1793–an X',
+          citation: 'Archives municipales de Nantes, 1E 1675, view 185 of 359, page 1234',
+          text: '"Pedo — Michel — 9 nivôse — an 8 — 1er sect." The only Michel in the Ped- surnames of the table, entered between Pedan and Pedrailleau.',
+          highlight: 'Read in the original table. 9 nivôse an VIII of the republican calendar is 30 December 1799 — the death date the compilers carried, now confirmed to the day in the city\'s own index. He died in the 1st section of Nantes, the riverfront quarter that held La Fosse.'
         }
       ],
       sources: [
@@ -518,7 +524,7 @@
     jeanneMuraille: {
       children: [
         { id: 'michelPedeau' },
-        'He was either Michel André (b. 7 April 1765) or Michel Pierre (b. 20 May 1777, Chantenay) — and the 1810 census age columns now favor Michel Pierre, though the Nantes burial registers hold the final word',
+        'He was either Michel André (b. 7 April 1765) or Michel Pierre (b. 20 May 1777, Chantenay) — and the 1810 census age columns now favor Michel Pierre. The Nantes death tables 1793–1852 hold no Michel but the father himself; Chantenay\'s own registers get the final word',
         'Marie (1766–1772)',
         'Jeanne Yvonne (b. 1769)',
         'Michel (1770–1771)',
