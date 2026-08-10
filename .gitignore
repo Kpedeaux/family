@@ -6,3 +6,8 @@ node_modules/
 # Raw family document scans — kept local, not published, until Kevin says otherwise.
 # The transcriptions live in research/RESEARCH.md.
 From-Judy-Larmann-Gifford/
+
+# Nantes archives page scans (print-to-PDF saves from the Archinoe viewer).
+# The archives forbid internet republication of their scans without authorization;
+# the readings are transcribed in research/RESEARCH.md.
+am441_*.pdf
