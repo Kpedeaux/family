@@ -825,7 +825,8 @@
       ],
       sources: [
         { label: 'Louisiana Soldiers in the War of 1812 (index)', url: 'https://www.ancestry.com/search/collections/3339/?name=_Gaiennie&count=50' }
-      ]
+      ],
+      note: 'The deGruy family history gives him 1760–1804, dying the same year as his wife — 1804 was a yellow-fever year in New Orleans — which squares with the 1820 register calling both parents dead. Those dates are unsourced, so they stay off the header line. The hunt for his own baptism or marriage now runs through the Archdiocese of New Orleans colonial registers, digitized online for 1718–1812.'
     },
 
     elisabethSarde: {
@@ -834,7 +835,7 @@
       death: { date: 'before January 1820' },
       lifespanText: 'd. before 1820',
       evidence: 'verified', branch: 'gaiennie',
-      note: 'The Louisiana death index has a GAIENNIE, MARGUERITE SARDE, died 25 May 1835, Orleans, age 65 — an independent trace of the Sarde connection in the right generation.'
+      note: 'The deGruy family history, unsourced, gives her 1756–1804 — dying the same yellow-fever year as her husband. The Sarde family ran two generations deep in the city: her sister was almost certainly Jeanne Marguerite Sarde, wife of Urbain Gaiennie (the "GAIENNIE, MARGUERITE SARDE" who died in 1835 at 65, and the NOPL index\'s "Mrs. Urbain") — two Gaiennie brothers married two Sarde sisters.'
     },
 
     pierreChenet: { given: 'Pierre', surname: 'Chenet', sex: 'M', evidence: 'verified', branch: 'gaiennie', blurb: 'Named in his daughter\'s 1820 marriage record.' },
@@ -882,7 +883,7 @@
         { label: 'Ellis Island — Giovanni Brunetti, 16 April 1912', url: 'https://www.statueofliberty.org/arrival-details/?id=JJ11-KJ4' },
         { label: 'Ellis Island — every Brunetti who left Plataci', url: 'https://www.statueofliberty.org/arrival-result/?last_name=Brunetti&residence_place=Plataci&arrival_year_from=1790&arrival_year_to=1974' }
       ],
-      note: 'THREE SEPARATE CLAIMS HERE, AND THEY ARE NOT EQUALLY SOLID. (1) That he was born Giovanni. Safe but still an inference — Giovanni is simply the Italian for John, and Italian immigrants called John in America were essentially always christened Giovanni. No baptismal record has been seen. (2) That the Giovanni Brunetti with an Illinois naturalization declaration, born 1893 in Italy, is him. Strong: a John Brunetti registered for the draft in Chicago, no Brunetti registered anywhere in Louisiana, the birth year matches, and no Louisiana naturalization exists for him. Not yet proof — the document itself has not been read. (3) That he is the Giovanni Brunetti, 19, who landed at Ellis Island on 16 April 1912 off the S.S. Luisiana from Naples — last residence PLATACI, province of Cosenza, Calabria; nearest relative \'father Michele, Plataci\'; final destination Chicago. This is the weakest link and the one to be careful about. Fifteen Brunettis left that one village between 1905 and 1922, a textbook chain migration, and Plataci is an Arbereshe village — an Italo-Albanian community in Calabria since the fifteenth century. But a man born 5 May 1893 would have been eighteen that April, not nineteen, and nothing on the manifest mentions New Orleans or Veronica Franovich. Michele Brunetti is therefore NOT entered as his father. The Declaration of Intention at NARA Chicago would give his exact town and date of birth; his daughter\'s 1923 birth certificate, public since 2024, gives his birthplace; and the 1921 marriage licence application names both parties\' parents. Any one of those settles it.'
+      note: 'THREE SEPARATE CLAIMS HERE, AND THEY ARE NOT EQUALLY SOLID. (1) That he was born Giovanni. Safe but still an inference — Giovanni is simply the Italian for John, and Italian immigrants called John in America were essentially always christened Giovanni. No baptismal record has been seen. (2) That the Giovanni Brunetti with an Illinois naturalization declaration, born 1893 in Italy, is him. Strong: a John Brunetti registered for the draft in Chicago, no Brunetti registered anywhere in Louisiana, the birth year matches, and no Louisiana naturalization exists for him. Not yet proof — the document itself has not been read. (3) That he is the Giovanni Brunetti, 19, who landed at Ellis Island on 16 April 1912 off the S.S. Luisiana from Naples — last residence PLATACI, province of Cosenza, Calabria; nearest relative \'father Michele, Plataci\'; final destination Chicago. This is the weakest link and the one to be careful about. Fifteen Brunettis left that one village between 1905 and 1922, a textbook chain migration, and Plataci is an Arbereshe village — an Italo-Albanian community in Calabria since the fifteenth century. But a man born 5 May 1893 would have been eighteen that April, not nineteen, and nothing on the manifest mentions New Orleans or Veronica Franovich. Michele Brunetti is therefore NOT entered as his father. The Declaration of Intention at NARA Chicago would give his exact town and date of birth; his daughter\'s 1923 birth certificate, public since 2024, gives his birthplace; and the 1921 marriage licence application names both parties\' parents. Family memory adds that the June 1921 wedding was at St. Louis Cathedral — so a sacramental marriage act, which typically names both parties\' parents and birthplaces, should sit in the Cathedral registers, requestable from the Archdiocese of New Orleans archives. Any one of those settles it.'
     },
 
     veronicaFranovich: {

@@ -808,6 +808,73 @@ John R. Larmann Sr. It also spells **VICTOIRE CIRLOT GOUBLER**, confirming the o
 against Judy's "Circlot." One digit is ambiguous at photo resolution: Lucien's birth year reads
 1853 or 1855 (the death index's "age 22" in Oct 1876 favors 1853–54).
 
+### The Wellmeyer tomb photographed (2026-08-10, Kevin)
+
+St. Vincent de Paul No. 3 wall vault, nameplate **WELLMEYER** (neighbors: JAMES, SCHMA[LZ?],
+KOCH/VERGES). Tablet as legible in the photo, top line cut off:
+
+[Bertha F. Sander Wellmeyer] 1885–1956 · Cecilia Froeba Wellmeyer **1914–1957** · Rita Wellmeyer
+1892–1961 · Henry John Wellmeyer 1886–1970 · John E. Wellmeyer 1900–1983 · **Leslie H. Wellmeyer
+6-9-11 — 1-23-94** · **Ivel Roeling Wellmeyer 4-7-10 — 3-24-94** [the couple died ten weeks
+apart] · **Cyril R. Wellmeyer 10-14-15 — [Aug?] '96** · Henry J. [Wellmeyer] Jr 9-?-18 … · Rita
+M[ae] W[ellmeye]r [d. 20]04 · [An]n [G. Wellmeyer Lar]mann [d. 20]10 · [Edward W. W]ellmeyer
+[d. 20]21 · [Stephe]n A… [partly hidden by the vase]. A marble "MAMA" marker sits at the base.
+
+New exact dates: Leslie b. 9 Jun 1911 d. 23 Jan 1994; Ivel b. 7 Apr 1910 d. 24 Mar 1994; Cyril
+b. 14 Oct 1915; Cecilia Froeba 1914–1957. Photo file still needed in the repo for Henry John's
+panel.
+
+### Session 3 (2026-08-10, evening) — Michel and Gaiennie fronts: infrastructure found, browser lookups queued
+
+**Discovered tonight (all free):**
+
+1. **The Archdiocese of New Orleans has 43 colonial registers digitized online, 1718–1812** —
+   St. Louis Cathedral, Royal Military Hospital, St. Charles Borromeo (Destrehan), St. John the
+   Baptist (Edgard), St. Bernard (Galveztown) — at archives.arch-no.org/sfpc (browser-only;
+   redirects and 403s fetchers). Gervais Gaiennie's 1 Jun 1797 baptism and François Urbain's 1792
+   baptism fall inside the window if the right St. Louis Cathedral baptism registers are among
+   the 43. THE lead for the Gaiennie origin.
+2. **SRANO Vol. 4 (1784–1790) is on archive.org** (`sacramentalrecor0004wood`, lending item) —
+   search-inside works in a browser (`?q=Gaiennie`, `?q=Sarde`, `?q=Gayenne`). A Gaiennie ×
+   Sarde marriage c. 1789–91 would land in vol. 4 or 5. Direct text download and the inside.php
+   API are 403-blocked outside a browser.
+3. **Notre Dame's MANO calendar** (archives.nd.edu/mano/) — Records of the Diocese of Louisiana
+   and the Floridas, 1576–1803, calendared with an A–Z name index; bulk of material 1786–1803.
+   Check the G index for Gaiennie dossiers (marriage dispensations name parents and origins).
+4. **Ancestry's public compiled page** for "Francois Urbain Gaiennie" (b. 1792 New Orleans, son
+   of Francisco Urbano Gaiennie × **Jeanne Marguerite Sarde**) — 403 to fetchers, readable in a
+   browser. Confirms the two-brothers-two-Sarde-sisters structure in Spanish-era spelling, and
+   REATTRIBUTES the 1835 death: "GAIENNIE, MARGUERITE SARDE d. 25 May 1835 age 65" = Urbain's
+   widow Jeanne Marguerite (NOPL's "Mrs. Urbain d. 1835"), not François's wife.
+5. **deGruy site**: François Gaiennie **1760–1804** × "Eugenie Sardet" **1756–1804** — both dead
+   in 1804, a yellow-fever year; squares with "both decd." in 1820. Unsourced; treat as lead.
+6. **1810 U.S. census of Assumption Parish** — transcript exists at USGenWeb
+   (files.usgwarchives.net, http-only, unreachable to fetchers; browser fine). **The Michel
+   decider:** if Michel Pedeau heads a household in 1810, the male-45-and-over column vs 26-45
+   column splits b. 1765 (aged 45) from b. 1777 (aged 33) in one look.
+
+**The Michel question — analysis so far [reasoning, not findings]:**
+- Find a Grave 155718958's rejected "d. 22 Sep 1811" carries an age, "44 yrs" — if that age came
+  from any real record, it points to a birth c. 1767–70: far closer to Michel André (1765) than
+  Michel Pierre (1777). But the memorial's source is unknown (page now blocked to fetchers;
+  read it in a browser).
+- Context, strictly circumstantial: a man born 1777 was of prime Napoleonic conscription age in
+  the classes of 1797–98, and young Nantais men fled to sea to dodge the levies exactly in the
+  1798–1808 window when our Michel crossed; a man born 1765 would have been a 43-year-old
+  bachelor at the 1808 marriage (the abstract does not call him a widower). These cut in
+  OPPOSITE directions and prove nothing. The paper tests: the 1810 census age column, the
+  Chantenay tables décennales (deaths AND marriages, 1793 onward — small commune, quick to page)
+  for Michel Pierre, and the Nantes TD for Michel André.
+
+**Queued for the next browser session (claude-in-chrome was disconnected tonight; the in-app
+browser pane crashes Kevin's desktop app and must not be used):**
+(a) archive.org search-inside SRANO vol 4 for Gaiennie/Gayenne/Sarde · (b) arch-no.org/sfpc —
+list the 43 registers, find St. Louis Cathedral baptisms 1792/1797, read the Gaiennie acts ·
+(c) MANO G-index · (d) USGenWeb 1810 Assumption transcript — the P surnames and age columns ·
+(e) Find a Grave 155718958 — the source of "aged 44" · (f) Geneanet Pédeau trees (duraton,
+jlthomas, jmlarousse) for any French death/marriage of either Michel · (g) Chantenay tables
+décennales on archives-numerisees.nantes.fr.
+
 ### Casper — documents to order next
 
 1. **Times-Picayune 22 + 23 Nov 1921, p. 2 col. 8** — his obituary notices (NOPL microfilm, or
@@ -985,6 +1052,14 @@ against Judy's "Circlot." One digit is ambiguous at photo resolution: Lucien's b
   which is Esther Mae (1925–1928) exactly. First read as possibly contradicting Louisa's infant
   death; the 1900 census check it prompted ended up confirming both stories. Family memory and
   the paper record now agree.
+- **Kevin (2026-08-10):** supplied photos of the Goubler/Larmann tomb (both tablets) and the
+  Wellmeyer tomb — transcribed above.
+- **Kevin (2026-08-10):** believes **John Brunetti and Veronica Franovich were married at
+  St. Louis Cathedral** (June 1921). If so, the sacramental marriage act — which names both
+  parties' parents and usually birthplaces — is in the Cathedral registers held by/through the
+  Archdiocese of New Orleans archives, (504) 529-2651. A second, independent route to John's
+  parents and hometown, alongside the civil licence application (Vol. 46 p. 90). Added to the
+  Brunetti document list as target #4a.
 - **Standing asks:** Aunt Patricia → John Brunetti's hometown. Judy → the rest of the "tons."
   Anyone → tomb photographs; Buras/Moizant memories; the orphanage brother's name.
 
