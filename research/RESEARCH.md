@@ -1701,6 +1701,65 @@ by Rev. Ernest Milby, pastor. VERBATIM:
 5. Human detail: the certificate was drawn up **July 1936**, when she was 72 — almost certainly
    to prove her age for the brand-new **Social Security** (Act of 1935). She died Feb 1938.
 
+### ⭐⭐ JUDY'S PDFs, batch 1 — Casper's obituary, naturalization, and the STAUDER answer (2026-08-10)
+
+Four image-only PDFs (28 pp total, no text layer — rendered with PyMuPDF and read by eye).
+**"John Casper Larmann.pdf" (4 pp)** = a RootsWeb WorldConnect print-out of the SAME database
+we saw before, **"ridgrnr" — tree "Kibbee, Rosnagel, Slater, Thompson and Allied Lines,"
+contact T. BROWN**, printed 27 Sep 2012. Entry **ID I4209**. It transcribes primary records:
+
+**⭐ THE TIMES-PICAYUNE OBITUARY, 23 NOV 1921 — VERBATIM (the one we've wanted all night):**
+> "LARMANN — On Monday, November 21, 1921, at 3:15 o'clock p.m., **JOHN CASPER LARMANN**,
+> beloved husband of **Louise Margaret Ehmann**, **aged 75 years**, a **native of Hanover,
+> Germany**, and a **resident of this city for the past fifty-six years**. The relatives…also
+> the officers and members of the **United Brotherhood of Carpenters and Joiners of America,
+> Local No. 1312**, **St. Sebastian Branch No. 311, Catholic Knights of America**, **St. Joseph
+> Society**, **Holy Name Society** and **St. Elizabeth Ladies of HOLY TRINITY CHURCH**…funeral
+> Wednesday, November 23, 1921, at 3 p.m., from the late residence, **No. 2883 Dauphine street,
+> near Press. Interment in ST. ROCH CEMETERY.**"
+
+NEW FACTS: **he was a CARPENTER/CABINET MAKER and a union man (Local 1312)**; his parish was
+**HOLY TRINITY**, the German national church; he lived at **2883 Dauphine (Bywater)** and was
+**buried in ST. ROCH CEMETERY** (same ground as Leonce Goubler — and the Goublers lived blocks
+away at 1722 St. Ferdinand). "Aged 75" → **b. 1846**, backing Esther's ledger over the death
+index's 1848. Burial 23 Nov 1921.
+
+**⭐ NATURALIZATION, exact citation:** "**5th District Court Citizenship, 16 Oct 1868, New
+Orleans** … naturalized under the name **Johann Gasper Larmann** … recorded in **Minor's
+Naturalization Book 6, Page 189B**." → PULLABLE. Two years after arrival, at 22.
+
+**⭐⭐ THE STAUDER PUZZLE — SOLVED. 1900 census (9 Jun 1900, dwelling 243, family 245, lines
+65–75), transcribed in full:**
+> 1) **Casper Larmann**, head, b. **April 1848**, 52, married 16 yrs, b. Germany, parents b.
+> Germany, **immigrated 1866**, in US 34 yrs, **naturalized**, **CABINET MAKER**, speaks English,
+> **rents the house** · 2) **Louisa**, wife, b. **August 1857**, 42, married 16 yrs, **6 children
+> born, 6 living**, b. **Louisiana**, parents b. Germany · 3) John, b. Apr 1874, **barber** ·
+> 4) Bernard, b. Mar 1878, **house painter** · 5) Joseph, b. Apr 1885, **clerk – cotton** ·
+> 6) Hilda, b. Dec 1886 · 7) Henry, b. May 1889, at school · 8) Albert, b. Dec 1891 · 9) Edward,
+> b. Dec 1896 · 10) Casper Jr., b. Jan 1899 · **11) JOSEPH STAUDER, FATHER-IN-LAW, b. March
+> 1829, 71, widowed, b. Germany, immigrated 1835, in US 65 yrs, foreman – cotton picking.**
+
+→ **LOUISA WAS BORN A STAUDER.** Judy's "Louise Standed" was right all along; her son's death
+record's "Louisa Stouder" was right; the 1900 census names her father outright as a household
+member. **"Ehmann" was her FIRST MARRIED NAME** — she came to Casper in 1884, aged 26, a widow.
+That also retro-justifies the earlier correction: John D. Ehmann and Katharina Lutz on the 1884
+act are NOT her parents (probably her first husband's people). **NEW PERSON AVAILABLE: Joseph
+Stauder, b. Mar 1829 Germany, immigrated 1835, widowed by 1900** — Louisa's father. Not drawn
+yet (Louisa herself isn't a direct ancestor; she's Casper's 2nd wife).
+
+⚠️ **IMMIGRATION YEAR, three sources:** 1900 census **1866** (in US 34 yrs — internally
+consistent) · obituary "resident 56 years" → **1865** · the tree's summary field says 1860 and
+"residence abt 1865." **Prefer 1866** (census, self-reported, arithmetically consistent), which
+also fits the Prussian annexation. The obituary's 56 years is a round figure. Site keeps 1866/67.
+
+**"2026-08-10 21-51.pdf" (1 p)** = two NOPL obituary-index records, annotated by Judy:
+**Mrs Bernadine L Johnson (Larmann), d. 1956-08-21, next of kin Harry G Johnson (husband)** —
+"Grandpa's sister" ✓ · **Mrs Hilda M. Cook (Larmann), d. 1940-01-31, next of kin WILLIS N. COOK
+(husband)** — "Grandpa's aunt" ✓✓ confirming Esther's "Hilda (who was Mrs. Willis Cook)" and
+giving Hilda's exact death date.
+
+**STILL UNREAD (context ran short):** "More Larmann.pdf" (5 pp) and "More.pdf" (18 pp).
+
 ### ⭐⭐⭐ ALEXIS LEMOINE — SOLVED, and the Lemoine wall comes down (2026-08-10, 2nd pass)
 
 FamilySearch, signed back in. **The godfather is ALONZO'S OWN FATHER.**

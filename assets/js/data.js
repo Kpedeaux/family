@@ -1652,9 +1652,10 @@
         { id: 'anthonyLarmann' },
         'By Emily: John Christian (22 April 1874 – 1909), Clemence Charles (10 May 1876 – 15 April 1880, dead at three), Bernard Leo (March 1878 – 1955)',
         'By Louisa Ehmann, each with an Orleans birth record naming both parents: Joseph Benedict (9 Apr 1885 – 1950), Hilda Margaretha (22 Dec 1886 – 1940, died a Mrs Cook), Henry (b. 25 May 1889), Albert (b. 22 Dec 1891), Edward John (b. 16 Dec 1896) — the Edward who married Marie Edna Fernandez in 1921, and Caspar Maurice "Casper Jr." (15 Jan 1899 – 1945)',
-        'The 1900 census catches the household whole: Casper, wife Louisa, and the eight children then at home'
+        'The 1900 census catches the household whole at 2883 Dauphine Street on 9 June 1900: Casper 52, a cabinet maker renting the house; Louisa 42, six children born and six living; John 26, a barber; Bernard 22, a house painter; Joseph 15, a cotton clerk; Hilda 13; Henry 11, at school; Albert 8; Edward 3; Casper Jr. 1 — and Louisa\'s widowed father Joseph Stauder, 71, a cotton-picking foreman who had come from Germany in 1835'
       ],
-      given: 'John Casper', alsoKnownAs: 'born Johann Caspar Larmann', surname: 'Larmann', sex: 'M',
+      given: 'John Casper', alsoKnownAs: 'naturalized as Johann Gasper Larmann; born Johann Caspar', surname: 'Larmann', sex: 'M',
+      occupation: 'Cabinet maker and carpenter — United Brotherhood of Carpenters and Joiners, Local No. 1312',
       origin: 'Gesmold, Melle — Kingdom of Hanover',
       birth: { date: '5 April 1846, baptised the 7th', place: 'Gesmold, Melle, Kingdom of Hanover' },
       death: { date: '21 November 1921', place: 'Orleans Parish' },
@@ -1692,7 +1693,7 @@
           title: 'Second marriage',
           citation: 'Orleans Parish, April 1884 — Vol. 10, p. 589',
           text: 'EHMANN, LOUISA MARGARET × LARMANN, JOHN CASPER.',
-          highlight: 'Two years after Emily\'s death. The family always called her "Louise Standed" — and they were not wrong: her son\'s death record names his mother Louisa STOUDER, and the 1900 census gives her father as Joseph STAUDER. The 1884 act calls her Ehmann and puts a John D. Ehmann and Katharina Lutz on the page. Most likely she was born a Stauder and came to Casper a young widow named Ehmann. Unresolved, and flagged here rather than smoothed over.'
+          highlight: 'Two years after Emily\'s death, on 26 April 1884. She was born in New Orleans on 27 August 1857. THE STAUDER PUZZLE IS SOLVED: the 1900 census of this household lists, under the children, "JOSEPH STAUDER, FATHER-IN-LAW, born March 1829 in Germany, immigrated 1835, widowed" — living with them at seventy-one. So Louisa was born a STAUDER, exactly as the family always said with their "Louise Standed," and Ehmann was the name of a first husband she was widowed from before she married Casper at twenty-six.'
         },
         {
           title: 'Louisiana death record',
@@ -1709,6 +1710,18 @@
           citation: 'New York City Municipal Deaths — Henry Larmann, 29 November 1938, Brooklyn, certificate 22867',
           text: 'Henry Larmann, 72, laborer, born 24 December 1856 in Germany, married to Gertrude, of Brooklyn, Kings County. Parents: CASPAR LARMANN and ELIZABETH WERGER, both of Germany.',
           highlight: 'The same parents as Casper — the Gesmold couple, heard by a Brooklyn clerk. Esther\'s sheet said "Grandfather Larmann + a brother came to this country," and here the brother is, sixty years of records later, with a family of his own in New York. The Larmanns of Brooklyn and the Larmanns of New Orleans are one family that lost each other.'
+        },
+        {
+          title: 'His obituary, in full — Times-Picayune, 23 November 1921',
+          citation: 'New Orleans Times-Picayune; transcribed in a RootsWeb family file supplied by Judy Gifford, 2026',
+          text: '"LARMANN — On Monday, November 21, 1921, at 3:15 o\'clock p.m., JOHN CASPER LARMANN, beloved husband of Louise Margaret Ehmann, aged 75 years, a native of Hanover, Germany, and a resident of this city for the past fifty-six years. The relatives, friends and acquaintances of the family, also the officers and members of the United Brotherhood of Carpenters and Joiners of America, Local No. 1312, St. Sebastian Branch No. 311, Catholic Knights of America, St. Joseph Society, Holy Name Society and St. Elizabeth Ladies of Holy Trinity Church are respectfully invited to attend the funeral… from the late residence of the deceased, No. 2883 Dauphine street, near Press. Interment in St. Roch Cemetery."',
+          highlight: 'A whole life in one paragraph. He was a CARPENTER — a union man of Local 1312 — and his parish was HOLY TRINITY, the German national church of New Orleans. He died at home on Dauphine Street in the Bywater and was buried in St. Roch. "Aged 75" gives 1846, agreeing with Esther\'s ledger against the death index\'s 1848.'
+        },
+        {
+          title: 'Naturalization — 16 October 1868',
+          citation: 'Fifth District Court, New Orleans — Minor\'s Naturalization Book 6, p. 189B',
+          text: 'Naturalized under the name JOHANN GASPER LARMANN.',
+          highlight: 'Two years after he landed, at twenty-two. The book and page are exact, so the original can be pulled — and a naturalization of that era often records the port and date of arrival.'
         },
         {
           title: 'Obituary notices',
