@@ -1428,6 +1428,80 @@ long-wanted civil record naming his parents; ⑥ **Esther Mae Larmann's 1928 dea
 there too (father Charles, mother Johanna Lemoine); ⑦ Ibbenbüren registers for the Wallmeyers;
 ⑧ Emily's Pascagoula/Warstein Mevers line.
 
+### ESTHER'S SECOND SHEET — the Hamburg/Pointe-à-la-Hache page (2026-08-10, via Judy Gifford)
+
+Judy sent a photograph of a page **in her own hand, copied from her grandmother's papers**,
+recording Aunt Esther Mary Larmann (1/2/1904 – 9/14/76). VERBATIM:
+
+> "Grandfather Larmann + a brother came to this country from Hamburg, Germany to escape
+> compulsory military service. He, Casper Larmann, eventually settled in **Point-a-la-Hache**
+> near the mouth of the river. He married **Amelia Meners**. There were 3 sons, Anthony
+> [*margin: Grandpa's father*], John, Bernard [*margin: uncle Bernie*]. She passed away. He then
+> married **Louise Standed**. And there more, Joseph, Henry, Casper, Albert + Hilda (who was
+> Mrs. Willis Cook) + Edward [*margin: played organ in Kress on Canal St*]. He is the only one
+> surviving.
+>
+> A **brother + a sister, who was a nun, remained in Germany, the nun also coming here later.
+> The order she was in is not known.**"
+>
+> Then, under **PAPA** [Henry John Wellmeyer]: Brother – John Wellmeyer; Sisters – Rita
+> Wellmeyer, Ione Hammel, Zoe Seigfried. Under **Grandma Wellmeyer** [Bertha Sander]:
+> Brother – Frank, Louis.
+
+**NEW FACTS:**
+1. **POINTE-À-LA-HACHE, PLAQUEMINES PARISH** — Casper's first American home, before New Orleans.
+   ⚠️ **STRIKING:** that is the same lower-delta parish as the **Franovich/Moizant** family
+   (Buras) on the PEDEAUX side. Two unrelated branches of Kevin's tree in lower Plaquemines a
+   generation apart. Chase: Plaquemines Clerk of Court (Belle Chasse), Our Lady of Good Harbor
+   and Pointe-à-la-Hache Catholic registers, 1870 census Plaquemines.
+2. **ONE brother sailed with him** (Judy's paraphrase said "brothers"); **another brother stayed**;
+   **a sister was a NUN in Germany and came to America later, order unknown.** → Marie Antoinette
+   Larmann Prinz is NOT the nun (she married). So there are ≥4 siblings; the Gesmold baptism
+   register 1838–1852 will list them all. A nun-immigrant is findable: US convent/motherhouse
+   necrologies, and religious-sister passenger entries.
+3. **"Amelia Meners"** — Esther's own name for Emily Mevers; a son's death record independently
+   says "Amelia Mevis." Emily/Amelia = one woman. Site note updated.
+4. **"Louise Standed" VINDICATED.** Family name for the 2nd wife = Stauder/Stouder/Standed;
+   1900 census gives her father as **Joseph Stauder**; a son's death record names his mother
+   **Louisa Stouder**; yet the 1884 marriage act calls her **Ehmann** with a John D. Ehmann and
+   Katharina Lutz on the page. ⚠️ **I HAD WRITTEN THOSE TWO UP AS HER PARENTS — CORRECTED on the
+   site to "also on the act."** Best reading now: **born Stauder, widowed Ehmann, m. Casper 1884
+   at 27.** Test: an Orleans Ehmann marriage c.1875–83, or her 1931 death record's parents.
+5. Sons by Amelia = **3** (Anthony, John, Bernard) — Charles A. Clemence (d. 1880 a child) not
+   counted, consistent.
+6. **Edward Larmann played the organ at the Kress store on Canal Street**, and was the last of
+   the ten children living when Esther wrote.
+7. Wellmeyer sibling sets confirm our tree exactly (John, Rita, Ione/Mary Ione Hammel, Zoe
+   Siegfried). Bertha Sander's brothers given as **Frank and Louis** — our list has a "Louis
+   Franklin Sander"; possibly two men, or one recorded twice.
+
+⚠️ IMAGE: the photograph of this sheet is family material — **not published on the site**
+pending Kevin's explicit OK, per the standing rule on Judy's papers. Transcription only.
+
+### Herbert Joseph Pedeaux — WWII service (2026-08-10, Kevin's ask)
+
+**FOUND [VERIFIED]: Electronic Army Serial Number Merged File 1938-46 (FS ark K8LC-5LN):**
+> Herbert J Pedeaux · **serial 18153029** · enlisted **30 Oct 1945, NEW ORLEANS** · **PVT** ·
+> **Regular Army** · b. 1921 LOUISIANA · **married** · **4 years of high school** ·
+> civilian occupation code 078 · **Term of enlistment: "Enlistment for the PANAMA CANAL
+> DEPARTMENT"** · Reference: **"Enlisted Man, Regular Army, after 3 months of Discharge"**
+
+**TWO NEW FACTS:** ① the "after 3 months of Discharge" flag means this was a **RE-enlistment** —
+he had already served and been discharged, and signed up again within three months; ② he
+enlisted **specifically for the Panama Canal Department** (Canal Zone garrison). Serial prefix
+18 = Regular Army, Eighth Service Command (LA/TX region).
+
+**Timeline check:** voter registrations Orleans **17 Nov 1944**, 14 Jul 1947, 12 Apr 1949;
+m. Veronica Apr 1943; 1950 census New Orleans with Veronica. So the first (unfound) enlistment
+and the Panama tour both sit between late 1944 and 1947.
+
+**STILL TO PULL:** the earlier/first enlistment record (not in this file — try WWII draft
+registration cards 1940-47, and the **1942 "old man's draft" is his father's generation, not
+his**); his discharge papers (**DD-214 equivalent / WD AGO 53-55**) — Orleans Parish Clerk of
+Court recorded many discharges locally, a cheap in-person pull; VA/BIRLS death file; and the
+1973 NPRC fire caveat (Army records A–Z 1912–1960 were 80% destroyed, so local + state copies
+matter most). FS tree profile: **LT7Z-71B**.
+
 ### Casper — documents to order next
 
 1. **Times-Picayune 22 + 23 Nov 1921, p. 2 col. 8** — his obituary notices (NOPL microfilm, or

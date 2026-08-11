@@ -96,7 +96,7 @@
       father: 'numaSr', mother: 'ednaGaiennie',
       evidence: 'verified',
       branch: 'pedeaux',
-      blurb: 'Married Veronica Brunetti in April 1943. Buried St. Louis Cemetery No. 3, Sq. 5 East, Facing G, Tier STLOUS AVE, Space 9.',
+      blurb: 'Married Veronica Brunetti in April 1943, served in the Army, and re-enlisted for the Panama Canal Zone when the war ended. Buried St. Louis Cemetery No. 3, Sq. 5 East, Facing G, Tier STLOUS AVE, Space 9.',
       records: [
         {
           title: 'Louisiana birth record',
@@ -107,6 +107,12 @@
           title: 'Louisiana marriage record',
           citation: 'Orleans Parish, April 1943 — Vol. 58, p. 1681',
           text: 'PEDEAUX, HERBERT JOSEPH × BRUNETTI, VERONICA MARIE.'
+        },
+        {
+          title: 'Army enlistment — 30 October 1945, New Orleans',
+          citation: 'Electronic Army Serial Number Merged File, 1938–1946 — serial number 18153029',
+          text: 'Herbert J. Pedeaux, Private, Regular Army. Born Louisiana 1921; married; four years of high school. Term of enlistment: "Enlistment for the Panama Canal Department." Filed under "Enlisted Man, Regular Army, after 3 months of Discharge."',
+          highlight: 'Two things the family may not have had. He had already served and been discharged — this October 1945 record is a RE-enlistment, taken within three months of coming home. And he signed up specifically for the Panama Canal Department: with the war over, the Canal Zone was the posting, guarding the waterway that had been the hemisphere\'s most defended piece of ground.'
         }
       ],
       sources: [
@@ -1624,8 +1630,11 @@
 
     johnCasparLarmann: {
       siblings: [
-        'Marie Antoinette Larmann Prinz (c.1845 – 29 January 1899) — a probable sister: born a Larmann a year before him, died in Orleans as Joseph Prinz\'s wife, cross-indexed under both names',
-        'and a lead: John Mathias Larmann, married to Elizabeth Bruning, was raising a family in New Orleans by 1857 — not his father (that man stayed in Gesmold), but very possibly the uncle or cousin who told a Hanover boy where to sail'
+        'The brother who sailed with him out of Hamburg — Esther\'s sheet says there was one, but not his name',
+        'A brother who stayed in Germany',
+        'A sister who became a nun in Germany and came to America later; her order was never recorded',
+        'Marie Antoinette Larmann Prinz (c.1845 – 29 January 1899) — a probable sister: born a Larmann a year before him, died in Orleans as Joseph Prinz\'s wife, cross-indexed under both names. Not the nun, since she married',
+        'and a lead: John Mathias Larmann, married to Elizabeth Bruning, was raising a family in New Orleans by 1857 — not his father (that man stayed in Gesmold), but possibly the kinsman who told a Hanover boy where to sail'
       ],
       children: [
         { id: 'anthonyLarmann' },
@@ -1641,7 +1650,7 @@
       evidence: 'verified',
       branch: 'larmann',
       immigrant: true,
-      blurb: 'The Larmann immigrant: "Casper Sr." to his family. A Hanoverian from the village of Gesmold who crossed at twenty, married in New Orleans in 1870, buried his first wife in 1882, remarried in 1884, and died nine months after his daughter-in-law Eugenie — having outlived his son Anthony by seventeen years.',
+      blurb: 'The Larmann immigrant: "Casper Sr." to his family. A Hanoverian from the village of Gesmold who sailed out of Hamburg at twenty with a brother, to get out from under Prussian conscription — and who, before New Orleans, settled first at Pointe-à-la-Hache, down near the mouth of the river. He married in 1870, buried his first wife in 1882, remarried in 1884, and outlived his son Anthony by seventeen years.',
       records: [
         {
           title: 'His baptism — read in the Gesmold parish register',
@@ -1652,7 +1661,7 @@
         {
           title: 'The record that first named his parents',
           citation: 'Louisiana Parish Marriages — Orleans, 26 April 1884 (Vol. 10, p. 589)',
-          text: 'John Casper Larmann, 36, son of JOHN CASPER LARMANN and MARIA ELIZABETH WERGERS, m. Louisa Margaret Ehmann, 27, daughter of John D. Ehmann and Katharina Lutz.',
+          text: 'John Casper Larmann, 36, son of JOHN CASPER LARMANN and MARIA ELIZABETH WERGERS, m. Louisa Margaret Ehmann, 27. Also on the act: John D. Ehmann and Katharina Lutz.',
           highlight: 'Found August 2026, in the church-marriage collection the state civil index never covered — the lead that sent the search to Gesmold. His parents\' names had been unknown to the family for a century.'
         },
         {
@@ -1671,7 +1680,7 @@
           title: 'Second marriage',
           citation: 'Orleans Parish, April 1884 — Vol. 10, p. 589',
           text: 'EHMANN, LOUISA MARGARET × LARMANN, JOHN CASPER.',
-          highlight: 'Two years after Emily\'s death. Judy\'s notes remember her as "Louise Standed"; the index makes her Louisa Margaret Ehmann (c.1856 – 17 Sept 1931), the "Mrs Casper Larmann" who stood godmother in 1898.'
+          highlight: 'Two years after Emily\'s death. The family always called her "Louise Standed" — and they were not wrong: her son\'s death record names his mother Louisa STOUDER, and the 1900 census gives her father as Joseph STAUDER. The 1884 act calls her Ehmann and puts a John D. Ehmann and Katharina Lutz on the page. Most likely she was born a Stauder and came to Casper a young widow named Ehmann. Unresolved, and flagged here rather than smoothed over.'
         },
         {
           title: 'Louisiana death record',
@@ -1690,7 +1699,7 @@
           highlight: 'The obituary index says seventy-five — which lands exactly on Esther\'s 1 January 1846 birthdate, against the death index\'s 73. The notices themselves, on microfilm at the New Orleans Public Library, may well name his home town.'
         }
       ],
-      note: 'WHY HE LEFT, in the family\'s own words: Judy Gifford reports a handwritten sheet of her grandmother\'s saying that Casper and his brothers came out through HAMBURG to escape compulsory military service. Everything checks. Gesmold was Hanoverian until Prussia annexed the kingdom in 1866 — and Prussia brought its conscription with it. Casper emigrated in 1866 or 1867, at twenty, exactly the age and exactly the moment; Hamburg was the great emigrant port; and "his brothers" would explain the John Mathias Larmann already in New Orleans and the probable sister Marie Antoinette. A family story and a annexation date landing on the same year is as close to corroboration as oral history gets. THE TOWN, FOUND — August 2026. Esther\'s ledger word, which nobody could read for certain, looked like "Gruswald." The answer is GESMOLD, a village of the Melle district in the old Kingdom of Hanover, near Osnabrück: a well-sourced FamilySearch profile (forty-four records attached) gives his birth there on 5 April 1846 and his christening two days later, and his parents\' 1843 marriage in the same village. Read the ledger word again with Gesmold in mind and it fits — Esther was writing down a sound her father said, decades after he last said it. History adds the reason he left: Gesmold belonged to the Kingdom of Hanover until 1866, when Prussia annexed it after the Austro-Prussian War, and Casper emigrated that same year or the next. The Osnabrück country sent forty-two percent of all Hanoverian emigrants to America in that century. Esther\'s 1 January 1846 birthdate and the German 5 April now compete; the christening record in the Gesmold parish register is the tiebreaker, and it is the next document to read. Notably, Find a Grave has not a single Larmann memorial anywhere in Louisiana — this family was never memorialized online, which is part of why the line stayed dark so long.'
+      note: 'WHY HE LEFT, in the family\'s own words. Esther\'s own sheet, copied out by Judy Gifford in August 2026: "Grandfather Larmann + a brother came to this country from Hamburg, Germany to escape compulsory military service. He, Casper Larmann, eventually settled in Point-a-la-Hache near the mouth of the river… A brother + a sister, who was a nun, remained in Germany, the nun also coming here later." Everything checks. Gesmold was Hanoverian until Prussia annexed the kingdom in 1866 and brought its conscription with it; Casper emigrated in 1866 or 1867, at exactly twenty, the age that mattered; Hamburg was the great emigrant port. So four Larmann children of that Gesmold house can be accounted for: two who sailed, one brother who stayed, and a sister who took the veil in Germany and followed her brothers to America later — her order unknown. THE TOWN, FOUND — August 2026. Esther\'s ledger word, which nobody could read for certain, looked like "Gruswald." The answer is GESMOLD, a village of the Melle district in the old Kingdom of Hanover, near Osnabrück: a well-sourced FamilySearch profile (forty-four records attached) gives his birth there on 5 April 1846 and his christening two days later, and his parents\' 1843 marriage in the same village. Read the ledger word again with Gesmold in mind and it fits — Esther was writing down a sound her father said, decades after he last said it. History adds the reason he left: Gesmold belonged to the Kingdom of Hanover until 1866, when Prussia annexed it after the Austro-Prussian War, and Casper emigrated that same year or the next. The Osnabrück country sent forty-two percent of all Hanoverian emigrants to America in that century. Esther\'s 1 January 1846 birthdate and the German 5 April now compete; the christening record in the Gesmold parish register is the tiebreaker, and it is the next document to read. Notably, Find a Grave has not a single Larmann memorial anywhere in Louisiana — this family was never memorialized online, which is part of why the line stayed dark so long.'
     },
 
     johnCasparLarmannSr: {
@@ -1851,7 +1860,7 @@
           highlight: 'Esther\'s ledger, written decades later, gives 13 February — two days off the civil record.'
         }
       ],
-      note: 'The surname is Mevers in Esther\'s cursive and the state index, "Meners" in Judy\'s typed-up notes. The FamilySearch reconstruction (eighteen records) puts her birth at Pascagoula about 1847 and gives her parents as Johannes Clemens Mevers, born 1792, and Dorothea Carolina Schmidt, 1810–1883, married at Warstein in the Duchy of Westphalia on 28 January 1836. The "C. Mevers" on her own 1870 marriage act fits that father exactly — but no record yet names her and both parents together, so they are held here as a strong lead rather than drawn on the tree. If it holds, her people were Westphalians who landed on the Mississippi Gulf Coast instead of in New Orleans.'
+      note: 'Her given name wobbles too. Esther\'s sheet calls her AMELIA Meners; the state index and her own death record call her Emily Mevers; a son\'s death record names his mother "Amelia Mevis." Amelia and Emily were interchangeable in German-American New Orleans, and this is one woman. The surname is Mevers in Esther\'s cursive and the state index, "Meners" in her own hand elsewhere. The FamilySearch reconstruction (eighteen records) puts her birth at Pascagoula about 1847 and gives her parents as Johannes Clemens Mevers, born 1792, and Dorothea Carolina Schmidt, 1810–1883, married at Warstein in the Duchy of Westphalia on 28 January 1836. The "C. Mevers" on her own 1870 marriage act fits that father exactly — but no record yet names her and both parents together, so they are held here as a strong lead rather than drawn on the tree. If it holds, her people were Westphalians who landed on the Mississippi Gulf Coast instead of in New Orleans.'
     },
 
     henryMoore: {
