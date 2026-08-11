@@ -2988,3 +2988,44 @@ Wiltz · Chantalou · Menkingle · Judice · Vegas (1747–48 Joly documents) ·
 Callier · Perier · Cimonot (1740 Cousin contract). **Jean Callier is the most interesting** — he
 signs the 1740 marriage contract AND stands godfather to Marie Jeanne Reyne in 1755, fifteen
 years apart, across both marriages. That one is not a notary.
+
+### 🟢 JEAN CALLIER — SOLVED, and it explains the whole circle. 2026-08-11
+
+**15 documents** at lacolonialdocs under CALLIER, 1740–1768 — a private individual's footprint,
+not a notary's 1,845. Good sign from the start.
+
+**The answer is in his son's marriage record, SLC, B4, 71 (SRANO Vol. 2):**
+
+> "Joseph (**JEAN, MASTER MASON**, and Marie Françoise FRAUCHE[S?]), native of this parish, m.
+> Geneviève TOUSAIT [Montenary, surnamed Toussaint], **Aug. 17, 1762**, w. MONTENARY, the bride's
+> father, **JEAN CALLIEZ [@CALLIER], THE GROOM'S FATHER**, MONGEZ, master blacksmith, **MARTIN,
+> MASTER MASON**, Claude BOUTTE, master blacksmith, Jann Montanari, Bosseron, Lasableonniere."
+
+**JEAN CALLIER WAS A MASTER MASON — Étienne Reyne's own trade.**
+
+**The three appearances now make sense as one thing:**
+| Year | Record | Role |
+|---|---|---|
+| 1740 | Cousin × Renard marriage contract | witness |
+| 1755 | Baptism of Marie Jeanne Reyne (SLC, B3, 48) | **godfather**, with "Jane REINE" as godmother |
+| 1762 | Marriage of his son Joseph | father of the groom, named **master mason** |
+
+**His family:** Jean Callier × **Marie Françoise FRAUCHE / FROUIN** (cf. "Marie Francoise FROUIN,
+sp. CAILLIER", SLC, B3, 07). Son **Joseph Callier**, also a mason, m. Geneviève Montanari
+*dit* Toussaint 17 Aug 1762; their children run through SRANO Vols. 2–3 (Jean Joseph 1763,
+Geneviève 1765, Jean Joseph 1773, Suzanne 1775, Juan 1779). At the 1765 baptism the godfather is
+**"Jean CALLIER, the infant's grandfather."**
+
+**🟢 WHAT THIS EXPLAINS — the real shape of the circle.** It is NOT kinship. The 1762 wedding
+party is two master masons, two master blacksmiths, and a master cobbler's daughter. Colonial
+New Orleans had a few thousand people and a few dozen men who could lay brick; they witnessed
+each other's contracts and stood over each other's children **because they worked the same
+walls.** A widow with children marrying a mason was marrying into that world — which is why the
+Reyne, Callier, Martin, Mongez and Boutte names keep circling the same documents.
+
+**Note also:** the 1755 godmother is "Jane [Marie Jeanne] REINE" — **other Reyne kin in the city**
+whom we still cannot place. That remains open and is now the better Reyne lead than any of the
+occupational names.
+
+**Still unexplained, non-occupational names in the 1740/1747 circle:** Dehallier · Perier ·
+Cimonot · Wiltz · Chantalou · Menkingle · Judice · Vegas.

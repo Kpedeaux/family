@@ -1078,6 +1078,12 @@
           highlight: 'The oldest record of this couple, found 11 August 2026 — two and a half years before their eldest child was born. It catches them sideways: Françoise is standing as godmother to a widow\'s baby, and the clerk identifies her the way clerks did, by her husband — "spouse of Étienne Reine, mason." So they were already married by March 1750, he was already working at his trade, and it gives her full name: MARIE Françoise Renard. He is not yet "master" mason here; that title arrives with his son Pierre\'s baptism in 1761.'
         },
         {
+          title: 'His trade found him his friends — Jean Callier, master mason',
+          citation: 'St. Louis church, New Orleans — marriage of Joseph Callier, 17 August 1762 (SLC, B4, 71); baptism of Marie Jeanne Reyne, 26 October 1755 (SLC, B3, 48); marriage contract of 25 April 1740 (French Superior Council). SRANO Vols. 1–2.',
+          text: '1762: "Joseph (JEAN, MASTER MASON, and Marie Françoise Frauche), native of this parish, m. Geneviève Toussaint… w. Montenary, the bride\'s father, JEAN CALLIER, THE GROOM\'S FATHER, Mongez, master blacksmith, MARTIN, MASTER MASON, Claude Boutte, master blacksmith." · 1755: "Marie Jeanne (Etienne and Françoise Renard)… s. JEAN CALLIER and Jane REINE." · 1740: Jean Callier signs the Cousin–Renard marriage contract.',
+          highlight: 'ONE NAME CROSSES FIFTEEN YEARS AND TWO MARRIAGES, AND THE REASON IS HIS TRADE. Jean Callier witnessed Marie Françoise\'s first marriage contract in 1740, and fifteen years later stood godfather to her daughter by Étienne — and he was a MASTER MASON, the same trade as Étienne himself. That 1762 wedding party is the whole world these people moved in: two master masons, two master blacksmiths, and a master cobbler\'s daughter marrying a mason\'s son. New Orleans had a few thousand people and a few dozen men who could lay brick. They stood at each other\'s weddings and over each other\'s children because they worked the same walls.'
+        },
+        {
           title: 'His children\'s baptisms — St. Louis church',
           citation: 'SLC registers B2–B5, 1752–1766 (SRANO Vol. 2)',
           text: 'Marie Marguerite (1752) · Marie Jeanne (1755) · Louise Françoise (1757) · Pierre (1761, "Etienne, master mason") · Marie Joseph (1766) — all children of Etienne and Francoise RENARD.'
