@@ -1410,6 +1410,7 @@
       evidence: 'verified',
       branch: 'larmann',
       blurb: 'Lost his father at eighteen months and his mother at eighteen years, and was raised by two unmarried aunts — his mother\'s sisters Leontine, called Tene, and Louise Moore — in their house on Franklin Avenue. Married Johanna Lemoine on 23 August 1924, lost a two-year-old daughter in 1928, and died the day after his sixty-seventh birthday. His brother Anthony had died four months earlier.',
+      note: 'One detail of that house survived three generations of retelling: the aunts had an instantaneous gas water heater — you lit it, and it heated the water as it flowed. His son John remembered it as a marvel, something they had "before that was a thing," and passed the story to his own grandson Kevin, who happened to be installing a tankless heater in a shotgun house at the time. The aunts were not ahead of their era so much as squarely in it: instantaneous gas heaters reached the American market in 1893 and the 1900s were their golden age, until temperature swings in the shower drove buyers to storage tanks and the design fell out of fashion for most of a century. The thing Kevin put in his own wall is the same idea, come back around.',
       records: [
         {
           title: 'Louisiana birth record',
@@ -1873,7 +1874,7 @@
     henryMoore: {
       children: [
         'Louise Moore (1877–1948) — never married; with her sister Leontine she raised their orphaned nephew Charles Emile Larmann, in the house on Franklin Avenue that John Larmann Sr. would later point out to his grandson',
-        'Leontine Moore (1880–1947) — "Aunt Tene," never married; the other half of that household',
+        'Leontine Moore (1880–1947) — "Aunt Tene," never married; the other half of that household, and of the story about the water heater',
         'Anthony Moore (1883–1920)',
         'Emile Henry Moore, who married Lola Gets',
         'Marie Louise Moore, and John Henry Moore who married Nathe Schnider',
@@ -1903,7 +1904,7 @@
     valentineGoubler: {
       children: [
         'Louise Moore (1877–1948) — never married; with her sister Leontine she raised their orphaned nephew Charles Emile Larmann, in the house on Franklin Avenue that John Larmann Sr. would later point out to his grandson',
-        'Leontine Moore (1880–1947) — "Aunt Tene," never married; the other half of that household',
+        'Leontine Moore (1880–1947) — "Aunt Tene," never married; the other half of that household, and of the story about the water heater',
         'Anthony Moore (1883–1920)',
         'Emile Henry Moore, who married Lola Gets',
         'Marie Louise Moore, and John Henry Moore who married Nathe Schnider',

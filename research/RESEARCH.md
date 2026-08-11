@@ -1618,6 +1618,16 @@ McPherson and William Winstine records.
   question (New Orleans renamed several 7th/9th Ward streets), then find the aunts in the 1910/
   1920/1930 censuses at that address with young Charles in the household — which would document
   the whole arrangement and give the house number.
+  ⭐ **KEVIN (2026-08-10), same conversation:** grandpa also described the aunts' **instantaneous
+  gas water heater** — "you'd have to light the water heater and it would heat the water flowing
+  through" — remembered as something they had "before that was a thing." The story surfaced
+  because Kevin was installing a tankless heater in his own shotgun house. **Period-correct:**
+  gas tankless entered the US market in **1893** (after Maughan's 1868 "Gas Geyser"; Ruud's 1889
+  storage tank came the other way), and the 1900s were the golden age of the type; side-arm
+  heaters ran a gas burner under a copper coil in a cast-iron shell. Instantaneous heaters later
+  lost the market to storage tanks largely because temperature swung when showers came in.
+  Added to Charles Emile's entry as a note — the kind of texture that makes a family site worth
+  reading, and it is three generations of oral transmission landing on a verifiable technology.
 - **Marie Valentine Josepha Goubler 1847–1926** (full name); **Henry John Moore 1848–1893**.
 - Moore siblings of Eugenie: Marie Louise, John Henry (& Nathe Schnider), Anthony Henry
   (& Odile Nathalie Faciane), Emile Henry (& Lola Gets).
