@@ -1045,9 +1045,10 @@
           text: 'Marie Marguerite (Etienne and Francoise [RENARD]), b. Nov. 6, 1752, bn. Nov. 6, 1752, s. Laurant BAILLY and Marguerite CHENET.'
         },
         {
-          title: 'Remarriage, naming her parents',
-          citation: '2 May 1784 — SLC, M5, 27 (SRANO Vol. 4)',
-          text: 'Maria Margarita (Estevan and Francisca RENARD, natives of this parish), native of this parish, widow of [o] CADET SARDE, m. Pedro BOURGEOIS, May 2, 1784.'
+          title: 'Remarriage, naming her parents — read in the register itself',
+          citation: 'St. Louis Cathedral, New Orleans — Marriages 1784–1806, entry 2 of May 1784 (SLC, M5, 27; SRANO Vol. 4). Digitized register published free by the Archdiocese of New Orleans, Office of Archives and Records.',
+          text: '"…con Maria Margarita REEN, viuda de M[onsieu]r Cadet SARDET, hija leg[ítima] de ESTEVAN REEN y de FRAN[CIS]CA RENARD, naturales TODOS de esta Parroq[uia]…" — with Pedro BOURGEOIS, "natural de Caen en Normandia, Provincia de Francia," legitimate son of [Pierre] Bourgeois and Maria Leonor LE BOEUF. Signed Fr. Antonio de Sedella.',
+          highlight: 'THE SENTENCE THAT DATES THIS FAMILY IN LOUISIANA. Read 11 August 2026 in the register itself, not the abstract — the second entry in the book, on the first written page. "Naturales TODOS de esta Parroquia" — all of them natives of this parish. The "todos" is the whole argument: it reaches past the bride to her parents. Étienne Reyne and Françoise Renard were not immigrants. They were born in New Orleans, in a town founded in 1718. The Spanish clerk spells the name REEN, which is why it hides from anyone searching Reyne.'
         }
       ]
     },
@@ -1073,7 +1074,7 @@
           text: 'Marie Marguerite (1752) · Marie Jeanne (1755) · Louise Françoise (1757) · Pierre (1761, "Etienne, master mason") · Marie Joseph (1766) — all children of Etienne and Francoise RENARD.'
         }
       ],
-      note: 'HE WAS BORN IN THE COLONY. His daughter\'s 1784 remarriage act calls Estevan and Francisca Renard "natives of this parish" — that is, natives of New Orleans — and the Caraby records say the same of another daughter\'s parents. So the answer to "how long has this family been in Louisiana" is not 1752, the year of the first baptism we can read; it is a generation earlier still. A man raising children as a master mason in 1752 was most likely born in the 1720s, inside the first decade of a city founded in 1718. No baptism has been found for him — the earliest St. Louis church registers are fragmentary — so his birth year stays undocumented, but his birthplace no longer is. A "Ste. Reyne concession" appears in the earliest New Orleans records of the 1720s: possibly connected, possibly coincidence, and worth a look.'
+      note: 'HE WAS BORN IN THE COLONY — and the register itself now says so, not just the abstract. On 11 August 2026 the act was read in the Archdiocese\'s own digitized book: his daughter\'s 1784 remarriage records her as daughter of "ESTEVAN REEN y de FRAN[CIS]CA RENARD, naturales TODOS de esta Parroquia" — all of them natives of this parish. The Caraby records say the same of another daughter\'s parents. So the answer to "how long has this family been in Louisiana" is not 1752, the year of the first baptism we can read; it is a generation earlier still. A man raising children as a master mason in 1752 was most likely born in the 1720s, inside the first decade of a city founded in 1718. No baptism has been found for him — the earliest St. Louis church registers are fragmentary — so his birth year stays undocumented, but his birthplace no longer is. A "Ste. Reyne concession" appears in the earliest New Orleans records of the 1720s: possibly connected, possibly coincidence, and worth a look.'
     },
 
     francoiseRenard: {

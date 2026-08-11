@@ -2558,3 +2558,61 @@ at confirm, check Parish Marriages before anything else.*
 
 *Maintained alongside the site. The private research-infrastructure notes (search techniques,
 tooling, session workflow) live in Kevin's local memory folder, not in this repo.*
+
+---
+
+## 🟢 MAJOR NEW SOURCE + Étienne Reyne answered, 2026-08-11
+
+**THE ARCHDIOCESE OF NEW ORLEANS PUT ITS COLONIAL REGISTERS ONLINE, FREE.** 43 registers,
+1718–1812, as PDFs of the 1954 microfilm. We did not know this existed.
+**Index: https://nolacatholic.org/church-records** (the old `archives.arch-no.org/sfpc` URL now
+redirects there). Parishes covered: **St. Louis Cathedral**, Royal Military Hospital,
+**St. Charles Borromeo Destrehan (1739–1755)**, **ST. JOHN THE BAPTIST, EDGARD (1772–1818)**,
+St. Bernard Galveztown. Files are large; no login; no stated licence beyond the site's blanket
+© notice, so credit clearly and do not present as public domain.
+
+### Étienne Reyne WAS BORN IN NEW ORLEANS — read in the register, not the abstract
+
+Kevin asked whether the site said it both ways. It had until 2026-08-11 (fixed in cafa138). Now
+proven from the book itself. **St. Louis Cathedral, Marriages 1784–1806, entry 2 of May 1784** —
+the second entry on the first written page:
+
+> "…con Maria Margarita **REEN**, viuda de M[onsieu]r Cadet **SARDET**, hija leg[ítima] de
+> **ESTEVAN REEN** y de **FRAN[CIS]CA RENARD**, **naturales TODOS de esta Parroq[uia]**…"
+> — signed Fr. Antonio de Sedella (Père Antoine).
+
+**"Naturales TODOS"** — *all* of them natives of this parish. The *todos* is the whole argument;
+it reaches past the bride to her parents. Étienne Reyne and Françoise Renard were **not
+immigrants**. Image cropped and published at `assets/img/reyne-1784-marriage.jpg`.
+
+**SPELLING TRAP:** the Spanish clerk writes **REEN**. French books have Reyne / Reine / Renne /
+Rehene. Searching one finds none of the others.
+
+**BONUS from the same entry:** groom **Pedro Bourgeois**, *"natural de Caen en Normandía,
+Provincia de Francia,"* legitimate son of a Bourgeois and **Marie Léonore LE BOEUF**. New names
+and a new town.
+
+### ❌ What is NOT obtainable
+
+**Marguerite Reyne's own baptism of 6 Nov 1752 is NOT in the digitized set.** The Cathedral's
+online baptismal series **begins in 1753** — misses her by one year. The SRANO abstract stays the
+only readable version. Her siblings' baptisms **do** fall inside digitized volumes and are still
+to be found: 1755 and 1757 in *Baptisms 1753–1759*; **1761 (the entry recording Étienne as
+"master mason") in *Combination 1759–1762***; 1766 in *Baptisms and Marriages 1763–1767*.
+⚠️ Sampling of *Combination 1759–1762* showed pages dated 1760 **and 1771**, with many entries
+for enslaved and free people of color — the microfilm order is NOT strictly chronological and
+the volumes interleave. Budget real time for the hunt.
+
+### 🔴 THE BIGGEST LEAD THIS OPENS: **ST. JOHN THE BAPTIST, EDGARD, 1772–1818, IS ONLINE**
+
+Baptisms 1772–1791 and 1792–1818, Marriages 1772–1818, Funerals 1772–1815. **This is the Lemoine
+and Rousselle parish** — the one branch with no European shore. Alexis Lemoine (b. 1829) is too
+late, but **the generation above him is exactly the 1772–1818 window.** This is now the single
+best-defined next job on the whole tree.
+
+### Generation count corrected
+
+Marguerite Reyne is Kevin's **6th**-great-grandmother (tree generation 9), and Étienne his
+**7th**-great-grandfather (generation 10). I had said 7th for Marguerite in conversation — off by
+one. Path: Kevin → Buddy → Herbert Joseph → Edna Gaiennie → Alphonse Jr → Alphonse Sr →
+Joseph Gervais Gaiennie → Eulalie Alexandrine Sardet → Marguerite Reyne → Étienne Reyne.
