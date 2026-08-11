@@ -1701,6 +1701,31 @@ by Rev. Ernest Milby, pastor. VERBATIM:
 5. Human detail: the certificate was drawn up **July 1936**, when she was 72 — almost certainly
    to prove her age for the brand-new **Social Security** (Act of 1935). She died Feb 1938.
 
+### ALEXIS LEMOINE — first pass, PARTIAL (2026-08-10)
+
+Hunt started; **FamilySearch signed itself out mid-search**, so only the logged-out Ancestry
+route ran. One real result:
+- **1870 US census (coll. 7163), Louisiana, exact-name search "Alexis Lemoine" → EXACTLY ONE
+  MATCH, in ST. JOHN THE BAPTIST PARISH, b. about 1858.**
+⚠️ **He cannot be the 1864 godfather** (he'd have been six). So either the godfather died before
+1870, or he's indexed under a variant (Alexi / Alexandre / Alex / Alcide), or he left the parish.
+**The 1858 boy is very likely named FOR him** — the classic pattern.
+
+⭐ **HYPOTHESIS WORTH TESTING HARD:** an Alexis Lemoine **b. c. 1858 in St. John the Baptist** is
+*exactly* the right age and place to be **ALONZO LEMOINE himself** (Alonzo m. Genevieve b. 1863;
+first known child Robert b. 1888). If so the shape is: **Alexis Lemoine Sr. (godfather 1864,
+adult) → Alexis/"Alonzo" Lemoine (b. c.1858) → Robert (1888) → Johanna (1907).** Alonzo/Alexis
+could be one man under two renderings, or brothers. **DO NOT put this on the site until tested.**
+
+**NEXT (needs a FamilySearch login or a library Ancestry session):**
+① 1860 census, St. John the Baptist Parish, ALL Lemoines — find the adult Alexis and his
+household (the place-ID filter failed logged-out; use FS instead). ② 1870 census IMAGE for the
+1858 Alexis — his household gives his parents outright. ③ St. John the Baptist (Edgard) church
+registers on FS/Matricula-equivalent — the 1864 baptism entry itself may style the godfather
+("oncle," "aïeul") and give the relationship. ④ Louisiana marriage records for Alonzo/Alexis
+Lemoine × Genevieve Rousselle, St. John the Baptist or St. James. ⑤ The godmother **Françoise
+Josephine Roussel** — likely Valery's sister; her records may name the Lemoine tie.
+
 ### OBITUARY CLIPPING SHEET (2026-08-10, via Judy) — key extractions
 
 - **JOHANNA LEMOINE LARMANN**, d. **Friday 11 December 1992**, aged 86, native of New Orleans,
