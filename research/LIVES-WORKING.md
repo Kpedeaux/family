@@ -115,6 +115,101 @@ directories 1895–1904, which list trade and address annually.
 
 ---
 
+---
+
+### 🟢🟢 FRANOVICH — born in Louisiana, not Dalmatia. Two new generations. 2026-08-11
+
+**THE ANCHOR — his death record.** *"Louisiana, Deaths, 1850–1875, 1894–1960,"* FamilySearch,
+entry for **Anthony Franovich, died 19 July 1911, Buras, Plaquemines Parish**:
+
+> **BIRTH: 1873, BURAS, LOUISIANA. Parents: NICOLL FRANOVICH and JOSEPHINE BURAS.**
+
+**1. THE OPEN QUESTION IS ANSWERED — he was born at Buras.** The site currently says *"Whether
+Anthony himself was born in Dalmatia or in Louisiana is not yet documented."* **It is now.** He
+was Louisiana-born; it was his **father's** generation that crossed. Corroborated by the
+**1880 census** (Anthony Franovich, b. 1873 Louisiana, Plaquemines, in the household of
+**Nicolle Franovich**, with siblings **Marie** b. 1876 and **Basille** b. 1879) and by the
+1900 and 1910 censuses, all of which give his birthplace as Louisiana.
+
+**2. 🆕 A NEW GENERATION: NICOLA "NICOLL" FRANOVICH × JOSEPHINE BURAS.**
+Confirmed twice — Anthony's 1911 death record, and his brother **Nicole Franovich's** death
+record (5 May 1955, Buras), which names the same parents, *Nicole Franovich and Josephine Buras*,
+and gives his wife as **Antoinette Scobel**. (The site already noted "an Antoinette Scobel
+Franovich lies at Our Lady of Good Harbor" — **this is who she was: Anthony's sister-in-law.**)
+
+**3. 🆕 AND JOSEPHINE WAS A *BURAS*.** The 1900 census of Plaquemines Wards 5 & 10 gives
+**Josephine Franovich, b. July 1862, Louisiana, parent ARTIMISE BURAS, sibling BAZILE BURAS.**
+**Buras is the family the town of Buras, Louisiana is named for** — an old lower-delta family, and
+Anthony's mother was one of them. ⚠️ The town-name link is well known locally but I have not yet
+pulled a source for it; treat as *to be sourced*, not asserted.
+
+**4. 🟢 THIS UPGRADES VERONICA FROM *INFERRED* TO DOCUMENTED.**
+**1910 census, NAIRN, Plaquemines Parish:** *"Tony Franovich, Sr,"* b. 1873 Louisiana, wife
+**"Malonie"** (Melanie), children **Nicole · VARONIKE · Lizie · Tony Jr.** — *Varonike* is
+**Veronica**, our ancestor, in her father's household at age eight. Her parent link is currently
+`inferred` on the site and rests on circumstance. **This is a record naming both.**
+
+**Also in the household set:** Anthony and Melanie married **1894** per both their 1900 census
+entries — tightening the site's "about 1890–92."
+
+---
+
+### 🟢🟢 MOIZANT — BORDEAUX, his parents, and the Moisant question CLOSED. 2026-08-11
+
+**1. 🆕 HIS PARENTS: ALFRED MOIZANT × CLEMENCE CHAPEAU.**
+*"Louisiana, Orleans, Death Records and Certificates, 1835–1954,"* entry for **Alfred L Moizant,
+died 23 February 1933**, b. 1838 France — **parents ALFRED MOIZANT and CLEMENCE CHAPEAU.**
+A whole new generation, and it explains a granddaughter's name: the 1900 census lists a
+**"Clemantine J. Moizant"** — named for her French grandmother.
+
+**2. 🆕 HE WAS FROM BORDEAUX.** His obituary (GenealogyBank, **23 February 1933**, New Orleans)
+gives **"Birth about 1838, BORDEAUX"** and death **22 February 1933**. Corroborated by his
+**voter registration of 9 December 1931**, which records his birthplace as **"South France."**
+The site currently says only *"France (per his memorial)."*
+
+**3. 🔴 THIS CLOSES THE MOISANT/AIRPORT QUESTION FOR GOOD.** The site's open item reads: *"Alfred
+Moizant's French commune — the document that would finally close the Moisant question."*
+**Answered.** Alfred was born at **Bordeaux** to **Alfred Moizant and Clemence Chapeau**; the
+aviator John Moisant's father **Medard Moisant was born in Quebec**. Two different families,
+now separated by named parents and named birthplaces, not just by inference.
+
+**4. 🆕 NATURALIZED 2 MARCH 1900** — *Louisiana Naturalization Records, 1812–1932.* He had been in
+Louisiana since at least 1866 (his marriage year per the 1900 census) and waited about
+thirty-four years to take citizenship.
+
+**5. HIS LIFE MOVED UPRIVER.** 1900 census: **Plaquemines Wards 5 & 10.** 1910 census:
+**NAIRN, Plaquemines** — *the same village as his son-in-law Tony Franovich Sr. in the same year.*
+1930 census: **New Orleans.** He registered to vote in Orleans in **1923** and again in
+**December 1931**, aged ninety-three.
+
+**6. 🆕 A SON WE DO NOT HAVE — LEON MOIZANT.** His 1933 obituary lists the surviving children by
+married name: **Mrs Theodore Paasch** (this is **Melanie**, after her remarriage) · **Mrs
+Hyacinthe Scobel** (Annicia) · **Mrs John Halckias** (Angeline) · **Mrs Edward Rondey** · **LEON
+MOIZANT** · **Mrs John Guillaume** · **Mrs Anthony Roubaud** · **Mrs J. L. Pareti**.
+The site lists six daughters and no son. **Leon, Mrs Rondey, Mrs Guillaume, Mrs Roubaud and Mrs
+Pareti are all additions**, and the married surnames are the key to finding their descendants.
+
+**7. Victoria Daroca** — her own obituary confirms death **9 October 1928**, matching the site.
+
+---
+
+## SITE CHANGES QUEUED (do not apply yet)
+
+**Franovich**
+- `anthonyFranovich`: **born Buras, Louisiana** — resolve the Dalmatia/Louisiana note; add parents
+  **Nicola Franovich × Josephine Buras** (2 new people); marriage year **1894**, not "about 1890–92";
+  add siblings Marie (1876), Basille/Nicole (1879–1881), and note brother Nicole m. Antoinette Scobel.
+- `veronicaFranovich`: **inferred → verified**, on the 1910 Nairn census naming her in the household.
+- Residence: **Nairn, Plaquemines Parish**, 1910.
+
+**Moizant**
+- `alfredMoizant`: origin **Bordeaux**; parents **Alfred Moizant × Clemence Chapeau** (2 new people);
+  **naturalized 2 March 1900**; residences Plaquemines → Nairn → New Orleans; voting at 93.
+- Add child **Leon Moizant** + daughters Mrs Rondey, Mrs Guillaume, Mrs Roubaud, Mrs Pareti.
+- **Close the "Alfred Moizant's French commune" open question** on the field-notes page.
+
+---
+
 ## TOOLING NOTES (so the next session does not re-derive this)
 
 - **Chronicling America moved.** `chroniclingamerica.loc.gov/search/pages/results/?...&format=json`

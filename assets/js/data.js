@@ -936,6 +936,12 @@
       blurb: 'The Gaiennie immigrant, found at last: a man of Brûlon in the old province of Maine, in New Orleans by the early 1790s, married at St. James in 1793, upriver with the Sardet clan by 1797. His brother Urbain came too, and married his wife\'s sister.',
       records: [
         {
+          title: 'THE STREET — Gaiennie Street, New Orleans',
+          citation: 'John Kendall, History of New Orleans (Lewis Publishing Co., Chicago & New York, 1922), Chapter XLII "Streets, Parks, Squares," p. 675',
+          text: '"Thus Poeyfarre, Robin and GAIENNIE recall the memory of well-known Creole families." The same passage explains how: as the estates along Tchoupitoulas Road were absorbed into the growing city, "the names of the owners of the neighboring properties descended upon the newly opened thoroughfares."',
+          highlight: 'There is a Gaiennie Street in New Orleans to this day, running off Tchoupitoulas in the Lower Garden District, and Kendall says plainly that it carries a family name — one belonging to people who owned the land there. PROBABLE, NOT PROVEN, and the distinction matters: Kendall names a family, not a person, and our documented Gaiennies are upriver in St. James and out in Jefferson Parish, not obviously Tchoupitoulas landowners. What makes it likely is that GAIENNIE is a very rare surname in Louisiana and that this François landed in New Orleans itself. What would settle it is a conveyance or succession naming a Gaiennie as owner of Faubourg property.'
+        },
+        {
           title: 'Marriage — St. James Parish',
           citation: 'Diocese of Baton Rouge, Vol. 2 (1770–1803), SJA-2, 19',
           text: 'Francisco (Julian & Reneta Lebrum, of Brulon, France) m. 10 Feb 1793 Eulalia SARDE (Nicolas & Margarita Renne, of New Orleans) wit. Juan Haydel & Margarita Sarde.',
@@ -1357,33 +1363,117 @@
       birth: { date: '22 March 1902', place: 'Buras, Plaquemines Parish' },
       death: { date: '23 August 1981' },
       father: 'anthonyFranovich', mother: 'melanieMoizant',
-      evidence: 'inferred',
+      evidence: 'verified',
       branch: 'franovich',
-      blurb: 'A Dalmatian oyster family\'s daughter from the lower delta. Her widowed mother brought the children up to New Orleans, and in 1921 she married John Brunetti, an Italian immigrant lately of Chicago. Buried St. Louis Cemetery No. 3.',
+      blurb: 'A Dalmatian oyster family\'s daughter from the lower delta, and the last of this family born at Buras. She was nine when her father died; her widowed mother brought the children up to New Orleans, and in 1921 she married John Brunetti, an Italian immigrant lately of Chicago. Buried St. Louis Cemetery No. 3.',
+      records: [
+        {
+          title: 'In her father\'s household, aged eight',
+          citation: 'United States Census, 1910 — Nairn, Plaquemines Parish, Louisiana',
+          text: '"Tony Franovich, Sr," b. 1873 Louisiana; wife "Malonie"; children Nicole, VARONIKE, Lizie, Tony Jr.',
+          highlight: 'THE RECORD THIS ENTRY ASKED FOR. Her place on the tree used to rest entirely on circumstance, and the note here said outright that the 1910 Plaquemines census "would settle it." It does: "Varonike" is Veronica, in the house with both parents, a year and a half before her father died. Upgraded from inferred to documented on 11 August 2026.'
+        }
+      ],
       sources: [
         { label: 'Find a Grave 282264581', url: 'https://www.findagrave.com/memorial/282264581/veronica-brunetti' }
       ],
-      note: 'Not to be confused with her daughter, Veronica Marie Brunetti Pedeaux. The circumstantial chain to Anthony Franovich Sr. is strong: he married Melanie about 1890-92, he died in 1911 at Buras where Veronica was born, Melanie was in Orleans as his widow with the children by 1920, and she remarried in 1926 as his widow. But no single record yet names Veronica and Anthony together. The 1910 Plaquemines census image, with its relation-to-head column, would settle it outright.'
+      note: 'Not to be confused with her daughter, Veronica Marie Brunetti Pedeaux. The 1910 census of Nairn closes what used to be the weakest link on this branch — she is named in her father\'s household with her mother and three of her siblings.'
+    },
+
+    nicolaFranovich: {
+      children: [
+        { id: 'anthonyFranovich' },
+        'Marie (b. 1876)',
+        'Nicole (15 May 1881 – 5 May 1955) — married Antoinette Scobel; the "Antoinette Scobel Franovich" who lies at Our Lady of Good Harbor was this brother\'s wife',
+        'Dominique'
+      ],
+      given: 'Nicola', alsoKnownAs: 'written Nicoll, Nicolle and Nicole in the American records', surname: 'Franovich', sex: 'M',
+      origin: 'a Dalmatian family — settled at Buras, Plaquemines Parish',
+      evidence: 'verified',
+      branch: 'franovich',
+      blurb: 'The Franovich who actually crossed, or the son of the one who did. He was raising children at Buras by the 1870s and married into the Buras family itself — the oldest name on that stretch of the lower delta.',
+      records: [
+        {
+          title: 'Named as father on two of his sons\' death records',
+          citation: 'Louisiana, Deaths, 1850–1875, 1894–1960 — Anthony Franovich, 19 July 1911, Buras; and Nicole Franovich, 5 May 1955, Buras',
+          text: 'Anthony Franovich, d. 19 July 1911 at Buras, born 1873 at Buras — parents NICOLL FRANOVICH and JOSEPHINE BURAS. · Nicole Franovich, d. 5 May 1955 at Buras, b. 1881 — the same two parents, wife Antoinette Scobel.',
+          highlight: 'Two independent death records, forty-four years apart, naming the same couple. That is what put this generation on the tree.'
+        },
+        {
+          title: 'His household in the 1880 census',
+          citation: 'United States Census, 1880 — Plaquemines Parish, Louisiana',
+          text: 'Nicolle Franovich, with children Anthony (b. 1873), Marie (b. 1876) and Basille (b. 1879), all born in Louisiana.'
+        }
+      ],
+      note: 'WHETHER HE HIMSELF CROSSED is not yet documented. The Dalmatian oystermen of Plaquemines were arriving from the 1840s on, and the 1900 census of that ward is full of men indexed as born in "Austria" — which is what Dalmatia was, under the Habsburgs. An Antonio Franovich who died in Orleans in 1902 at about 77 may be the immigrant of this family. Nicola himself has not yet been found in a census giving his own birthplace: that is the next document.'
+    },
+
+    josephineBuras: {
+      children: [
+        { id: 'anthonyFranovich' },
+        'Marie · Nicole · Dominique — see Nicola Franovich'
+      ],
+      given: 'Josephine', surname: 'Buras', sex: 'F',
+      origin: 'Buras, Plaquemines Parish',
+      birth: { date: 'July 1862', place: 'Louisiana' },
+      evidence: 'verified',
+      branch: 'franovich',
+      blurb: 'A Buras of Buras. The Dalmatian who married her was marrying into the oldest family on that stretch of river, and their son Anthony was born in the village that carries her name.',
+      records: [
+        {
+          title: 'Named as mother on two sons\' death records',
+          citation: 'Louisiana, Deaths, 1850–1875, 1894–1960 — Anthony Franovich (1911) and Nicole Franovich (1955), both of Buras',
+          text: 'Both acts give the parents as Nicoll Franovich and JOSEPHINE BURAS.'
+        },
+        {
+          title: 'Her own parents and a brother',
+          citation: 'United States Census, 1900 — Wards 5 and 10, Plaquemines Parish',
+          text: 'Josephine Franovich, born July 1862 in Louisiana; parent ARTIMISE BURAS; sibling BAZILE BURAS.',
+          highlight: 'One line of a census sheet reaching a further generation back — and it is a Buras generation, which is where this branch stops being an immigrant story and starts being a delta one.'
+        }
+      ],
+      note: 'THE TOWN AND THE NAME. Buras, Louisiana, is universally said locally to be named for the Buras family who settled there — and Josephine is a Buras of Buras, born there in 1862. This site has not yet pulled a published source for the town\'s naming, so it is recorded here as the local account rather than as a documented fact. Her mother Artimise and brother Bazile are the next people to chase.'
     },
 
     anthonyFranovich: {
+      father: 'nicolaFranovich', mother: 'josephineBuras',
       children: [
         'Dominick (1892–1986)',
         'Anthony L. Jr. (1895–1975)',
         'Elizabeth “Isabelle” (b. 1897)',
+        'Nicole — with his own father\'s name, in the 1910 Nairn household',
         { id: 'veronicaFranovich' }
       ],
       given: 'Anthony L.', suffix: 'Sr.', surname: 'Franovich', sex: 'M',
-      origin: 'Dalmatian family — Buras, Plaquemines Parish',
-      birth: { date: '22 September 1873' },
+      origin: 'Born at Buras, Plaquemines Parish — of a Dalmatian family',
+      birth: { date: '22 September 1873', place: 'Buras, Plaquemines Parish' },
       death: { date: '19 July 1911', place: 'Plaquemines Parish' },
-      evidence: 'confirm',
+      evidence: 'verified',
       branch: 'franovich',
-      blurb: 'Dead at thirty-eight. Buried at Our Lady of Good Harbor Catholic Cemetery, Buras; the headstone reads "Age 38 years."',
+      blurb: 'Dead at thirty-eight, in the village he was born in. An oyster family\'s son of the lower delta, married at twenty-one, five children, and in 1910 living at Nairn with his father-in-law Alfred Moizant a few doors along the same river road. Buried at Our Lady of Good Harbor Catholic Cemetery, Buras; the headstone reads "Age 38 years."',
+      records: [
+        {
+          title: 'HIS DEATH RECORD — the one that settled where he was born',
+          citation: 'Louisiana, Deaths, 1850–1875, 1894–1960 — Anthony Franovich, 19 July 1911, Buras, Plaquemines Parish',
+          text: 'Died 19 July 1911 at Buras. BORN 1873 AT BURAS, LOUISIANA. Parents: NICOLL FRANOVICH and JOSEPHINE BURAS.',
+          highlight: 'For two years this page said it was unknown whether he was born in Dalmatia or in Louisiana. He was born at Buras. The crossing belongs to his father\'s generation, not his — and the same line hands over both his parents.'
+        },
+        {
+          title: 'His own household, 1910 — the record that places Veronica',
+          citation: 'United States Census, 1910 — Nairn, Plaquemines Parish, Louisiana',
+          text: '"Tony Franovich, Sr," b. 1873 Louisiana; wife "Malonie" [Melanie], b. 1877; children Nicole, VARONIKE, Lizie, and Tony Jr.',
+          highlight: '"Varonike" is Veronica, aged eight, in her father\'s house. Her place on this tree used to rest on circumstance — where she was born, when her mother was widowed, who the family lived among. This is a record that simply names them together. A year and a half later he was dead.'
+        },
+        {
+          title: 'In his father\'s house, aged seven',
+          citation: 'United States Census, 1880 — Plaquemines Parish',
+          text: 'Anthony Franovich, b. 1873 Louisiana, in the household of Nicolle Franovich, with Marie (1876) and Basille (1879).'
+        }
+      ],
       sources: [
         { label: 'Find a Grave 74161215', url: 'https://www.findagrave.com/memorial/74161215/anthony-l-franovich' }
       ],
-      note: 'His marriage to Melanie Moizant, about 1890–92, was in Plaquemines Parish and is held only by the Clerk of Court in Belle Chasse — the Louisiana state marriage index covers Orleans only. Whether Anthony himself was born in Dalmatia or in Louisiana is not yet documented: an Antonio Franovich who died in Orleans in 1902 at about 77 may be his immigrant father, so no "crossed the Atlantic" claim is made for Anthony here.'
+      note: 'HIS MARRIAGE was in 1894 — both his and Melanie\'s 1900 census entries give the year, which tightens the old estimate of "about 1890–92." The act itself is still held only by the Clerk of Court at Belle Chasse; the Louisiana state marriage index covers Orleans Parish only, which is why it has never turned up in a search.'
     },
 
     melanieMoizant: {
@@ -1431,32 +1521,99 @@
       children: [
         'Delphine Marie (1867–1943)',
         { id: 'melanieMoizant' },
+        'Clémentine J. (in the 1900 census, named for her grandmother in Bordeaux)',
         'Amelia Marcellin (1881–1928)',
         'Louise (1883–1972)',
-        'Annicia (1886–1964)',
+        'Annicia (1886–1964) — married Hyacinthe Scobel',
         'Adeline “Dina” (1888–1966)',
-        'Angeline (1892–1970)'
+        'Angeline (1892–1970) — married John Halckias',
+        'LEON MOIZANT — a son, named in his father\'s 1933 obituary; this family had been recorded as daughters only',
+        'and four more daughters known so far only by their married names, from the same obituary: Mrs Edward Rondey · Mrs John Guillaume · Mrs Anthony Roubaud · Mrs J. L. Pareti'
       ],
       given: 'Alfred Leopold', surname: 'Moizant', sex: 'M',
-      birth: { date: 'January 1838', place: 'France (per his memorial)' },
+      father: 'alfredMoizantPere', mother: 'clemenceChapeau',
+      origin: 'Bordeaux, France',
+      birth: { date: 'January 1838', place: 'Bordeaux, France' },
       death: { date: '23 February 1933', place: 'Orleans Parish' },
-      evidence: 'confirm',
+      evidence: 'verified',
       branch: 'moizant',
       immigrant: true,
-      blurb: 'Died at ninety-five. Buried in the same plot as his daughter — St. Louis No. 3, Square 3, Section B, Lot 11.',
+      blurb: 'A Bordeaux man who died at ninety-five in New Orleans, having outlived his wife, several of his children, and the century he was born in. He married in 1866, raised a large family down the river in Plaquemines, took American citizenship at sixty-two after thirty-four years here, moved up to the city in old age, and was still registering to vote at ninety-three. Buried in the same plot as his daughter — St. Louis No. 3, Square 3, Section B, Lot 11.',
+      records: [
+        {
+          title: 'HIS PARENTS, AND BORDEAUX',
+          citation: 'Louisiana, Orleans, Death Records and Certificates, 1835–1954 — Alfred L. Moizant, 23 February 1933; with his obituary, New Orleans, 23 February 1933 (GenealogyBank), and his voter registration of 9 December 1931',
+          text: 'Death record: Alfred L. Moizant, died 23 February 1933, born 1838 in France — parents ALFRED MOIZANT and CLEMENCE CHAPEAU. · Obituary, 23 February 1933: born about 1838 at BORDEAUX, died the 22nd. · Voter registration, 9 December 1931: birthplace "South France."',
+          highlight: 'THIS CLOSES THE AIRPORT QUESTION FOR GOOD. This page has carried an open item for two years — "Alfred\'s French birth record or passenger manifest would end it." His death record and his obituary do the job between them: he was a Bordeaux man, son of Alfred Moizant and Clémence Chapeau. The aviator John Moisant\'s father Medard was born in Quebec. Two families, now separated by named parents and named birthplaces instead of by argument. And one small confirmation sits in his own household — the daughter the 1900 census calls "Clemantine," named for a grandmother in Bordeaux she would never meet.'
+        },
+        {
+          title: 'Naturalized at sixty-two',
+          citation: 'Louisiana Naturalization Records, 1812–1932 — Alfred Moizant, 2 March 1900',
+          text: 'Naturalization, 2 March 1900, Louisiana. Birthplace France.',
+          highlight: 'He had been in Louisiana since at least 1866, the marriage year his own census entry gives. He waited thirty-four years to become an American, and then did it in the same year the census taker found him at the bottom of the river with six daughters at home.'
+        },
+        {
+          title: 'A life that moved upriver',
+          citation: 'United States Censuses of 1900, 1910 and 1930; Orleans and St. Tammany Voter Registration Records, 1867–1949',
+          text: '1900 — Wards 5 and 10, Plaquemines Parish: Alfred Moizant, b. January 1838 in France, married 1866, with Amelie, Angeline, Clemantine, Louise, Adeline and Anitia at home. · 1910 — NAIRN, Plaquemines Parish. · 1930 — New Orleans. · Registered to vote in Orleans Parish on 8 October 1923, and again on 9 December 1931.',
+          highlight: 'In 1910 he was living at Nairn — the same small delta village as his son-in-law Tony Franovich, in the same census year. He was still turning up to register to vote at ninety-three, two years before he died.'
+        }
+      ],
       sources: [{ label: 'Find a Grave 143366668', url: 'https://www.findagrave.com/memorial/143366668' }],
-      note: 'The family story that the Moizants are kin to John Moisant, the aviator MSY was named for, was checked and judged unlikely. Alfred was born in France in 1838 and came to New Orleans; the aviator\'s father Medard Moisant was born in Quebec the same year and went to Illinois — exact contemporaries from different continents\' migrations, so no parent or sibling link is possible. In ninety years of Louisiana records the MOIS- and MOIZ- spellings never once cross: no shared given names, spouses, parents or plots. The story probably took hold because a real New Orleans Moisant family, descended from the aviator\'s Quebec cousins, does exist. Alfred\'s French birth record or passenger manifest would end the question for good.'
+      note: 'THE MOISANT STORY, SETTLED. The family held that the Moizants were kin to John Moisant, the aviator the airport was named for. It is not so, and it is no longer a matter of inference. Alfred was born at Bordeaux to Alfred Moizant and Clémence Chapeau; the aviator\'s father Medard Moisant was born in Quebec in the same year and went to Illinois — different continents\' migrations, different parents, no link possible. In ninety years of Louisiana records the MOIS- and MOIZ- spellings never once cross. The story probably took hold because a real New Orleans Moisant family, descended from the aviator\'s Quebec cousins, does exist.'
+    },
+
+    alfredMoizantPere: {
+      children: [ { id: 'alfredMoizant' } ],
+      given: 'Alfred', surname: 'Moizant', sex: 'M',
+      origin: 'Bordeaux, France',
+      evidence: 'verified',
+      branch: 'moizant',
+      blurb: 'A name from Bordeaux, recorded in New Orleans ninety-five years later by whoever gave the information at his son\'s death. Nothing else about him is known yet.',
+      records: [
+        {
+          title: 'Named at his son\'s death',
+          citation: 'Louisiana, Orleans, Death Records and Certificates, 1835–1954 — Alfred L. Moizant, 23 February 1933',
+          text: 'Parents of the deceased: ALFRED MOIZANT and Clemence Chapeau.'
+        }
+      ],
+      note: 'The next document is in France, not Louisiana: a Bordeaux birth or marriage act of the 1830s. The Gironde departmental archives have their registers online and indexed, which makes this one of the more findable of the remaining European questions on this tree.'
+    },
+
+    clemenceChapeau: {
+      children: [ { id: 'alfredMoizant' } ],
+      given: 'Clémence', surname: 'Chapeau', sex: 'F',
+      origin: 'Bordeaux, France',
+      evidence: 'verified',
+      branch: 'moizant',
+      blurb: 'Her son crossed an ocean and lived to ninety-five; her name crossed with him and came out in a New Orleans death record in 1933. A granddaughter she never met was christened Clémentine for her.',
+      records: [
+        {
+          title: 'Named at her son\'s death',
+          citation: 'Louisiana, Orleans, Death Records and Certificates, 1835–1954 — Alfred L. Moizant, 23 February 1933',
+          text: 'Parents of the deceased: Alfred Moizant and CLEMENCE CHAPEAU.'
+        },
+        {
+          title: 'And in a granddaughter\'s name',
+          citation: 'United States Census, 1900 — Wards 5 and 10, Plaquemines Parish',
+          text: 'In Alfred Moizant\'s household: "Clemantine J. Moizant."',
+          highlight: 'Not proof of anything, but the kind of detail that makes a name into a person: somewhere in the Plaquemines marsh in the 1880s, a French immigrant named a daughter after his mother.'
+        }
+      ]
     },
 
     victoriaDaroca: {
       children: [
         'Delphine Marie (1867–1943)',
         { id: 'melanieMoizant' },
+        'Clémentine J. (in the 1900 census, named for her grandmother in Bordeaux)',
         'Amelia Marcellin (1881–1928)',
         'Louise (1883–1972)',
-        'Annicia (1886–1964)',
+        'Annicia (1886–1964) — married Hyacinthe Scobel',
         'Adeline “Dina” (1888–1966)',
-        'Angeline (1892–1970)'
+        'Angeline (1892–1970) — married John Halckias',
+        'LEON MOIZANT — a son, named in his father\'s 1933 obituary; this family had been recorded as daughters only',
+        'and four more daughters known so far only by their married names, from the same obituary: Mrs Edward Rondey · Mrs John Guillaume · Mrs Anthony Roubaud · Mrs J. L. Pareti'
       ],
       given: 'Victoria Juliene', surname: 'Daroca', sex: 'F',
       birth: { date: '9 January 1850' },
@@ -1714,7 +1871,7 @@
         'Esther Marguerite (2 Jan 1904 – 14 Sept 1976)'
       ],
       given: 'Anthony Henry', surname: 'Larmann', sex: 'M',
-      occupation: 'Architect',
+      occupation: 'Architect — family memory, and NOT yet found in any record. See the note below.',
       birth: { date: '26 August 1871', place: 'New Orleans' },
       death: { date: '12 February 1904', place: 'Orleans Parish' },
       father: 'johnCasparLarmann', mother: 'emilyMevers',
@@ -1747,7 +1904,7 @@
           highlight: 'Exactly the date in Esther\'s ledger: "Fri. Feb. 12th, Age 32."'
         }
       ],
-      note: 'He was born nine and a half months after his parents\' November 1870 Orleans wedding. The old sibling list carried "Louise Frances (b. 1897)" as if she grew up; the death index shows Louisa Francis died at eight months, on 30 May 1898 — and the 1900 census confirms it, catching his household that June with only Mary E and Bernadine at home. THE "JOHN HENRY" QUESTION — ANSWERED, 11 August 2026. The RootsWeb family file supplied by Judy Gifford listed Casper and Emily\'s eldest as "John Henry Larmann, b. 26 August 1871" — the same day, the same parents, the same city as this man. It was flagged here rather than merged, because it sat on the direct line of descent and a matching birthday is not proof. It is now settled the other way: HE WAS ANTHONY HENRY, and the RootsWeb name is simply wrong. Nine independent records say so and not one says John — including two Orleans birth records of his own daughters, which spell out ANTHONY HENRY LARMANN in full; the 1880 census, which has him in his father\'s house; the 1900 census, his 1896 voter registration, his 1895 marriage, his 1904 death record, and his daughter Esther\'s own ledger. His FamilySearch profile carries twenty-four attached sources and no alternate name. The likeliest explanation for the error is the obvious one: his father and two of his brothers were Johns, and a compiler working from a list filled in the name he expected. Cross-check that closes it — his brother Henry\'s 1938 obituary lists the surviving and late siblings by name, and lists ANTHONY and JOHN C as two different men.'
+      note: '⚠️ "ARCHITECT" IS NOT SOURCED. This site\'s one rule is that a claim carries a record, and this one does not. Audited 11 August 2026: his 1895 marriage act, both his daughters\' Orleans birth records, the 1880 census and his 1904 death record are all silent on his trade, and the 1900 census index carries no occupation field. It is left standing because it is very likely family memory and memory has earned its keep on this tree — but it is flagged rather than dressed up as documented. THE FIX IS SMALL AND SPECIFIC: the occupation column is on the 1900 census sheet itself, unindexed — he is at ED 85, 4th Precinct, New Orleans Ward 9, sheet 14A, line 46. Soards\' New Orleans city directories for 1895–1904 would also give his trade and address year by year. He was born nine and a half months after his parents\' November 1870 Orleans wedding. The old sibling list carried "Louise Frances (b. 1897)" as if she grew up; the death index shows Louisa Francis died at eight months, on 30 May 1898 — and the 1900 census confirms it, catching his household that June with only Mary E and Bernadine at home. THE "JOHN HENRY" QUESTION — ANSWERED, 11 August 2026. The RootsWeb family file supplied by Judy Gifford listed Casper and Emily\'s eldest as "John Henry Larmann, b. 26 August 1871" — the same day, the same parents, the same city as this man. It was flagged here rather than merged, because it sat on the direct line of descent and a matching birthday is not proof. It is now settled the other way: HE WAS ANTHONY HENRY, and the RootsWeb name is simply wrong. Nine independent records say so and not one says John — including two Orleans birth records of his own daughters, which spell out ANTHONY HENRY LARMANN in full; the 1880 census, which has him in his father\'s house; the 1900 census, his 1896 voter registration, his 1895 marriage, his 1904 death record, and his daughter Esther\'s own ledger. His FamilySearch profile carries twenty-four attached sources and no alternate name. The likeliest explanation for the error is the obvious one: his father and two of his brothers were Johns, and a compiler working from a list filled in the name he expected. Cross-check that closes it — his brother Henry\'s 1938 obituary lists the surviving and late siblings by name, and lists ANTHONY and JOHN C as two different men.'
     },
 
     eugeniaMoore: {
