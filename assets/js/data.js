@@ -1101,7 +1101,7 @@
           highlight: 'Both parents already dead in April 1740, and both named in the same breath. Because his daughter married as a MINOR that first time, the notary had to record her filiation — which is exactly what the 1747 contract could not do, seven years later, when she came to it a widow. The whole hunt turned on that one difference.'
         }
       ],
-      note: 'WHO HE WAS is unknown beyond the name. He was in New Orleans by about 1720, which puts him in the town\'s first years — the Company of the Indies era. No baptism, marriage or burial for him survives; the St. Louis church registers effectively begin in 1731, after he was already raising a family. The places left to look are the 1721, 1726 and 1727 colonial censuses, the Company of the Indies passenger lists, and the Superior Council records under every spelling of the name.'
+      note: 'WHO HE WAS is unknown beyond the name, and the search for more has now been run and come back empty — which is itself worth recording. He is NOT in the French Superior Council records: 86 documents there carry the name Reynaud, but the pre-1742 ones all belong to Claude Reynaud dit Avignon\'s family, a different household entirely. He is not in the sacramental abstracts. He left no will, no lawsuit, no property sale, no mortgage. Two things follow. He was in New Orleans by about 1720, in the Company of the Indies years, which is the town\'s first decade. And he died early and without an estate worth litigating — the court records thicken from about 1735, and by then he was already gone. The remaining places to look are outside both systems: the 1721, 1726 and 1727 colonial censuses, and the Company of the Indies passenger lists of 1718–21.'
     },
 
     heleneDorigny: {
@@ -1118,7 +1118,8 @@
           text: '"…fille mineure de feu Jean Reynaud et de FEUE HÉLÈNE DORIGNY, ses père et mère, native de la N[ouve]lle Orléans, évêché de Québec…"',
           highlight: 'The spelling is read from one 1740 hand and one hand only, so Dorigné and d\'Origny are equally possible — Origny being a French place name, which would make it a woman named for where she came from. Nothing else about her survives.'
         }
-      ]
+      ],
+      note: 'SEARCHED, AND GENUINELY EMPTY. Dorigny returns nothing at all in the French Superior Council records — not one document, under that spelling or Origny. Nothing in the sacramental abstracts either. She exists in exactly one line of one notarial act, written after she was already dead, and that is the entire surviving record of a woman who crossed an ocean and raised a daughter in a town that was barely built. It is worth saying plainly rather than leaving her as a name with an implied file behind it: there is no file.'
     },
 
     francoiseRenard: {
@@ -1162,6 +1163,12 @@
           imageAlt: 'A typed WPA index card abstracting the 1740 marriage contract between Pierre François Cousin and Marie Françoise Reinard, with signatures copied beneath',
           imageCredit: 'WPA abstract card, Document C 40 (2845) — Louisiana Historical Center, via the Louisiana Colonial Documents Digitization Project.',
           highlight: 'Two quiet things sit in these two records. Her first husband was a CARPENTER from BOURBOURG in French Flanders, son of a late Antoine Cousin — an immigrant, like almost every man in this tree who married a woman already here. And when their first son was born in 1745, the godfather was JEAN CONNARD: the same man who had raised her as an orphan and given her away five years earlier. He was still there. She also signed this contract in her own hand, in 1740 — seven years earlier than the other signature we have, so her literacy is attested twice.'
+        },
+        {
+          title: 'The Connards — and how she paid it back',
+          citation: 'St. Louis church, New Orleans — baptism of Françoise Connard, 30 July 1751 (SLC, B2, 227); SRANO Vol. 2. Connard family entries, SRANO Vols. 1–2; 46 documents under CONNARD in the French Superior Council records, 1735–1791.',
+          text: '"CONNARD — Françoise (ALEXIS and Marie Françoise GONZALES), b. July 30, 1751, s. François Toiton and MARIE FRANÇOISE RENARD."',
+          highlight: 'THE RELATIONSHIP RAN BOTH WAYS, AND IT LASTED. Jean Connard raised her as an orphan and gave her away in 1740; he stood godfather to her first son in 1745; and here, in 1751 — a year after she married the mason, and eleven years after he handed her over at the notary — she is standing over the font for a Connard daughter, who is given her own name. That is not a legal formality. That is a family. As for who they were: the Connards were substantial and old in French Louisiana, running back through Mobile and the Arkansas Post, with forty-six documents to their name in the colony\'s court records — property sales, mortgages, petitions. Gilles Alexis Connard, surnamed La Forez, and his wife Marie Françoise Gonzalès head the household she was godmother into.'
         },
         {
           title: 'THE COURT NAMES HER OUTRIGHT — twice widowed by 1748',

@@ -2877,3 +2877,49 @@ data.js.
 - **1746-08-16-01 "Family Meeting" (Allevin, COUSIN, Renaud, Cariton, Lemelle, Dumas, Raguet)** =
   `/document/7172` — a *conseil de famille* is what happens when a father dies leaving minors.
   **This should date Pierre Cousin's death and may name her kin.** NOT YET READ.
+
+### The 1746 family meeting, and digging on the three names — 2026-08-11
+
+**❌ I PREDICTED THIS ONE WRONG.** I expected `1746-08-16-01` to be Pierre Cousin's succession —
+a *conseil de famille* after a father dies leaving minors. **It is not.** WPA card D 46/100:
+
+> "**Homologation of deliberations of family meeting recommending emancipation of ALLEVIN.**"
+> (Signed) **Pierre Cousin**, Avignon, Cariton, Allevin, Lemelle Dumas, Raguet.
+> *LHQ* Vol. 16 no. 3, July 1933, p. 507.
+
+It is the emancipation of young **François Allevin**, and Pierre Cousin was one of the six men
+sitting on the council. **Still useful — it proves Cousin ALIVE on 16 Aug 1746.** Combined with
+the Joly contract of 6 Sep 1747, **Pierre Cousin died between 16 August 1746 and 6 September
+1747** — a thirteen-month window.
+
+**❌ JEAN REYNAUD — NOT in the Superior Council records.** 86 documents under REYNAUD, but every
+pre-1742 one belongs to **Claude Reynaud dit Avignon**, a different household (he m. Marieanne
+Grandry 1730 per SRANO Vol. 1). No will, lawsuit, sale or mortgage for our Jean. Not in the
+sacramental abstracts either. **Inference:** in New Orleans by ~1720 (Company of the Indies
+years), and dead early without an estate worth litigating — the court corpus thickens from ~1735
+and he is already absent.
+
+**❌ HÉLÈNE DORIGNY — ZERO results**, under DORIGNY or ORIGNY. Nothing in SRANO. She survives in
+one line of one act, written after her death. Published as an explicit negative so nobody assumes
+there is a file waiting.
+
+**🟢 JEAN CONNARD — a real answer, and the relationship runs BOTH WAYS.**
+- **46 documents under CONNARD** in the Superior Council, **1735–1791**: petitions to sell
+  property, sales of immovables, mortgages, family meetings. Substantial, propertied family.
+- SRANO shows the Connards across **Mobile** (Marguerite Connard, "native of Mobile") and the
+  **Arkansas Post** (Alexis Connard, "native of Arque, province of Louisiana"). Old French
+  Louisiana, not New Orleans-only.
+- Household head in our years: **Gilles Alexis CONNARD, surnamed LA FOREZ × Marie Françoise
+  GONZALLE/GONZALÈS**, children 1744–1757.
+- **🟢🟢 THE RECIPROCAL PROOF — SLC, B2, 227:** *"CONNARD — Françoise (Alexis and Marie Françoise
+  GONZALES), b. July 30, **1751**, s. François Toiton and **MARIE FRANÇOISE RENARD**."*
+  **She stood godmother to a Connard daughter — named Françoise, for her — in 1751**, a year
+  after marrying Étienne Reine and eleven years after Connard gave her away.
+
+**The full arc, documented: 1740 he gives her away · 1745 he is godfather to her son · 1751 she is
+godmother to his kinsman's daughter.** Not a legal formality repeated three times — a family
+relationship that no pedigree chart would ever show, because there is no blood in it.
+
+**Untried on Connard:** his own given name is not pinned (Jean vs Gilles Alexis — likely father,
+brother or uncle); `last_name=CONNARD` documents 1735–39 predate our story and may explain how he
+came to have an orphan in the house.
