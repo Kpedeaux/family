@@ -1599,7 +1599,7 @@
           highlight: 'Exactly the date in Esther\'s ledger: "Fri. Feb. 12th, Age 32."'
         }
       ],
-      note: 'He was born nine and a half months after his parents\' November 1870 Orleans wedding. The old sibling list carried "Louise Frances (b. 1897)" as if she grew up; the death index shows Louisa Francis died at eight months, on 30 May 1898 — and the 1900 census confirms it, catching his household that June with only Mary E and Bernadine at home.'
+      note: 'He was born nine and a half months after his parents\' November 1870 Orleans wedding. The old sibling list carried "Louise Frances (b. 1897)" as if she grew up; the death index shows Louisa Francis died at eight months, on 30 May 1898 — and the 1900 census confirms it, catching his household that June with only Mary E and Bernadine at home. A NAME TO WATCH: the RootsWeb family file supplied by Judy Gifford in 2026 lists Casper and Emily\'s eldest as "JOHN HENRY Larmann, b. 26 August 1871" — the same day, the same parents, the same city. Almost certainly this man, under a baptismal name the family did not use; his father and two of his brothers were all Johns, and a boy called Anthony at home would not be the first. But no record yet read gives both names together, so the site keeps him as Anthony and flags the alias rather than merging the two on a matching birthday alone.'
     },
 
     eugeniaMoore: {
@@ -1650,9 +1650,9 @@
       ],
       children: [
         { id: 'anthonyLarmann' },
-        'By Emily: John Christian (22 April 1874 – 1909), Clemence Charles (10 May 1876 – 15 April 1880, dead at three), Bernard Leo (March 1878 – 1955)',
-        'By Louisa Ehmann, each with an Orleans birth record naming both parents: Joseph Benedict (9 Apr 1885 – 1950), Hilda Margaretha (22 Dec 1886 – 1940, died a Mrs Cook), Henry (b. 25 May 1889), Albert (b. 22 Dec 1891), Edward John (b. 16 Dec 1896) — the Edward who married Marie Edna Fernandez in 1921, and Caspar Maurice "Casper Jr." (15 Jan 1899 – 1945)',
-        'The 1900 census catches the household whole at 2883 Dauphine Street on 9 June 1900: Casper 52, a cabinet maker renting the house; Louisa 42, six children born and six living; John 26, a barber; Bernard 22, a house painter; Joseph 15, a cotton clerk; Hilda 13; Henry 11, at school; Albert 8; Edward 3; Casper Jr. 1 — and Louisa\'s widowed father Joseph Stauder, 71, a cotton-picking foreman who had come from Germany in 1835'
+        'By Emily Mevers, his first wife: John Christian (22 April 1874 – 1909), a barber, who married a Florina; Clemence Charles (10 May 1876 – 15 April 1880, dead at three); and Bernard Leo (March 1878 – 1955), a house painter, who married Mathilda Jones',
+        'By Louisa Ehmann, his second, each with an Orleans birth record naming both parents: Joseph Benedict (9 Apr 1885 – 1950), a cotton clerk, who married Frances Virginia Neems; Hilda Margaretha (22 Dec 1886 – 31 Jan 1940), who married Willis Newton Cook; Henry (b. 25 May 1889); Albert (22 Dec 1891 – 1944), who died far from home in Hackensack, Bergen County, New Jersey; Edward John (b. 16 Dec 1896) — the Edward who married Marie Edna Fernandez in 1921; and Caspar Maurice "Casper Jr." (15 Jan 1899 – 1945), who married a Thelma',
+        'The 1900 census catches the household whole at 2833 Dauphine Street on 9 June 1900: Casper 52, a cabinet maker renting the house; Louisa 42, six children born and six living; John 26, a barber; Bernard 22, a house painter; Joseph 15, a cotton clerk; Hilda 13; Henry 11, at school; Albert 8; Edward 3; Casper Jr. 1 — and Joseph Stauder, 71, the widowed cotton-picking foreman who had come from Germany in 1835 and who had raised Louisa. Two half-families under one roof, and the census counts them exactly: Louisa is marked "six children born, six living," which is the six from 1885 on. John and Bernard, the grown men at the table, were Emily\'s'
       ],
       given: 'John Casper', alsoKnownAs: 'naturalized as Johann Gasper Larmann; born Johann Caspar', surname: 'Larmann', sex: 'M',
       occupation: 'Cabinet maker and carpenter — United Brotherhood of Carpenters and Joiners, Local No. 1312',
@@ -1693,7 +1693,19 @@
           title: 'Second marriage',
           citation: 'Orleans Parish, April 1884 — Vol. 10, p. 589',
           text: 'EHMANN, LOUISA MARGARET × LARMANN, JOHN CASPER.',
-          highlight: 'Two years after Emily\'s death, on 26 April 1884. She was born in New Orleans on 27 August 1857. THE STAUDER PUZZLE IS SOLVED: the 1900 census of this household lists, under the children, "JOSEPH STAUDER, FATHER-IN-LAW, born March 1829 in Germany, immigrated 1835, widowed" — living with them at seventy-one. So Louisa was born a STAUDER, exactly as the family always said with their "Louise Standed," and Ehmann was the name of a first husband she was widowed from before she married Casper at twenty-six.'
+          highlight: 'Two years after Emily\'s death, on 26 April 1884. She was born in New Orleans on 27 August 1857 and died there on 7 September 1931. She was EHMANN by birth — the daughter of John David Ehmann and Catharina Lutz, the two names the act itself records. Joseph Stauder, who appears in the 1900 census of this house as "father-in-law," was the man who RAISED her, not the man who fathered her. See "The Stauder puzzle, and how it fooled me" below.'
+        },
+        {
+          title: 'The Stauder puzzle, and how it fooled me',
+          citation: 'U.S. Federal censuses 1860, 1870, 1880 and 1900, Orleans Parish; with research notes by T. Brown in a RootsWeb family file supplied by Judy Gifford, 2026',
+          text: '1870 — Joseph Stauder household, dwelling 446: Joseph 41, Barbara 39, Barbara 15, and "LOUISA STAUDER, 12, born Louisiana." 1880 — Joseph Stauder household, dwelling 117, at 690 Dauphine Street: Joseph 51, Barbara 49, and "LOUISA EHMANN, 22, BOARDER, SINGLE, clerk." 1900 — the Larmann house on Dauphine: "JOSEPH STAUDER, father-in-law, born March 1829, immigrated 1835, widowed, 71."',
+          highlight: 'I read the 1900 census first and got this backwards, and it is worth leaving the error visible. "Father-in-law" looked like proof that Louisa was born a Stauder and that Ehmann must be a first husband\'s name. The 1880 census kills that reading outright: at twenty-two she is already EHMANN, and she is recorded SINGLE — so Ehmann cannot be a married name — and she is a BOARDER in the house, which no man\'s own daughter is. She was born Ehmann and raised Stauder. T. Brown\'s note supplies the mechanism: the Ehmann girls were orphaned some time between 1860 and 1870 and were taken in by Joseph and Barbara Lutz Stauder, who had no children of their own — Barbara Lutz being, in all likelihood, the sister of Louisa\'s mother Catharina Lutz. Her aunt and uncle raised her, the 1870 enumerator wrote her down under their name, and thirty years later Joseph Stauder was still, to everyone who knew the family, Casper\'s father-in-law. Both family memories were true at once: "Louise Standed" was the name she grew up under, Ehmann the name she was born with.'
+        },
+        {
+          title: 'Her name in her own children\'s birth records — eight of them',
+          citation: 'Alphabetical Birth Indexes for Orleans Parish, 1796–1900; transcribed in the RootsWeb family file supplied by Judy Gifford, 2026',
+          text: 'John Christian, 22 Apr 1874 — father John, mother E. MEVERS (vol. 65, p. 222) · Clemence Charles, 10 May 1876 — father John Casper, mother EMILY MEVERS (vol. 69, p. 362) · Joseph Benedict, 9 Apr 1885 — father John G., mother LOUISE M. EHMANN (vol. 82, p. 1122) · Hilda Margaretha, 22 Dec 1886 — mother LOUISA M. AMANN [sic] (vol. 84, p. 1119) · Henry, 25 May 1889 — mother LOUISA EHMANN (vol. 87, p. 1038) · Albert, 22 Dec 1891 — mother LOUISA EHNMANN (vol. 93, p. 247) · Edward John, 16 Dec 1896 — father Casper Jno., mother LOUISA EHMANN (vol. 109, p. 542) · Caspar Maurice, 15 Jan 1899 — mother LOUISE M EHMANN (vol. 115, p. 383).',
+          highlight: 'Eight civil birth records across twenty-five years, and every one of the six later ones gives the mother\'s name as EHMANN — a birth record records the mother\'s MAIDEN name. Not once is she a Stauder. The two earliest, in 1874 and 1876, name Mevers instead, which is the cleanest possible proof that these are two different mothers and two different marriages. Every volume and page is exact, so any of the eight can be ordered.'
         },
         {
           title: 'Louisiana death record',

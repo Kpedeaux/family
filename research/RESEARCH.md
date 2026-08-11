@@ -1475,12 +1475,12 @@ recording Aunt Esther Mary Larmann (1/2/1904 – 9/14/76). VERBATIM:
    necrologies, and religious-sister passenger entries.
 3. **"Amelia Meners"** — Esther's own name for Emily Mevers; a son's death record independently
    says "Amelia Mevis." Emily/Amelia = one woman. Site note updated.
-4. **"Louise Standed" VINDICATED.** Family name for the 2nd wife = Stauder/Stouder/Standed;
-   1900 census gives her father as **Joseph Stauder**; a son's death record names his mother
-   **Louisa Stouder**; yet the 1884 marriage act calls her **Ehmann** with a John D. Ehmann and
-   Katharina Lutz on the page. ⚠️ **I HAD WRITTEN THOSE TWO UP AS HER PARENTS — CORRECTED on the
-   site to "also on the act."** Best reading now: **born Stauder, widowed Ehmann, m. Casper 1884
-   at 27.** Test: an Orleans Ehmann marriage c.1875–83, or her 1931 death record's parents.
+4. **"Louise Standed" — SOLVED, see the Stauder section below.** She was **born EHMANN, raised
+   STAUDER**: John David Ehmann and Catharina Lutz were her parents (the two names on the 1884
+   act, which I had wrongly demoted), and Joseph Stauder was the uncle who raised her after she
+   was orphaned. My "born Stauder, widowed Ehmann" reading is **retracted** — the 1880 census
+   has her single at 22 already named Ehmann, and every one of her children's birth records
+   gives the mother as Ehmann.
 5. Sons by Amelia = **3** (Anthony, John, Bernard) — Charles A. Clemence (d. 1880 a child) not
    counted, consistent.
 6. **Edward Larmann played the organ at the Kress store on Canal Street**, and was the last of
@@ -1739,13 +1739,37 @@ Naturalization Book 6, Page 189B**." → PULLABLE. Two years after arrival, at 2
 > b. Dec 1896 · 10) Casper Jr., b. Jan 1899 · **11) JOSEPH STAUDER, FATHER-IN-LAW, b. March
 > 1829, 71, widowed, b. Germany, immigrated 1835, in US 65 yrs, foreman – cotton picking.**
 
-→ **LOUISA WAS BORN A STAUDER.** Judy's "Louise Standed" was right all along; her son's death
-record's "Louisa Stouder" was right; the 1900 census names her father outright as a household
-member. **"Ehmann" was her FIRST MARRIED NAME** — she came to Casper in 1884, aged 26, a widow.
-That also retro-justifies the earlier correction: John D. Ehmann and Katharina Lutz on the 1884
-act are NOT her parents (probably her first husband's people). **NEW PERSON AVAILABLE: Joseph
-Stauder, b. Mar 1829 Germany, immigrated 1835, widowed by 1900** — Louisa's father. Not drawn
-yet (Louisa herself isn't a direct ancestor; she's Casper's 2nd wife).
+→ ~~**LOUISA WAS BORN A STAUDER.** "Ehmann" was her FIRST MARRIED NAME — she came to Casper in
+1884, aged 26, a widow. John D. Ehmann and Katharina Lutz on the 1884 act are NOT her parents.~~
+
+🔴 **RETRACTED, same day, by "More Larmann.pdf" — see below.** This was my error, and the
+mechanism of the error is worth keeping: I read "father-in-law" on the 1900 census as a
+biological claim and reasoned backwards from it, then treated my own earlier correction as
+confirmed because it now fit. It did not fit; I had simply stopped testing it.
+
+→ **CORRECT ANSWER: LOUISA WAS BORN AN EHMANN AND RAISED A STAUDER.** Her parents were **John
+David EHMANN and Catharina LUTZ** — exactly the two names on the 1884 marriage act, which I had
+demoted to "also on the act." **Joseph Stauder was her FOSTER father**, and Barbara Lutz
+Stauder, his wife, was in all likelihood her mother's sister. The three killer facts:
+- **1880 census, Joseph Stauder household, 690 Dauphine:** "Louisa **Ehmann**, 22, **boarder**,
+  **single**, clerk." Single at 22 under the name Ehmann ⇒ Ehmann cannot be a married name. And
+  a man's own daughter is not enumerated as a *boarder* in his house.
+- **1870 census, Joseph Stauder household:** "Louisa **Stauder**, 12, b. Louisiana" — the foster
+  child written down under the family name. This is the source of every "Standed/Stouder" in
+  family memory.
+- **Eight Orleans Parish birth-index entries for her children (1885–1899) all name the mother
+  EHMANN** (once garbled "Amann"). Birth records carry the mother's MAIDEN name. Never Stauder.
+
+T. Brown's research note supplies the story: the Ehmann girls were **orphaned between 1860 and
+1870** and taken in by Joseph and Barbara Stauder, **who had no children of their own.** The
+tentative 1860 household ("J. Heman," 36, b. Prussia c.1824; Catherine 17 and Charles 14, both
+b. Prussia; Babette 5 and **Louisa 3**, both b. New Orleans) is unverified and flagged as such.
+
+**Both family memories were true at once** — "Louise Standed" is the name she grew up under,
+Ehmann the name she was born with. **NEW PEOPLE AVAILABLE (none drawn — Louisa is Casper's 2nd
+wife, not a direct ancestor):** Joseph Stauder b. **8 Mar 1829 Deidesheim, Pfalz, Bavaria**,
+immigrated 1835, cotton-picking foreman, widowed by 1900; Barbara Lutz b. abt 1831 Germany;
+John David Ehmann; Catharina Lutz. Louisa: **b. 27 Aug 1857 New Orleans, d. 7 Sep 1931**.
 
 ⚠️ **IMMIGRATION YEAR, three sources:** 1900 census **1866** (in US 34 yrs — internally
 consistent) · obituary "resident 56 years" → **1865** · the tree's summary field says 1860 and
@@ -2345,6 +2369,79 @@ matter most). FS tree profile: **LT7Z-71B**.
   supplied: Ann Larmann was one of six children ✓ (matches the documented sibling set).
 - **Standing asks:** Aunt Patricia → memories of John Brunetti himself. Judy → the rest of the "tons."
   Anyone → tomb photographs; Buras/Moizant memories; the orphanage brother's name.
+
+---
+
+## Judy's PDFs, batch 2 — "More Larmann.pdf" (5 pp) and "More.pdf" (18 pp), read 2026-08-11
+
+All 23 pages are image-only printouts from the same source as batch 1: **RootsWeb WorldConnect,
+tree "Kibbee, Rosnagel, Slater, Thompson and Allied Lines"** (3,051 entries, contact T. Brown,
+printed 27 Sept 2012). One page per person. Their value is not the tree itself — it is that the
+compiler transcribed **primary records** in full, and Judy annotated the printouts by hand.
+
+### ① CASPER MARRIED TWICE — and the census proves it arithmetically
+
+Already on the site in outline; now nailed down. **Marriage 1: Mary Emily MEVERS**, Nov 1870 →
+John Henry (26 Aug 1871), John Christian (22 Apr 1874), Clemence Charles (10 May 1876, d. 1880),
+Bernard (Mar 1878). **Marriage 2: Louisa Margaret EHMANN**, 26 Apr 1884 → Joseph Benedict (1885),
+Hilda Margaretha (1886), Henry (1889), Albert (1891), Edward John (1896), Caspar Maurice (1899).
+
+**The clincher:** the 1900 census marks Louisa **"6 children born, 6 living."** Exactly six —
+the 1885-and-later set. John (26) and Bernard (22), the two grown men in that house, are
+therefore **not hers**. Ten children, two mothers, one household.
+
+### ② The eight Orleans Parish birth-index citations (all orderable)
+
+| Child | Date | Father as indexed | Mother as indexed | Vol | Pg |
+|---|---|---|---|---|---|
+| John Christian | 22 Apr 1874 | John | **E. Mevers** | 65 | 222 |
+| Clemence Charles | 10 May 1876 | John Casper | **Emily Mevers** | 69 | 362 |
+| Joseph Benedict | 9 Apr 1885 | John G. | **Louise M. Ehmann** | 82 | 1122 |
+| Hilda Margaretha | 22 Dec 1886 | John Casper | **Louisa M. Amann** [sic] | 84 | 1119 |
+| Henry | 25 May 1889 | Caspar | **Louisa Ehmann** | 87 | 1038 |
+| Albert | 22 Dec 1891 | Casper | **Louisa Ehnmann** | 93 | 247 |
+| Edward John | 16 Dec 1896 | Casper Jno. | **Louisa Ehmann** | 109 | 542 |
+| Caspar Maurice | 15 Jan 1899 | Caspar | **Louise M Ehmann** | 115 | 383 |
+
+Two mothers, cleanly separated at 1884. Note the father's name wandering across eight clerks —
+John, John Casper, John G., Caspar, Casper, Casper Jno. — a useful reminder for any future index
+search that **this man is indexed under at least six spellings.**
+
+### ③ Judy's handwritten spouse annotations (family knowledge, no citation)
+
+Bernard → **Mathilda Jones** · John Christian → **Florina** · Joseph Benedict → **Frances
+Virginia Neems** · Hilda → **Willis Newton Cook** (✓ independently matches the NOPL obituary
+index from batch 1: "Hilda M. Cook (Larmann), d. 31 Jan 1940, husband Willis N. Cook") ·
+Edward John → **Mamie F.** · Caspar Maurice → **Thelma** · Albert → **d. 1944, Hackensack,
+Bergen County, New Jersey.** Clemence Charles → **d. 1880** (✓ matches our death index).
+
+Hilda's is the one that cross-checks against an independent source, which raises confidence in
+the whole set. Treat the rest as *confirm*-tier leads, not proof.
+
+### ④ ⚠️ A NAME COLLISION TO RESOLVE: is Anthony actually "John Henry"?
+
+RootsWeb lists Casper and Emily's eldest as **"John Henry Larmann, b. 26 August 1871."** Our
+Anthony Larmann — Kevin's direct ancestor — is **b. 26 August 1871, New Orleans.** Same day,
+same parents, same city, and RootsWeb gives its John Henry no death date while ours died
+12 Feb 1904. Almost certainly one man under a baptismal name the family didn't use. **Not
+merged.** The site now carries the alias as a flagged note on Anthony. TEST: his baptismal
+record at Holy Trinity (now known to be the family parish), or his 1904 death record's given
+names. This is the single most important loose thread in the Larmann line, because it sits on
+the direct line of descent.
+
+### ⑤ Address correction
+
+RootsWeb's census transcription gives the 1900 residence as **2833 Dauphine Street**; the 1921
+obituary gives the death address as **2883 Dauphine Street, near Press.** One is a typo and I
+cannot yet say which. Site now uses 2833 for the 1900 census and 2883 for the obituary, each
+attributed to its own source rather than silently harmonized. (Press Street is around the 3100
+block, which mildly favors 2883 for the later address — but they may simply have moved.)
+
+### ⑥ Nothing new on Casper's own origin
+
+Every one of the 23 pages repeats **"b. Apr 1848 in , , , Germany"** — RootsWeb had no town.
+Our Gesmold baptism (5 Apr 1846) and the obituary's "aged 75" both beat it. The 1848 comes from
+the 1900 census line, self-reported. **No change to the site's 1846.**
 
 ---
 
