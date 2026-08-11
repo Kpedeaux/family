@@ -1,6 +1,6 @@
 # LIVES — working file (NOT YET ON THE SITE)
 
-**Status: UNCOMMITTED, UNPUBLISHED.** Kevin has another session editing the site. Nothing in this
+**Status: the Franovich and Moizant findings below are now LIVE (commit f275900).** Newer findings below that line may still be pending — Kevin has another session editing the site. Nothing in this
 file goes into `data.js`, `index.html` or `research.html` until he says the coast is clear. No git
 commands are being run from this session at all, to avoid colliding with the other window.
 
@@ -193,7 +193,9 @@ Pareti are all additions**, and the married surnames are the key to finding thei
 
 ---
 
-## SITE CHANGES QUEUED (do not apply yet)
+## SITE CHANGES — ✅ ALL APPLIED 2026-08-11 in commit `f275900`
+
+*(kept as the record of what changed; nothing below is still pending)*
 
 **Franovich**
 - `anthonyFranovich`: **born Buras, Louisiana** — resolve the Dalmatia/Louisiana note; add parents
