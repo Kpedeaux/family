@@ -1638,7 +1638,7 @@
       ],
       children: [
         { id: 'anthonyLarmann' },
-        'By Emily: John C. (b. 1874, d. 1909), Charles A. Clemence (c.1877–1880), Bernard Leo (b. 1878, d. 1955)',
+        'By Emily: John Christian (22 April 1874 – 1909), Clemence Charles (10 May 1876 – 15 April 1880, dead at three), Bernard Leo (March 1878 – 1955)',
         'By Louisa Ehmann, each with an Orleans birth record naming both parents: Joseph Benedict (9 Apr 1885 – 1950), Hilda Margaretha (22 Dec 1886 – 1940, died a Mrs Cook), Henry (b. 25 May 1889), Albert (b. 22 Dec 1891), Edward John (b. 16 Dec 1896) — the Edward who married Marie Edna Fernandez in 1921, and Caspar Maurice "Casper Jr." (15 Jan 1899 – 1945)',
         'The 1900 census catches the household whole: Casper, wife Louisa, and the eight children then at home'
       ],
@@ -1842,9 +1842,9 @@
     emilyMevers: {
       children: [
         { id: 'anthonyLarmann' },
-        'John C. (b. 1874, d. 1909)',
-        'Charles A. Clemence (c.1877–1880)',
-        'Bernard Leo (b. 1878, d. 1955)'
+        'John Christian (22 April 1874 – 1909)',
+        'Clemence Charles (10 May 1876 – 15 April 1880) — dead at three',
+        'Bernard Leo (March 1878 – 1955)'
       ],
       given: 'Marie Emily', surname: 'Mevers', sex: 'F',
       birth: { date: 'about 1847', place: 'Pascagoula, Jackson County, Mississippi' },
@@ -2026,21 +2026,40 @@
           highlight: 'Indexed under her maiden name, as this index often does with married women. Right name, right city, right generation — but no document yet ties this death to Johanna\'s mother, so it is offered as probable, not proven.'
         }
       ],
-      note: 'Her parents were Valery Rousselle and Marie Eve Delatte, per Judy\'s notes. Her siblings: Joseph, Aurelian (married Mamie Dixon), Marie (married Joseph Bernard Grelien) and Naomi (married a Zellar).'
+      note: 'Her parents were Valery Rousselle and Marie Eve Delatte, per Judy\'s notes — and the 1880 census of Edgard, in St. John the Baptist Parish, found the household in August 2026: Genevieve at about nineteen, with brothers and sisters Ignace, Florentine, Ettienne, Leo, Joseph, Aurelia, Noemie and Ozeme. Judy remembered four of those names without a document in front of her. Genevieve\'s birth about 1861 matches her death in 1915 at fifty-four exactly.'
     },
 
     valeryRousselle: {
       children: [
         { id: 'genevieveRousselle' },
+        'Aurelian Rousselle (about 1875 – 25 July 1949) — "Uncle Aurelian," a retired railroad man and a veteran of the Spanish-American War; married Mamie Dixon and died at Bogalusa with no children living, buried in Ponemah Cemetery',
         'Joseph Rousselle',
-        'Aurelian Rousselle',
+        'Ozeme Joseph Rousselle — his own son Valery was born at Lucy in 1901',
+        'Ignace, Florentine, Ettienne and Leo Rousselle — named in the 1880 census',
         'Marie Rousselle Grelien',
-        'Naomi Rousselle Zellar'
+        'Noemie ("Naomi") Rousselle Zellar'
       ],
       given: 'Valery', surname: 'Rousselle', sex: 'M',
+      birth: { date: 'about 1841', place: 'Louisiana' },
+      origin: 'Edgard, St. John the Baptist Parish',
       evidence: 'confirm',
       branch: 'lemoine',
-      blurb: 'Named at the head of Judy\'s "Johanna\'s Family" page. Nothing else is documented yet — no Valery Rousselle appears in the state death index, so he likely died before the index\'s reach or under another spelling.'
+      blurb: 'Found at last in August 2026, in the 1880 census of Edgard, St. John the Baptist Parish — a river-parish household with nine children, four of whose names Judy had already written down from memory sixty years later.',
+      records: [
+        {
+          title: 'The 1880 census — Edgard, St. John the Baptist Parish',
+          citation: '1880 U.S. census, Edgard, St. John the Baptist Parish, Louisiana',
+          text: 'Valery Roussel, born about 1841 in Louisiana, with wife Marie and children Ignace, Florentine, GENEVIEVE, Ettienne, Leo, Joseph, Aurelia, Noemie and Ozeme.',
+          highlight: 'Judy\'s notes named four of these children from family memory — Genevieve, Joseph, "Aurelian," and "Naomi." The census gives Aurelia and Noemie, and five siblings nobody had. This is the household Poupone grew up in.'
+        },
+        {
+          title: 'His wife named in his children\'s records',
+          citation: 'Louisiana Parish Marriages and Deaths — entries for Ozeme Joseph and Leo Rousselle',
+          text: 'Valery Rousselle, spouse MARIE EVE DELATTE, father of Ozeme Joseph Rousselle and of Leo Rousselle.',
+          highlight: 'Independent confirmation of the wife Judy named — she first wrote the surname "Deslattes," then corrected it to Delatte, and both spellings appear in the records.'
+        }
+      ],
+      note: 'The Rousselles are a river-parish family: Edgard and Lucy in St. John the Baptist, and Gramercy and St. James just upriver. Johanna\'s son John used to be taken "to the country" — to Lucy and Gramercy — to visit his great-uncle Aurelian, and that is how the connection stayed alive in living memory. St. James is also where a harder piece of this family\'s history sits: see "Valery, aged four" on the research page.'
     },
 
     marieEveDelatte: {

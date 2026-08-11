@@ -1478,6 +1478,111 @@ recording Aunt Esther Mary Larmann (1/2/1904 – 9/14/76). VERBATIM:
 ⚠️ IMAGE: the photograph of this sheet is family material — **not published on the site**
 pending Kevin's explicit OK, per the standing rule on Judy's papers. Transcription only.
 
+### THE 1819 SLAVE SALE — "Valery, aged 4, orphan" (2026-08-10, via Judy)
+
+Judy supplied a printout from WorldVitalRecords of **Dr. Gwendolyn Midlo Hall's
+"Afro-Louisiana History & Genealogy 1719-1820"** (the Louisiana Slave Database, ~100,000
+enslaved people, compiled from original notarial/courthouse manuscripts; Hall d. 2024).
+Kevin: "Slave sale record. Grandma Joey's side. Seller and buyer are brothers." (Grandma Joey =
+Johanna Catherine Lemoine.) VERBATIM RECORD:
+
+> **VALERY** — Gender Male · Race Black · **Birthplace Louisiana Creole** · **Age 4** ·
+> **Comments: orphan** · Seller **Rousselle, Christophe** · Buyer **Rousselle, Valery** ·
+> Grouping: sold or inventoried as an individual · Selling Value 0 · **Standardized Value 515** ·
+> Document Location **St. James (including Acadians)** · **Document Date 23 November 1819** ·
+> Document Number 228 · Coder McLeod, Philip · **Notary A. D. Tureaud** · Document Type: sale
+> which does not involve probate · Language French.
+
+**CHRONOLOGY — TWO DIFFERENT VALERY ROUSSELLES. Do not conflate them.**
+- **The 1819 buyer = Valery ROUSSEL of ST. JAMES PARISH, b. c. 1796** (1850 census St. James
+  gives b. 1796; an 1880 mortality schedule says Jan 1802). Documented in the **1820, 1840,
+  1850** censuses AND on the **1850 and 1860 SLAVE SCHEDULES** for St. James — a slaveholder
+  across four decades.
+- **OUR Valery Rousselle (Johanna's great-grandfather) = b. c. 1841**, one parish downriver.
+  So the 1819 buyer is ~2 generations above ours. **The family's account (via Judy) that buyer
+  and seller were brothers of this line is PROBABLE, NOT PROVEN** — no record read so far links
+  the 1796 Valery to the 1841 Valery. Site states it exactly that way.
+
+**MAJOR SIDE-BENEFIT — OUR VALERY IS FINALLY DOCUMENTED [CONFIRM→ strong]:**
+**1880 census, EDGARD, ST. JOHN THE BAPTIST PARISH:** *Valery Roussel, b. c. 1841 Louisiana;
+wife Marie; children **Ignace, Florentine, GENEVIEVE, Ettienne, Leo, Joseph, Aurelia, Noemie,
+Ozeme**.* → **Judy's four remembered children (Genevieve, Joseph, "Aurelian"=Aurelia,
+"Naomi"=Noemie) all present, plus five siblings nobody had.** Genevieve b. ~1861 fits her 1915
+death at 54 exactly. Wife **Marie Eve Delatte** independently confirmed as Valery's spouse in
+records for sons **Ozeme Joseph** and **Leo** (also indexed "Evela Deslattes/Dellatre/
+Deslutter" — same woman or a second wife; watch it). Rousselle home ground: **Edgard and Lucy,
+St. John the Baptist**, with St. James just upriver. His entry on the site upgraded from
+"nothing documented" to a records-bearing person.
+
+**HANDLING ON THE SITE:** new research-page section **"Valery, aged four"** (#valery). Names the
+child, quotes the record, credits Hall's database and its purpose, states plainly what is
+documented (the elder Valery's slaveholding) vs. probable (his exact place on the tree). Not
+hidden, not sensationalized.
+
+**NEXT, and aimed at the child rather than away from him:** ① the **1850 + 1860 slave schedules**
+for Valery Roussel, St. James (counts the people held); ② the rest of the **A. D. Tureaud
+notarial books**, St. James; ③ **St. James sacramental registers**, where enslaved people were
+baptized/married/buried by name — SRANO-adjacent, and the diocesan volumes we already have may
+cover them; ④ **1870 census, St. James/St. John**: a Valery who was 4 in 1819 would be 55 and
+free, likely under a self-chosen surname; ⑤ Christophe Rousselle's own records.
+
+### UNCLE AURELIAN, and the Rousselle country (2026-08-10, via Judy)
+
+Judy supplied a USGenWeb transcription (Beth Van Cleave, 29 Aug 2006) of a **Washington Parish
+newspaper obituary, published 29 July 1949**, annotated in her hand **"DAD CALLED him UNCLE
+AURELIAN"** (Dad = John Richard Larmann Sr., b. 1926 — so Aurelian was his GREAT-uncle):
+
+> "Services Held for A. Rousselle — Funeral services were conducted Tuesday at 3 p.m. for
+> **Aurelian Rousselle, 74-year-old Terrace resident** who died at the Washington-St. Tammany
+> hospital Monday at 11:15 a.m. Mr. Rousselle was a **retired railroad man** and was **one of
+> the few remaining veterans of the Spanish-American War.** The funeral was conducted at his
+> residence on Monroe street… **Interment was in Ponemah cemetery**… Mr. Rousselle's **lone
+> survivor is his wife, Mrs. Mamie Dixon Rousselle.**"
+
+→ **Aurelian Rousselle: b. c. 1875, d. Monday 25 July 1949** (funeral Tue 26th, obit Fri 29th),
+of Terrace/Bogalusa, Washington Parish; **railroad man; SPANISH-AMERICAN WAR VETERAN**; buried
+**Ponemah Cemetery, Bogalusa**; wife **Mamie Dixon** ✓ (Judy's notes had her); **no children
+surviving.** He is the "Aurelia Roussel" of the 1880 Edgard census (b. ~1875 fits exactly).
+**A second military man on this side, alongside Robert Lemoine — and a findable one: Spanish-
+American War service/pension files at NARA, plus a Find a Grave/Ponemah listing.**
+
+**KEVIN (2026-08-10):** "When he was young Dad used to go visit Uncle Aurelian in the 'country,'
+**Lucy and Gramercy**." → the Rousselle home ground, confirmed independently: FS shows a Valery
+Rousselle **born at Lucy** and **Valerie Rousselle b. 1901 Lucy, parents Ozeme Rousselle ×
+Aimee Haylel** — Ozeme being one of the 1880 census children. **Lucy = St. John the Baptist
+Parish; Gramercy = St. James Parish.** So the family sat on both banks of the same river bend
+where the 1819 sale was notarized. Living memory (John Sr.'s childhood visits) and an 1819
+notarial act point at the same ground.
+
+### THE ROOTSWEB "ridgrnr" PRINTOUTS — Casper's ten children (2026-08-10, via Judy)
+
+Judy also supplied two pages of a **RootsWeb WorldConnect** search (surname Larmann, birthplace
+Louisiana, GEDCOM database **"ridgrnr"**, printed 27 Sep 2012), listing ten Larmann births, all
+"Father: John Casper Larmann," annotated in pen: *"Anthony LARMANN age 24, m. EUGENIE MOORE age
+21, 11/12/1895."* Exact birth dates, several NEW to us:
+
+| Child | Born | Mother |
+|---|---|---|
+| **John Henry** ⚠️ | **26 Aug 1871** | Mary Emily Mevers |
+| **John Christian** | **22 Apr 1874** | Mary Emily Mevers |
+| **Clemence Charles** | **10 May 1876** | Mary Emily Mevers |
+| Bernard | Mar 1878 | Mary Emily Mevers |
+| Joseph Benedict | 9 Apr 1885 | Louisa Margaret Ehmann |
+| Hilda Margaretha | 22 Dec 1886 | Louisa Margaret Ehmann |
+| Henry | 25 May 1889 | Louisa Margaret Ehmann |
+| Albert | 22 Dec 1891 | Louisa Margaret Ehmann |
+| Edward John | 16 Dec 1896 | Louisa Margaret Ehmann |
+| Caspar Maurice | 15 Jan 1899 | Louisa Margaret Ehmann |
+
+⚠️ **"JOHN HENRY, b. 26 Aug 1871" is our ANTHONY HENRY LARMANN** — same day, same parents, and
+the pen annotation on the same sheet calls him Anthony at his 1895 marriage. So he was
+registered (or recorded in this GEDCOM) as John Henry and lived as Anthony Henry. Flag before
+anyone "corrects" the site. Site updated: **John Christian** (was "John C."), **Clemence
+Charles b. 10 May 1876** (was "Charles A. Clemence c.1877"; his death record says d. 15 Apr
+1880 → dead at three), **Bernard b. Mar 1878**.
+NOTE: "ridgrnr" is a user-submitted GEDCOM — treat as a lead, not proof; but every date it
+gives that we can test against the Orleans birth index has matched.
+
 ### THE BROOKLYN LARMANNS — Casper's brother found (2026-08-10)
 
 Searching for the Hamburg departure turned up something better. FS "New York, New York City
