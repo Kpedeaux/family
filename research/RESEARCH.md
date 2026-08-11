@@ -2713,3 +2713,28 @@ Nationales) instead, i.e. funerals only. **The 1720s baptisms simply are not the
 guess (`/search?keyword=`) returned nothing; find the real search form. (2) Maduell, *Census
 Tables for the French Colony of Louisiana 1699–1732*. (3) Company of the Indies passenger lists,
 1718–1721. (4) SRANO Vol. 1 funerals for **COUSIN, Pierre**, 1745–1750.
+
+### Superior Council / notarial records — search interface cracked, 2026-08-11
+
+**`lacolonialdocs.org` IS searchable by URL parameter** — no form-fiddling needed:
+`https://www.lacolonialdocs.org/search?last_name=RENARD`. Fields include `last_name`,
+`rest_of_name`, `professions`, `roles`, `residences`, `places`. Covers French Superior Council +
+Spanish Judiciary, 1714–1769: notarial acts, wills, marriage contracts, court cases. **A master
+mason should be findable here in building contracts and estate inventories.**
+
+- `last_name=REINE` → **15 results, ALL of them the "Ste. Reine" concession**, not a person.
+  Second independent confirmation the concession is Kolly's plantation, not our family. Dead end
+  stays closed.
+- `last_name=RENARD` → **23 results.** Recurring cluster Joly / Henry / Renard, probably a
+  different Renard family. But three documents sit exactly in our window:
+  - **1747-09-06-01 — Notarial Acts, MARRIAGE CONTRACT** (Joly, Renard, Wiltz, Chantalou, Henry) → `/document/7686`
+  - **1748-03-11-02 — Notarial Acts, WILL/TESTAMENT** (Renard, Judice, Henry, Joly) → `/document/7942`
+  - 🟡 **1748-08-03-03 — Judicial Acts, Petition — People include BOTH _COUSIN_ AND _RENARD_** → `/document/8153`
+
+**That last one is the thread.** It falls between the 1745 Cousin–Renard baptism and the 1750
+Reine–Renard record — exactly where a widowhood and estate settlement would sit. NOT YET READ.
+**Next session: open /document/8153, then 7686 and 7942.** Also try `last_name=COUSIN` and
+`professions=mason` (or *maçon*).
+
+**Still untried:** Maduell's *Census Tables 1699–1732*; Company of the Indies passenger lists
+1718–21; SRANO Vol. 1 funerals for COUSIN, Pierre, 1745–50.
