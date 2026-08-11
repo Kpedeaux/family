@@ -2445,5 +2445,52 @@ the 1900 census line, self-reported. **No change to the site's 1846.**
 
 ---
 
+## Full-site consistency audit, 2026-08-11
+
+Kevin's instruction: *"you've got a lot of verbage on there in the field notes and other
+explanatory things that might have gotten forgotten when new information was learned."* He was
+right. Read `index.html`, `research.html`, `app.js` and `data.js` end to end against the current
+evidence. **The data was in better shape than the prose** — every error found was narrative text
+that had not been revisited after the underlying fact changed. Failure mode to watch: when a fact
+is corrected, the correction gets written where the *new* research happened, and the old telling
+of it survives somewhere else on the site.
+
+**Live errors found and fixed (things a reader would have believed):**
+1. `research.html` — "Johanna Lemoine's mother is very probably the Genevieve Rousselle who died
+   in Orleans in August 1915." **Wrong twice**: Genevieve was her grandmother, and died in 1938.
+2. `research.html` — "When Poupone died in August 1915… the orphanage was the only door left."
+   Same dead claim, second location. `index.html` had already been corrected; this had not.
+3. `data.js` — **`robertLemoine.blurb`** still read "until her death in 1915 left the orphanage as
+   the only door open," while the `johannaLemoine` note three entries away explicitly retracted it.
+   A person's own panel contradicting the site's own correction.
+4. `research.html` — Alonzo and Poupone listed as "Johanna's parents," Valery and Marie Eve as her
+   "grandparents." They are her grandparents and great-grandparents.
+5. `index.html` — the Brunetti identification described as "open" in the Method section while the
+   Crossings section above it said the chain was closed.
+6. `app.js` — Brunetti branch copy: "a lead, deliberately not yet drawn on the tree." Michele and
+   Domenica have been on the tree since the 1921 marriage act was found.
+7. `index.html` — Ann Wellmeyer given as the worked example of an **inferred** link. She was moved
+   to *confirm* when Judy's notes named her parents. Example swapped to Veronica Franovich.
+8. `research.html` — Casper "born New Year's Day 1846." Esther's ledger says that; his baptismal
+   act says 5 April. Both now shown, register preferred.
+9. `data.js` — `emilyMevers` internally inconsistent: born "about 1847" but blurb said "dead at
+   thirty-seven" in 1882. Marriage act (age 23 in 1870) and death record (age 37) disagree by two
+   years; now carried as a range instead of silently picking one.
+10. **Resolved items sitting in "open questions"** — Alexis Lemoine on both pages, after Kevin had
+    already flagged this exact habit once. Replaced with the genuinely open successor question
+    (where the Lemoines came from *above* Alexis).
+
+**Also done:** added the three missing branch filter buttons (Brunetti, Moizant, **Lemoine** — an
+entire branch had no filter); published the Ehmann/Stauder correction on the field-notes page with
+all three readings shown in order, including the wrong one; added the two-marriages section; added
+two new open questions (the Anthony / "John Henry" name collision on the direct line, and Louisa's
+unverified 1860 household); flagged the Albert Larmann death conflict (NY 1964 vs Judy's NJ 1944)
+instead of silently preferring one.
+
+**Verified after:** 89 people, 41 verified links, 10 generations, all reachable, no console errors,
+9 branches ↔ 9 filter buttons ↔ 9 stream cards, no nested-block markup errors.
+
+---
+
 *Maintained alongside the site. The private research-infrastructure notes (search techniques,
 tooling, session workflow) live in Kevin's local memory folder, not in this repo.*

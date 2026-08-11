@@ -1501,7 +1501,7 @@
       occupation: 'Chief commissary steward, United States Navy — a career sailor through the First World War',
       evidence: 'confirm',
       branch: 'lemoine',
-      blurb: 'The Navy man in Arlington. A father at nineteen, and at sea for the rest of it: Johanna\'s mother left when the children were young, Robert was away in the Navy, and his mother Poupone stepped in to raise them — until her death in 1915 left the orphanage as the only door open. Robert made the Navy his life and rose to chief commissary steward, the man in charge of feeding a warship. He lies in Arlington National Cemetery, section 34, grave 1964.',
+      blurb: 'The Navy man in Arlington. A father at nineteen, and at sea for the rest of it: Johanna\'s mother left when the children were young, Robert was away in the Navy, and his mother Poupone stepped in to raise them. What sent the children to the orphanage anyway is now an open question — it was long assumed to be Poupone\'s death, but she lived until 1938, so it was not that. Robert made the Navy his life and rose to chief commissary steward, the man in charge of feeding a warship. He lies in Arlington National Cemetery, section 34, grave 1964.',
       records: [
         {
           title: 'His headstone — Arlington National Cemetery',
@@ -1884,11 +1884,11 @@
         'Bernard Leo (March 1878 – 1955)'
       ],
       given: 'Marie Emily', surname: 'Mevers', sex: 'F',
-      birth: { date: 'about 1847', place: 'Pascagoula, Jackson County, Mississippi' },
+      birth: { date: 'about 1845–1847', place: 'Pascagoula, Jackson County, Mississippi' },
       death: { date: '11 February 1882', place: 'Orleans Parish' },
       evidence: 'confirm',
       branch: 'larmann',
-      blurb: 'Anthony\'s mother, dead at thirty-seven when he was ten — and, it turns out, not an immigrant at all but a Mississippi girl, born at Pascagoula to a German couple out of Westphalia. A Dorothea Mevers — sister, cousin or niece — stood godmother to Charles Emile twenty years later, so her family stayed close.',
+      blurb: 'Anthony\'s mother, dead in her thirties when he was ten — her marriage act makes her twenty-three in 1870 and her death record thirty-seven in 1882, two years apart, so the site carries the range rather than picking. Not an immigrant at all but a Mississippi girl, born at Pascagoula to a German couple out of Westphalia. A Dorothea Mevers — sister, cousin or niece — stood godmother to Charles Emile twenty years later, so her family stayed close.',
       records: [
         {
           title: 'Marriage — Orleans Parish',
