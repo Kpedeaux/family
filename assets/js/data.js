@@ -1851,20 +1851,20 @@
 
     henryJohnWellmeyer: {
       siblings: [
-        'Gertrude Cecilia Wellmeyer (b. 1884)',
-        'Louis Mathias Wellmeyer (b. 1888)',
+        'Gertrude Cecilia Wellmeyer (30 May 1884 – 8 Aug 1885) — his elder sister, dead at fourteen months, before he was born',
+        'Louis Mathias Wellmeyer (11 March 1888 – 1 May 1889) — dead at thirteen months',
         'Aloysius Roch Wellmeyer (16 Aug 1890 – 30 Sept 1901) — drowned at eleven years, one month and fourteen days; the family counted it that closely',
-        'Henrietta Cecilia “Rita” Wellmeyer (29 Aug 1892 – 1961) — never married',
-        'Mary Ione Wellmeyer (b. 9 Sept 1894) — married Charles Edward Hammel; no children',
-        'Zoe Hyacynth Wellmeyer (16 Aug 1897 – 5 Nov 1955) — married Frederick Gottlieb Siegfried',
-        'John Edward Wellmeyer (29 March 1900 – Nov 1983) — named for his father; never married'
+        'Henrietta Cecilia “Rita” Wellmeyer (29 Aug 1892 – 9 Aug 1961) — never married',
+        'Mary Ione “Mae Irene” Wellmeyer (b. 9 Sept 1894) — married Charles Edward Hammel, 1919; no children',
+        'Zoe Hyacynth Wellmeyer (16 Aug 1897 – 5 Nov 1955) — married Frederick Gottlieb Siegfried, 1925',
+        'John Edmond/Edward Wellmeyer (29 March 1900 – 15 Dec 1983) — named for his father; never married'
       ],
       children: [
-        'Leslie Henry (1911–1994)',
-        'Clare Agnes (b. 1912) — married Wilfred B. Jones',
-        'Cyril Raymond (1915–1996) — married Cecelia Froeba, later Jean',
-        'Henry John Jr. (1918–2001) — married Rita Mae Bayard',
-        'Edward William (1925–2021) — married Alberta Rome',
+        'Leslie Henry (9 June 1911 – 1994)',
+        'Clare Agnes (b. 30 May 1912) — married Wilfred B. Jones',
+        'Cyril Raymond (14 Oct 1915 – 1996) — married Cecelia Froeba (1938), later Jeanne Cheramie (1959)',
+        'Henry John Jr. (8 Sept 1918 – 2001) — married Rita Mary Bayard (1941)',
+        'Edward William (1925–2021) — married Alberta Mary Rome (1953)',
         { id: 'annWellmeyer' }
       ],
       given: 'Henry John', surname: 'Wellmeyer', sex: 'M',
@@ -1955,19 +1955,20 @@
 
     johnWellmeyer: {
       siblings: [
-        'Henry Wellmeyer (13 Sept 1856 – 1 April 1889) — married Louisa Blohm',
-        'Louis Wellmeyer',
-        'Joseph Wellmeyer'
+        'Henry Wellmeyer (13 Sept 1856 – 1 April 1889) — married Louisa Blohm (Oct 1877); his son Bernard John (1888–1930) married Amelia Schultz and carried a parallel Wellmeyer line: Alice (1915), Bernard Kramer John (1917), Ethel Violet (1918), Frederick (1920)',
+        'Josephine Wellmeyer (c. 1859 – 1865) — died at six',
+        'Louis Wellmeyer (b. 2 February 1864)',
+        'Joseph H. Wellmeyer (c. 1867 – 27 February 1899) — died at thirty-two'
       ],
       children: [
-        'Gertrude Cecilia (b. 1884)',
+        'Gertrude Cecilia (30 May 1884 – 8 August 1885) — died at fourteen months',
         { id: 'henryJohnWellmeyer' },
-        'Louis Mathias (b. 1888)',
-        'Aloysius Roch (1890–1901)',
-        'Henrietta Cecilia “Rita” (1892–1961)',
-        'Mary Ione (b. 1894)',
-        'Zoe Hyacynth (1897–1955)',
-        'John Edward (1900–1983)'
+        'Louis Mathias (11 March 1888 – 1 May 1889) — died at thirteen months',
+        'Aloysius Roch (16 Aug 1890 – 30 Sept 1901) — drowned at eleven',
+        'Henrietta Cecilia “Rita” (29 Aug 1892 – 9 Aug 1961)',
+        'Mary Ione “Mae Irene” (b. 9 Sept 1894) — married Charles Edward Hammel, 1919',
+        'Zoe Hyacynth (16 Aug 1897 – 5 Nov 1955) — married Frederick Gottlieb Siegfried, 1925',
+        'John Edmond/Edward (29 March 1900 – 15 Dec 1983)'
       ],
       given: 'John Edward', surname: 'Wellmeyer', sex: 'M',
       birth: { date: 'December 1853' },
@@ -1975,7 +1976,7 @@
       father: 'henryBernardWellmeyer', mother: 'carolineLobmeyer',
       evidence: 'confirm',
       branch: 'wellmeyer',
-      blurb: 'The middle Wellmeyer generation, restored by Judy\'s notes: son of Henry Bernard and Caroline, father of eight.',
+      blurb: 'The middle Wellmeyer generation: son of Bernard and Caroline, father of eight — and with Catherine he buried three of them, a baby daughter, a baby son, and the eleven-year-old Aloysius, drowned in 1901.',
       records: [
         {
           title: 'Louisiana marriage record',
@@ -1995,25 +1996,53 @@
     henryBernardWellmeyer: {
       children: [
         { id: 'johnWellmeyer' },
-        'Henry Wellmeyer (1856–1889)',
-        'Louis Wellmeyer',
-        'Joseph Wellmeyer'
+        'Henry Wellmeyer (13 Sept 1856 – 1 April 1889) — m. Louisa Blohm, October 1877; father of Mary Gertrude (m. Theodore Siemssen, 1902), John L. (b. 1886), Henry Leonard (died 1887 at ten months) and Bernard John (1888–1930), born five months before Henry died at thirty-three',
+        'Josephine Wellmeyer (c. 1859 – 8 January 1865) — died at six',
+        'Louis Wellmeyer (b. 2 February 1864, New Orleans)',
+        'Joseph H. Wellmeyer (c. 1867 – 27 February 1899) — died at thirty-two',
+        'and probably the infant Anne, dead at two months in October 1872'
       ],
       given: 'Henry Bernard', surname: 'Wellmeyer', sex: 'M',
+      birth: { date: 'about 1823', place: 'Germany' },
+      death: { date: '23 September 1880', place: 'New Orleans' },
       evidence: 'confirm',
       branch: 'wellmeyer',
-      blurb: 'The earliest Wellmeyer the family record reaches — almost certainly the German immigrant of the line, in New Orleans by the early 1850s.'
+      blurb: 'The German immigrant of the line, in New Orleans by the 1850s, dead there in September 1880 at fifty-seven — three months after the census takers came through. The civil record calls him Bernard.',
+      records: [
+        {
+          title: 'Louisiana death record',
+          citation: 'Orleans Parish, 23 September 1880 — Vol. 77, p. 470',
+          text: 'WELLMEYER, BERNARD, age 57.'
+        },
+        {
+          title: 'Birth of his son Louis — the couple named together',
+          citation: 'Orleans Parish, 2 February 1864 — Vol. 36, p. 376',
+          text: 'WELLMEYER, LOUIS — mother LOBMEYER, CAROLINE; father WELLMEYER, BERNARD.',
+          highlight: 'The one civil record found so far that names Bernard and Caroline together as a couple, in New Orleans, raising children — the anchor of the immigrant generation.'
+        }
+      ],
+      note: 'No Wellmeyer–Lobmeyer marriage appears in the Orleans index, which begins in 1831 — Bernard and Caroline almost certainly married in Germany before emigrating. Where in Germany is the line\'s open question; the 1880 census image (parents\' birthplace column), a passenger arrival, or a naturalization would answer it.'
     },
 
     carolineLobmeyer: {
       children: [
-        'The same four sons — see Henry Bernard Wellmeyer',
+        'The same children — see Henry Bernard Wellmeyer',
         { id: 'johnWellmeyer' }
       ],
-      given: 'Caroline', surname: 'Lobmeyer', sex: 'F',
+      given: 'Caroline Gertrude', surname: 'Lobmeyer', sex: 'F',
+      birth: { date: 'about 1831', place: 'Germany' },
+      death: { date: '7 December 1903', place: 'New Orleans' },
       evidence: 'confirm',
       branch: 'wellmeyer',
-      blurb: 'Wellmeyer married Lobmeyer: two German -meyer families joined a generation before the Langes and Sanders came into the line.'
+      blurb: 'Wellmeyer married Lobmeyer: two German -meyer families joined a generation before the Langes and Sanders came into the line. She outlived Bernard by twenty-three years, and buried at least three of her children.',
+      records: [
+        {
+          title: 'Louisiana death record',
+          citation: 'Orleans Parish, 7 December 1903 — Vol. 131, p. 367',
+          text: 'WELLMEYER, GERTRUDE LOBMEYER, age 72.',
+          highlight: 'Son Louis\'s 1864 birth record calls her Caroline; her death row calls her Gertrude. One woman, two given names — Caroline Gertrude, or Gertrude Caroline. Judy\'s notes used Caroline.'
+        }
+      ]
     },
 
     catherineLange: {

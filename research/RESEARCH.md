@@ -1179,6 +1179,64 @@ possibly in Jean's little case of keepsakes).
 the petition sits in the court nearest his camp — a NEW route besides the NARA Chicago soundex.
 His WWI draft/service records + United Fruit employment are the next Brunetti pulls.
 
+### The Wellmeyers, deepened — Kevin's ask: "Mom didn't get to talk to her grandparents much" (2026-08-10, session 5)
+
+Ann was the youngest of six (Kevin confirmed the count; tree already matched: Leslie 1911 ·
+Clare Agnes 1912 · Cyril 1915 · Henry Jr 1918 · Edward 1925 · Ann 1927). Full SOS index sweeps
+(deaths 17 rows, marriages 13 groom + 9 bride, births 19 rows — the complete WELLMEYER surname
+in the state indexes):
+
+**The immigrant generation, now dated:**
+- **Bernard Wellmeyer d. 23 Sept 1880, Orleans, age 57** (Vol. 77 p. 470) → b. c. 1823,
+  Germany. Died three months after the June 1880 census — HE IS IN THE 1880 CENSUS, image
+  pending.
+- **Gertrude Lobmeyer Wellmeyer d. 7 Dec 1903, Orleans, age 72** (Vol. 131 p. 367) → b. c.
+  1831. Son Louis's birth record calls her CAROLINE; one woman, two given names — Judy's
+  "Caroline" and the index's "Gertrude" reconciled as Caroline Gertrude.
+- **The couple named together in a civil record:** Louis Wellmeyer b. 2 Feb 1864, Orleans
+  (Vol. 36 p. 376) — mother LOBMEYER, CAROLINE × father WELLMEYER, BERNARD.
+- **No Wellmeyer × Lobmeyer marriage in the Orleans index (1831+)** → they married in Germany
+  before emigrating. The German town is the line's top open question.
+- Their children as documented: John (Dec 1853, the ancestor) · Henry (13 Sep 1856 – 1 Apr
+  1889) · Josephine (c. 1859 – 8 Jan 1865, died at six, Vol. 28 p. 696) · Louis (b. 1864) ·
+  Joseph H (c. 1867 – 27 Feb 1899, died at 32, Vol. 118 p. 950) · probably the infant Anne
+  (d. 19 Oct 1872, 2 months, Vol. 56 p. 14).
+
+**John × Catherine's eight, every birth indexed (1884–1900), three buried young:**
+Gertrude Cecilia (30 May 1884 – 8 Aug 1885, 14 months, Vol. 81 p. 621 / Vol. 87 p. 837) ·
+Henry John (13 Mar 1886) · Louis Mathias (11 Mar 1888 – 1 May 1889, 13 months, Vol. 86 p. 460 /
+Vol. 94 p. 1187) · Aloysius Roch (16 Aug 1890, Vol. 90 p. 669; drowned 1901) · Henrietta
+Cecilia (29 Aug 1892, Vol. 95 p. 136; d. 9 Aug 1961) · Mary Ione (9 Sep 1894, Vol. 102 p. 795;
+married Charles Edward Hammel 1919 as "MAE IRENE," Vol. 43 p. 92) · Zoe Hyacynth (16 Aug 1897,
+Vol. 111 p. 565; m. Siegfried Nov 1925, Vol. 49 p. 1887) · John EDMOND (29 Mar 1900, Vol. 120
+p. 511 — the birth index sides with "Edmond"; Judy wrote Edward; d. 15 Dec 1983 — NOTE: he died
+on his father's death-day, 61 years later). Catherine E. Lange Wellmeyer d. 17 Jan 1930, age 65
+(Vol. 199 p. 1642) → b. c. 1865.
+
+**The parallel line (Henry × Louisa Blohm, m. Oct 1877, Vol. 6 p. 671):** children Mary
+Gertrude (m. Theodore Ferdinand Siemssen 1902, Vol. 24 p. 351) · John L (b. 14 Aug 1886 —
+index garbles the father as "Joseph H," Vol. 84 p. 405) · Henry Leonard (d. 11 Jun 1887 at 10
+months, Vol. 91 p. 388) · **Bernard John (8 Nov 1888 – 11 Sep 1930**, born five months before
+his father died at 33; m. Amelia Fredericka Schultz 1914, Vol. 36 p. 614; d. Vol. 201 p. 227;
+Amelia d. 1969). Bernard John's children: Alice Amelia Fredericka (1915) · Bernard Kramer John
+(1917) · Ethel Violet (1918, m. Avis Emile Brooks 1935) · Frederick A (1920, m. Thais Edna
+Sigvist 1939). Henry John (1886) and cousin Bernard John (1888) grew up fatherless-and-
+namesake in the same family. Later brides (Judith Maryann 1962, Mary Ann 1958, Elizabeth Ann
+1965, Mary Theresa 1970) are the Leslie/Cyril/Bernard-line granddaughters.
+
+**Higher-verification upgrades available:** Cyril's marriages (Froeba 1938, Cheramie 1959);
+Henry Jr × Rita Mary Bayard 1941 (Vol. 55 p. 1922); Edward William × Alberta Mary Rome 1953;
+Ann G × John R Larmann July 1947 (p. 3644) re-confirmed in the bride sweep.
+
+**Blocked tonight / next steps:** Ancestry hit its logged-out signup wall and FamilySearch
+signed Kevin out — so the 1880 census image (Bernard's household, parents' birthplace column →
+GERMAN STATE), the 1900 census (John's exact birth month + parents' birthplaces), and the
+passenger/naturalization hunt all wait on a login or a library session. Find a Grave has ZERO
+Wellmeyer memorials in New Orleans — the immigrant graves are unindexed; the family tomb at
+St. Vincent de Paul No. 3 is the known burial site for Henry John's household. German Catholic
+parish registers (St. Boniface, Holy Trinity, St. Henry) are the sacramental route to the
+hometown.
+
 ### Casper — documents to order next
 
 1. **Times-Picayune 22 + 23 Nov 1921, p. 2 col. 8** — his obituary notices (NOPL microfilm, or
