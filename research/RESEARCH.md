@@ -1478,6 +1478,64 @@ recording Aunt Esther Mary Larmann (1/2/1904 – 9/14/76). VERBATIM:
 ⚠️ IMAGE: the photograph of this sheet is family material — **not published on the site**
 pending Kevin's explicit OK, per the standing rule on Judy's papers. Transcription only.
 
+### THE BROOKLYN LARMANNS — Casper's brother found (2026-08-10)
+
+Searching for the Hamburg departure turned up something better. FS "New York, New York City
+Municipal Deaths, 1795-1949":
+
+> **Henry Larmann**, d. **29 Nov 1938, Brooklyn, Kings Co., NY**, age 72, **b. 24 Dec 1856,
+> GERMANY**, laborer, married, wife **Gertrude**, buried 2 Dec 1938, **certificate cn 22867**.
+> **Parents: CASPAR LARMANN (Germany) × ELIZABETH WERGER (Germany).**
+
+**Same parents as our Casper** (Johann Caspar Larmann × Maria Elisabeth Werges of Gesmold),
+both born in Germany, Henry ten years younger (1856 vs 1846). **This is Casper's brother** —
+very possibly the brother Esther's sheet says came out of Hamburg with him. FS tree profile
+for him: **KLST-PZ8 "Heinrich Larmann, 1857–"** with a NY birth record attached (⚠️ that NY
+birth record can't be his if he was born in Germany — the profile may be conflating two men;
+verify before trusting).
+
+**HIS ATTACHED RECORDS, unread, and one is the prize:** ⭐ **"New York, U.S. District and
+Circuit Court Naturalization Records, 1824-1991" (×2)** — a naturalization gives ARRIVAL DATE,
+PORT and often the SHIP. That is the fastest remaining route to the actual crossing. Also:
+NYC marriage records (×3), 1900/1920/1930 censuses.
+
+**A NEW YORK BRANCH.** Judy's SSDI printout (below) lists NY Larmanns who are almost certainly
+Henry's descendants: August R (1925–1998), Barbara (1924–1999), John W (1906–1994), Lucille
+(1896–1978), Minnie (1896–1966), Edward (1953–2008). **And separately: Albert Larmann,
+b. 22 Dec 1891 — CASPER'S OWN SON — died May 1964 in NEW YORK**, so a New Orleans Larmann went
+north to the brother's city. Corroborating: a Queens infant death 14 Sept 1924, "Albert Joseph
+Larmann," parents indexed **Albert Larmann × Luise Ehmann** (Casper's son Albert and… his own
+mother's name — indexer conflation, or Albert married an Ehmann kinswoman; unresolved).
+
+### JUDY'S TWO PRINTOUTS — what they are (2026-08-10)
+
+**(a) "Exact Matches (6)" — Larmann.** This is an **ELLIS ISLAND** (Statue of Liberty–Ellis
+Island Foundation) passenger search. Results: Schepsel (1914), Israel (1893), Benjamin (1913),
+Euns (1909), Nison + Chifra (1913) — residences Russia/Poland/Paris, all **Eastern European
+Jewish Larmann families, unrelated to ours.** **WHY IT FOUND NOTHING: Ellis Island did not open
+until 1892**, and Casper arrived **1866/67**; furthermore he came to the **port of NEW ORLEANS**,
+not New York. An Ellis Island search structurally cannot find this family. Record this so no one
+repeats it. Correct targets: **New Orleans passenger lists 1866–67** (NARA M259; also
+"Germans to America Index 1850-1897", which covers NOLA arrivals) and **Hamburg
+Auswandererlisten 1850–1934**. NOTE: Gesmold's own parish **Auswanderer register D4_401 covers
+1832–1865** — just short of Casper, but it may catch older kin.
+
+**(b) The 34-row Larmann list** (Jimmy → Judy, 2015) = **Social Security Death Index,
+1937–2010**, every Larmann in it. It CONFIRMS our dates at seven points:
+| SSDI row | Our record | Match |
+|---|---|---|
+| Ann G, LA, 10-25-1927 – 06-09-2010 | Ann Geraldine Wellmeyer Larmann | ✓ exact |
+| Anthony, LA, 08-09-1900 – 03-1969 | Anthony Leo Larmann | ✓ **both our corrections** (9 Aug not 9 Oct; 1969 not 1968) |
+| Charles, LA, 07-12-1902 – 07-1969 | Charles Emile Larmann | ✓ exact |
+| Johanna L, LA, 01-09-1907 – 12-11-1992 | Johanna Lemoine Larmann | ✓ exact, matches the tomb |
+| Esther, LA, 01-02-1904 – 09-1976 | Esther Marguerite | ✓ exact |
+| Edward, LA, 12-16-1896 – 11-1985 | Edward John (the Kress organist) | ✓ — outlived Esther by 9 yrs |
+| Mathilda, LA, 01-28-1879 – 03-1972 | Matilda Jones Larmann | ✓ |
+Plus **Albert, NY, 12-22-1891 – 05-1964** = Casper's son in New York (above), and the NY cluster.
+Unplaced LA Larmanns worth tracing: Alberta (1908), Bernard (1905), Bernard H Jr (1931),
+Beryl E (1908), Edgar (1910), Ethel (1904), Helen P (1916), Marian E (1923), Marie F (1898),
+Mary E (1898), Nicholas E (1919), Thelma B (1915).
+
 ### Herbert Joseph Pedeaux — WWII service (2026-08-10, Kevin's ask)
 
 **FOUND [VERIFIED]: Electronic Army Serial Number Merged File 1938-46 (FS ark K8LC-5LN):**

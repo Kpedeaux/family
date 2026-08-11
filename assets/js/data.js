@@ -1630,7 +1630,7 @@
 
     johnCasparLarmann: {
       siblings: [
-        'The brother who sailed with him out of Hamburg — Esther\'s sheet says there was one, but not his name',
+        'HENRY LARMANN (24 December 1856 – 29 November 1938) — documented: his Brooklyn death certificate names his parents as Caspar Larmann and Elizabeth Werger, both of Germany. A laborer, married to Gertrude, he settled in New York rather than Louisiana. Very possibly the brother who sailed with Casper out of Hamburg',
         'A brother who stayed in Germany',
         'A sister who became a nun in Germany and came to America later; her order was never recorded',
         'Marie Antoinette Larmann Prinz (c.1845 – 29 January 1899) — a probable sister: born a Larmann a year before him, died in Orleans as Joseph Prinz\'s wife, cross-indexed under both names. Not the nun, since she married',
@@ -1691,6 +1691,12 @@
           title: 'Aunt Esther\'s ledger — "Father\'s Parents"',
           citation: 'Handwritten family record of Esther Marguerite Larmann; photocopy via Judy Larmann Gifford, 2026',
           text: 'John Henry Casper Larmann (born [Gruswald?], Hanover, Germany) — Jan 1st. 1846. Emily Mevers — died Feb. 13 1882.'
+        },
+        {
+          title: 'His brother found — a Larmann branch in Brooklyn',
+          citation: 'New York City Municipal Deaths — Henry Larmann, 29 November 1938, Brooklyn, certificate 22867',
+          text: 'Henry Larmann, 72, laborer, born 24 December 1856 in Germany, married to Gertrude, of Brooklyn, Kings County. Parents: CASPAR LARMANN and ELIZABETH WERGER, both of Germany.',
+          highlight: 'The same parents as Casper — the Gesmold couple, heard by a Brooklyn clerk. Esther\'s sheet said "Grandfather Larmann + a brother came to this country," and here the brother is, sixty years of records later, with a family of his own in New York. The Larmanns of Brooklyn and the Larmanns of New Orleans are one family that lost each other.'
         },
         {
           title: 'Obituary notices',
