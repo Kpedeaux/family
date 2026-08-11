@@ -2616,3 +2616,68 @@ Marguerite Reyne is Kevin's **6th**-great-grandmother (tree generation 9), and �
 **7th**-great-grandfather (generation 10). I had said 7th for Marguerite in conversation — off by
 one. Path: Kevin → Buddy → Herbert Joseph → Edna Gaiennie → Alphonse Jr → Alphonse Sr →
 Joseph Gervais Gaiennie → Eulalie Alexandrine Sardet → Marguerite Reyne → Étienne Reyne.
+
+---
+
+## Lemoine wall DOWN + the Reyne origin question, 2026-08-11 (session 5)
+
+### 🟢🟢 THE LEMOINE WALL IS DOWN — Joseph Lemoine × Marie Ribas
+
+**Method that cracked it:** NOT the handwritten Edgard registers. The **Archdiocese publishes all
+19 SRANO abstract volumes (1718–1831) as free, TEXT-SEARCHABLE PDFs** at
+`nolacatholic.org/publications`. Vols 1–8 were already on disk; downloaded **9–18**. Alexis
+Lemoine b. 1829 → **Volume 18 (1828–1829)**:
+
+> **LEMOINE — Alexis Allonzo (JOSEPH and MARIE RIBAS), b. Nov. 22, 1829, bn. Feb. 4, 1829,
+> s. Pierre GRAVOIS and Marie LATOUR, all of ST. CHARLES PARISH. (SJBED, B7, 49)**
+
+Birth date matches the family record **to the day**. Alexis upgraded confirm → **verified** on his
+own baptism. `josephLemoine` and `marieRibas` added (verified). **91 people, 45 verified.**
+
+**"All of St. Charles Parish"** — the family LIVED in St. Charles Parish and worshipped at Edgard
+in St. John the Baptist. The site had them as St. John the Baptist people. Corrected.
+
+**RIBAS = a Spanish surname on a French-Creole river.** Probable (NOT proven) family, from the
+same parish and decade, SRANO vols 14 & 16:
+> RIVAS: Antoine (**ANTOINE DE SANTO YAGO** and **MARIE BRIGITTE LEGO**), bn. 10 Aug 1819
+> (SJBED, B4, 57) · Louis (Antoine and Marie Brigite LEGAU), bn. 29 Apr 1822, **s. ZENON
+> ROUSSELLE** and Estelle de la Tour, all of St. Charles Parish (SJBED, B4, 165)
+
+Note the 1822 godfather: **a ROUSSELLE**. Three generations before Alonzo Lemoine married Poppone
+Roussel, the two families were already at each other's fonts.
+
+**NEXT:** the Joseph Lemoine × Marie Ribas marriage act — would name all four grandparents at
+once. **NOT in vols 9–18 (1807–1829)** under either surname. Three doors: (a) before 1807;
+(b) untried spelling — Lemoyne, Moine, Ribas/Rivas/Ribes; (c) **St. Charles Borromeo, Destrehan**,
+which is their civil parish and whose later registers are NOT in the online image set.
+
+### The Reynes — who were they, and who crossed?
+
+**OLDEST RECORD OF THE COUPLE FOUND — 16 March 1750** (SLC, B2, 180; SRANO Vol. 1):
+> "Marie Francoise (Cecile CHRISTOPHE, widow Jean CASTEL), b. March 16, 1750, s. Jean Baptiste
+> LEGROS, surnamed LA TANDRILLE, resident, and **MARIE FRANÇOISE RENARD, sp. ETIENNE REINE,
+> MASON**."
+
+Two and a half years before their eldest child. Gives (a) they were **married before March 1750**,
+(b) he was already working as a **mason** — plain, not yet "master," which arrives at son Pierre's
+1761 baptism, (c) her full name is **MARIE** Françoise Renard. Site updated.
+
+**❌ NEGATIVE, and it matters: there is NO Reine/Reyne/Renne/Rehene/Raine family section in SRANO
+Vol. 1 (1718–1750).** Étienne's own baptism is not there. **REASON: the St. Louis church
+baptismal registers effectively begin in 1731** (B1 citations run from 1731; pre-1731 events cite
+"AN, F 172x" instead), and the 1788 fire took more. A man married and working as a mason by 1750
+was born c.1720–28 — squarely in the lost window.
+
+**→ ANSWER TO "WHO CAME TO NEW ORLEANS, WHEN":** Nobody in this branch crossed. Étienne and Marie
+Françoise were **born here** (1784 act: "naturales TODOS de esta Parroquia"). **Their parents
+crossed, in the founding years c.1718–1727, and they cannot be named** — the registers that would
+name them do not survive. Only non-sacramental sources could reach them: notarial acts, Superior
+Council cases (lacolonialdocs.org), *Company of the Indies* passenger lists, the 1721/1726/1727
+colonial censuses. The "Ste. Reyne concession" of the 1720s remains an unchecked coincidence.
+
+### Site feature
+
+Record **images now render inside person panels** on the tree (new `image` / `imageAlt` /
+`imageCredit` fields on record objects, `.record__fig` CSS, tap to enlarge) — not just on the
+field-notes page. Gesmold 1846 and Reyne 1784 attached so far; the other images are still
+figure-only on research.html and could be wired up the same way.

@@ -1072,6 +1072,12 @@
       blurb: 'A master mason of French colonial New Orleans, raising children there through the 1750s and 1760s. The deepest documented ancestor on the Gaiennie side — the tenth generation of this tree.',
       records: [
         {
+          title: 'The earliest trace of him — a godmother\'s line, 16 March 1750',
+          citation: 'St. Louis church, New Orleans — baptism of Marie Françoise Castel, 16 March 1750 (SLC, B2, 180); SRANO Vol. 1 (1718–1750)',
+          text: '"Marie Francoise (Cecile CHRISTOPHE, widow Jean CASTEL), b. March 16, 1750, s. Jean Baptiste LEGROS, surnamed LA TANDRILLE, resident, and MARIE FRANÇOISE RENARD, SP. ETIENNE REINE, MASON."',
+          highlight: 'The oldest record of this couple, found 11 August 2026 — two and a half years before their eldest child was born. It catches them sideways: Françoise is standing as godmother to a widow\'s baby, and the clerk identifies her the way clerks did, by her husband — "spouse of Étienne Reine, mason." So they were already married by March 1750, he was already working at his trade, and it gives her full name: MARIE Françoise Renard. He is not yet "master" mason here; that title arrives with his son Pierre\'s baptism in 1761.'
+        },
+        {
           title: 'His children\'s baptisms — St. Louis church',
           citation: 'SLC registers B2–B5, 1752–1766 (SRANO Vol. 2)',
           text: 'Marie Marguerite (1752) · Marie Jeanne (1755) · Louise Françoise (1757) · Pierre (1761, "Etienne, master mason") · Marie Joseph (1766) — all children of Etienne and Francoise RENARD.'
@@ -1085,10 +1091,19 @@
         'The same six — see Étienne Reyne',
         { id: 'margueriteReyne' }
       ],
-      given: 'Françoise', surname: 'Renard', sex: 'F',
+      given: 'Marie Françoise', surname: 'Renard', sex: 'F',
       evidence: 'verified',
       branch: 'gaiennie',
-      blurb: 'Named across fifteen years of her children\'s baptisms, and still standing godmother to a Sardet granddaughter in 1769. Her daughter Françoise Reyne married into the Caraby family, whose records call the couple "natives of New Orleans."'
+      blurb: 'Named across fifteen years of her children\'s baptisms, and still standing godmother to a Sardet granddaughter in 1769. A native of New Orleans, married to her mason by March 1750. Her daughter Françoise Reyne married into the Caraby family, whose records call the couple "natives of New Orleans."',
+      records: [
+        {
+          title: 'The first time she appears — as a godmother, 16 March 1750',
+          citation: 'St. Louis church, New Orleans — baptism of Marie Françoise Castel (SLC, B2, 180); SRANO Vol. 1',
+          text: '"…s. Jean Baptiste LEGROS, surnamed LA TANDRILLE, resident, and MARIE FRANÇOISE RENARD, sp. Etienne REINE, mason."',
+          highlight: 'The oldest record of either of them, and it gives her the full name the later entries drop: MARIE Françoise. She is standing over the font for the baby of a widow — the kind of small neighbourly act that is most of what survives of a woman\'s life in these books.'
+        }
+      ],
+      note: 'WHO CAME TO NEW ORLEANS, AND WHEN — the honest state of it. Her daughter\'s 1784 marriage act calls Étienne and Marie Françoise "naturales todos de esta Parroquia," natives of this parish. If that is right, neither of them crossed the ocean: they were born in New Orleans in the 1720s, and it was their PARENTS who came, in the town\'s founding years. Those parents cannot yet be named, and there is a hard reason why. The St. Louis church baptismal registers effectively begin in 1731; what came before is lost or fragmentary, and the 1788 fire took more. So the generation that actually made the crossing falls in the gap. Barring a notarial act, a Superior Council case or a passenger list, they may stay nameless — which is its own kind of answer.'
     },
 
     elisabethSarde: {
