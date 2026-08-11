@@ -2778,3 +2778,43 @@ Reine × Renard marriage act itself, c.1748–1750 — it would call her *veuve 
 parents, which is the whole game; and a `professions=mason`/*maçon* search for Étienne, who as a
 master mason should appear in building contracts. Post-1750 RENARD hits at lacolonialdocs are
 unnamed ("Renard, ___") and cannot be attributed.
+
+### Mason search + the WPA cards, 2026-08-11
+
+**❌ `professions=mason` at lacolonialdocs — 30 results, NONE Reyne/Renard.** Note the shape of
+the gap: the mason-tagged documents run 1736→1744, then jump to 1768→1803. **Nothing tagged mason
+in 1745–1767**, which is precisely Étienne's working life. That looks like an indexing/coverage
+gap rather than his absence. Untried variants: `maçon`, `macon`, `master mason` — the URL search
+returns a JS-rendered page, so each must be navigated, not fetched.
+
+**🟢 THE WPA ABSTRACT CARDS ARE ONLINE AND READABLE.** Every Superior Council document on
+lacolonialdocs carries a `_WPA_` image — the typed 1930s English abstract, plus the parties'
+signatures copied in pencil. Direct S3, no viewer:
+`https://lacolonialdocs-data.s3.amazonaws.com/original/<name>.jpg`
+(scrape `img` srcs on the document page; `station_thumbs_sm` → `original` for full size).
+**This is the fast way to read these documents — skip the French pages.**
+
+**WPA card #30580 (4425), 1747-09-06, 7 pages:**
+> "Marriage contract between **Antoine Joly and Françoise Renard, widow of Pierre Cousin**."
+> Signatures: **"+ Mark of Antoine Joly"** · **"Françoise Renard"** · Menkingle · Wiltz ·
+> Chantalou · Henry.
+> *Louisiana Historical Quarterly* Vol. 18 no. 3, July 1935, p. 721.
+
+**🟢 SHE WAS LITERATE.** He signed with a cross; she wrote her name. Only artifact in the archive
+that comes from her directly. Image cropped to `assets/img/renard-1747-marriage-contract.jpg`.
+
+**❌ HER PARENTS ARE NOT IN IT, and the reason is structural, not an oversight.** A colonial
+marriage contract names the bride's father — but she married Joly **as a widow**, and a widow
+contracts on her own behalf. Her parents had no legal role, so they were never recorded. Same
+applies to the third marriage. **Her parents = the generation that actually crossed. Still the
+two most valuable missing names on the tree.**
+
+**Only three routes left to them:** (a) her burial record; (b) the **Reine × Renard marriage act,
+c.1748–1750** — not yet located in any register or the Superior Council; (c) her FIRST marriage
+to Pierre Cousin, c.1740–44 — **she would NOT have been a widow then, so that contract, if it
+exists, WOULD name her father.** ← **best remaining shot.** Search lacolonialdocs
+`last_name=COUSIN` for a marriage contract in the early 1740s.
+
+**Recurring name to watch:** **Nicolas HENRY** appears in all three 1747–48 documents (contract,
+will, petition). That pattern usually means close kin or an appointed curator/tutor — her son
+Jean François Cousin was a minor and would have needed one. Worth a `last_name=HENRY` pass.

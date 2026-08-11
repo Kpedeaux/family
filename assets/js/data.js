@@ -1058,12 +1058,12 @@
 
     etienneReyne: {
       children: [
-        'Marie Marguerite — see below',
-        'Marie Jeanne (b. 25 Oct 1755)',
-        'Louise Françoise (b. 9 Nov 1757)',
-        'Pierre (b. 1 Dec 1761)',
-        'Marie Joseph (b. 19 June 1766)',
-        { id: 'margueriteReyne' }
+        'Marie Jeanne (born 25 Oct 1755, baptised the 26th) — her godmother was a "Jane REINE", so there was other Reyne kin in the city',
+        'Louise Françoise (born 9 Nov 1757, baptised the 11th)',
+        'Pierre (born 1 Dec 1761, baptised the 8th) — the act that calls his father MASTER mason; godfather Pierre ZERINGUE',
+        'Marie Joseph (born 19 June 1766, baptised 5 July) — godfather François COUSIN, her half-brother; godmother her big sister Marguerite, then thirteen',
+        { id: 'margueriteReyne' },
+        'STEPSON, by his wife\'s first marriage: Jean François Cousin (b. 7 Sept 1745)'
       ],
       given: 'Étienne', surname: 'Reyne', sex: 'M',
       evidence: 'verified',
@@ -1088,12 +1088,19 @@
 
     francoiseRenard: {
       children: [
-        'The same six — see Étienne Reyne',
+        'BY PIERRE COUSIN, her first husband: Jean François Cousin, born and baptised 7 September 1745 — the "François Cousin" who stood godfather to his own half-sister Marie Joseph Reyne in 1766',
+        'BY ANTOINE JOLY, her second: none recorded. That marriage was contracted in September 1747 and he was dead within the year',
+        'BY ÉTIENNE REYNE, her third — the five below, and Marguerite:',
+        'Marie Jeanne (born 25 Oct 1755, baptised the 26th)',
+        'Louise Françoise (born 9 Nov 1757, baptised the 11th)',
+        'Pierre (born 1 Dec 1761, baptised the 8th)',
+        'Marie Joseph (born 19 June 1766, baptised 5 July)',
         { id: 'margueriteReyne' }
       ],
       given: 'Marie Françoise', surname: 'Renard', sex: 'F',
       evidence: 'verified',
       branch: 'gaiennie',
+      note: 'HER PARENTS ARE NOT KNOWN, and there is a specific reason the obvious document does not give them. A colonial marriage contract normally names the bride\'s father — but she married Antoine Joly in 1747 as a WIDOW, and a widow contracted on her own behalf. Her parents had no legal part to play, so they were never written down. The same is true of her third marriage. What would name them: her own baptism, which is lost with everything else before 1731; her burial record; or the Reine–Renard marriage act of c.1748–50, if it survives and follows the older form. Her parents are the generation that actually crossed the Atlantic, which makes them the most valuable two names still missing from this tree.',
       blurb: 'Three husbands, and she buried two of them before she was thirty. A native of New Orleans, she married Pierre Cousin and had a son in 1745; married Antoine Joly by contract in September 1747 and buried him within the year; and by March 1750 was the wife of Étienne Reine, mason — the marriage that lasted, and that this family descends from. Named across fifteen years of her children\'s baptisms, and still standing godmother to a Sardet granddaughter in 1769.',
       records: [
         {
@@ -1116,9 +1123,12 @@
         },
         {
           title: 'Her second husband — the marriage contract, 6 September 1747',
-          citation: 'French Superior Council, New Orleans — Notarial Acts, Marriage Contract, 6 September 1747 (doc. 1747-09-06-01, ten pages); with the Joly will of 11 March 1748 (doc. 1748-03-11-02, five pages)',
-          text: 'Marriage contract: Antoine JOLY and Françoise RENARD, with Wiltz, Augustin CHANTALOU, Nicolas HENRY and Menkingle. Will and testament, five months later: RENARD, Nicolas JUDICE, Nicolas HENRY, JOLY, Vegas.',
-          highlight: 'The shape of a very short marriage, in three documents. A contract drawn in September 1747 — ten pages of it, so there was property to settle. A will in March 1748. An estate petition in August. Whatever Antoine Joly had, he had time to write it down and not much more.'
+          citation: 'French Superior Council, New Orleans — Marriage Contract, 6 September 1747, seven pages (doc. 1747-09-06-01; WPA abstract card #30580); published in the Louisiana Historical Quarterly Vol. 18 no. 3, July 1935, p. 721. With the Joly will of 11 March 1748 (doc. 1748-03-11-02).',
+          text: '"Marriage contract between ANTOINE JOLY and FRANÇOISE RENARD, WIDOW OF PIERRE COUSIN." Signatures copied onto the abstract card: "+ MARK of Antoine Joly" · "Françoise Renard" · Menkingle · Wiltz · Chantalou · Henry.',
+          image: 'assets/img/renard-1747-marriage-contract.jpg',
+          imageAlt: 'A typed WPA index card abstracting the 1747 marriage contract between Antoine Joly and Françoise Renard, with the parties\' signatures copied beneath in pencil',
+          imageCredit: 'WPA abstract card, French Superior Council records — Louisiana Historical Center, via the Louisiana Colonial Documents Digitization Project.',
+          highlight: 'SHE COULD WRITE AND HE COULD NOT. The clerk who copied the signatures onto this card recorded "+ Mark of Antoine Joly" — an illiterate man\'s cross — and directly beneath it, "Françoise Renard," written out in her own hand. A literate woman in colonial New Orleans in 1747 is not the common case, and it is the only thing in this archive that comes from her directly rather than being said about her. The contract also confirms the sequence outright: she came to that marriage already a widow.'
         }
       ],
       note: 'WHO CAME TO NEW ORLEANS, AND WHEN — the honest state of it. Her daughter\'s 1784 marriage act calls Étienne and Marie Françoise "naturales todos de esta Parroquia," natives of this parish. If that is right, neither of them crossed the ocean: they were born in New Orleans in the 1720s, and it was their PARENTS who came, in the town\'s founding years. Those parents cannot yet be named, and there is a hard reason why. The St. Louis church baptismal registers effectively begin in 1731; what came before is lost or fragmentary, and the 1788 fire took more. So the generation that actually made the crossing falls in the gap. Barring a notarial act, a Superior Council case or a passenger list, they may stay nameless — which is its own kind of answer.'
