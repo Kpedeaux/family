@@ -1129,18 +1129,26 @@
         { id: 'veronicaBrunetti' }
       ],
       given: 'John', alsoKnownAs: 'born Giovanni — the Italian form of John', surname: 'Brunetti', sex: 'M',
-      origin: 'Italy — via Chicago',
-      birth: { date: '5 May 1893', place: 'Italy' },
-      death: { date: '12 January 1987' },
+      origin: 'Plataci, Cosenza, Calabria — via Chicago',
+      birth: { date: '5 May 1893', place: 'Plataci, Cosenza, Calabria, Italy' },
+      death: { date: '12 January 1987', place: 'New Orleans' },
+      father: 'michelBrunetti', mother: 'domenicaForano',
       evidence: 'verified',
       branch: 'brunetti',
       immigrant: true,
       blurb: 'Left Italy as a young man, spent his twenties in Chicago, and turned up in New Orleans in time to marry a Dalmatian oyster family\'s daughter in June 1921. He and Veronica are the only two Brunettis in St. Louis Cemetery No. 3, and apart from his own daughter\'s there is not another Brunetti birth in the Louisiana index — no sibling or cousin followed him south, so the surname ended with him here.',
       records: [
         {
-          title: 'Louisiana marriage record',
-          citation: 'Orleans Parish, June 1921 — Vol. 46, p. 90',
-          text: 'BRUNETTI, JOHN × FRANOVICH, VERONICA.'
+          title: 'Marriage — the record that names his parents',
+          citation: 'Louisiana Parish Marriages, Orleans, June 1921 (licence Vol. 46, p. 90; two entries, 15 and 18 June)',
+          text: 'John Brunetti, 28, son of MICHELE BRUNETTI and DOMENICA FORANO, m. Miss Veronica Franovich, 19. Also on the record: An[thony] Franovich and Melan[ie] Moyant — the bride\'s parents.',
+          highlight: 'Found August 2026. This is the document the family file waited five years of records for: it names John\'s parents — and the father matches the "father Michele, Plataci" of the 1912 Ellis Island manifest, closing the chain to the village.'
+        },
+        {
+          title: 'Veterans Administration Master Index, 1917–1940',
+          citation: 'U.S. Veterans Administration master index card',
+          text: 'John Brunetti — a veteran\'s index card, with military service dated 24 May 1919 at New Orleans.',
+          highlight: 'The family said he served in the First World War and gained his citizenship through it — the VA index is the federal confirmation that he served.'
         },
         {
           title: 'WWI draft registration — Chicago',
@@ -1164,7 +1172,33 @@
         { label: 'Ellis Island — Giovanni Brunetti, 16 April 1912', url: 'https://www.statueofliberty.org/arrival-details/?id=JJ11-KJ4' },
         { label: 'Ellis Island — every Brunetti who left Plataci', url: 'https://www.statueofliberty.org/arrival-result/?last_name=Brunetti&residence_place=Plataci&arrival_year_from=1790&arrival_year_to=1974' }
       ],
-      note: 'THREE SEPARATE CLAIMS HERE, AND THEY ARE NOT EQUALLY SOLID. (1) That he was born Giovanni. Safe but still an inference — Giovanni is simply the Italian for John, and Italian immigrants called John in America were essentially always christened Giovanni. No baptismal record has been seen. (2) That the Giovanni Brunetti with an Illinois naturalization declaration, born 1893 in Italy, is him. Strong: a John Brunetti registered for the draft in Chicago, no Brunetti registered anywhere in Louisiana, the birth year matches, and no Louisiana naturalization exists for him. Not yet proof — the document itself has not been read. (3) That he is the Giovanni Brunetti, 19, who landed at Ellis Island on 16 April 1912 off the S.S. Luisiana from Naples — last residence PLATACI, province of Cosenza, Calabria; nearest relative \'father Michele, Plataci\'; final destination Chicago. This is the weakest link and the one to be careful about. Fifteen Brunettis left that one village between 1905 and 1922, a textbook chain migration, and Plataci is an Arbereshe village — an Italo-Albanian community in Calabria since the fifteenth century. But a man born 5 May 1893 would have been eighteen that April, not nineteen, and nothing on the manifest mentions New Orleans or Veronica Franovich. Michele Brunetti is therefore NOT entered as his father. The Declaration of Intention at NARA Chicago would give his exact town and date of birth; his daughter\'s 1923 birth certificate, public since 2024, gives his birthplace; and the 1921 marriage licence application names both parties\' parents. Family memory adds that the June 1921 wedding was at St. Louis Cathedral — so a sacramental marriage act, which typically names both parties\' parents and birthplaces, should sit in the Cathedral registers, requestable from the Archdiocese of New Orleans archives. Any one of those settles it.'
+      note: 'For years this entry carried three unequal claims, and refused to enter Michele as his father until a record named them together. In August 2026 the 1921 marriage record did exactly that: John Brunetti, 28, son of Michele Brunetti and Domenica Forano — matching the Ellis Island manifest\'s "father Michele, Plataci" and settling the village. The arc now reads whole: born in Plataci — an Arbëreshë village, an Italo-Albanian community in Calabria since the fifteenth century — he sailed from Naples in April 1912 at eighteen, went to Chicago, registered there for the draft, served in the war (VA index; service dated 24 May 1919 at New Orleans), gained his citizenship through that service as the family always said, and married Veronica in New Orleans the month after his twenty-eighth birthday. Still wanted for full verification: the WWII "old man\'s draft" card of 1942 (states exact birthplace), his Declaration of Intention at NARA Chicago, Veronica Marie\'s 1923 birth certificate, and the St. Louis Cathedral sacramental act of the wedding.'
+    },
+
+    michelBrunetti: {
+      children: [
+        { id: 'johnBrunetti' }
+      ],
+      given: 'Michele', surname: 'Brunetti', sex: 'M',
+      origin: 'Plataci, Cosenza, Calabria',
+      birth: { date: 'about 1870', place: 'Plataci, Cosenza, Calabria, Italy' },
+      evidence: 'confirm',
+      branch: 'brunetti',
+      blurb: 'Named as John\'s father on the 1921 New Orleans marriage record, and as the "father Michele, Plataci" a nineteen-year-old Giovanni gave the Ellis Island officers in 1912. He stayed in the village; his son never went back.',
+      note: 'Plataci\'s own civil registers (Cosenza province, from 1809) and parish books are the route to his dates and his own parents. The village is Arbëreshë — records may carry both Italian and Albanian name forms.'
+    },
+
+    domenicaForano: {
+      children: [
+        { id: 'johnBrunetti' }
+      ],
+      given: 'Domenica', surname: 'Forano', sex: 'F',
+      origin: 'Plataci, Cosenza, Calabria',
+      birth: { date: 'about 1870', place: 'probably Plataci, Cosenza, Calabria, Italy' },
+      evidence: 'confirm',
+      branch: 'brunetti',
+      blurb: 'John\'s mother, named on his 1921 marriage record. Nothing else is known of her yet — she lived and died an ocean away from the New Orleans family her son made.',
+      note: 'Her surname is indexed FORANO; in an Arbëreshë village the spelling may wobble (Forano, Farano, Fiorano) across records. Plataci\'s registers hold her.'
     },
 
     veronicaFranovich: {
@@ -2002,13 +2036,22 @@
         'Joseph H. Wellmeyer (c. 1867 – 27 February 1899) — died at thirty-two',
         'and probably the infant Anne, dead at two months in October 1872'
       ],
-      given: 'Henry Bernard', surname: 'Wellmeyer', sex: 'M',
-      birth: { date: 'about 1823', place: 'Germany' },
+      given: 'Henry Bernard', alsoKnownAs: 'christened Bernard Heinrich Wallmeyer', surname: 'Wellmeyer', sex: 'M',
+      birth: { date: 'christened 1 July 1823', place: 'Ibbenbüren, Tecklenburg, Westphalia, Prussia' },
       death: { date: '23 September 1880', place: 'New Orleans' },
+      father: 'gerardWallmeyer', mother: 'mariaAnnaStiegemann',
+      occupation: 'Grocer',
       evidence: 'confirm',
       branch: 'wellmeyer',
-      blurb: 'The German immigrant of the line, in New Orleans by the 1850s, dead there in September 1880 at fifty-seven — three months after the census takers came through. The civil record calls him Bernard.',
+      immigrant: true,
+      blurb: 'The German immigrant of the line: a miner\'s-country boy from Ibbenbüren in Westphalia who kept a New Orleans grocery, raised his family there, and died in September 1880 at fifty-seven — three months after the census takers came through. The civil record calls him Bernard.',
       records: [
+        {
+          title: 'The 1880 census — taken weeks before his death',
+          citation: 'New Orleans, ED 62, sheet 165C — NARA T9',
+          text: 'Bernard Wellmeyer, 56, grocer, born Germany, parents born Germany; wife Gertude, 49, Germany; sons Joseph 13, Louis 15, John 26 — all Louisiana-born.',
+          highlight: 'John born in Louisiana by 1854: the family had crossed by the early 1850s.'
+        },
         {
           title: 'Louisiana death record',
           citation: 'Orleans Parish, 23 September 1880 — Vol. 77, p. 470',
@@ -2018,10 +2061,41 @@
           title: 'Birth of his son Louis — the couple named together',
           citation: 'Orleans Parish, 2 February 1864 — Vol. 36, p. 376',
           text: 'WELLMEYER, LOUIS — mother LOBMEYER, CAROLINE; father WELLMEYER, BERNARD.',
-          highlight: 'The one civil record found so far that names Bernard and Caroline together as a couple, in New Orleans, raising children — the anchor of the immigrant generation.'
+          highlight: 'The anchor civil record of the immigrant generation: Bernard and Caroline named together, in New Orleans, raising children.'
         }
       ],
-      note: 'No Wellmeyer–Lobmeyer marriage appears in the Orleans index, which begins in 1831 — Bernard and Caroline almost certainly married in Germany before emigrating. Where in Germany is the line\'s open question; the 1880 census image (parents\' birthplace column), a passenger arrival, or a naturalization would answer it.'
+      sources: [
+        { label: 'FamilySearch tree profile G9HV-S85 (17 sources attached)', url: 'https://www.familysearch.org/tree/person/details/G9HV-S85' }
+      ],
+      note: 'The Ibbenbüren origin, the 1 July 1823 christening, and his parents come from a well-sourced FamilySearch profile ("Bernard Henry Wallmeyer," seventeen records attached) found in August 2026 — carried at confirm until the Ibbenbüren parish registers are read directly. No Wellmeyer–Lobmeyer marriage appears in the Orleans index and none in the profile: he and Caroline, a Hanover girl, almost certainly met and married on this side of the water or en route — their marriage record is still wanted.'
+    },
+
+    gerardWallmeyer: {
+      children: [
+        { id: 'henryBernardWellmeyer' },
+        'and seven more children, per the family reconstruction on FamilySearch'
+      ],
+      given: 'Gerard Joseph', surname: 'Wallmeyer', sex: 'M',
+      origin: 'Ibbenbüren, Tecklenburg, Westphalia',
+      birth: { date: 'about 1792', place: 'Ibbenbüren, Westphalia' },
+      evidence: 'confirm',
+      branch: 'wellmeyer',
+      blurb: 'The Westphalian stay-behind generation: married Maria Anna Stiegemann at Ibbenbüren on 21 October 1817, raised eight children there, and watched at least one son leave for Louisiana.',
+      note: 'From the sourced FamilySearch reconstruction; the Ibbenbüren Catholic parish registers (Bistum Münster) are the primary source to read. Ibbenbüren sits in the Tecklenburg district between Osnabrück and Münster.'
+    },
+
+    mariaAnnaStiegemann: {
+      children: [
+        { id: 'henryBernardWellmeyer' },
+        'and the other Wallmeyer children — see Gerard Joseph Wallmeyer'
+      ],
+      given: 'Maria Anna', surname: 'Stiegemann', sex: 'F',
+      origin: 'Ibbenbüren, Tecklenburg, Westphalia',
+      birth: { date: 'about 1795', place: 'Ibbenbüren, Westphalia' },
+      evidence: 'confirm',
+      branch: 'wellmeyer',
+      blurb: 'Married at Ibbenbüren in October 1817; mother of the Bernard who crossed. Stiegemann is a classic Westphalian farm name.',
+      note: 'From the sourced FamilySearch reconstruction, pending a direct reading of the Ibbenbüren registers.'
     },
 
     carolineLobmeyer: {
@@ -2029,20 +2103,25 @@
         'The same children — see Henry Bernard Wellmeyer',
         { id: 'johnWellmeyer' }
       ],
-      given: 'Caroline Gertrude', surname: 'Lobmeyer', sex: 'F',
-      birth: { date: 'about 1831', place: 'Germany' },
+      given: 'Gertrude Caroline', surname: 'Lobmeyer', sex: 'F',
+      birth: { date: 'November 1831', place: 'Kingdom of Hanover, Germany' },
       death: { date: '7 December 1903', place: 'New Orleans' },
       evidence: 'confirm',
       branch: 'wellmeyer',
-      blurb: 'Wellmeyer married Lobmeyer: two German -meyer families joined a generation before the Langes and Sanders came into the line. She outlived Bernard by twenty-three years, and buried at least three of her children.',
+      immigrant: true,
+      blurb: 'A Hanover girl who married a Westphalian in America: two German -meyer families joined a generation before the Langes and Sanders came into the line. She outlived Bernard by twenty-three years, buried at least three of her children, and was laid in St. Vincent de Paul No. 1 — beginning the family\'s St. Vincent de Paul tradition that holds to this day.',
       records: [
         {
           title: 'Louisiana death record',
           citation: 'Orleans Parish, 7 December 1903 — Vol. 131, p. 367',
           text: 'WELLMEYER, GERTRUDE LOBMEYER, age 72.',
-          highlight: 'Son Louis\'s 1864 birth record calls her Caroline; her death row calls her Gertrude. One woman, two given names — Caroline Gertrude, or Gertrude Caroline. Judy\'s notes used Caroline.'
+          highlight: 'Son Louis\'s 1864 birth record calls her Caroline; her death row calls her Gertrude. One woman, two given names. Buried December 1903, St. Vincent de Paul Cemetery No. 1.'
         }
-      ]
+      ],
+      sources: [
+        { label: 'FamilySearch tree profile G9HV-3FV (13 sources attached)', url: 'https://www.familysearch.org/tree/person/details/G9HV-3FV' }
+      ],
+      note: 'Born November 1831 in the Kingdom of Hanover per the sourced FamilySearch reconstruction — the same corner of Germany as the Larmanns, on the other side of the family. Her parents are not yet identified anywhere.'
     },
 
     catherineLange: {

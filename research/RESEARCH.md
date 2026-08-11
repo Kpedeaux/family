@@ -1237,6 +1237,53 @@ St. Vincent de Paul No. 3 is the known burial site for Henry John's household. G
 parish registers (St. Boniface, Holy Trinity, St. Henry) are the sacramental route to the
 hometown.
 
+### FamilySearch night: Ibbenbüren and Plataci — two origin questions fall (2026-08-10, session 5, late)
+
+Kevin signed into FamilySearch; images authorized in his Chrome. Two brick walls came down in
+under an hour.
+
+**WELLMEYER ORIGIN — IBBENBÜREN, WESTPHALIA.**
+- 1880 census (ED 62, sheet 165C, NARA T9), Bernard's household, weeks before his death:
+  Bernard 56 GROCER b. Germany (parents b. Germany) · Gertude 49 b. Germany · Joseph 13 ·
+  Louis 15 · John 26 — **all sons b. LOUISIANA → the family crossed by ~1853.** Henry ("Hy," 24,
+  LA) next door with wife Louisa and daughter Mary b. 1879.
+- FamilySearch tree profile **G9HV-S85 "Bernard Henry Wallmeyer," 17 sources**: christened
+  **1 July 1823, Ibbenbüren, Tecklenburg, Westphalia, Prussia**; AKA Bernard Heinrich WALLMEYER;
+  parents **Gerard Joseph Wallmeyer (b. c. 1792) × Maria Anna Stiegemann (b. c. 1795), m. 21 Oct
+  1817 Ibbenbüren**, eight children. Attached: Orleans death cert, multiple parish-marriage
+  records, 1870 census.
+- Profile **G9HV-3FV Gertrude Caroline Lobmeyer, 13 sources**: b. **November 1831, Kingdom of
+  HANOVER** (same corner of Germany as the Larmanns!); buried December 1903 **St. Vincent de
+  Paul Cemetery No. 1** — the family's St. Vincent de Paul habit starts with her. In the 1900
+  census (Ward 9) as a widow. Her parents: unknown anywhere.
+- No marriage record on either profile → Bernard × Gertrude probably married in New Orleans
+  (unindexed parish register) or en route. Site updated: Ibbenbüren + Hanover entered at
+  [CONFIRM] (FS reconstruction, sources not yet read directly); Gerard Joseph Wallmeyer +
+  Maria Anna Stiegemann added as people. Primary verification route: Ibbenbüren Catholic
+  registers (Bistum Münster).
+
+**BRUNETTI ORIGIN — PLATACI, CONFIRMED; THE FILE CLOSES.**
+- FS "Louisiana, Parish Marriages 1787-1958": the June 1921 wedding indexed TWICE (15 + 18
+  June; licence Vol. 46 p. 90): **John Brunetti, 28 (b. ~1893), son of MICHELE BRUNETTI ×
+  DOMENICA FORANO, m. Miss Veronica Franovich, 19** — witnesses An[thony] Franovich + Melan[ie]
+  Moyant (the bride's parents — another record for the Franovich–Moizant couple).
+  **THE PARENTS MATCH THE 1912 MANIFEST'S "father Michele, Plataci." The Plataci chain is
+  closed.** Michele + Domenica added to the tree at [CONFIRM].
+- FS tree profile **GMRL-CRS "John Brunetti," 17 sources, birth 8 sources: 5 May 1893,
+  Plataci, Cosenza, Calabria**; immigration 1912; draft registration Chicago 1917–18;
+  **military service 24 May 1919 New Orleans; VETERANS ADMINISTRATION MASTER INDEX 1917–1940
+  card attached — federal confirmation that he SERVED in WWI**, matching Jean's "he was in
+  WWI and that's how he became a citizen" (per Buddy). Also attached: WWII draft card 1942
+  (states birthplace — pull next), 1930 + 1940 censuses, SSDI, two GenealogyBank obituaries
+  (d. January 1987, New Orleans).
+- Note: the Busso/Campobasso WWI card (b. 26 Feb 1897, Wickliffe OH, relative Giuseppe) that
+  surfaced first is a DIFFERENT John Brunetti — ruled out by the parents + birth year. No John
+  Brunetti ever registered for the WWI draft in Louisiana; no John Brunetti in the LA death
+  index (d. 1987 is past its ~1976 reach).
+- FS tree gives wife Veronica Franovich "1897–1974" — conflicts with our documented 22 Mar
+  1902 – 23 Aug 1981 (licence age 19 in 1921 supports ~1902). Our dates stand; the FS tree's
+  Veronica vitals are not adopted.
+
 ### Casper — documents to order next
 
 1. **Times-Picayune 22 + 23 Nov 1921, p. 2 col. 8** — his obituary notices (NOPL microfilm, or
@@ -1378,10 +1425,10 @@ hometown.
 
 # OPEN QUESTIONS, ranked
 
-1. **John Brunetti's origins** — the Plataci lead needs one document. Cheapest: Veronica's 1923
-   birth certificate (Orleans Vol. 181 p. 2241, public since 2024, LA State Archives, 3851 Essen
-   Lane, Baton Rouge, $5 non-certified). Then the 1921 licence application (Vol. 46 p. 90), then
-   NARA Chicago (soundex B653). Ask **Aunt Patricia (Pedeaux Ruda)** — she may simply know the town.
+1. **John Brunetti's origins — SOLVED 2026-08-10** (parents Michele Brunetti × Domenica Forano;
+   Plataci confirmed; WWI service confirmed via VA index). Gold-plating remains: WWII draft card
+   1942 (image on FS), Veronica's 1923 birth certificate, NARA Chicago declaration, Cathedral
+   sacramental act, Jan 1987 T-P obit, Plataci registers for the generations behind Michele.
 2. **Which Michel crossed** — Nantes city death tables 1793–1852 now swept: no Michel but the
    father (see the sweep section). Remaining: Chantenay-sur-Loire's own tables décennales
    (commune dropdown on the same search page), Nantes 1853–62, and the parents' 1764
