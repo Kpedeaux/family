@@ -1284,6 +1284,76 @@ under an hour.
   1902 – 23 Aug 1981 (licence age 19 in 1921 supports ~1902). Our dates stand; the FS tree's
   Veronica vitals are not adopted.
 
+### GESMOLD — Casper's town, and four generations of Larmanns (2026-08-10, session 5, late)
+
+The play: FS **"Louisiana, Parish Marriages, 1787-1958"** — CHURCH marriages, which name the
+couple's PARENTS. The SOS civil index never does. Same collection that cracked Brunetti.
+Query used: `q.surname=Larmann&q.marriageLikePlace=Louisiana, United States` + date range.
+
+**THE 1884 RECORD (Orleans, 26 Apr 1884, Vol. 10 p. 589; indexed 4× with variants):**
+> John Casper Larmann, 36 (b. 1848), son of **JOHN CASPER LARMANN × MARIA ELIZABETH WERGERS**
+> [also indexed Wergery], m. **Louisa Margaret Ehmann**, 27 (b. 1857), daughter of **John D.
+> Ehmann × Katharina Lutz**.
+
+**THE 1870 RECORD (Orleans, 10 Nov 1870, Vol. 1 p. 662):** John [G/Kazlar] Larmann, 23, father
+indexed "T R / I R Larmann" (misread J C), m. **Marie E. Mevers, 23**; other person on the act:
+**C. MEVERS** = her father → supports Clemens. (Also indexed 27 Oct 1870 — church vs civil date.)
+
+**FS TREE PROFILE LLH7-YD6 — "John Casper Larmann, 1846–1921," 44 sources (birth: 11):**
+- **b. 5 April 1846, chr. 7 April 1846, GESMOLD, Melle, Hanover, Prussia**; birth name
+  **Johann Caspar Larmann**; immigration **1866/1867**; residences NO 1880, 1900 (Ward 9),
+  1910, 1920; d. 21 Nov 1921 New Orleans.
+- **≡ ESTHER'S "GRUSWALD" = GESMOLD.** Her ledger word (unreadable for a century) is her ear's
+  version of the town. Independent confirmation from a 44-source profile.
+- Parents: **John Casper Larmann (b. 6 Apr 1821, chr. 7 Apr 1821, Gesmold) × Maria Elisabeth
+  Werges (b. c. 1817)**, m. **8 Nov 1843 Gesmold** (profile LLH7-1C2, 7 sources / LLH7-1Z7).
+- Their parents: **Johann Caspar Larmann (b. 22 Sept 1791, chr. 25 Sept, Gesmold) × Catharina
+  Maria Ortmann (b. 1793)**, m. **31 Jan 1815 Gesmold** (GZYK-ZX8, **0 sources**).
+- Above them: **Johann Heinrich Larmann × Catharina Maria Gerven** (G8WL-QHY, **0 sources**,
+  no dates).
+- **THREE Johann Caspar Larmanns in a row: 1791, 1821, 1846.**
+
+**SITE DECISION (method held):** Casper's parents ARE named in the 1884 record → added to the
+tree at [CONFIRM] (johnCasparLarmannSr, mariaElisabethWerges). The 1791 and Johann-Heinrich
+generations are **0-source community reconstruction → NOT drawn on the tree**, recorded here as
+the lead to verify in the Gesmold parish registers.
+
+**HISTORY, and why he left:** Gesmold was Kingdom of Hanover until **1866**, when Prussia
+annexed Hanover after the Austro-Prussian War — Casper emigrated **1866/67**, at twenty.
+Hanover lost 183,355 people to emigration 1832–1886; **the Osnabrück Landdrostei supplied 42%**
+(≈77,056). Gesmold is a *Dorf und Rittergut* (village + landed estate), Kreis Melle,
+Regierungsbezirk Osnabrück (Meyers Gazetteer 10566026).
+
+**"VON LARMANN" (Jean's memory, 2026-08-10):** plausible and probably NOT nobility. Northwest
+Germany (Osnabrück/Westphalia/Hanover/Oldenburg) used **Hofnamen** — farm names — written with
+*von*/*zu* meaning simply "of"; a man who married onto another farm TOOK THAT FARM'S NAME. So
+"von Larmann" ≈ "of the Larmann farm." Flag for the Gesmold registers; do not repeat as a
+nobility claim.
+
+**EMILY MEVERS, corrected and extended (FS LRVW-P93, 18 sources):**
+- **b. c. 1847 PASCAGOULA, Jackson County, MISSISSIPPI** — she was NOT an immigrant; site had
+  "about 1844–45," no place.
+- d. 11 Feb 1882 New Orleans ✓ (matches our Vol. 80 p. 272; Esther's "Feb 13" off by two days).
+- Parents (FS): **Joes [Johannes] Clemens Mevers (b. 1792) × Dorothea Carolina Schmidt
+  (1810–1883)**, m. **28 Jan 1836, WARSTEIN, Herzogtum Westfalen**. The "C. Mevers" on her 1870
+  marriage act fits. **NOT added to the tree** — no record yet names her with both parents —
+  but this explains the dead son's name **Charles A. CLEMENCE** (b. c.1877, d. 1880).
+- Casper × Emily: 4 children on FS, matching ours (Anthony 1871, John C. 1874, Charles A.
+  Clemence c.1877, Bernard Leo 1878).
+
+**Other FS finds this pass:** Louisa Margaret Ehmann = 1857–1931 ✓ (our c.1856–17 Sep 1931);
+1900 census indexes her as daughter of a **Joseph Stauder** — worth a look, since Judy's notes
+called her "Louise Standed," which we'd assumed was a garble of Ehmann. Possibly Ehmann was a
+stepfather/prior married name, or Stauder her mother's remarriage. Also available and unread:
+Casper's **GenealogyBank obituary** (attached to LLH7-YD6) and his **Orleans death certificate**
+image (FS "Louisiana, Orleans, Death Records and Certificates, 1835-1954").
+
+**NEXT ON THIS LINE:** ① Gesmold Catholic parish registers (Bistum Osnabrück; also
+Meyersgaz/Matricula) — Casper's 1846 christening settles Esther's 1 Jan 1846 vs the German
+5 Apr 1846, and the 1791/1815 generations live or die there. ② Casper's obituary + death
+certificate images on FS (already attached to his profile — cheap). ③ The Ehmann/Stauder
+question. ④ Ibbenbüren registers for the Wallmeyers. ⑤ Emily's Pascagoula/Warstein Mevers line.
+
 ### Casper — documents to order next
 
 1. **Times-Picayune 22 + 23 Nov 1921, p. 2 col. 8** — his obituary notices (NOPL microfilm, or
@@ -1312,10 +1382,11 @@ under an hour.
   papers, so they stay confirm, not verified.
 - **Old sibling list corrected:** "Louise Frances Larmann (b. 1897)" died at eight months
   (30 May 1898). "Anthony Leo d. 1968" → 1969. "John Edmond Wellmeyer" → John Edward, per Judy.
-- **Open:** Casper's Hanover town ("Gruswald"?) · Anthony's death certificate (would name his
-  parents on a civil record and upgrade the link) · the orphanage brother's name · Genevieve
-  Rousselle's death certificate · the Larmann tomb's cemetery confirmation (presumed St. Vincent
-  de Paul No. 3, where John Sr. is buried — same cemetery as the Wellmeyer tomb).
+- **Open:** ~~Casper's Hanover town~~ **SOLVED — Gesmold (2026-08-10)** · Anthony's death
+  certificate (would name his parents on a civil record and upgrade the link) · the orphanage
+  brother's name · Genevieve Rousselle's death certificate · the Larmann tomb's cemetery
+  confirmation (presumed St. Vincent de Paul No. 3, where John Sr. is buried — same cemetery as
+  the Wellmeyer tomb, and where Gertrude Lobmeyer Wellmeyer was buried in No. 1 in 1903).
 
 ---
 
@@ -1433,8 +1504,10 @@ under an hour.
    father (see the sweep section). Remaining: Chantenay-sur-Loire's own tables décennales
    (commune dropdown on the same search page), Nantes 1853–62, and the parents' 1764
    Saint-Saturnin marriage act (AD44 3 E 109/207).
-3. **Casper Larmann's Hanover town** — "Gruswald"? Passenger lists and German civil registers;
-   also his and Anthony's death certificates (certificates, unlike the index, name parents).
+3. **Casper Larmann's Hanover town — SOLVED 2026-08-10: GESMOLD** (Melle, Osnabrück), parents
+   named on the 1884 marriage record. Remaining: Gesmold parish registers (christening + the
+   1791/1815 generations), his 1921 obituary + death-certificate images already attached to FS
+   profile LLH7-YD6, Anthony's death certificate.
 4. **Johanna's parents — the generation question** — ① Aug 1924 licence application Vol. 49
    p. 468 (names her parents; settles Robert-vs-Alonzo); ② 1910 census image (relation column);
    ③ Robert Lemoine's Navy muster rolls (USS Maine BB-10?); ④ Alonzo × Genevieve marriage (river
@@ -1496,7 +1569,10 @@ under an hour.
   He was away in the navy and their mother left them." Jean also mentioned a "little case" of
   keepsakes she wants explained "when I die y'all going to throw it all away" — the paperwork
   about the mother's remarriage may be in it. STANDING ASK: sit with Jean and the case.
-- **Standing asks:** Aunt Patricia → John Brunetti's hometown. Judy → the rest of the "tons."
+- **Jean (2026-08-10, follow-up):** "they were named VonLarmann in Germany" — heard, unverified.
+  Almost certainly a *Hofname* (farm name) form, not nobility: see the Gesmold section. Also
+  supplied: Ann Larmann was one of six children ✓ (matches the documented sibling set).
+- **Standing asks:** Aunt Patricia → memories of John Brunetti himself. Judy → the rest of the "tons."
   Anyone → tomb photographs; Buras/Moizant memories; the orphanage brother's name.
 
 ---

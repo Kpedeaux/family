@@ -1625,7 +1625,7 @@
     johnCasparLarmann: {
       siblings: [
         'Marie Antoinette Larmann Prinz (c.1845 – 29 January 1899) — a probable sister: born a Larmann a year before him, died in Orleans as Joseph Prinz\'s wife, cross-indexed under both names',
-        'and a lead a generation older: John Mathias Larmann, married to Elizabeth Bruning, was raising a family in New Orleans by 1857 — possibly Casper\'s father or uncle, and possibly how a Hanover boy knew where to sail'
+        'and a lead: John Mathias Larmann, married to Elizabeth Bruning, was raising a family in New Orleans by 1857 — not his father (that man stayed in Gesmold), but very possibly the uncle or cousin who told a Hanover boy where to sail'
       ],
       children: [
         { id: 'anthonyLarmann' },
@@ -1633,15 +1633,22 @@
         'By Louisa Ehmann, each with an Orleans birth record naming both parents: Joseph Benedict (9 Apr 1885 – 1950), Hilda Margaretha (22 Dec 1886 – 1940, died a Mrs Cook), Henry (b. 25 May 1889), Albert (b. 22 Dec 1891), Edward John (b. 16 Dec 1896) — the Edward who married Marie Edna Fernandez in 1921, and Caspar Maurice "Casper Jr." (15 Jan 1899 – 1945)',
         'The 1900 census catches the household whole: Casper, wife Louisa, and the eight children then at home'
       ],
-      given: 'John Casper', surname: 'Larmann', sex: 'M',
-      origin: 'Hanover, Germany',
-      birth: { date: '1 January 1846', place: 'Hanover, Germany (per Esther\'s ledger; the town reads like "Gruswald")' },
+      given: 'John Casper', alsoKnownAs: 'born Johann Caspar Larmann', surname: 'Larmann', sex: 'M',
+      origin: 'Gesmold, Melle — Kingdom of Hanover',
+      birth: { date: '5 April 1846, christened the 7th', place: 'Gesmold, Melle, Kingdom of Hanover' },
       death: { date: '21 November 1921', place: 'Orleans Parish' },
+      father: 'johnCasparLarmannSr', mother: 'mariaElisabethWerges',
       evidence: 'confirm',
       branch: 'larmann',
       immigrant: true,
-      blurb: 'The Larmann immigrant: "Casper Sr." to his family. A Hanoverian who married in New Orleans in 1870, buried his first wife in 1882, remarried in 1884, and died nine months after his daughter-in-law Eugenie — having outlived his son Anthony by seventeen years.',
+      blurb: 'The Larmann immigrant: "Casper Sr." to his family. A Hanoverian from the village of Gesmold who crossed at twenty, married in New Orleans in 1870, buried his first wife in 1882, remarried in 1884, and died nine months after his daughter-in-law Eugenie — having outlived his son Anthony by seventeen years.',
       records: [
+        {
+          title: 'The record that named his parents',
+          citation: 'Louisiana Parish Marriages — Orleans, 26 April 1884 (Vol. 10, p. 589)',
+          text: 'John Casper Larmann, 36, son of JOHN CASPER LARMANN and MARIA ELIZABETH WERGERS, m. Louisa Margaret Ehmann, 27, daughter of John D. Ehmann and Katharina Lutz.',
+          highlight: 'Found August 2026, in the church-marriage collection the state civil index never covered. His parents\' names had been unknown to the family for a century.'
+        },
         {
           title: 'First marriage',
           citation: 'Orleans Parish, November 1870 — Vol. 1, p. 662',
@@ -1671,7 +1678,51 @@
           highlight: 'The obituary index says seventy-five — which lands exactly on Esther\'s 1 January 1846 birthdate, against the death index\'s 73. The notices themselves, on microfilm at the New Orleans Public Library, may well name his home town.'
         }
       ],
-      note: 'Esther gives his birth as 1 January 1846 and his obituary index age agrees; the death index and the 1900 census point at 1848 — so 1846 has the better of it. The German birthplace word in the photocopy defies a confident reading — Gruswald, Grunwald or similar, somewhere in the old Kingdom of Hanover. The paths to the town: his two 1921 obituary notices, his death certificate, a naturalization record, or a New Orleans passenger arrival. Notably, Find a Grave has not a single Larmann memorial anywhere in Louisiana — this family was never memorialized online, which is part of why the line stayed dark so long.'
+      note: 'THE TOWN, FOUND — August 2026. Esther\'s ledger word, which nobody could read for certain, looked like "Gruswald." The answer is GESMOLD, a village of the Melle district in the old Kingdom of Hanover, near Osnabrück: a well-sourced FamilySearch profile (forty-four records attached) gives his birth there on 5 April 1846 and his christening two days later, and his parents\' 1843 marriage in the same village. Read the ledger word again with Gesmold in mind and it fits — Esther was writing down a sound her father said, decades after he last said it. History adds the reason he left: Gesmold belonged to the Kingdom of Hanover until 1866, when Prussia annexed it after the Austro-Prussian War, and Casper emigrated that same year or the next. The Osnabrück country sent forty-two percent of all Hanoverian emigrants to America in that century. Esther\'s 1 January 1846 birthdate and the German 5 April now compete; the christening record in the Gesmold parish register is the tiebreaker, and it is the next document to read. Notably, Find a Grave has not a single Larmann memorial anywhere in Louisiana — this family was never memorialized online, which is part of why the line stayed dark so long.'
+    },
+
+    johnCasparLarmannSr: {
+      children: [
+        { id: 'johnCasparLarmann' },
+        'and at least one more child recorded in the Gesmold registers'
+      ],
+      given: 'Johann Caspar', surname: 'Larmann', sex: 'M',
+      origin: 'Gesmold, Melle — Kingdom of Hanover',
+      birth: { date: '6 April 1821, christened the 7th', place: 'Gesmold, Melle, Kingdom of Hanover' },
+      evidence: 'confirm',
+      branch: 'larmann',
+      blurb: 'The father who stayed. Named on his son\'s 1884 New Orleans marriage record — the document that finally opened this line — he married Maria Elisabeth Werges at Gesmold on 8 November 1843 and, so far as any record shows, never left the village.',
+      records: [
+        {
+          title: 'Named on his son\'s marriage record',
+          citation: 'Louisiana Parish Marriages — Orleans, 26 April 1884 (Vol. 10, p. 589)',
+          text: 'The groom John Casper Larmann, 36, is entered as the son of JOHN CASPER LARMANN and MARIA ELIZABETH WERGERS.',
+          highlight: 'Three generations of this family were named Johann Caspar Larmann in a row — 1791, 1821, 1846 — which is exactly why the American records blur them together.'
+        }
+      ],
+      note: 'His name comes from a record; his dates and village come from the FamilySearch reconstruction of the Gesmold registers, and are carried at confirm until those registers are read directly. That reconstruction continues above him — Johann Caspar Larmann (b. 1791) and Catharina Maria Ortmann, married at Gesmold on 31 January 1815, and above them a Johann Heinrich Larmann and Catharina Maria Gerven with no dates at all. Those two generations are not drawn on this tree yet: they carry no attached sources, and this family has learned what "close enough" costs.'
+    },
+
+    mariaElisabethWerges: {
+      children: [
+        { id: 'johnCasparLarmann' },
+        'and at least one more child recorded in the Gesmold registers'
+      ],
+      given: 'Maria Elisabeth', surname: 'Werges', sex: 'F',
+      origin: 'Gesmold, Melle — Kingdom of Hanover',
+      birth: { date: 'about 1817', place: 'Kingdom of Hanover' },
+      evidence: 'confirm',
+      branch: 'larmann',
+      blurb: 'Casper\'s mother, four years older than her husband, married at Gesmold in November 1843. Her son sailed for America at twenty and she almost certainly never saw him again.',
+      records: [
+        {
+          title: 'Named on her son\'s marriage record',
+          citation: 'Louisiana Parish Marriages — Orleans, 26 April 1884 (Vol. 10, p. 589)',
+          text: 'Indexed as MARIA ELIZABETH WERGERS — also read Wergery in a second indexing of the same act.',
+          highlight: 'The German spelling on the FamilySearch reconstruction is WERGES; the New Orleans clerk heard Wergers.'
+        }
+      ],
+      note: 'Werges, Wergers, Wergery — one name through an American ear and two indexers. The Gesmold parish registers hold her own parents and her dates.'
     },
 
     emilyMevers: {
@@ -1682,12 +1733,18 @@
         'Bernard Leo (b. 1878, d. 1955)'
       ],
       given: 'Marie Emily', surname: 'Mevers', sex: 'F',
-      birth: { date: 'about 1844–45' },
+      birth: { date: 'about 1847', place: 'Pascagoula, Jackson County, Mississippi' },
       death: { date: '11 February 1882', place: 'Orleans Parish' },
       evidence: 'confirm',
       branch: 'larmann',
-      blurb: 'Anthony\'s mother, dead at thirty-seven when he was ten. A Dorothea Mevers — sister, cousin or niece — stood godmother to Charles Emile twenty years later, so her family stayed close.',
+      blurb: 'Anthony\'s mother, dead at thirty-seven when he was ten — and, it turns out, not an immigrant at all but a Mississippi girl, born at Pascagoula to a German couple out of Westphalia. A Dorothea Mevers — sister, cousin or niece — stood godmother to Charles Emile twenty years later, so her family stayed close.',
       records: [
+        {
+          title: 'Marriage — Orleans Parish',
+          citation: 'Louisiana Parish Marriages — Orleans, 10 November 1870 (Vol. 1, p. 662)',
+          text: 'Marie E. Mevers, 23, m. John [Casper] Larmann, 23. Also named on the act: C. MEVERS — her father.',
+          highlight: 'Nine and a half months before Anthony was born, and the record that puts a "C. Mevers" at her side: her father was a Clemens, which is where the couple\'s lost little boy Charles A. Clemence got his name.'
+        },
         {
           title: 'Louisiana death record',
           citation: 'Orleans Parish, 11 February 1882 — Vol. 80, p. 272',
@@ -1695,7 +1752,7 @@
           highlight: 'Esther\'s ledger, written decades later, gives 13 February — two days off the civil record.'
         }
       ],
-      note: 'The surname is Mevers in Esther\'s cursive and the state index, "Meners" in Judy\'s typed-up notes — plausibly Meiners in the German original.'
+      note: 'The surname is Mevers in Esther\'s cursive and the state index, "Meners" in Judy\'s typed-up notes. The FamilySearch reconstruction (eighteen records) puts her birth at Pascagoula about 1847 and gives her parents as Johannes Clemens Mevers, born 1792, and Dorothea Carolina Schmidt, 1810–1883, married at Warstein in the Duchy of Westphalia on 28 January 1836. The "C. Mevers" on her own 1870 marriage act fits that father exactly — but no record yet names her and both parents together, so they are held here as a strong lead rather than drawn on the tree. If it holds, her people were Westphalians who landed on the Mississippi Gulf Coast instead of in New Orleans.'
     },
 
     henryMoore: {
