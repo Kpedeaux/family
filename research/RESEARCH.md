@@ -1377,10 +1377,46 @@ LANCZOS upscale). Full page ≈ 1518×1426, ~590 KB. **Licence: CC BY-NC-ND 2.0*
 republication IS allowed with attribution; ND means publish the page UNALTERED (the site does),
 and users are asked to notify the archive, for which an online link suffices (the site links).
 
-**NEXT ON THIS LINE:** ① the same register run backwards — father's baptism c.1821 (D1_003_1
-Taufen 1811–1826), parents' marriage 8 Nov 1843 (D2_202 Heiraten 1811–1852), grandparents'
-marriage 31 Jan 1815 (same book) — which will confirm or kill the 1791/Johann-Heinrich
-generations; ② **D4_401 Auswanderer 1832–1865** — an EMIGRANT register for the parish! Casper
+**READING BACKWARDS — TWO MORE ACTS, SAME NIGHT. THE 0-SOURCE GENERATIONS ARE NOW VERIFIED.**
+Book **D2_202 Heiraten 1811 Nov–1852**. URL pattern is constructible, no viewer needed:
+`http://hosted-images.matricula-online.eu/images/matricula/BiOsna/matricula/S%3A/Matricula/
+Gesmold.GesmPetr06-03/Heiraten/GesmPetr_D202_Heir-1811%20Nov-1852/GesmPetr_D202_Heir-<PAGE>.jpg`
+where `<PAGE>` = the dropdown label suffix (e.g. `1843_079`, `1815_015`).
+
+- **8 Nov 1843 (page 1843_079, last entry of the year):** *"Larmann, Johann Caspar, Neubauer,
+  geboren d. 6ten April 1821, mit Maria Elisabeth Werges, geboren zu Haste d. 27 Jan. 1817.
+  Zeugen: Col. Math. [Zuhfeld] und Col. Conr. Sundermann."* → father's birth **6 Apr 1821**
+  CONFIRMED to the day (matches FS); mother **b. 27 Jan 1817 at HASTE** (NEW — FS had only
+  "about 1817", no place); given name settled as **JOHANN** (the 1846 baptism's "Jos." was a
+  tight Joh.); witnesses styled **Col.** = Colonus, full farm owners, a rank above Neubauer.
+- **31 Jan 1815 (page 1815_015, 2nd entry of 1815, in LATIN):** *"Sponsus: Joannes Casparus
+  Laarmann, filius legitimus patris JOANNIS HENRICI LAARMANN et matris CATHARINAE MARIAE
+  GERVEN, hic natus 1791 d. 22 Sept. Sponsa: Catharina Maria Ortmann, filia legitima patris
+  JOANNIS HENRICI ORTMANN et matris CATHARINAE MARIAE DECKER, hic nata 1793 d. 6 Novembris.
+  Testes: Colonus Mathias Kornänker(?) et Henricus Hillebrand."*
+  → **b. 22 Sept 1791 CONFIRMED to the day**; the Johann-Heinrich generation, which had ZERO
+  sources on FS, is now **primary-record verified**; Catharina Maria Ortmann **b. 6 Nov 1793**
+  CONFIRMED; and her parents **Joannes Henricus Ortmann × Catharina Maria Decker** are NEW.
+  Note the older spelling **LAARMANN**.
+
+**SITE:** +4 people (Johann Caspar Laarmann 1791, Catharina Maria Ortmann, Johann Heinrich
+Laarmann, Catharina Maria Gerven) → **83 total, 40 verified**. The Larmann line now runs nine
+generations from Kevin to Johann Heinrich Laarmann, born before 1770. The Ortmann parents are
+named in the record but NOT drawn (scope) — they're the obvious next add.
+
+**JUDY'S TESTIMONY, arriving the same hour and matching perfectly (2026-08-10):** "My
+grandmother has a handwritten sheet that states **Casper and his brothers came here from
+Hamburg to escape compulsory military service**." Prussia annexed Hanover in 1866 → Prussian
+conscription; Casper left 1866/67 at twenty; Hamburg was the emigrant port. **"His brothers"
+(plural) is a new lead** — it may explain John Mathias Larmann already in New Orleans by 1857
+and the probable sister Marie Antoinette Larmann Prinz. ACTION: Hamburg Passenger Lists
+1850–1934 (indexed, on Ancestry/FS) for Larmann/Laarmann departures 1866–67 — a departure list
+would name the brothers.
+
+**NEXT ON THIS LINE:** ① **Hamburg passenger lists 1866–67** (Judy's lead — could name the
+brothers); ② the father's baptism c. 6 Apr 1821 in D1_003_1 (Taufen 1811 Okt–1826) and the
+1791 baptism in D1_103_1 (Taufen 1787–1803) — will give Johann Heinrich Laarmann's own
+marriage; ③ the Ortmann/Decker and Werges/Haste lines; ② **D4_401 Auswanderer 1832–1865** — an EMIGRANT register for the parish! Casper
 left 1866/67, just past its end, but kin may be listed; ③ Casper's obituary + death-certificate
 IMAGES on FS (indexed line already captured: b. 1848 Hanover, parents John C. Larmann ×
 Elizabeth Weiner, wife Louise M. Ehmann); ④ the Ehmann/Stauder question (Judy's "Louise Standed"
@@ -1607,6 +1643,10 @@ there too (father Charles, mother Johanna Lemoine); ⑦ Ibbenbüren registers fo
   He was away in the navy and their mother left them." Jean also mentioned a "little case" of
   keepsakes she wants explained "when I die y'all going to throw it all away" — the paperwork
   about the mother's remarriage may be in it. STANDING ASK: sit with Jean and the case.
+- **Judy Larmann Gifford (2026-08-10):** "My grandmother has a handwritten sheet that states
+  Casper and his brothers came here from Hamburg to escape compulsory military service." ✓✓
+  Corroborated by the 1866 Prussian annexation of Hanover + his 1866/67 emigration at age 20.
+  ⚠️ ASK JUDY FOR A PHOTO OF THAT SHEET — it may name the brothers and the ship.
 - **Aaron Pedeaux (2026-08-10, via Buddy):** John Brunetti "fought in WW1, and was like a part of
   a group that operated cannons. Which was why he was deaf later in life." → ARTILLERY unit.
   Consistent with the VA Master Index card. ACTION: his service/unit records (NARA St. Louis

@@ -1690,7 +1690,7 @@
           highlight: 'The obituary index says seventy-five — which lands exactly on Esther\'s 1 January 1846 birthdate, against the death index\'s 73. The notices themselves, on microfilm at the New Orleans Public Library, may well name his home town.'
         }
       ],
-      note: 'THE TOWN, FOUND — August 2026. Esther\'s ledger word, which nobody could read for certain, looked like "Gruswald." The answer is GESMOLD, a village of the Melle district in the old Kingdom of Hanover, near Osnabrück: a well-sourced FamilySearch profile (forty-four records attached) gives his birth there on 5 April 1846 and his christening two days later, and his parents\' 1843 marriage in the same village. Read the ledger word again with Gesmold in mind and it fits — Esther was writing down a sound her father said, decades after he last said it. History adds the reason he left: Gesmold belonged to the Kingdom of Hanover until 1866, when Prussia annexed it after the Austro-Prussian War, and Casper emigrated that same year or the next. The Osnabrück country sent forty-two percent of all Hanoverian emigrants to America in that century. Esther\'s 1 January 1846 birthdate and the German 5 April now compete; the christening record in the Gesmold parish register is the tiebreaker, and it is the next document to read. Notably, Find a Grave has not a single Larmann memorial anywhere in Louisiana — this family was never memorialized online, which is part of why the line stayed dark so long.'
+      note: 'WHY HE LEFT, in the family\'s own words: Judy Gifford reports a handwritten sheet of her grandmother\'s saying that Casper and his brothers came out through HAMBURG to escape compulsory military service. Everything checks. Gesmold was Hanoverian until Prussia annexed the kingdom in 1866 — and Prussia brought its conscription with it. Casper emigrated in 1866 or 1867, at twenty, exactly the age and exactly the moment; Hamburg was the great emigrant port; and "his brothers" would explain the John Mathias Larmann already in New Orleans and the probable sister Marie Antoinette. A family story and a annexation date landing on the same year is as close to corroboration as oral history gets. THE TOWN, FOUND — August 2026. Esther\'s ledger word, which nobody could read for certain, looked like "Gruswald." The answer is GESMOLD, a village of the Melle district in the old Kingdom of Hanover, near Osnabrück: a well-sourced FamilySearch profile (forty-four records attached) gives his birth there on 5 April 1846 and his christening two days later, and his parents\' 1843 marriage in the same village. Read the ledger word again with Gesmold in mind and it fits — Esther was writing down a sound her father said, decades after he last said it. History adds the reason he left: Gesmold belonged to the Kingdom of Hanover until 1866, when Prussia annexed it after the Austro-Prussian War, and Casper emigrated that same year or the next. The Osnabrück country sent forty-two percent of all Hanoverian emigrants to America in that century. Esther\'s 1 January 1846 birthdate and the German 5 April now compete; the christening record in the Gesmold parish register is the tiebreaker, and it is the next document to read. Notably, Find a Grave has not a single Larmann memorial anywhere in Louisiana — this family was never memorialized online, which is part of why the line stayed dark so long.'
     },
 
     johnCasparLarmannSr: {
@@ -1698,11 +1698,12 @@
         { id: 'johnCasparLarmann' },
         'and at least one more child recorded in the Gesmold registers'
       ],
-      given: 'Joseph Caspar', alsoKnownAs: 'the register abbreviates him "Jos. Caspar" — Joseph, or a very tight Johann', surname: 'Larmann', sex: 'M',
+      given: 'Johann Caspar', surname: 'Larmann', sex: 'M',
       origin: 'Weringhof, in the parish of Gesmold — Kingdom of Hanover',
-      birth: { date: 'about 1821', place: 'Gesmold, Melle, Kingdom of Hanover' },
+      birth: { date: '6 April 1821', place: 'Gesmold, Melle, Kingdom of Hanover' },
       occupation: 'Neubauer zu Weringhof — a new-settler farmer',
-      evidence: 'confirm',
+      father: 'johannCasparLaarmann1791', mother: 'catharinaMariaOrtmann',
+      evidence: 'verified',
       branch: 'larmann',
       blurb: 'The father who stayed, and the answer to what this family actually was: a Neubauer, a new-settler farmer at Weringhof in the Gesmold parish. He married Maria Elisabeth Werges at Gesmold in November 1843, stood godfather to his own son in 1846, and so far as any record shows never left the village.',
       records: [
@@ -1713,13 +1714,19 @@
           highlight: 'A Neubauer was a smallholder settled on newly broken land — the lowest rung of the landholding peasantry, not gentry. He stood as his own son\'s godfather, or a namesake kinsman did.'
         },
         {
+          title: 'His marriage — Gesmold, 8 November 1843',
+          citation: 'Katholische Pfarrei St. Petrus, Gesmold — Heiraten 1811–1852, D2_202, last entry of 1843',
+          text: '"8. Nov. — Larmann, Johann Caspar, Neubauer, geboren d. 6ten April 1821, mit Maria Elisabeth Werges, geboren zu Haste d. 27 Jan. 1817. Zeugen: Col. Math. [Zuhfeld] und Col. Conr. Sundermann."',
+          highlight: 'Read in the register. It gives his birthday to the day, his wife\'s birthday and her home village of Haste, and settles his given name as Johann. The witnesses are styled Col. — Colonus, full farm owners, a rank above the Neubauer bridegroom.'
+        },
+        {
           title: 'Named on his son\'s American marriage record',
           citation: 'Louisiana Parish Marriages — Orleans, 26 April 1884 (Vol. 10, p. 589)',
           text: 'The groom John Casper Larmann, 36, is entered as the son of JOHN CASPER LARMANN and MARIA ELIZABETH WERGERS.',
           highlight: 'Generation after generation of this family carried the name Caspar Larmann, which is exactly why the American records blur them together.'
         }
       ],
-      note: 'The 1846 baptism act, read directly in the Gesmold register, gives his given name as "Jos. Caspar" — Joseph — where the online reconstruction calls him Johann Caspar and dates his birth to 6 April 1821. In this hand Joh. and Jos. are a hair apart, so both readings are kept. Above him the reconstruction continues — a Johann Caspar Larmann born 1791 who married Catharina Maria Ortmann at Gesmold on 31 January 1815, and above them a Johann Heinrich Larmann and Catharina Maria Gerven with no dates at all. Those generations are not drawn on this tree: they carry no attached sources. But the Gesmold registers run back to 1674 and are online in full, so they can be settled the same way this act was — by reading the book.'
+      note: 'His son\'s 1846 baptism act abbreviates him "Jos. Caspar," which read as Joseph; his own 1843 marriage act writes him out in full as Johann Caspar, and that is what the site follows. The two acts agree on everything else, and between them they carry this line from a New Orleans marriage licence all the way into a Hanoverian village register.'
     },
 
     mariaElisabethWerges: {
@@ -1728,20 +1735,93 @@
         'and at least one more child recorded in the Gesmold registers'
       ],
       given: 'Maria Elisabeth', surname: 'Werges', sex: 'F',
-      origin: 'Gesmold, Melle — Kingdom of Hanover',
-      birth: { date: 'about 1817', place: 'Kingdom of Hanover' },
+      origin: 'Haste, near Osnabrück',
+      birth: { date: '27 January 1817', place: 'Haste' },
       evidence: 'confirm',
       branch: 'larmann',
-      blurb: 'Casper\'s mother, four years older than her husband, married at Gesmold in November 1843. Her son sailed for America at twenty and she almost certainly never saw him again.',
+      blurb: 'Casper\'s mother, four years older than her husband, from the village of Haste. She married at Gesmold in November 1843; her son sailed for America at twenty and she almost certainly never saw him again.',
       records: [
+        {
+          title: 'Her marriage — Gesmold, 8 November 1843',
+          citation: 'Katholische Pfarrei St. Petrus, Gesmold — Heiraten 1811–1852, last entry of 1843',
+          text: '"…mit Maria Elisabeth Werges, geboren zu Haste d. 27 Jan. 1817."',
+          highlight: 'The register gives her birthday and her home village — neither of which had ever reached America.'
+        },
         {
           title: 'Named on her son\'s marriage record',
           citation: 'Louisiana Parish Marriages — Orleans, 26 April 1884 (Vol. 10, p. 589)',
-          text: 'Indexed as MARIA ELIZABETH WERGERS — also read Wergery in a second indexing of the same act.',
-          highlight: 'The German spelling on the FamilySearch reconstruction is WERGES; the New Orleans clerk heard Wergers.'
+          text: 'Indexed as MARIA ELIZABETH WERGERS — also read Wergery in a second indexing of the same act, and WEINER on his 1921 death certificate.',
+          highlight: 'Werges, Wergers, Wergery, Weiner: one woman heard by four American clerks who had never seen the name written.'
         }
       ],
-      note: 'Werges, Wergers, Wergery — one name through an American ear and two indexers. The Gesmold parish registers hold her own parents and her dates.'
+      note: 'Her own parents are still to be found — the Haste registers, or the Gesmold marriage entry\'s neighbours, are the way in.'
+    },
+
+    johannCasparLaarmann1791: {
+      children: [
+        { id: 'johnCasparLarmannSr' }
+      ],
+      given: 'Johann Caspar', alsoKnownAs: 'Joannes Casparus Laarmann in the Latin of the register', surname: 'Laarmann', sex: 'M',
+      origin: 'Gesmold, Melle — Kingdom of Hanover',
+      birth: { date: '22 September 1791', place: 'Gesmold' },
+      father: 'johannHeinrichLaarmann', mother: 'catharinaMariaGerven',
+      evidence: 'verified',
+      branch: 'larmann',
+      blurb: 'Married at Gesmold on the last day of January 1815, five months before Waterloo. The register spells the family Laarmann, with the long a the name later lost.',
+      records: [
+        {
+          title: 'His marriage — Gesmold, 31 January 1815',
+          citation: 'Katholische Pfarrei St. Petrus, Gesmold — Heiraten 1811–1852, D2_202, second entry of 1815',
+          text: '"31 Jan. Sponsus: Joannes Casparus Laarmann, filius legitimus patris Joannis Henrici Laarmann et matris Catharinae Mariae Gerven, hic natus 1791 d. 22 Sept. Sponsa: Catharina Maria Ortmann, filia legitima patris Joannis Henrici Ortmann et matris Catharinae Mariae Decker…"',
+          highlight: 'The act that reaches furthest back. Written in Latin, it names the bridegroom\'s parents, the bride\'s parents, and both birthdates — four people who had been guesses on a community tree an hour before, and are now written evidence.'
+        }
+      ]
+    },
+
+    catharinaMariaOrtmann: {
+      children: [
+        { id: 'johnCasparLarmannSr' }
+      ],
+      given: 'Catharina Maria', surname: 'Ortmann', sex: 'F',
+      origin: 'Gesmold, Melle — Kingdom of Hanover',
+      birth: { date: '6 November 1793', place: 'Gesmold' },
+      evidence: 'verified',
+      branch: 'larmann',
+      blurb: 'Married Johann Caspar Laarmann at twenty-one. Her own parents are named in the same act: Joannes Henricus Ortmann and Catharina Maria Decker — the deepest names this branch has reached.',
+      records: [
+        {
+          title: 'Her marriage — Gesmold, 31 January 1815',
+          citation: 'Katholische Pfarrei St. Petrus, Gesmold — Heiraten 1811–1852, second entry of 1815',
+          text: '"Sponsa: Catharina Maria Ortmann, filia legitima patris Joannis Henrici Ortmann et matris Catharinae Mariae Decker, [h]ic nata 1793 d. 6 Novembris."'
+        }
+      ],
+      note: 'Her parents, Johann Heinrich Ortmann and Catharina Maria Decker, are named in the record but not yet drawn on this tree — the Gesmold registers reach back to 1674 and will hold their marriage.'
+    },
+
+    johannHeinrichLaarmann: {
+      children: [
+        { id: 'johannCasparLaarmann1791' }
+      ],
+      given: 'Johann Heinrich', alsoKnownAs: 'Joannes Henricus Laarmann', surname: 'Laarmann', sex: 'M',
+      origin: 'Gesmold, Melle — Kingdom of Hanover',
+      birth: { date: 'before 1770', place: 'presumably Gesmold' },
+      evidence: 'confirm',
+      branch: 'larmann',
+      blurb: 'The furthest Larmann the record reaches: named as the bridegroom\'s father in the Gesmold marriage act of January 1815, husband of Catharina Maria Gerven. Born in the reign of Frederick the Great, six generations above Kevin.',
+      note: 'Named in a record, so he stands on the tree; but nothing of his own — birth, marriage, death — has been read yet. The Gesmold baptism register begins in 1678 and his son\'s 1791 baptism is in it, which is the next page to turn.'
+    },
+
+    catharinaMariaGerven: {
+      children: [
+        { id: 'johannCasparLaarmann1791' }
+      ],
+      given: 'Catharina Maria', surname: 'Gerven', sex: 'F',
+      origin: 'Gesmold, Melle — Kingdom of Hanover',
+      birth: { date: 'before 1775', place: 'presumably Gesmold' },
+      evidence: 'confirm',
+      branch: 'larmann',
+      blurb: 'Named as the bridegroom\'s mother in the 1815 Gesmold marriage act. Her surname is written Gerven in the Latin hand — a Westphalian name that also appears as Gerwen or Gervens.',
+      note: 'Like her husband, she is on this tree because a record names her, and nothing more of her is known yet.'
     },
 
     emilyMevers: {
