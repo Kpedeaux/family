@@ -2818,3 +2818,62 @@ exists, WOULD name her father.** ← **best remaining shot.** Search lacoloniald
 **Recurring name to watch:** **Nicolas HENRY** appears in all three 1747–48 documents (contract,
 will, petition). That pattern usually means close kin or an appointed curator/tutor — her son
 Jean François Cousin was a minor and would have needed one. Worth a `last_name=HENRY` pass.
+
+---
+
+## ★★★ THE CROSSING GENERATION, NAMED — 2026-08-11 ★★★
+## Jean REYNAUD × Hélène DORIGNY · the tree reaches ELEVEN generations
+
+**THE REASONING THAT FOUND THEM, because it is the transferable part.** Her 1747 contract could
+not name her parents — she married Joly **as a widow**, and a widow contracts on her own behalf.
+So instead of hunting harder for a document that structurally could not help, go **backwards** to
+her **FIRST** marriage, when she would still be a minor under family authority. Searched
+`lacolonialdocs.org?last_name=COUSIN` → **first result.**
+
+**MARRIAGE CONTRACT, 25 April 1740** — Document **C 40 (2845), fo. 14**, 3 pp.; doc.
+`1740-04-25-03` = `/document/4889`; *Louisiana Historical Quarterly* Vol. 10 no. 2, April 1927,
+p. 278. Read from the original French page image:
+
+> "…furent présents… **PIERRE FRANÇOIS COUSIN, CHARPENTIER**, demeurant à la Nouvelle Orléans,
+> fils de **feu ANTOINE COUSIN** et de … **natif de BOURBOURG, évêché de la Flandre**, majeur…
+> d'une part. Et **MARIE FRANÇOISE RENARD, FILLE MINEURE DE FEU JEAN REYNAUD ET DE FEUE HÉLÈNE
+> DORIGNY, SES PÈRE ET MÈRE, NATIVE DE LA N[OUVE]LLE ORLÉANS, ÉVÊCHÉ DE QUÉBEC**, autorisée et
+> assistée et représentée par **JEAN CONNARD, SON AMY QUI L'A ÉLEVÉE JUSQU'À CE JOUR**, d'autre part."
+
+**FOUR ANSWERS IN ONE SENTENCE:**
+1. **Parents: JEAN REYNAUD and HÉLÈNE DORIGNY**, both **already dead** (*feu* / *feue*) by Apr 1740.
+2. She was a **MINOR** → born after ~1715, so ~1720–23.
+3. **"Native de la Nouvelle Orléans, évêché de Québec"** — third and earliest independent
+   statement she was New Orleans-born, 44 yrs before the 1784 act. (NB: pre-1793 New Orleans was
+   in the **Diocese of Quebec**.)
+4. She was an **ORPHAN**, raised and given away by **JEAN CONNARD**, *"son amy qui l'a élevée
+   jusqu'à ce jour."*
+
+**🟢 AND THE HUMAN DETAIL:** **Jean Connard was godfather to her first son in 1745** (SLC, B2, 49
+— we already had that line and did not know who he was). The man who raised the orphan was still
+standing at her child's font five years later.
+
+**Groom:** Pierre François Cousin, **carpenter**, son of the late Antoine Cousin, **native of
+BOURBOURG, French Flanders** (dept. du Nord) — another immigrant tradesman marrying a woman
+already born here. Same pattern as Sardet→Reyne, Gaiennie→Sardet, Pedeau→Aucoin, Larmann→Mevers,
+Brunetti→Franovich.
+
+**Her literacy attested a SECOND time**, seven years earlier: she signs "Marie Francoise Reinard"
+on the 1740 WPA card too. Witnesses 1740: Dehallier, **Jean Callier** (godfather to her daughter
+Marie Jeanne Reyne in 1755 — same circle), Perier, **+ Cimonot** (mark).
+
+**TREE NOW: 93 people · 47 verified · ELEVEN generations · 9 branches.** `jeanReynaud` and
+`heleneDorigny` added at verified. All "ten generations" copy updated across index.html, app.js,
+data.js.
+
+### Still open on this couple
+- **Spelling of the mother's name** — read from one 1740 hand: **Dorigny / Dorigné / d'Origny**
+  are all defensible. Origny is a French place name.
+- **Where Jean Reynaud and Hélène Dorigny came FROM.** They were in New Orleans by ~1720, i.e.
+  the Company of the Indies years. No baptism/marriage/burial survives (SLC registers start 1731).
+  → **1721, 1726, 1727 colonial censuses (Maduell); Company of the Indies passenger lists
+  1718–21; lacolonialdocs under REYNAUD / RENARD / REINARD / DORIGNY / ORIGNY.**
+- **Jean CONNARD** — search him; a man who raises an orphan is often kin. `last_name=CONNARD`.
+- **1746-08-16-01 "Family Meeting" (Allevin, COUSIN, Renaud, Cariton, Lemelle, Dumas, Raguet)** =
+  `/document/7172` — a *conseil de famille* is what happens when a father dies leaving minors.
+  **This should date Pierre Cousin's death and may name her kin.** NOT YET READ.

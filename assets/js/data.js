@@ -1069,7 +1069,7 @@
       evidence: 'verified',
       branch: 'gaiennie',
       occupation: 'Master mason',
-      blurb: 'A master mason of French colonial New Orleans, raising children there through the 1750s and 1760s. The deepest documented ancestor on the Gaiennie side — the tenth generation of this tree.',
+      blurb: 'A master mason of French colonial New Orleans, raising children there through the 1750s and 1760s. A master mason of the founding generation'''s children — and the man whose marriage act, read in 2026, finally reached past him to the two people who actually crossed.',
       records: [
         {
           title: 'The earliest trace of him — a godmother\'s line, 16 March 1750',
@@ -1086,7 +1086,43 @@
       note: 'HE WAS BORN IN THE COLONY — and the register itself now says so, not just the abstract. On 11 August 2026 the act was read in the Archdiocese\'s own digitized book: his daughter\'s 1784 remarriage records her as daughter of "ESTEVAN REEN y de FRAN[CIS]CA RENARD, naturales TODOS de esta Parroquia" — all of them natives of this parish. The Caraby records say the same of another daughter\'s parents. So the answer to "how long has this family been in Louisiana" is not 1752, the year of the first baptism we can read; it is a generation earlier still. A man raising children as a master mason in 1752 was most likely born in the 1720s, inside the first decade of a city founded in 1718. No baptism has been found for him — the earliest St. Louis church registers are fragmentary — so his birth year stays undocumented, but his birthplace no longer is. THE "STE. REYNE CONCESSION" IS A DEAD END — checked and closed, 11 August 2026. It is real: Pierre Céard, "director of St. Reyne concession," was buried on 25 June 1726. But <em>Sainte Reine</em> is a saint — Reine of Alise — and the concession carries a dedication, not a family surname. Sainte and Reyne are not the same word doing the same work. Nothing links it to this family, and it should stop being listed as a lead.'
     },
 
+    jeanReynaud: {
+      children: [ { id: 'francoiseRenard' } ],
+      given: 'Jean', surname: 'Reynaud', alsoKnownAs: 'the name descends as Renard, Reinard, Renart', sex: 'M',
+      death: { date: 'before 25 April 1740', place: 'presumably New Orleans' },
+      evidence: 'verified',
+      branch: 'gaiennie',
+      blurb: 'One of the two people this whole archive was reaching for: a man who crossed the Atlantic to a town barely built, had a daughter there, and was dead before she was twenty. He is named once, in a notarial act drawn eleven generations ago, and that is all there is.',
+      records: [
+        {
+          title: 'Named — with his wife — at his daughter\'s marriage contract',
+          citation: 'French Superior Council, New Orleans — Marriage contract, 25 April 1740, Document C 40 (2845), fo. 14 (doc. 1740-04-25-03); Louisiana Historical Quarterly Vol. 10 no. 2, April 1927, p. 278',
+          text: '"Et MARIE FRANÇOISE RENARD, fille mineure de feu JEAN REYNAUD et de feue HÉLÈNE DORIGNY, ses père et mère, native de la N[ouve]lle Orléans, évêché de Québec…"',
+          highlight: 'Both parents already dead in April 1740, and both named in the same breath. Because his daughter married as a MINOR that first time, the notary had to record her filiation — which is exactly what the 1747 contract could not do, seven years later, when she came to it a widow. The whole hunt turned on that one difference.'
+        }
+      ],
+      note: 'WHO HE WAS is unknown beyond the name. He was in New Orleans by about 1720, which puts him in the town\'s first years — the Company of the Indies era. No baptism, marriage or burial for him survives; the St. Louis church registers effectively begin in 1731, after he was already raising a family. The places left to look are the 1721, 1726 and 1727 colonial censuses, the Company of the Indies passenger lists, and the Superior Council records under every spelling of the name.'
+    },
+
+    heleneDorigny: {
+      children: [ { id: 'francoiseRenard' } ],
+      given: 'Hélène', surname: 'Dorigny', alsoKnownAs: 'possibly Dorigné or d\'Origny — read from a single 1740 hand', sex: 'F',
+      death: { date: 'before 25 April 1740', place: 'presumably New Orleans' },
+      evidence: 'verified',
+      branch: 'gaiennie',
+      blurb: 'The other half of the crossing, and the deepest woman in this archive. She was in New Orleans in its first decade, bore a daughter there, and died before that daughter was grown — leaving her to be raised by a family friend.',
+      records: [
+        {
+          title: 'Named at her daughter\'s marriage contract',
+          citation: 'French Superior Council, New Orleans — Marriage contract, 25 April 1740 (doc. 1740-04-25-03); Louisiana Historical Quarterly Vol. 10 no. 2, April 1927, p. 278',
+          text: '"…fille mineure de feu Jean Reynaud et de FEUE HÉLÈNE DORIGNY, ses père et mère, native de la N[ouve]lle Orléans, évêché de Québec…"',
+          highlight: 'The spelling is read from one 1740 hand and one hand only, so Dorigné and d\'Origny are equally possible — Origny being a French place name, which would make it a woman named for where she came from. Nothing else about her survives.'
+        }
+      ]
+    },
+
     francoiseRenard: {
+      father: 'jeanReynaud', mother: 'heleneDorigny',
       children: [
         'BY PIERRE COUSIN, her first husband: Jean François Cousin, born and baptised 7 September 1745 — the "François Cousin" who stood godfather to his own half-sister Marie Joseph Reyne in 1766',
         'BY ANTOINE JOLY, her second: none recorded. That marriage was contracted in September 1747 and he was dead within the year',
@@ -1100,7 +1136,7 @@
       given: 'Marie Françoise', surname: 'Renard', sex: 'F',
       evidence: 'verified',
       branch: 'gaiennie',
-      note: 'HER PARENTS ARE NOT KNOWN, and there is a specific reason the obvious document does not give them. A colonial marriage contract normally names the bride\'s father — but she married Antoine Joly in 1747 as a WIDOW, and a widow contracted on her own behalf. Her parents had no legal part to play, so they were never written down. The same is true of her third marriage. What would name them: her own baptism, which is lost with everything else before 1731; her burial record; or the Reine–Renard marriage act of c.1748–50, if it survives and follows the older form. Her parents are the generation that actually crossed the Atlantic, which makes them the most valuable two names still missing from this tree.',
+      note: 'HER PARENTS ARE FOUND — 11 August 2026 — and the logic that found them is worth keeping. Her 1747 marriage contract could not name them, because she came to that marriage a widow, and a widow contracts on her own behalf. So the search went BACKWARDS to her FIRST marriage, when she would still have been a girl under her family\'s authority — and there it was: 25 April 1740, "fille mineure de feu Jean Reynaud et de feue Hélène Dorigny." The document that seemed useless pointed straight at the one that worked. Everything else about her follows from it. She was a minor in 1740, so born after about 1715, probably around 1720–23; she was orphaned young and raised by Jean Connard, who gave her away and then stood godfather to her first child in 1745; and she was born in New Orleans within a few years of its founding. She buried three husbands\' worth of life into forty years — Cousin the carpenter, Joly who lasted a season, and Reyne the mason, who outlived her records. She could write her name when the men around her made crosses.',
       blurb: 'Three husbands, and she buried two of them before she was thirty. A native of New Orleans, she married Pierre Cousin and had a son in 1745; married Antoine Joly by contract in September 1747 and buried him within the year; and by March 1750 was the wife of Étienne Reine, mason — the marriage that lasted, and that this family descends from. Named across fifteen years of her children\'s baptisms, and still standing godmother to a Sardet granddaughter in 1769.',
       records: [
         {
@@ -1110,10 +1146,22 @@
           highlight: 'The oldest record of either of them, and it gives her the full name the later entries drop: MARIE Françoise. She is standing over the font for the baby of a widow — the kind of small neighbourly act that is most of what survives of a woman\'s life in these books.'
         },
         {
-          title: 'Her first husband — Pierre Cousin',
-          citation: 'St. Louis church, New Orleans — baptism of Jean François Cousin, 7 September 1745 (SLC, B2, 49); SRANO Vol. 1',
-          text: '"COUSIN — Jean Francois (PIERRE and FRANCOISE RENARD), b. Sept. 7, 1745, s. Jean CONNARD and Sylvestre? MAUNOY."',
-          highlight: 'Her son by her first marriage, born seven years before her eldest Reyne child. He is almost certainly the "François COUSIN" who stood godfather at the last Reyne baptism in 1766 — twenty-one years old, standing over his own half-sister.'
+          title: 'HER PARENTS, AT LAST — the 1740 marriage contract',
+          citation: 'French Superior Council, New Orleans — Marriage contract, 25 April 1740, three pages, Document C 40 (2845), fo. 14 (doc. 1740-04-25-03); Louisiana Historical Quarterly Vol. 10 no. 2, April 1927, p. 278',
+          text: '"…furent présents… PIERRE FRANÇOIS COUSIN, CHARPENTIER, demeurant à la Nouvelle Orléans, fils de feu ANTOINE COUSIN et de… NATIF DE BOURBOURG, évêché de la Flandre, majeur… d\'une part. Et MARIE FRANÇOISE RENARD, FILLE MINEURE DE FEU JEAN REYNAUD ET DE FEUE HÉLÈNE DORIGNY, SES PÈRE ET MÈRE, NATIVE DE LA N[OUVE]LLE ORLÉANS, ÉVÊCHÉ DE QUÉBEC, autorisée et assistée et représentée par JEAN CONNARD, SON AMY QUI L\'A ÉLEVÉE JUSQU\'À CE JOUR, d\'autre part."',
+          image: 'assets/img/renard-1740-filiation.jpg',
+          imageAlt: 'The opening of the 1740 French marriage contract, naming Pierre François Cousin and Marie Françoise Renard with their parents',
+          imageCredit: 'French Superior Council records, Louisiana Historical Center, via the Louisiana Colonial Documents Digitization Project. Tap to enlarge.',
+          highlight: 'THE DEEPEST DOCUMENT IN THIS ARCHIVE, and it answers four questions at once. Her parents were JEAN REYNAUD and HÉLÈNE DORIGNY, and BOTH WERE ALREADY DEAD in April 1740 — "feu" and "feue." She was a MINOR, so born after about 1715. She was "NATIVE DE LA NOUVELLE ORLÉANS, ÉVÊCHÉ DE QUÉBEC" — stated flatly in 1740, forty-four years before the act that was our only evidence for it, and back when this city answered to the bishop of Quebec. And she was an ORPHAN: given away by Jean Connard, "her friend, WHO HAS RAISED HER TO THIS DAY." The reason this contract names her parents and the 1747 one does not is simply that in 1740 she was a minor bride and in 1747 a widow — a widow contracts for herself, and nobody has to say who her father was.'
+        },
+        {
+          title: 'Her first husband — Pierre Cousin, and the man who raised her',
+          citation: 'St. Louis church, New Orleans — baptism of Jean François Cousin, 7 September 1745 (SLC, B2, 49); SRANO Vol. 1. WPA abstract of the 1740 contract, Document C 40 (2845).',
+          text: 'Contract: "Marriage contract between PIERRE FRANCOIS COUSIN, CARPENTER, and MARIE FRANCOISE REINARD OF NEW ORLEANS." Signed: Pierre Cousin · Dehallier · Marie Francoise Reinard · Jean Callier · Perier · + Cimonot. Baptism, five years later: "COUSIN — Jean Francois (Pierre and Francoise RENARD), b. Sept. 7, 1745, s. JEAN CONNARD and Sylvestre? MAUNOY."',
+          image: 'assets/img/cousin-1740-wpa-card.jpg',
+          imageAlt: 'A typed WPA index card abstracting the 1740 marriage contract between Pierre François Cousin and Marie Françoise Reinard, with signatures copied beneath',
+          imageCredit: 'WPA abstract card, Document C 40 (2845) — Louisiana Historical Center, via the Louisiana Colonial Documents Digitization Project.',
+          highlight: 'Two quiet things sit in these two records. Her first husband was a CARPENTER from BOURBOURG in French Flanders, son of a late Antoine Cousin — an immigrant, like almost every man in this tree who married a woman already here. And when their first son was born in 1745, the godfather was JEAN CONNARD: the same man who had raised her as an orphan and given her away five years earlier. He was still there. She also signed this contract in her own hand, in 1740 — seven years earlier than the other signature we have, so her literacy is attested twice.'
         },
         {
           title: 'THE COURT NAMES HER OUTRIGHT — twice widowed by 1748',

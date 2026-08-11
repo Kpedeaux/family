@@ -390,7 +390,7 @@
   const STREAM_COPY = {
     pedeaux:   'A ship’s carpenter’s son from the Nantes quayside. Michel Pedeau reached Louisiana after 1803 and was dead within a decade, leaving three boys on Bayou Lafourche.',
     aucoin:    'Acadians deported from Île Saint-Jean in 1758, landed at Saint-Malo, settled at Saint-Énogat, and sailed for Louisiana in 1785 with ten children aboard La Ville d’Archangel.',
-    gaiennie:  'Two brothers from Brûlon in the old province of Maine — Ganier, before Louisiana respelled it — married two Sardet sisters, daughters of a Bordeaux cooper and a Creole mason\'s daughter born in 1752. Ten generations deep, and a Warehouse District street still carries the name.',
+    gaiennie:  'Two brothers from Brûlon in the old province of Maine — Ganier, before Louisiana respelled it — married two Sardet sisters, daughters of a Bordeaux cooper and a Creole mason\'s daughter born in 1752. Eleven generations deep, and a Warehouse District street still carries the name.',
     brunetti:  'Born 5 May 1893 at Plataci in Calabria, an Arbëreshë village that has spoken Albanian since the fifteenth century. John Brunetti sailed from Naples at nineteen, spent his twenties in Chicago, served in the First World War and married in New Orleans in 1921 — the record that finally named his parents, Michele Brunetti and Domenica Forano. The surname ended with him in Louisiana; his descendants all carry other names.',
     franovich: 'Dalmatian oystermen in the lower delta — Buras, Empire, Port Sulphur. Anthony Franovich died at thirty-eight and lies at Our Lady of Good Harbor.',
     moizant:   'French Louisiana, married repeatedly into the Plaquemines Croatian community. Alfred Moizant lived to ninety-five.',
