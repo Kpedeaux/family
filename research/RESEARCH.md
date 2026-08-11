@@ -1478,6 +1478,55 @@ recording Aunt Esther Mary Larmann (1/2/1904 – 9/14/76). VERBATIM:
 ⚠️ IMAGE: the photograph of this sheet is family material — **not published on the site**
 pending Kevin's explicit OK, per the standing rule on Judy's papers. Transcription only.
 
+### PVT. EMILE THOMAS GOUBLER — died in France, 1918 (2026-08-10, via Judy)
+
+Two newspaper clippings from Judy. VERBATIM #1 (death notice, New Orleans paper, ~Oct 1918):
+
+> "**Orleans Soldier Dies in France From Pneumonia** — Private Emile Goubler, **Company C, 114
+> Engineering Corps**, son of **Leonce Goubler, 1722 St. Ferdinand street**, died of bronchial
+> pneumonia in France, **September 22**. He entered the service **May 29**, and sailed for
+> France on **August 21**. Since his death, **two letters were received in which he stated he
+> was enjoying the best of health.** He is survived by his father and mother, a sister, **Miss
+> Louise Goubler**, and a brother, **Leon Goubler**."
+
+VERBATIM #2 (legal notice, published **November 15, 19, 24** [1918]):
+> "STATE OF LOUISIANA. Civil District Court for the Parish of Orleans. **No. 209,769. Division
+> 'B.' Docket 1. Succession of Emile Thomas Goubler.** Whereas **Leonce Goubler** has petitioned
+> the court for letters of administration on the estate of the late Emile Thomas Goubler,
+> deceased, **intestate**… JOHN J. O'NEILL, Clerk. JOHN E. PARKER, Attorney."
+
+**RECORDS FOUND SAME NIGHT (SOS indexes):**
+- **BIRTH: GOUBLER, EMILE THOMAS — 2 June 1892, Orleans, Vol. 96 p. 411 — father GOUBLER, LEON;
+  mother BARON, THERESA.**
+- **DEATH: GOUBLER, EMILE THOMAS — 22 Sept 1918, Orleans, Vol. 180 p. 527**, age given as 24
+  (⚠️ he was 26 by the 1892 birth — note the 2-yr discrepancy, common for a death abroad).
+- Brother: **GOUBLER, JOSEPH LEON — b. 29 Jan 1890**, Vol. 89 p. 649 (same parents); d. 18 Nov
+  1963 age 71. His children by Celine B. Coman: Leon Richard Emile (1912), Leon Joseph (1916),
+  Leola Catherine Celine (1918), Lea Margarite Doretha (1922).
+- Father **GOUBLER, LEONCE — d. 1939**, Orleans Vol. 213 p. 936. Mother **GOUBLER, THERESA C
+  BARON — d. 1934, age 65** (b. ~1869), Vol. 206 p. 53. Sister Louise not yet located.
+- **16 weeks in uniform (29 May → 22 Sept 1918); 32 days in France (sailed 21 Aug).**
+- CONTEXT: bronchial pneumonia in the AEF, late Sept 1918 = the influenza pandemic's peak wave,
+  which killed more US soldiers that autumn than combat. Stated as strong probability, not fact.
+
+**THE CONNECTION IS NOT YET PINNED — do not draw him on the tree.** Leonce's own parentage is
+unestablished. New Orleans held **TWO Goubler households** of the parent generation:
+- **OURS: Joseph Goubler (c.1818–1892) × Théoline Victoire Cirlot (c.1821–1895)** — children
+  per the birth index: Eugenie Philomene (25 Nov 1848), Joseph Emile (11 Jan 1852), Lucien Jean
+  Baptiste (8 Jan 1855), Jean Louis (14 Dec 1856), Joseph (14 Apr 1859) + Valentine + Louis.
+  (Mother's surname mangled across records as Sirlot/Surlot/Sullot/Thurlot/Villoz — all Cirlot.)
+- **PARALLEL: Jean Baptiste Goubler (c.1824–1887) × Françoise Tessier (c.1837–1926)** — e.g.
+  daughter Madeleine b. 14 May 1859 (d. 1932 age 73). Almost certainly Joseph's brother.
+- A third line: **Edward/Joseph Edward Goubler × Azema Ferrand** — Elizabeth Victoria (1886),
+  Eugenie (1889), Margaret Josephine (1892), August John (1895), Louis (1884).
+Leonce belongs to one of these → Emile is either a 1st or 2nd cousin of the Moore–Larmann line.
+
+**NEXT:** ① **Succession No. 209,769, Orleans Civil District Court** (NOPL City Archives / Clerk
+of CDC) — effects, war-risk insurance, heirs; ② Leonce Goubler's own birth/marriage record →
+settles the cousinhood; ③ **ABMC database + AEF burial file** — was Emile repatriated or left in
+a French cemetery? (Many 1918 dead were brought home 1921–22.) ④ his WWI draft registration
+card; ⑤ 114th Engineers unit history; ⑥ Find a Grave / Goubler tomb — is he on the tomb roster?
+
 ### THE 1819 SLAVE SALE — "Valery, aged 4, orphan" (2026-08-10, via Judy)
 
 Judy supplied a printout from WorldVitalRecords of **Dr. Gwendolyn Midlo Hall's

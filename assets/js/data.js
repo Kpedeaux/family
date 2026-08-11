@@ -1947,7 +1947,7 @@
       branch: 'larmann',
       photo: 'assets/img/goubler-tomb-new-tablet.jpg',
       photoCaption: 'The Goubler family tomb, restored with its new marble tablet — thirteen names, Lucien Goubler to John R. Larmann Sr. The pediment reads "Family — Joseph Goubler." Family photograph.',
-      blurb: 'Patriarch of the tomb the Larmann line still uses. The Goubler name — likely Alsatian or German — was in New Orleans by the 1840s.',
+      blurb: 'Patriarch of the tomb the Larmann line still uses. The Goubler name — likely Alsatian or German — was in New Orleans by the 1840s, in at least two households: his own, and that of Jean Baptiste Goubler and Françoise Tessier, almost certainly his brother. Private Emile Goubler, who died in France in 1918, came from one of the two — see the research page.',
       records: [
         {
           title: 'Louisiana death record',
