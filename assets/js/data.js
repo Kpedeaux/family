@@ -1248,7 +1248,7 @@
       children: [
         { id: 'veronicaBrunetti' }
       ],
-      given: 'John', alsoKnownAs: 'born Giovanni — the Italian form of John', surname: 'Brunetti', sex: 'M',
+      given: 'John', alsoKnownAs: 'born Giovanni in Italian — and XHUAN, or JANI, in Arbërisht, the Albanian his village actually spoke', surname: 'Brunetti', sex: 'M',
       origin: 'Plataci, Cosenza, Calabria — via Chicago',
       birth: { date: '5 May 1893', place: 'Plataci, Cosenza, Calabria, Italy' },
       death: { date: '12 January 1987', place: 'New Orleans' },
@@ -1285,6 +1285,18 @@
           title: '1930 U.S. Census, Orleans Parish',
           citation: 'Household of John Brunette',
           text: 'John Brunette, b. about 1894 in Italy; wife Veronica; daughter Veronica M., b. about 1924 in Louisiana.'
+        },
+        {
+          title: 'The name his village would have used',
+          citation: 'Arbëresh naming custom, from the research binder kept by his granddaughter Patricia Pedeaux Ruda, printed December 2010',
+          text: 'Every Arbëresh person carries a legal Italian name and an Arbëresh one. Giuseppe is ZEF · Francesco is NXHIKU · Nicola is KOLL · Antonio is NTONI · Maria is MARIEJA — and GIOVANNI is XHUAN, or JANI.',
+          highlight: 'So he was Giovanni on the paperwork, John in America, and almost certainly XHUAN or JANI to his own mother. Three names for one man, and the middle one — the one his village actually said out loud — is the one no record of his life anywhere in Louisiana would ever have written down.'
+        },
+        {
+          title: 'What Plataci was, and still is',
+          citation: 'Arbëresh background material in the same binder; corroborated by the parish acts quoted in Alicia Bodily\'s Plataci genealogy',
+          text: 'The baptisms in Plataci\'s own parish books are recorded "secondo il rito greco" — by the Greek rite. The parish is San Giovanni Battista; the priests who sign the acts are archpriests named Chidichimo and Dramisino.',
+          highlight: 'Plataci is an ARBËRESH village — one of the Italo-Albanian communities founded by refugees who crossed the Adriatic in the fifteenth century, after the Ottomans took Albania, and who have kept their language and their Byzantine rite ever since. That is why his people were Catholic but not Roman-rite, and why a Calabrian hill town five hundred miles from Albania was still speaking Albanian when he was born there in 1893.'
         }
       ],
       sources: [
