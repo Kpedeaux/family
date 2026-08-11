@@ -1701,7 +1701,43 @@ by Rev. Ernest Milby, pastor. VERBATIM:
 5. Human detail: the certificate was drawn up **July 1936**, when she was 72 — almost certainly
    to prove her age for the brand-new **Social Security** (Act of 1935). She died Feb 1938.
 
-### ALEXIS LEMOINE — first pass, PARTIAL (2026-08-10)
+### ⭐⭐⭐ ALEXIS LEMOINE — SOLVED, and the Lemoine wall comes down (2026-08-10, 2nd pass)
+
+FamilySearch, signed back in. **The godfather is ALONZO'S OWN FATHER.**
+
+**1880 census, 1st Ward, ED 160, St. John the Baptist Parish, sheet 7B (FS ark MDXX-QPK):**
+> **Alexis Lemoine, 51, BRICK MASON**, b. 1829 Louisiana · **FATHER'S BIRTHPLACE: FRANCE** ·
+> mother's: Louisiana · wife **Alice, 48** · children **ALOZO 25**, Alexis 22, Alexina 18,
+> Alscee 17, Alfred 14, Azemia 11, Amelius 7 (+ Anais 3 on the record).
+
+**"Alozo," 25 in 1880 → b. c. 1855 → OUR ALONZO**, in his father's house. And the father is the
+**Alexis Lemoine who stood godfather at Poppone Geneviève Roussel's baptism on 21 January 1864** —
+so Alexis held the infant his son would marry twenty-odd years later.
+
+**FS tree profile 27X5-B5D "Alexis ALONZO Lemoine, 1829–1913" (13 sources):** b. **4 Feb 1829**,
+**christened 22 Nov 1829 at EDGARD**; d./bur. **August 1913, St. John the Baptist Cemetery,
+Edgard**; m. **Françoise Alex Martin (b. 1834) 23 May 1854 at Edgard** ("Alice" of the census =
+her middle name Alex). Children listed: **Paul ALONZO (b. 1855)**, Joseph Alexis (1857–1939),
+Marie Alexina (1859–1954), Alfred (1863–1921), Alscee (b. 1863), Ezimia (1869–1934), Amelius
+(1873–1951). Second marriage 1884 to Valerie Bron.
+**His parents per that profile: JOSEPH LEMOINE (b. 1803) × MARIE OZITE RIVAS (b. 1807), m. 1826
+EDGARD** — and the census's "father born in FRANCE" would make **Joseph the immigrant.**
+
+**SITE:** +2 people (alexisLemoine, francoiseMartin) → **89 total**. alonzoLemoine renamed
+**Paul Alonzo**, b. c. 1855 Edgard, parents attached at **[CONFIRM]** — the 1880 census places
+him in the household, but **no record read yet names Alonzo together with Genevieve or with his
+son Robert.** Joseph Lemoine × Marie Ozite Rivas **NOT drawn** (no read record ties them to
+Alexis).
+⚠️ **CAUTION LOGGED:** there is more than one Alexis Lemoine in that parish — including one who
+m. Valerie Brou/Prou in 1883, indexed as son of *Joseph Lemoine × Marie Rivas* (the same names!).
+Possible duplicate flagged on FS itself (P648-XP1). Untangle before going further up.
+
+**NEXT:** ① the **Alonzo × Genevieve marriage act** (St. John the Baptist / St. James, 1880s) —
+closes the confirm→verified gap and is the single most valuable remaining Lemoine document;
+② Edgard church registers for Alexis's 1829 christening and Joseph's 1826 marriage; ③ whether
+Joseph Lemoine really was French-born, and from where; ④ the two-Alexis untangle.
+
+### ALEXIS LEMOINE — first pass, PARTIAL (2026-08-10) [superseded by the above]
 
 Hunt started; **FamilySearch signed itself out mid-search**, so only the logged-out Ancestry
 route ran. One real result:

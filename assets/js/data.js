@@ -2074,12 +2074,61 @@
         'Ernest Joseph Lemoine — m. Amelia Gehner; his first son was Alonzo Alexie (b. 1911)',
         'Eugene Lemoine — m. Marie Jackson; a daughter Genevieve (b. 1913)'
       ],
-      given: 'Alonzo', surname: 'Lemoine', sex: 'M',
+      given: 'Paul Alonzo', surname: 'Lemoine', sex: 'M',
+      birth: { date: 'about 1855', place: 'Edgard, St. John the Baptist Parish' },
       death: { date: 'before April 1910' },
+      father: 'alexisLemoine', mother: 'francoiseMartin',
       evidence: 'confirm',
       branch: 'lemoine',
-      blurb: 'Johanna\'s grandfather — for a while mistaken for her father, until the family\'s spoken memory restored the missing generation. A French-Creole name from the river parishes above New Orleans. His sons honored him and Genevieve in their own children\'s names: Ernest\'s first boy was an Alonzo, Eugene\'s girl a Genevieve.',
-      note: 'No Alonzo Lemoine appears anywhere in the 1910 census — he was dead or gone by then, which fits Genevieve standing alone in Orleans with the grandchildren. The only Alonzo Lemoine in the state death index (Alonzo James, 1911–1973, Orleans) is his grandson, Ernest\'s boy. The elder Alonzo may be indexed under Alphonse, or died before the statewide index begins in 1911. Finding his marriage to Genevieve Rousselle — not recorded in Orleans — is still the next step for this line.'
+      blurb: 'Johanna\'s grandfather — for a while mistaken for her father, until the family\'s spoken memory restored the missing generation. Found at last in August 2026, in his own father\'s household at Edgard: "Alozo Lemoine, son, 25" in the 1880 census of St. John the Baptist Parish. His sons honored his parents in their own children\'s names: Ernest\'s first boy was an Alonzo, Eugene\'s girl a Genevieve.',
+      note: 'HOW HE WAS FOUND, and how far it goes. Poppone\'s 1864 baptismal certificate named her godfather as ALEXIS LEMOINE — twenty years before she married a Lemoine. That was the thread. The 1880 census of the 1st Ward of St. John the Baptist Parish holds the household: Alexis Lemoine, 51, brick mason, wife Alice [Françoise Alex Martin], and seven children — among them "Alozo," aged 25. Alexis had stood over the font of the girl his son would marry. The parent link is carried at confirm, not verified: the 1880 census places Alonzo in that household, but no record yet read names him together with Genevieve or with his son Robert. The marriage act — St. John the Baptist or St. James, in the 1880s — would close it. No Alonzo Lemoine appears anywhere in the 1910 census — he was dead or gone by then, which fits Genevieve standing alone in Orleans with the grandchildren. The only Alonzo Lemoine in the state death index (Alonzo James, 1911–1973, Orleans) is his grandson, Ernest\'s boy. The elder Alonzo may be indexed under Alphonse, or died before the statewide index begins in 1911. Finding his marriage to Genevieve Rousselle — not recorded in Orleans — is still the next step for this line.'
+    },
+
+    alexisLemoine: {
+      children: [
+        { id: 'alonzoLemoine' },
+        'Joseph Alexis (1857–1939)',
+        'Marie Alexina (1859–1954)',
+        'Alfred (1863–1921) and Alscee (b. 1863)',
+        'Ezimia (1869–1934)',
+        'Amelius (1873–1951)'
+      ],
+      given: 'Alexis Alonzo', surname: 'Lemoine', sex: 'M',
+      origin: 'Edgard, St. John the Baptist Parish',
+      birth: { date: '4 February 1829, christened at Edgard on 22 November', place: 'St. John the Baptist Parish' },
+      death: { date: 'August 1913' },
+      occupation: 'Brick mason',
+      evidence: 'confirm',
+      branch: 'lemoine',
+      blurb: 'The godfather. In January 1864 he stood over the font at Edgard for a newborn named Poppone Geneviève Roussel — and some twenty years later his son Alonzo married her. A brick mason of the 1st Ward, he married Françoise Alex Martin at Edgard in May 1854, raised seven children, and was buried in the churchyard of the same church where he had made that promise.',
+      records: [
+        {
+          title: 'Godfather at Poppone\'s baptism',
+          citation: 'Church of St. John the Baptist, Edgard — baptism of 21 January 1864',
+          text: '"…the Sponsors being ALEXIS LEMOINE and Françoise Josephine Roussel."',
+          highlight: 'This is the record that broke the Lemoine line open. It was the only Lemoine name anywhere in the family papers older than Alonzo himself.'
+        },
+        {
+          title: 'The 1880 census — his household, with Alonzo in it',
+          citation: '1880 U.S. census, 1st Ward, ED 160, St. John the Baptist Parish, sheet 7B',
+          text: 'Alexis Lemoine, 51, brick mason, born Louisiana — FATHER\'S BIRTHPLACE: FRANCE, mother\'s: Louisiana. Wife Alice, 48. Children: Alozo 25, Alexis 22, Alexina 18, Alscee 17, Alfred 14, Azemia 11, Amelius 7.',
+          highlight: 'Two things at once: it puts Alonzo in his father\'s house, and it says the generation above was born in France. The Lemoines had been a wall on this tree; this line is the door.'
+        }
+      ],
+      note: 'A well-sourced FamilySearch profile gives his parents as Joseph Lemoine (b. 1803) and Marie Ozite Rivas (b. 1807), married at Edgard in 1826 — and the 1880 census\'s "father born in France" would make Joseph the immigrant. Neither is drawn on this tree yet: no record read here names Joseph and Alexis together. Careful, too — there was more than one Alexis Lemoine in that parish, including one who married Valerie Brou in 1883 and was the son of a different Joseph Lemoine and Marie Rivas. Untangling the two is the next job.'
+    },
+
+    francoiseMartin: {
+      children: [
+        { id: 'alonzoLemoine' },
+        'and the rest of the seven — see Alexis Alonzo Lemoine'
+      ],
+      given: 'Françoise', alsoKnownAs: 'entered as "Alice" by the 1880 census taker, probably from her middle name Alex', surname: 'Martin', sex: 'F',
+      birth: { date: 'about 1834', place: 'St. John the Baptist Parish' },
+      evidence: 'confirm',
+      branch: 'lemoine',
+      blurb: 'Married Alexis Lemoine at Edgard on 23 May 1854 and raised seven children on the river. The 1880 census taker heard her as "Alice."',
+      note: 'From the FamilySearch reconstruction plus the 1880 census; her own parents are not yet identified.'
     },
 
     genevieveRousselle: {
