@@ -263,6 +263,12 @@
         <div class="record">
           <div class="record__title">${esc(r.title)}</div>
           <div class="record__cite">${esc(r.citation)}</div>
+          ${r.image ? `<figure class="record__fig">
+            <a href="${esc(r.image)}" target="_blank" rel="noopener noreferrer">
+              <img src="${esc(r.image)}" alt="${esc(r.imageAlt || r.title)}" loading="lazy">
+            </a>
+            ${r.imageCredit ? `<figcaption>${esc(r.imageCredit)}</figcaption>` : ''}
+          </figure>` : ''}
           <p class="record__text">${esc(r.text)}</p>
           ${r.highlight ? `<p class="record__hl">${esc(r.highlight)}</p>` : ''}
         </div>`).join('');

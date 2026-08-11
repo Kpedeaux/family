@@ -1047,6 +1047,9 @@
         {
           title: 'Remarriage, naming her parents — read in the register itself',
           citation: 'St. Louis Cathedral, New Orleans — Marriages 1784–1806, entry 2 of May 1784 (SLC, M5, 27; SRANO Vol. 4). Digitized register published free by the Archdiocese of New Orleans, Office of Archives and Records.',
+          image: 'assets/img/reyne-1784-marriage.jpg',
+          imageAlt: 'The handwritten Spanish colonial marriage entry of 2 May 1784 recording Pedro Bourgeois and Maria Margarita Reen',
+          imageCredit: 'Archdiocese of New Orleans, Office of Archives and Records. Tap to enlarge.',
           text: '"…con Maria Margarita REEN, viuda de M[onsieu]r Cadet SARDET, hija leg[ítima] de ESTEVAN REEN y de FRAN[CIS]CA RENARD, naturales TODOS de esta Parroq[uia]…" — with Pedro BOURGEOIS, "natural de Caen en Normandia, Provincia de Francia," legitimate son of [Pierre] Bourgeois and Maria Leonor LE BOEUF. Signed Fr. Antonio de Sedella.',
           highlight: 'THE SENTENCE THAT DATES THIS FAMILY IN LOUISIANA. Read 11 August 2026 in the register itself, not the abstract — the second entry in the book, on the first written page. "Naturales TODOS de esta Parroquia" — all of them natives of this parish. The "todos" is the whole argument: it reaches past the bride to her parents. Étienne Reyne and Françoise Renard were not immigrants. They were born in New Orleans, in a town founded in 1718. The Spanish clerk spells the name REEN, which is why it hides from anyone searching Reyne.'
         }
@@ -1681,6 +1684,9 @@
         {
           title: 'His baptism — read in the Gesmold parish register',
           citation: 'Katholische Pfarrei St. Petrus, Gesmold (Melle) — Taufen 1846–1852, D1_105, entry 16 of 1846',
+          image: 'assets/img/gesmold-1846-baptisms.jpg',
+          imageAlt: 'A page of the 1846 baptismal register of St. Petrus, Gesmold, in German script; entry 16 records Johann Caspar Larmann',
+          imageCredit: 'Bistum Osnabrück, Pfarrei St. Petrus Gesmold, via Matricula Online, CC BY-NC-ND 2.0. Tap to enlarge.',
           text: '"16. | 5. Apr. | 7. Apr. | Larmann, Johann Caspar, ehelich. Vat.: Jos. Caspar Larmann, Neubauer zu Weringhof. Mütt.: Maria Elisabeth Werges. Gev.: Jos. Caspar Larmann."',
           highlight: 'The primary record, in the priest\'s own hand: born 5 April 1846, baptised the 7th, a legitimate son of Joseph Caspar Larmann — a Neubauer, a new-settler farmer, at Weringhof — and Maria Elisabeth Werges. His godfather was a Jos. Caspar Larmann too. This is the document the whole hunt was for.'
         },
@@ -2122,6 +2128,50 @@
       note: 'HOW HE WAS FOUND, and how far it goes. Poppone\'s 1864 baptismal certificate named her godfather as ALEXIS LEMOINE — twenty years before she married a Lemoine. That was the thread. The 1880 census of the 1st Ward of St. John the Baptist Parish holds the household: Alexis Lemoine, 51, brick mason, wife Alice [Françoise Alex Martin], and seven children — among them "Alozo," aged 25. Alexis had stood over the font of the girl his son would marry. The parent link is carried at confirm, not verified: the 1880 census places Alonzo in that household, but no record yet read names him together with Genevieve or with his son Robert. The marriage act — St. John the Baptist or St. James, in the 1880s — would close it. No Alonzo Lemoine appears anywhere in the 1910 census — he was dead or gone by then, which fits Genevieve standing alone in Orleans with the grandchildren. The only Alonzo Lemoine in the state death index (Alonzo James, 1911–1973, Orleans) is his grandson, Ernest\'s boy. The elder Alonzo may be indexed under Alphonse, or died before the statewide index begins in 1911. Finding his marriage to Genevieve Rousselle — not recorded in Orleans — is still the next step for this line.'
     },
 
+    josephLemoine: {
+      children: [
+        { id: 'alexisLemoine' }
+      ],
+      given: 'Joseph', surname: 'Lemoine', sex: 'M',
+      origin: 'St. Charles Parish, Louisiana',
+      evidence: 'verified',
+      branch: 'lemoine',
+      blurb: 'The oldest Lemoine this family can name. He appears in one line of one register — as the father of a boy baptised at Edgard in November 1829 — and everything above him is still dark. The Lemoines were an old Louisiana name on this stretch of river long before that, so there is more to find.',
+      records: [
+        {
+          title: 'Named at his son\'s baptism',
+          citation: 'Church of St. John the Baptist, Edgard — B7, p. 49; SRANO Vol. 18 (1828–1829)',
+          text: '"Alexis Allonzo (JOSEPH and Marie RIBAS)… all of St. Charles Parish."',
+          highlight: 'The whole of what is known about him, so far. The next document is his marriage to Marie Ribas — not yet found in the abstracted volumes, so it is either earlier than 1807, filed under a spelling not yet tried, or in a parish register outside this series.'
+        }
+      ],
+      note: 'WHERE TO LOOK NEXT. He and Marie Ribas married before February 1829, and a marriage act would name all four of his son\'s grandparents at a stroke. It is not in the Archdiocese\'s abstracted volumes 9–18 (1807–1829) under Lemoine or Ribas, which points at three possibilities: a marriage before 1807; a spelling not yet tried (Lemoyne, Moine, Ribas/Rivas/Ribes); or a register outside this series — St. Charles Borromeo in Destrehan is the obvious candidate, since the family lived in St. Charles Parish, and its 1739–1755 book is online while the later ones are not.'
+    },
+
+    marieRibas: {
+      children: [
+        { id: 'alexisLemoine' }
+      ],
+      given: 'Marie', surname: 'Ribas', alsoKnownAs: 'Rivas in the Spanish-era registers', sex: 'F',
+      origin: 'St. Charles Parish, Louisiana',
+      evidence: 'verified',
+      branch: 'lemoine',
+      blurb: 'A Spanish surname on a French-Creole river, and the first hint that this branch may not be all French. Ribas — written Rivas by the Spanish-era clerks — belongs to a family living in the same stretch of St. Charles Parish in exactly these years.',
+      records: [
+        {
+          title: 'Named at her son\'s baptism',
+          citation: 'Church of St. John the Baptist, Edgard — B7, p. 49; SRANO Vol. 18 (1828–1829)',
+          text: '"Alexis Allonzo (Joseph and MARIE RIBAS)… all of St. Charles Parish."'
+        },
+        {
+          title: 'The Ribas family she probably belongs to',
+          citation: 'SRANO Vols. 14 and 16 — St. John the Baptist, Edgard (SJBED, B4, 57 and B4, 165)',
+          text: 'RIVAS: Antoine (ANTOINE DE SANTO YAGO and MARIE BRIGITTE LEGO), born 10 Aug 1819, baptised 11 May 1820 · Louis (Antoine and Marie Brigite LEGAU), born 29 Apr 1822, baptised 22 Mar 1824, sponsors ZENON ROUSSELLE and Estelle de la Tour, "all of St. Charles Parish."',
+          highlight: 'NOT PROVEN, but close enough to name: a Rivas household in the right parish in the right decade, headed by an Antoine "de Santo Yago" — Santiago — which would make this a Spanish family on the German Coast. Note the godfather of the 1822 child: a ROUSSELLE. Three generations before Alonzo Lemoine married Poppone Roussel, the two families were already standing at each other\'s fonts.'
+        }
+      ]
+    },
+
     alexisLemoine: {
       children: [
         { id: 'alonzoLemoine' },
@@ -2132,14 +2182,21 @@
         'Amelius (1873–1951)'
       ],
       given: 'Alexis Alonzo', surname: 'Lemoine', sex: 'M',
-      origin: 'Edgard, St. John the Baptist Parish',
-      birth: { date: '4 February 1829, christened at Edgard on 22 November', place: 'St. John the Baptist Parish' },
+      origin: 'St. Charles Parish — baptised at Edgard',
+      birth: { date: '4 February 1829, christened at Edgard on 22 November', place: 'St. Charles Parish' },
       death: { date: 'August 1913' },
+      father: 'josephLemoine', mother: 'marieRibas',
       occupation: 'Brick mason',
-      evidence: 'confirm',
+      evidence: 'verified',
       branch: 'lemoine',
-      blurb: 'The godfather. In January 1864 he stood over the font at Edgard for a newborn named Poppone Geneviève Roussel — and some twenty years later his son Alonzo married her. A brick mason of the 1st Ward, he married Françoise Alex Martin at Edgard in May 1854, raised seven children, and was buried in the churchyard of the same church where he had made that promise.',
+      blurb: 'The godfather, and the man who was the wall. In January 1864 he stood over the font at Edgard for a newborn named Poppone Geneviève Roussel — and some twenty years later his son Alonzo married her. A brick mason of the 1st Ward, he married Françoise Alex Martin at Edgard in May 1854, raised seven children, and was buried in the churchyard of the same church where he had made that promise. His own baptism, found in August 2026, finally names his parents and puts a generation behind him.',
       records: [
+        {
+          title: 'HIS OWN BAPTISM — the record that named his parents',
+          citation: 'Church of St. John the Baptist, Edgard — Baptismal book 7, p. 49 (SJBED, B7, 49); abstracted in Sacramental Records of the Archdiocese of New Orleans, Vol. 18 (1828–1829)',
+          text: '"LEMOINE — Alexis Allonzo (JOSEPH and MARIE RIBAS), b. Nov. 22, 1829, bn. Feb. 4, 1829, s. Pierre GRAVOIS and Marie LATOUR, all of ST. CHARLES PARISH."',
+          highlight: 'Found 11 August 2026, and it ends the longest-standing wall on this tree. His birth date matches the family record to the day — born the fourth of February, baptised the twenty-second of November, nine months later. His parents were JOSEPH LEMOINE and MARIE RIBAS, two names nobody in this family has known. And the phrase "all of St. Charles Parish" moves the family one parish downriver from where we had them: they worshipped at Edgard but they lived in St. Charles.'
+        },
         {
           title: 'Godfather at Poppone\'s baptism',
           citation: 'Church of St. John the Baptist, Edgard — baptism of 21 January 1864',

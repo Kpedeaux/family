@@ -316,6 +316,18 @@ img { max-width: 100%; height: auto; display: block; }
   font-size: .88rem; color: var(--oxblood);
 }
 
+.record__fig { margin: 0 0 11px; }
+.record__fig a { display: block; }
+.record__fig img {
+  width: 100%; height: auto; display: block;
+  border: 1px solid var(--rule); border-radius: 3px;
+  background: #fff;
+}
+.record__fig figcaption {
+  font-size: .72rem; color: var(--ink-3); margin-top: 5px;
+  font-family: var(--mono); line-height: 1.45;
+}
+
 .note {
   font-size: .9rem; color: var(--ink-2); background: var(--paper-2);
   border: 1px dashed var(--rule); border-radius: var(--radius); padding: 12px 14px;
