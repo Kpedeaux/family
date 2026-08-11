@@ -3105,3 +3105,57 @@ file is where the parents are. Two continents, two centuries, same method.
   is an Argentine Plataci-Brunetti line — a possible cousin contact.
 - **Ask Aunt Pat directly:** who assembled the binder, and was there anything with it — letters,
   photos, an address in Italy? The binder is printouts; the question is what prompted them.
+
+### The full Bodily site pulled and searched — 2026-08-11
+
+`abodily.tripod.com` **is dead** (Tripod shut down; DNS does not resolve). It is fully archived:
+`https://web.archive.org/web/2019id_/http://abodily.tripod.com/<page>.html`. The site is a large
+Arbëresh genealogy archive — dozens of surname pages (apollaro, blaiotta, acquaformosa…), notarial
+acts (`attinotarili1600/1700.html`), and the **1752 parish register / Catasto Onciario**
+(`1752parregcirc.html`, `catastoepart*.html`, `catastofpart*.html`).
+
+Pulled and text-searched: **`brunetti01.html` (43,544 chars) and `brunetti02.html`** (Parte II —
+this one is the CHIDICHIMO ancestors, not more Brunettis).
+
+**🟡 "MICHELE" — 5 hits. Three are Michele BRUNETTI, and they are three different men:**
+| As recorded | Dated by | Implied birth |
+|---|---|---|
+| **Michele BRUNETTI, 40, "civile", residente in Plataci** — witness | marriage of **13 Dec 1900** | **c. 1860** |
+| Michele BRUNETTI, 62, **guardaboschi** (forest warden) — witness | death act of **1853** | c. 1791 |
+| Michele BRUNETTI, 30, **bracciale** — witness | c. **1830** | c. 1800 |
+*(the other two "Michele" hits are Michele RAGO of Albidona, unrelated)*
+
+**The 1900 witness is a plausible candidate for John's father** — *civile* (a man of some standing,
+not a labourer), born c.1860, so ~33 when John was born in 1893. **Candidate only. Not proof.**
+
+**❌ FORANO — ZERO occurrences**, any spelling, across the whole site.
+⚠️ **But absence here is WEAK evidence** and should not be read as a negative: Bodily's pages cover
+only the Albertari–Brunetti–Chidichimo cluster, not the whole village.
+
+**🟡 AND "FORANO" MAY BE A NEW ORLEANS CLERK'S EAR.** Extracted every surname from the page. Plataci
+names include **FORTINO** and **FORTINI** — both plausible originals for a 1921 Orleans clerk
+hearing *Forano*. Also FLOCCO, FAVOINO/FAVAINO. Full Plataci surname pool for future matching:
+BELLUSCI · DE PAULA/DE PAOLA · RAGO · STAMATI · D'AGOSTINO · ALBERTARI · BLUMETTI · FLOCCO ·
+BARONE · GRAMISCI · DRAMISINO · ZUCCARELLI · SMILARO · MINERVINO · FERRARI · CORDASCO · CONTE ·
+CAMODECA · ZUCCARO · FABBRICATORE · MUSSO · PAROLETTI · DONNANGELO · CUCCARO · CATERINI · TROJANO ·
+CHIDICHIMO · BASILE · STAFFA · OSNATO · VENTIMIGLIA.
+
+### 🟢🟢 THE REAL FIND — the collection that will settle it
+
+**"Italy, Cosenza, Castrovillari, Civil Registration (Tribunale), 1866–1910"** on FamilySearch
+**covers PLATACI and covers 1893.** Confirmed live: a search for Brunetti births 1888–98 at Plataci
+returns real Plataci acts from it, e.g. *"Giovanni Brunetti, d. 11 Aug 1900, b. 1893 Plataci,
+parents Antonio and Lucia Conte"* — a **different** Giovanni, but proof the series is there.
+
+**→ JOHN BRUNETTI'S OWN BIRTH ACT (5 May 1893, Plataci) SHOULD BE IN THIS COLLECTION, AND IT WOULD
+NAME MICHELE AND DOMENICA OUTRIGHT.**
+
+Name-indexing is patchy (deaths index better than births), so this is likely a **browse-the-images**
+job: the *Tribunale* copy of Plataci **Nati 1893**, act by act, looking for 5 May. That is a bounded
+task — a village of ~1,500 people had maybe 40–60 births a year.
+
+Antenati (`antenati.cultura.gov.it`) holds the same series but its search kept 403-ing / 404-ing;
+FamilySearch is the easier door and Kevin is already authenticated there.
+
+**Also worth a look from the same archive:** `1752parregcirc.html` and the `catasto*` pages — the
+1752 Catasto Onciario of Plataci, which is the generation above everything in the binder.
