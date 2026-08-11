@@ -1730,7 +1730,7 @@
       birth: { date: '6 April 1821', place: 'Gesmold, Melle, Kingdom of Hanover' },
       occupation: 'Neubauer zu Weringhof — a new-settler farmer',
       father: 'johannCasparLaarmann1791', mother: 'catharinaMariaOrtmann',
-      evidence: 'verified',
+      evidence: 'confirm',
       branch: 'larmann',
       blurb: 'The father who stayed, and the answer to what this family actually was: a Neubauer, a new-settler farmer at Weringhof in the Gesmold parish. He married Maria Elisabeth Werges at Gesmold in November 1843, stood godfather to his own son in 1846, and so far as any record shows never left the village.',
       records: [
@@ -1753,7 +1753,7 @@
           highlight: 'Generation after generation of this family carried the name Caspar Larmann, which is exactly why the American records blur them together.'
         }
       ],
-      note: 'His son\'s 1846 baptism act abbreviates him "Jos. Caspar," which read as Joseph; his own 1843 marriage act writes him out in full as Johann Caspar, and that is what the site follows. The two acts agree on everything else, and between them they carry this line from a New Orleans marriage licence all the way into a Hanoverian village register.'
+      note: 'HOW SOLID IS THIS ONE — asked directly, answered honestly. That he fathered the 1846 emigrant is PROVEN: the 1846 baptism act names the father as a Caspar Larmann, Neubauer, married to Maria Elisabeth Werges, and the 1843 marriage act shows this man — born 6 April 1821 — marrying that same Maria Elisabeth Werges. Two acts, read directly, locked together by the wife\'s name and the occupation. That he was the SON of the Caspar born in 1791 is NOT proven. His own baptism act, which would name his parents, has not been read; the link comes from an online reconstruction and from the dates fitting. So this entry is carried at confirm, not verified, and the act that would settle it is in the Gesmold baptism register for 1811–1826, sitting online and unopened. His son\'s 1846 act abbreviates him "Jos. Caspar"; his own 1843 act writes him out as Johann Caspar, which is what the site follows.'
     },
 
     mariaElisabethWerges: {
@@ -1794,7 +1794,7 @@
       father: 'johannHeinrichLaarmann', mother: 'catharinaMariaGerven',
       evidence: 'verified',
       branch: 'larmann',
-      blurb: 'Married at Gesmold on the last day of January 1815, five months before Waterloo. The register spells the family Laarmann, with the long a the name later lost.',
+      blurb: 'Married at Gesmold on the last day of January 1815, five months before Waterloo. The register spells the family Laarmann, with the long a the name later lost. He is a different man from the Caspar who married in 1843 — the two acts state two different birth years, 1791 and 1821 — but that they were father and son is inference, not yet a read record.',
       records: [
         {
           title: 'His marriage — Gesmold, 31 January 1815',

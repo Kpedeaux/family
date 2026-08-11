@@ -1399,8 +1399,22 @@ where `<PAGE>` = the dropdown label suffix (e.g. `1843_079`, `1815_015`).
   CONFIRMED; and her parents **Joannes Henricus Ortmann × Catharina Maria Decker** are NEW.
   Note the older spelling **LAARMANN**.
 
+⚠️ **EVIDENCE AUDIT — Kevin challenged the run of Caspars (2026-08-10): "How sure are you that
+there were so many and that's not the same one?" He was right to ask; I had over-tiered one
+link. Corrected same session.** Exact position of each link:
+| Link | Status | Basis |
+|---|---|---|
+| 1791 Caspar → parents Joh. Heinrich Laarmann × Cath. Maria Gerven | **VERIFIED** | the 1815 act says *filius legitimus patris…* outright |
+| 1821 Caspar → parents (the 1791 couple) | **CONFIRM only** ⚠️ | **his own baptism act HAS NOT BEEN READ**; link rests on the FS reconstruction + dates fitting. **Downgraded from verified → confirm.** |
+| 1846 Caspar (emigrant) → parents (the 1821 couple) | **VERIFIED** | 1846 baptism names father "Caspar Larmann, Neubauer" + mother "Maria Elisabeth Werges"; the 1843 marriage act shows that exact man (b. 6 Apr 1821) marrying that exact woman. Two read acts, locked by wife's name + trade. |
+**That they are three DIFFERENT men is certain** — the acts state three different birth dates
+(22 Sep 1791 / 6 Apr 1821 / 5 Apr 1846); a man cannot be the 1815 groom and the 1846 newborn.
+What is unproven is only the 1791→1821 *parentage*. **THE FIX IS ONE PAGE: Gesmold D1_003_1
+(Taufen 1811 Okt–1826), the 1821 baptism act — online, unopened.** Site note and research-page
+paragraph now state all of this plainly.
+
 **SITE:** +4 people (Johann Caspar Laarmann 1791, Catharina Maria Ortmann, Johann Heinrich
-Laarmann, Catharina Maria Gerven) → **83 total, 40 verified**. The Larmann line now runs nine
+Laarmann, Catharina Maria Gerven) → **83 total** (87 after later adds). The Larmann line now runs nine
 generations from Kevin to Johann Heinrich Laarmann, born before 1770. The Ortmann parents are
 named in the record but NOT drawn (scope) — they're the obvious next add.
 
