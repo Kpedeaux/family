@@ -1069,7 +1069,7 @@
       evidence: 'verified',
       branch: 'gaiennie',
       occupation: 'Master mason',
-      blurb: 'A master mason of French colonial New Orleans, raising children there through the 1750s and 1760s. A master mason of the founding generation'''s children — and the man whose marriage act, read in 2026, finally reached past him to the two people who actually crossed.',
+      blurb: 'A master mason of French colonial New Orleans, raising children there through the 1750s and 1760s. He married into the founding generation\'s children — and it was his wife\'s first marriage contract, read in 2026, that finally reached past them both to the two people who actually crossed.',
       records: [
         {
           title: 'The earliest trace of him — a godmother\'s line, 16 March 1750',
