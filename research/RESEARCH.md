@@ -3029,3 +3029,79 @@ occupational names.
 
 **Still unexplained, non-occupational names in the 1740/1747 circle:** Dehallier · Perier ·
 Cimonot · Wiltz · Chantalou · Menkingle · Judice · Vegas.
+
+---
+
+## ★ AUNT PAT'S BINDER — Plataci research from 2010. Read 2026-08-11 ★
+
+Aaron Pedeaux brought over a binder from **Aunt Patricia (Pedeaux) Ruda**, John Brunetti's
+granddaughter. 20 photos in `plataci.zip`. **Every page date-stamped DECEMBER 2010.**
+Cover: printed photo of the village rooftops over the Ionian, hand-labelled **"PLATACI — VISTA
+MARE."** Saved to `assets/img/plataci-binder-cover.jpg`.
+
+🔴 **THIS RECONTEXTUALIZES OUR "DISCOVERY."** The site said John Brunetti's origin was unknown —
+"no parents, no town, not even a region" — until August 2026. True of the *documented tree*, NOT
+true of the family. **Somebody was researching Plataci in 2010.** index.html wording corrected;
+new field-notes section `#plataci-binder` added.
+
+### Contents
+
+**(a) Arbëresh background** — Wikipedia printouts on the Italo-Albanian language. Useful detail:
+every Arbëresh person carries a legal Italian name AND an Arbëresh one (Giuseppe→Zef,
+Francesco→Nxhiku, Nicola→Koll, Antonio→Ntoni). Also *ofiqe* — unofficial Arbëresh surnames.
+
+**(b) 🟢 A HEAVILY-CITED BRUNETTI GENEALOGY OF PLATACI.**
+**Source: `http://abodily.tripod.com/brunetti01.html` — "Plataci (Pllatani): Familia de Santiago
+Albertari Brunetti…", compiled by ALICIA BODILY (© 2011) for Santiago Gabriel Albertari
+(Argentina).** In Spanish, quoting Plataci civil and parish acts verbatim with act/page numbers.
+
+Line as printed (NOT ours — see caveat):
+- **D. Salvatore BRUNETTI** — b. c.1690, possibly a *married Byzantine priest* (hence "Don")
+- **Domenico BRUNETTI [II]** — b. c.1720, **d. 15 Feb 1773**, "seppellito nella Chiesa Matrice
+  dentro la sepoltura della sua famiglia"
+- **Daniele BRUNETTI [III]** — b. c.1745–55, **d. 28 July 1785** × **Maria TROJANO** (c.1752 –
+  after 1812), *filatrice*
+- **Domenico BRUNETTI [I]** — b. **Fri 20 Feb 1778**, d. **29 Sep 1852** aged 75, *civile* ×
+  **Margarita CHIDICHIMO** (b. Sat 8 Oct 1791, dau. of Onofrio Chidichimo & Maria Barbato),
+  m. **23 Jan 1812**, Plataci civil act n. 1
+- Children incl. **Salvatore BRUNETTI** (b. 20 Jun 1830) × **Rosa Maria BRUNETTI** (dau. of
+  Nicolantonio Brunetti, *Cancelliere Comunale*)
+- Separate branch: **Angelo BRUNETTI** (c.1762) × Maddalena CHIDICHIMO → Nicola (1809),
+  Salvatore (1813)
+
+Baptisms recorded **"secondo il rito greco"** — Byzantine rite, as expected for an Arbëresh town.
+Parish = **San Giovanni Battista, Plataci**. Arciprete Demetrio Chidichimo (1890s), earlier
+Vincenzo Dramisino, D. Salvatore D'Agostino.
+
+### ⚠️ THE CAVEAT — this is NOT established as our line
+
+**No MICHELE BRUNETTI and no DOMENICA FORANO** (John's parents per the 1921 New Orleans marriage
+act) appear anywhere read so far. And **BRUNETTI is one of the dominant surnames in Plataci** —
+Brunettis marrying Brunettis, plus a Brunetti pharmacist (Carlo, 33, 1907), a Brunetti town clerk
+(Nicolantonio), a Brunetti priest (D. Teodosio), Abramo, Lorenzo, Andrea, Nicolino… **A Brunetti
+genealogy of Plataci is not automatically THIS family's genealogy.** Recorded as a map, not proof.
+
+### 🟢 METHOD GOLD — how to work Plataci
+
+1. **Civil registers of Plataci run from 1809** (Ufficio di Stato Civile) — births, marriages,
+   deaths, with act numbers. Province of **Cosenza**, formerly *Calabria Citra*.
+2. **Parish books of San Giovanni Battista** — quoted with year/page/act.
+3. **Catasto Onciario di Plataci, 1752** — a tax census that would reach the generation above.
+4. 🔴 **THE KEY WARNING, from Bodily's own note:** *"todos los registros de bautismos anteriores a
+   1834 no existen más en su forma original, solamente en copias adjuntas a los casamientos"* —
+   **NO Plataci baptismal register survives in original form before 1834.** Pre-1834 baptisms
+   exist only as **copies attached to marriage files (*processetti*)**. So: to find a pre-1834
+   Plataci baptism, go through the MARRIAGE file.
+
+**That is the same trick that cracked the Reynes** — when the baptisms are gone, the marriage
+file is where the parents are. Two continents, two centuries, same method.
+
+### NEXT STEPS
+- **Fetch `abodily.tripod.com/brunetti01.html`** in full (and sibling pages brunetti02 etc.) and
+  search for **Michele Brunetti**, **Domenica Forano/Forani**, and any Giovanni b. 1893.
+- Antenati (Portale Antenati, `antenati.cultura.gov.it`) for **Cosenza** civil registers — check
+  whether Plataci 1893 births are digitized. John's birth act would name Michele and Domenica.
+- Contact route: Alicia Bodily's site is © 2011 and may be stale, but Santiago Albertari's family
+  is an Argentine Plataci-Brunetti line — a possible cousin contact.
+- **Ask Aunt Pat directly:** who assembled the binder, and was there anything with it — letters,
+  photos, an address in Italy? The binder is printouts; the question is what prompted them.
