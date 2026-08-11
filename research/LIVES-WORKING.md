@@ -62,3 +62,68 @@ Lemoine (1829–1913) brick mason · Valery Rousselle (b. c.1841) · Michele Bru
 
 *(appended as they are confirmed — each with citation)*
 
+---
+
+### 🟢 GAIENNIE STREET IS NAMED FOR THE FAMILY — sourced 2026-08-11
+
+**John Kendall, *History of New Orleans* (Lewis Publishing Co., Chicago & New York, 1922),
+Chapter XLII "Streets, Parks, Squares," p. 675:**
+
+> "Thus **Poeyfarre, Robin and Gaiennie** recall the memory of well-known Creole families."
+
+**Context, same passage:** these are streets in the **upper part of the city**, and the naming
+mechanism is spelled out — as the estates along **Tchoupitoulas Road** were absorbed into the
+growing city, *"the names of the owners of the neighboring properties descended upon the newly
+opened thoroughfares."* So the street is named for a family that **owned land there.**
+
+Free full text: `penelope.uchicago.edu/Thayer/E/Gazetteer/Places/America/United_States/Louisiana/New_Orleans/_Texts/KENHNO/42*.html`
+
+**Gaiennie Street still exists** — Lower Garden District / Warehouse District, running off
+Tchoupitoulas, exactly where Kendall places it.
+
+**⚠️ WHAT IS NOT YET PROVEN:** that these are *our* Gaiennies. Kendall names a family, not a
+person, and our documented Gaiennies are in **St. James Parish** (Joseph Gervais) and **Jefferson
+Parish** (Alphonse Sr., a farm overseer in the 4th ward) — not obviously Tchoupitoulas
+landowners. Two things make it *likely* and worth chasing: **Gaiennie is a very rare surname in
+Louisiana**, and our François Gaiennie/Ganier of Brûlon arrived in New Orleans itself.
+**TO PROVE IT:** a conveyance or succession naming a Gaiennie as owner of Faubourg property, in
+the Orleans Parish notarial archives or the conveyance-office indexes. Until then: *probable.*
+
+**FOR THE SITE (when clear):** a short "The street" note on the Gaiennie branch card, with the
+Kendall quote and citation, phrased as probable-not-proven. Would also justify a photo of the
+street sign.
+
+---
+
+### 🔴 FLAG — "Architect" on Anthony Henry Larmann is UNSOURCED
+
+`anthonyLarmann.occupation` on the live site reads **"Architect."** Checked all four of his
+records: the 1895 marriage act, the two daughters' birth records, the 1880 census and the 1904
+death record. **Not one of them states a trade.** The 1900 census index entry (FamilySearch
+`1:1:MS5L-2HW`) also carries no occupation field.
+
+I do not know where "Architect" came from. It may be family memory, or it may have come in with
+an early draft. **It should not stand as a bare fact on a site whose whole rule is that claims
+carry citations.**
+
+**TO RESOLVE:** read the occupation column on the 1900 census sheet itself — he is at
+**ED 85, 4th Precinct, New Orleans Ward 9, sheet 14A, line 46** (image `3:1:S3HY-6SQY-F2`).
+The column is on the original and simply is not indexed. Also try Soards' New Orleans city
+directories 1895–1904, which list trade and address annually.
+
+**FOR THE SITE (when clear):** either cite it or downgrade it to a note. Do not leave it bare.
+
+---
+
+## TOOLING NOTES (so the next session does not re-derive this)
+
+- **Chronicling America moved.** `chroniclingamerica.loc.gov/search/pages/results/?...&format=json`
+  now 308-redirects. Working base: `https://www.loc.gov/collections/chronicling-america/?q=<term>&fo=json&c=<n>`.
+  ⚠️ **Faceted queries (`&fa=location_state:louisiana`) return 403.** Unfiltered searches return
+  heavy OCR noise — "Gaiennie" gave 1,478 hits, mostly false. Needs quoted terms plus manual
+  filtering by `partof_title`, or use the site UI in the browser instead.
+- **FamilySearch image reading:** the viewer's zoom is too soft to read handwriting. Use the
+  viewer's **download button**, then crop and upscale locally (PIL autocontrast + LANCZOS).
+- ⚠️ **The other session is downloading to the same Downloads folder.** Check file timestamps
+  before assuming a download is mine.
+

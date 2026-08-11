@@ -3411,3 +3411,43 @@ with a printed cover page, so boundaries are easy to spot):
 Brunetti, Barone, De Cesare, De Paola, Chidichimo, Bellusci, Troiano, Flocco, Gramisci, Smilari,
 Osnato, Albamonte. **Two Brunetti–Barone weddings three days apart** (acts 5 and 6). It is a very
 small, very intermarried village, which is exactly why surname alone proves nothing here.
+
+### Working back through the 1880s marriages — 2026-08-11 (still not found)
+
+**Year boundaries now READ, not estimated.** Each year opens with a printed cover page.
+
+| Image | Confirmed content |
+|---|---|
+| 1725 | 1878, acts 15–16 |
+| **1782** | **1885, acts 9–10** — Ventimiglia Antonio × Elmo Grazia (8 Oct) · Arcuri Vincenzo × Bellusci M. Carmela (8 Nov) |
+| **1787** | 🎯 **COVER: "PARTE I · Anno 1886 · Comune di Plataci"** |
+| 1788 | 1886, acts 1–2 — *not yet read* |
+| **1789** | **1886, acts 3–4** — Pinelli Salvatore × Bellusci Domenica (28 Mar) · Mortati Francesco × Buscicchi Anna Maria (11 May) |
+| 1840 | 1891, acts 9–10 |
+| 1846 | cover, 1892 |
+| 1848–1851 | 1892, acts 1–8 (all logged above) |
+
+**→ So each year occupies ROUGHLY 5–9 images** (fewer than I first assumed — Plataci ran only
+about 10–14 marriages a year, two per opening). Revised map:
+
+| Year | Images (revised) |
+|---|---|
+| 1885 | ~1778–1786 |
+| **1886** | **1788–~1795** |
+| **1887** | **~1796–1804** |
+| **1888** | **~1805–1813** |
+| 1889 | ~1814–1822 |
+| 1890 | ~1823–1834 |
+| 1891 | ~1835–1845 |
+| 1892 | 1847–1856 |
+
+**STILL UNREAD:** 1886 acts 1–2 (img 1788) and 5+ (img 1790 on) · all of **1887** · all of
+**1888** · 1889 · 1890 · 1891 acts 1–8 and 11+ · 1892 acts 9+.
+
+**Fastest way to scan:** only the **right-hand marginal column** matters — each act carries the
+couple's names in a large hand (e.g. "Pinelli Salvatore / Bellusci Domenica"). Download the image,
+crop the top 30%, and both acts' margin names are legible at once. **Looking for BRUNETTI ×
+TROJANO/TROIANO** (both spellings occur in this register).
+
+**Reminder of the target:** Michele Brunetti, *civile*, born c. 1860 — so aged 25–28 in 1885–88.
+Grooms in these acts marry at 21–27, and brides at 16–24.
