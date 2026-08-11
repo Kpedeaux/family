@@ -389,7 +389,7 @@
     franovich: 'Dalmatian oystermen in the lower delta — Buras, Empire, Port Sulphur. Anthony Franovich died at thirty-eight and lies at Our Lady of Good Harbor.',
     moizant:   'French Louisiana, married repeatedly into the Plaquemines Croatian community. Alfred Moizant lived to ninety-five.',
     larmann:   'John Casper Larmann came from Hanover and married in New Orleans in 1870. His son Anthony married into the Moore and Goubler families, whose tomb the Larmanns still share. Aunt Esther’s handwritten ledger preserved every date.',
-    lemoine:   'Johanna Lemoine’s people — Lemoine, Rousselle, Delatte — are French-Creole names from the river parishes above New Orleans. Her mother died young, a brother died in the orphanage, and the line is the tree’s newest open front.',
+    lemoine:   'Johanna Lemoine’s people — Lemoine, Rousselle, Delatte — are French-Creole names from the river parishes above New Orleans. Her father Robert was a career Navy man who lies in Arlington; her mother left; her grandmother Poupone raised her, and a brother died in the orphanage.',
     wellmeyer: 'German New Orleans, four documented generations deep. Ten Wellmeyers share one tomb at St. Vincent de Paul No. 3, and that tomb is how the line was cracked.'
   };
 

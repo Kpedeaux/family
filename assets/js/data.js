@@ -1399,10 +1399,8 @@
 
     johannaLemoine: {
       siblings: [
-        'Robert Lemoine (7 May 1888 – 20 November 1949) — career Navy, chief commissary steward, buried in Arlington National Cemetery; m. ① Agnes Margaret Hanley (Orleans, 1906) ② Sophie Anderson. Family memory holds he was not her brother but her FATHER — see the note below',
-        'Ernest Joseph Lemoine — m. Amelia Gehner; named his first son Alonzo (1911)',
-        'Eugene Lemoine — m. Marie Jackson; named a daughter Genevieve (1913)',
-        'and the boy who died in the orphanage — his name is still not recovered'
+        'A brother Robert, born 1909 in Orleans Parish — very probably the boy who died in the orphanage',
+        'A baby sister Agnes, who lived three months (died 9 November 1909) — both probably half-siblings, children of Robert\'s marriage to Agnes Hanley'
       ],
       children: [
         'Esther Mae Larmann (18 July 1925 – 15 February 1928)',
@@ -1411,18 +1409,18 @@
       given: 'Johanna Catherine', surname: 'Lemoine', sex: 'F',
       birth: { date: '9 January 1907', place: 'birthplace not yet documented' },
       death: { date: '11 December 1992' },
-      father: 'alonzoLemoine', mother: 'genevieveRousselle',
+      father: 'robertLemoine',
       evidence: 'confirm',
       branch: 'lemoine',
       photo: 'assets/img/goubler-tomb-new-tablet.jpg',
       photoCaption: 'The family tomb, restored. Her name stands with Charles\'s near the foot of the new tablet.',
-      blurb: 'For years she was the blankest name on this side of the tree — not even in the Orleans birth index. Judy Larmann Gifford\'s family notes gave her back her parents, her middle name, and a hard childhood: a brother lost in the orphanage.',
+      blurb: 'For years she was the blankest name on this side of the tree — not even in the Orleans birth index. Her story came back in two installments: Judy\'s written notes, and then a 2026 phone call that restored the missing generation. Her father was a sailor, her mother left, and her grandmother Poupone raised her — Johanna called her "mother," which is exactly how the family tree lost a generation for a while.',
       records: [
         {
-          title: 'Family record — her parents',
+          title: 'Family record — the flattened generation',
           citation: 'Judy Larmann Gifford\'s handwritten notes, "Johanna\'s Family," 2026',
-          text: 'Alonzo Lemoine m. (Poppone) Genevieve Rousselle. Children (Lemoine): Johanna. (Brother died in orphanage.)',
-          highlight: 'Her mother is very likely the Genevieve Rousselle who died in Orleans on 24 August 1915, aged 54 — Johanna was eight, which would explain the orphanage years.'
+          text: 'Alonzo Lemoine m. (Poppone) Genevieve Rousselle. Children (Lemoine): Robert (m. ① Agnes Hanley ② Sophie Anderson) · Eugene · Johanna. (Brother died in orphanage.)',
+          highlight: 'Judy\'s page lists Johanna among Poupone\'s children — beside Robert, and beside the very Agnes Hanley the index shows Robert marrying the year before Johanna\'s birth. A granddaughter raised by her grandmother, filed as a daughter: the family\'s spoken memory restored the generation the paper had flattened.'
         },
         {
           title: 'Her headstone — the Goubler family tomb',
@@ -1437,7 +1435,53 @@
           highlight: 'The census image itself, with its relation-to-head column, is the next document to pull: it will say in one word — daughter or granddaughter — which generation raised her on paper.'
         }
       ],
-      note: 'An open question of one generation, stated honestly. Judy\'s written tree makes Johanna a daughter of Alonzo and Genevieve. But a 2026 phone call with her granddaughter Jean holds that Johanna\'s FATHER was Robert Lemoine, the Navy man in Arlington, and that Johanna\'s mother did not die — she left, and Poupone (Genevieve) raised the little girl, who called her grandmother "mother." The record so far leans toward the phone call: Robert married Agnes Margaret Hanley in Orleans in 1906, the year before Johanna\'s birth; an infant daughter Agnes Lemoine died at three months in Orleans in November 1909; by the 1910 census Alonzo is dead or gone, adult Agnes has vanished from Louisiana, and Genevieve stands in Orleans with the babies. A grandmother raising a grandchild as her own is exactly how a family tree loses a generation. The document that will settle it: Johanna and Charles\'s August 1924 marriage licence application (Vol. 49, p. 468), which names her parents. Until then the tree keeps the documented version, and this note keeps the question.'
+      note: 'The tree here follows the family\'s settled account, adopted August 2026: her father was Robert Lemoine, and her mother — whose name is not yet recovered — left when Johanna was young, after which Robert remarried. Agnes Hanley, Robert\'s documented 1906 bride, was NOT Johanna\'s mother, per the family. One chronology wrinkle is kept in the open: the Agnes marriage is indexed 1906 and Johanna was born January 1907, so how the two women order around her birth is unresolved. The civil document that will name her mother outright is her own August 1924 marriage licence application (Vol. 49, p. 468), still to be pulled from the State Archives.'
+    },
+
+    robertLemoine: {
+      siblings: [
+        'Ernest Joseph Lemoine — m. Amelia Gehner; named his first son Alonzo (1911)',
+        'Eugene Lemoine — m. Marie Jackson; named a daughter Genevieve (1913)'
+      ],
+      children: [
+        { id: 'johannaLemoine' },
+        'Robert (b. 1909, Orleans Parish) — very probably the boy who died in the orphanage',
+        'Agnes (c. August – 9 November 1909) — dead at three months, named for Robert\'s wife Agnes Hanley'
+      ],
+      given: 'Robert', surname: 'Lemoine', sex: 'M',
+      birth: { date: '7 May 1888', place: 'Louisiana' },
+      death: { date: '20 November 1949' },
+      lifespanText: '7 May 1888 – 20 November 1949',
+      father: 'alonzoLemoine', mother: 'genevieveRousselle',
+      spouse: 'Johanna\'s mother (name not yet recovered — she left); Agnes Margaret Hanley (m. 1906, Orleans); later Sophie Anderson',
+      occupation: 'Chief commissary steward, United States Navy — a career sailor through the First World War',
+      evidence: 'confirm',
+      branch: 'lemoine',
+      blurb: 'The Navy man in Arlington. A father at nineteen, and at sea for the rest of it: Johanna\'s mother left when the children were young, Robert was away in the Navy, and his mother Poupone stepped in to raise them — until her death in 1915 left the orphanage as the only door open. Robert made the Navy his life and rose to chief commissary steward, the man in charge of feeding a warship. He lies in Arlington National Cemetery, section 34, grave 1964.',
+      records: [
+        {
+          title: 'His headstone — Arlington National Cemetery',
+          citation: 'Army Cemeteries Explorer, section 34, grave 1964, interred 23 November 1949',
+          text: 'ROBERT LEMOINE · LOUISIANA · CCS · US NAVY · WORLD WAR I · MAY 7 1888 · NOVEMBER 20 1949.',
+          highlight: 'CCS is the Navy rating chief commissary steward. The family remembered him as "head of all the foods and stuff — commissary something." The stone says exactly that.'
+        },
+        {
+          title: 'Marriage — Orleans Parish, 1906',
+          citation: 'Louisiana marriage index, Orleans, Vol. 27, p. 962',
+          text: 'HANLEY, AGNES MARGARET × LEMOINE, ROBERT — 1906.',
+          highlight: 'The year before Johanna\'s birth. He was eighteen.'
+        },
+        {
+          title: 'The battleship spoon',
+          citation: 'Family keepsake, photographed August 2026 — see the research page',
+          text: 'A souvenir spoon engraved U.S. BATTLESHIP MAINE — 6682 TONS, kept in the family with the story that the Maine was his ship.',
+          highlight: 'He was nine when the first Maine exploded at Havana in 1898 — but a second USS Maine served from 1902 through the First World War, exactly the span of his career. His muster rolls would tell whether the family story fits the second ship.'
+        }
+      ],
+      sources: [
+        { label: 'Army Cemeteries Explorer — his grave record', url: 'https://ancexplorer.army.mil/publicwmv/' }
+      ],
+      note: 'His fatherhood of Johanna is the family\'s settled account (2026), consistent with every record found — and awaiting one civil document, Johanna\'s 1924 marriage licence application, for full verification. Per the family, Johanna\'s mother was NOT Agnes Hanley: she was an earlier woman who left, and Agnes was the remarriage. The chronology has a wrinkle held openly — the Agnes marriage is indexed 1906, Johanna born January 1907 — which the licence application should untangle. The infant Agnes and toddler Robert of 1909 are presumably Agnes Hanley\'s children, Johanna\'s half-siblings. His later marriage to Sophie Anderson (Judy\'s notes) is not in the Orleans index; a Navy man could have married anywhere. Whether the second USS Maine was truly his ship awaits his muster rolls. Johanna\'s mother\'s name, and the paperwork Jean once read saying she "married somebody else," are the line\'s most wanted documents; Agnes Hanley\'s fate after 1909 is open too — no adult Agnes Lemoine remains anywhere in Louisiana by the 1910 census.'
     },
 
     anthonyLarmann: {
@@ -1718,31 +1762,29 @@
 
     alonzoLemoine: {
       children: [
-        'Robert Lemoine (1888–1949) — the Navy man in Arlington; possibly Johanna\'s actual father rather than her brother (see her entry)',
+        { id: 'robertLemoine' },
         'Ernest Joseph Lemoine — m. Amelia Gehner; his first son was Alonzo Alexie (b. 1911)',
-        'Eugene Lemoine — m. Marie Jackson; a daughter Genevieve (b. 1913)',
-        'a boy who died in the orphanage',
-        { id: 'johannaLemoine' }
+        'Eugene Lemoine — m. Marie Jackson; a daughter Genevieve (b. 1913)'
       ],
       given: 'Alonzo', surname: 'Lemoine', sex: 'M',
       death: { date: 'before April 1910' },
       evidence: 'confirm',
       branch: 'lemoine',
-      blurb: 'Johanna\'s father on paper — and, if the family\'s spoken memory is right, her grandfather in fact. A French-Creole name from the river parishes above New Orleans. His sons honored him and Genevieve in their own children\'s names: Ernest\'s first boy was an Alonzo, Eugene\'s girl a Genevieve.',
+      blurb: 'Johanna\'s grandfather — for a while mistaken for her father, until the family\'s spoken memory restored the missing generation. A French-Creole name from the river parishes above New Orleans. His sons honored him and Genevieve in their own children\'s names: Ernest\'s first boy was an Alonzo, Eugene\'s girl a Genevieve.',
       note: 'No Alonzo Lemoine appears anywhere in the 1910 census — he was dead or gone by then, which fits Genevieve standing alone in Orleans with the grandchildren. The only Alonzo Lemoine in the state death index (Alonzo James, 1911–1973, Orleans) is his grandson, Ernest\'s boy. The elder Alonzo may be indexed under Alphonse, or died before the statewide index begins in 1911. Finding his marriage to Genevieve Rousselle — not recorded in Orleans — is still the next step for this line.'
     },
 
     genevieveRousselle: {
       children: [
         'The same Lemoine children — see Alonzo Lemoine',
-        { id: 'johannaLemoine' }
+        { id: 'robertLemoine' }
       ],
-      given: 'Genevieve', nickname: 'Poppone', surname: 'Rousselle', sex: 'F',
+      given: 'Genevieve', nickname: 'Poupone', surname: 'Rousselle', sex: 'F',
       death: { date: 'probably 24 August 1915', place: 'Orleans Parish' },
       father: 'valeryRousselle', mother: 'marieEveDelatte',
       evidence: 'confirm',
       branch: 'lemoine',
-      blurb: 'Remembered in the family as "Poppone" — surely Poupone, an old Creole endearment. Family memory says she raised little Johanna herself, and the child called her "mother." If the 1915 death is hers, Johanna lost her at eight, and the orphanage years follow directly.',
+      blurb: 'Remembered in the family as "Poupone," an old Creole endearment. When her son Robert\'s marriage collapsed and he went to sea, she raised his little daughter Johanna herself — and the child called her "mother." The 1910 census shows her standing in Orleans with the babies. If the 1915 death is hers, Johanna lost her at eight, and the orphanage years follow directly.',
       records: [
         {
           title: 'Louisiana death record — probably hers',

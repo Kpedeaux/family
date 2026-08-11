@@ -1154,18 +1154,27 @@ supplied a photo of a family souvenir spoon. Her claims, extracted from a rough 
   Only Orleans child: **Warren Lemoine, age 2, d. 6 Feb 1916** (Vol. 165 p. 752) — six months
   after Poupone's death, but fits no known child of this family. The boy's name is STILL open.
 
-**The generation question, stated for the record.** Jean's version: Robert (m. Agnes 1906) is
-Johanna's father; Agnes left; Poupone raised Johanna, who called her "mother"; the tree later
-flattened her into Poupone's children. Judy's version: Johanna is Alonzo × Genevieve's daughter,
-Robert her brother. Everything found tonight is CONSISTENT WITH JEAN and awkward for Judy's
-version (Genevieve would be ~46 at Johanna's 1907 birth). But testimony + circumstantials ≠ a
-record naming both people. **The tree keeps Judy's documented version; the site carries the
-question openly. Decisive documents, in order:** ① Johanna × Charles Larmann marriage licence
-APPLICATION, Aug 1924, Vol. 49 p. 468 (names her parents — $5, LA State Archives); ② the 1910
-census IMAGE (relation-to-head column: daughter vs granddaughter — library Ancestry session);
-③ Johanna's 1907 baptism (not in Orleans civil index; try church registers, river parishes);
-④ Robert's Navy muster rolls (BB-10?); ⑤ Agnes Hanley's fate (no LA death under Hanley or
-Lemoine that fits — remarriage elsewhere likely).
+**The generation question — SETTLED BY THE FAMILY, same night.** Kevin's ruling (2026-08-10):
+**"Robert Lemoine is Johanna's actual father."** And a crucial refinement: **"Agnes is not her
+mother. He remarried when her mother left when she was young"** — i.e. Johanna's mother is an
+UNNAMED woman who left; Agnes Hanley (m. 1906, Vol. 27 p. 962) was the remarriage, not the
+mother; the 1909 babies (toddler Robert; infant Agnes d. Nov 1909) are presumably Agnes's,
+Johanna's half-siblings. And the orphanage cause, in Kevin's words: "He was away in the navy
+and their mother left them" — so when Poupone died Aug 1915 there was no one left. TREE REWIRED
+accordingly (johannaLemoine.father = robertLemoine; mother ABSENT/unknown; Alonzo × Genevieve
+now her grandparents; Robert added as a full person, +1 net person, 72 total). Link carried at
+[CONFIRM] — family testimony + consistent circumstantials, NOT a record naming both people.
+⚠️ CHRONOLOGY WRINKLE, held openly: Agnes marriage indexed 1906, Johanna born 9 Jan 1907 —
+the order of mother-vs-Agnes around the birth doesn't resolve cleanly; possibilities include a
+late-1906 wedding with Johanna another woman's child, an off-by-a-bit index year, or an
+informal first union. Do NOT smooth this over. **Decisive documents, in order:** ① Johanna ×
+Charles Larmann marriage licence APPLICATION, Aug 1924, Vol. 49 p. 468 (names her parents — $5,
+LA State Archives) — now doubly critical since it should NAME THE UNKNOWN MOTHER; ② the 1910
+census IMAGE (relation-to-head column; also — is Johanna marked granddaughter?); ③ Johanna's
+1907 baptism (not in Orleans civil index; church registers, river parishes); ④ Robert's Navy
+muster rolls (BB-10?); ⑤ Agnes Hanley's fate after 1909; ⑥ the unnamed mother's identity and
+her remarriage ("the paperwork said that she married somebody else" — find that paperwork,
+possibly in Jean's little case of keepsakes).
 
 **Brunetti bonus (claim 8):** WWI service → citizenship matches the Act of May 9, 1918
 (expedited naturalization for alien servicemen). If John Brunetti naturalized through the Army,
@@ -1299,6 +1308,15 @@ His WWI draft/service records + United Fruit employment are the next Brunetti pu
 17. **The 1898 Louisa was 8 months old, not 8 years** — the NOPL obituary index's "8 years" is a
     transcription slip; the birth register contains no second Louisa, and the state index and
     1900 census agree on the infant (2026-08-10).
+18. **Johanna Lemoine was NOT a daughter of Alonzo × Genevieve** — Judy's tree page flattened a
+    generation. Her father was Robert Lemoine (1888–1949, Arlington); Alonzo × Genevieve are her
+    GRANDPARENTS; Poupone raised her and Johanna called her "mother," which is how the paper got
+    it wrong. Her mother was NOT Agnes Hanley (Robert's 1906 bride) — an earlier, still-unnamed
+    woman who left. Family ruling 2026-08-10; civil verification pending via the 1924 licence
+    application (2026-08-10).
+19. **"Eugene [Ernest??]" was two brothers, not one** — Ernest Joseph (m. Amelia Gehner) AND
+    Eugene (m. Marie Jackson); and the 1973 "Alonzo James Lemoine, age 62" death is Ernest's son
+    (b. 1911), not the elder Alonzo (2026-08-10).
 
 ---
 
@@ -1369,6 +1387,12 @@ His WWI draft/service records + United Fruit employment are the next Brunetti pu
   time in the orphanage too. Dad's side: John Brunetti was in WWI "and that's how he became" a
   citizen (per Buddy), worked for United Fruit. Vocabulary key: Mamère = Veronica Brunetti
   Pedeaux; transcript garbles — "the mayor" = Mamère, "United crew" = United Fruit.
+- **Kevin (2026-08-10, follow-ups in session):** ruled the tree change — "Robert Lemoine is
+  Johanna's actual father." Clarified: "Agnes is not her mother. He remarried when her mother
+  left when she was young." And on the orphanage: "that is maybe why they were in the orphanage?
+  He was away in the navy and their mother left them." Jean also mentioned a "little case" of
+  keepsakes she wants explained "when I die y'all going to throw it all away" — the paperwork
+  about the mother's remarriage may be in it. STANDING ASK: sit with Jean and the case.
 - **Standing asks:** Aunt Patricia → John Brunetti's hometown. Judy → the rest of the "tons."
   Anyone → tomb photographs; Buras/Moizant memories; the orphanage brother's name.
 
