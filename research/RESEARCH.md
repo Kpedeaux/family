@@ -2957,3 +2957,34 @@ what bound these households together.
 
 **Also still untried:** `rest_of_name=Jean` + `last_name=CONNARD` to pin the man; Maduell's
 census tables 1699–1732; Company of the Indies passenger lists.
+
+### ❌ NICOLAS HENRY — the pattern dissolves. Searched 2026-08-11
+
+I flagged him last round as "the constant in this entire circle" and "the likeliest single lead
+to what bound these households together." **That was wrong, and the correction is instructive.**
+
+`last_name=HENRY&rest_of_name=Nicolas` → **1,845 documents.**
+
+Document types in the first 100 alone: contracts for goods and services (25), sales (10+),
+inventories, marriage contracts, family meetings, wills, declarations, appointments. That is not
+a private individual's paper trail — **that is a notarial practice.**
+
+**Confirmed by outside sources: Nicolas Henry was a NOTARY in colonial New Orleans**, and the
+New Orleans *notaire royal* doubled as the **greffier** — official recorder of the Superior
+Council's civil and criminal minutes.
+
+**So he is in the Boisselier succession, the Connard mortgage, the Cousin contract and all three
+Joly documents because HE WROTE THEM.** He is not kin to any of these families. In a town of a
+few thousand with a handful of notaries, everyone used the same man.
+
+🔴 **METHOD WARNING, worth keeping permanently:** in colonial records, **check a recurring name's
+OCCUPATION before reading it as kinship.** Notaries, greffiers, court clerks, priests and
+surgeons turn up across unrelated families constantly and will manufacture a false pattern.
+Others to be careful of in this corpus: **Jean Baptiste GARIC** (notary, in the 1748 Joly
+petition), **d'Auberville** (royal commissary), **Raguet**, **Fleuriau** (attorney general).
+
+**Names in this circle that are still NOT explained by occupation** and remain worth checking:
+Wiltz · Chantalou · Menkingle · Judice · Vegas (1747–48 Joly documents) · Dehallier · Jean
+Callier · Perier · Cimonot (1740 Cousin contract). **Jean Callier is the most interesting** — he
+signs the 1740 marriage contract AND stands godfather to Marie Jeanne Reyne in 1755, fifteen
+years apart, across both marriages. That one is not a notary.
