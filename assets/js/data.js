@@ -1409,7 +1409,7 @@
       father: 'anthonyLarmann', mother: 'eugeniaMoore',
       evidence: 'verified',
       branch: 'larmann',
-      blurb: 'Lost his father at eighteen months and his mother at eighteen years. Married Johanna Lemoine on 23 August 1924, lost a two-year-old daughter in 1928, and died the day after his sixty-seventh birthday. His brother Anthony had died four months earlier.',
+      blurb: 'Lost his father at eighteen months and his mother at eighteen years, and was raised by two unmarried aunts — his mother\'s sisters Leontine, called Tene, and Louise Moore — in their house on Franklin Avenue. Married Johanna Lemoine on 23 August 1924, lost a two-year-old daughter in 1928, and died the day after his sixty-seventh birthday. His brother Anthony had died four months earlier.',
       records: [
         {
           title: 'Louisiana birth record',
@@ -1443,7 +1443,7 @@
         'A baby sister Agnes, named for their mother, who lived three months (died 9 November 1909)'
       ],
       children: [
-        'Esther Mae Larmann (18 July 1925 – 15 February 1928)',
+        'Esther Mae Larmann (18 July 1925 – 15 February 1928) — her Orleans birth certificate, kept in the family, names her "lawful daughter of Charles Emile Larmann and Johanna Catherine Lemoine," registered 28 July 1925',
         { id: 'johnLarmannSr' }
       ],
       given: 'Johanna Catherine', surname: 'Lemoine', sex: 'F',
@@ -1521,7 +1521,7 @@
       sources: [
         { label: 'Army Cemeteries Explorer — his grave record', url: 'https://ancexplorer.army.mil/publicwmv/' }
       ],
-      note: 'His fatherhood of Johanna is the family\'s settled account (2026), consistent with every record found — and awaiting one civil document, Johanna\'s 1924 marriage licence application, for full verification. The timeline: married Agnes at eighteen in 1906, Johanna born the next January, the babies Robert and Agnes in 1909 — the infant dead by November — and by the April 1910 census Agnes is gone from Louisiana while his mother stands with the children. His remarriage to Sophie Anderson (Judy\'s notes) is not in the Orleans index; a Navy man could have married anywhere. Whether the second USS Maine was truly his ship awaits his muster rolls.'
+      note: 'CONFIRMED IN PRINT, August 2026: Johanna\'s own December 1992 obituary calls her "daughter of the late Robert Lemoine." His own November 1949 notice gives his age as 61 — exact for a man born 7 May 1888 — names his wife Sophie A. Lemoine and his brother Eugene, and ends "Interment Arlington National Cemetery." His fatherhood of Johanna is therefore no longer only family testimony. It is consistent with every record found — and awaiting one civil document, Johanna\'s 1924 marriage licence application, for full verification. The timeline: married Agnes at eighteen in 1906, Johanna born the next January, the babies Robert and Agnes in 1909 — the infant dead by November — and by the April 1910 census Agnes is gone from Louisiana while his mother stands with the children. His remarriage to Sophie Anderson (Judy\'s notes) is not in the Orleans index; a Navy man could have married anywhere. Whether the second USS Maine was truly his ship awaits his muster rolls.'
     },
 
     agnesHanley: {
@@ -1872,10 +1872,11 @@
 
     henryMoore: {
       children: [
-        'Louise Moore (1877–1948)',
-        'Leontine Moore (1880–1947)',
+        'Louise Moore (1877–1948) — never married; with her sister Leontine she raised their orphaned nephew Charles Emile Larmann, in the house on Franklin Avenue that John Larmann Sr. would later point out to his grandson',
+        'Leontine Moore (1880–1947) — "Aunt Tene," never married; the other half of that household',
         'Anthony Moore (1883–1920)',
-        'Emile Moore',
+        'Emile Henry Moore, who married Lola Gets',
+        'Marie Louise Moore, and John Henry Moore who married Nathe Schnider',
         { id: 'eugeniaMoore' }
       ],
       given: 'Henry', surname: 'Moore', sex: 'M',
@@ -1901,21 +1902,22 @@
 
     valentineGoubler: {
       children: [
-        'Louise Moore (1877–1948)',
-        'Leontine Moore (1880–1947)',
+        'Louise Moore (1877–1948) — never married; with her sister Leontine she raised their orphaned nephew Charles Emile Larmann, in the house on Franklin Avenue that John Larmann Sr. would later point out to his grandson',
+        'Leontine Moore (1880–1947) — "Aunt Tene," never married; the other half of that household',
         'Anthony Moore (1883–1920)',
-        'Emile Moore',
+        'Emile Henry Moore, who married Lola Gets',
+        'Marie Louise Moore, and John Henry Moore who married Nathe Schnider',
         { id: 'eugeniaMoore' }
       ],
-      given: 'Marie Valentine', surname: 'Goubler', sex: 'F',
-      birth: { date: '20 March 1848 (her tomb reads 1847)' },
+      given: 'Marie Valentine Josepha', surname: 'Goubler', sex: 'F',
+      birth: { date: '20 March 1847' },
       death: { date: '14 February 1926', place: 'Orleans Parish' },
       father: 'josephGoubler', mother: 'victoireCirclot',
       evidence: 'confirm',
       branch: 'larmann',
       photo: 'assets/img/goubler-tomb-old-tablet.jpg',
       photoCaption: 'The original marble tablet of the family tomb, weathered but partly legible. Her line reads "Valentine Goubler, wife of Henry Moore — died Feb. 14, 1926, aged 77 yrs."',
-      blurb: 'Widowed at forty-five, she lived on to 1926 — long enough to bury her daughter Eugenie and her son Anthony. The tomb she lies in is her parents\', and it eventually took in her Larmann great-grandchildren\'s line too.',
+      blurb: 'Widowed at forty-five, she lived on to 1926 — long enough to bury her daughter Eugenie and her son Anthony, and to see her nephew Emile\'s name go up in bronze on the Ninth Ward\'s Victory Arch. The tomb she lies in is her parents\', and it eventually took in her Larmann great-grandchildren\'s line too.',
       records: [
         {
           title: 'Louisiana death record — under her maiden name',
@@ -1935,10 +1937,14 @@
 
     josephGoubler: {
       children: [
-        'Emile Joseph Goubler (c.1852–1889)',
-        'Lucien Goubler (c.1853–1876)',
-        'Louis Goubler (1858–1940)',
-        'probably Eugenie Goubler (c.1848–1871)',
+        'Eugenie Goubler (1846 or 1848 – 1871)',
+        'Marie Louise Goubler (b. 1850)',
+        'Emile Goubler (1852–1889) — "Emile Henry" on one chart, "Joseph Emile" in the birth register',
+        'Lucien Jean Baptiste Goubler (1855–1876)',
+        'Louis Goubler (1856 or 1858 – 1940)',
+        'Edward Goubler (b. 1858)',
+        'Leontine Victoria Goubler',
+        'LEONCE (Leon) Goubler (b. 1860 – d. 14 November 1939) — of 1722 St. Ferdinand Street, a member of Plumbers and Fitters\' Local No. 60; married Theresa C. Baron; father of Private Emile Thomas Goubler who died in France in 1918, of Leon Joseph (1890–1963), and of Louise, who married Thomas Gavin',
         { id: 'valentineGoubler' }
       ],
       given: 'Emile Joseph', surname: 'Goubler', sex: 'M',
@@ -1971,7 +1977,7 @@
           highlight: 'The stone documents Louis Goubler\'s 1940 death, which the state index missed entirely, and gives Anthony Moore and Leontine their exact dates.'
         }
       ],
-      note: 'The tomb and the state index call him plainly Joseph; a family pedigree chart via Judy Gifford gives his full name as EMILE Joseph Goubler, born 1819 — which explains the Emiles that run down this family for a century, to the son Joseph Emile, and to Private Emile Thomas Goubler who died in France in 1918.'
+      note: 'The tomb and the state index call him plainly Joseph; a family pedigree profile via Judy Gifford gives his full name as EMILE Joseph Goubler, born about 1818 — which explains the Emiles that run down this family for a century. His grandson Private Emile Thomas Goubler, killed by pneumonia in France in 1918 and named on the Victory Arch, was his namesake twice over: the son of his youngest boy Leonce. The children\'s birth years vary by a year or two between the family charts and the Orleans birth register; the register is preferred where the two disagree.'
     },
 
     claudeGoubler: {
@@ -2020,7 +2026,7 @@
           text: 'GOUBLER, THEOLINE VICTOIRE, age 74.'
         }
       ],
-      note: 'Her full name comes from a family pedigree chart: Théoline Victoria Nesida Cirlot, born 1821 to Jean Auguste Cirlot and Adélaïde "Adèle" Pouponneau Petit — both of whom died in 1825, when she was four. Two parents in one year in New Orleans usually means an epidemic; the city buried thousands to yellow fever in that decade.'
+      note: 'Her full name comes from a family pedigree profile: Théoline Victoria Nesida Cirlot, born 1821 to Jean Auguste Cirlot and Adélaïde "Adèle" Pouponneau Petit — both of whom died in 1825, when she was four. Two parents in one year in New Orleans usually means an epidemic; the city buried thousands to yellow fever in that decade. She also married before Goubler: her first husband was Edward Leroi Lanjunere (1803–1838), and their daughter Adèle Prudence Leroi Lanjunere (1838–1895) — born the year her father died, and named for the grandmother Théoline had lost at four — is a half-sister to all the Goubler children.'
     },
 
     jeanAugusteCirlot: {
@@ -2070,15 +2076,21 @@
         'The same Lemoine children — see Alonzo Lemoine',
         { id: 'robertLemoine' }
       ],
-      given: 'Genevieve', nickname: 'Poupone', surname: 'Rousselle', sex: 'F',
+      given: 'Poppone Geneviève', alsoKnownAs: 'Poppone was her baptismal name, not a pet name — the priest wrote it first', surname: 'Roussel', sex: 'F',
       birth: { date: '26 November 1863', place: 'Edgard, St. John the Baptist Parish' },
       death: { date: '21 February 1938', place: 'Lucy, St. John the Baptist Parish' },
       lifespanText: '26 November 1863 – 21 February 1938',
       father: 'valeryRousselle', mother: 'marieEveDelatte',
-      evidence: 'confirm',
+      evidence: 'verified',
       branch: 'lemoine',
       blurb: 'Remembered in the family as "Poupone," an old Creole endearment. Born at Edgard on the river, she raised her son Robert\'s little daughter Johanna when his marriage collapsed and he went to sea — and the child called her "mother." She lived until 1938 and died back in the country at Lucy, aged seventy-four.',
       records: [
+        {
+          title: 'Her baptismal certificate — the record that proves the line',
+          citation: 'Church of St. John the Baptist, Edgard, Louisiana; certificate issued 29 July 1936 by Rev. Ernest Milby, pastor',
+          text: '"Poppone Geneviève Roussel, child of VALERY ROUSSEL and MARIE EVE DESLATTES, born in Edgard, La. on the 26th day of November 1863, was baptized on the 21st day of January 1864… by the Rev. N. M. Lacour, the sponsors being ALEXIS LEMOINE and Françoise Josephine Roussel."',
+          highlight: 'Three things at once. Poppone was her real baptismal name, written before Geneviève — not the pet name everyone assumed. The act names her with both parents, which is what this site requires before it will call a link proven. And her godfather was a LEMOINE: Alexis Lemoine stood over her font in 1864, more than twenty years before she married Alonzo Lemoine. The two families were already bound together in that river parish a generation before the wedding. The certificate itself was drawn up in July 1936, when she was seventy-two — almost certainly to prove her age for the new Social Security.'
+        },
         {
           title: 'The family record — her dates in full',
           citation: 'Judy Larmann Gifford\'s notes, taken down from her father John Larmann Sr., 2026',

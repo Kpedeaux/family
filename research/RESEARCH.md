@@ -1509,8 +1509,46 @@ VERBATIM #2 (legal notice, published **November 15, 19, 24** [1918]):
 - CONTEXT: bronchial pneumonia in the AEF, late Sept 1918 = the influenza pandemic's peak wave,
   which killed more US soldiers that autumn than combat. Stated as strong probability, not fact.
 
-**THE CONNECTION IS NOT YET PINNED — do not draw him on the tree.** Leonce's own parentage is
-unestablished. New Orleans held **TWO Goubler households** of the parent generation:
+**⭐ CONNECTION SOLVED, same night (2026-08-10), by two more obituaries + a pedigree profile:**
+> **LEONCE J. GOUBLER obit:** "Of **1722 St. Ferdinand street**, on Tuesday, **November 14,
+> 1939**, at 5 a.m., LEONCE J. GOUBLER, husband of the late **Theresa C. Baron**, father of
+> **Mrs. Thomas Gavin** and **Leon J. Goubler** and the late **Emile T. Goubler**; also survived
+> by 7 grandchildren and one great-grandchild, **aged 75 years; a native of New Orleans, La.**
+> …officers and members of **Plumbers and Fitters' Union Local No. 60**… mortuary of Jacob
+> Schoen and Son, 527 Elysian Fields ave. Religious services at **St. Mary of the Angels**.
+> **Interment in ST. ROCH CEMETERY.**"
+> **LEON JOSEPH GOUBLER obit:** "Monday morning **November 18, 1963**, 2:30 o'clock, LEON JOSEPH
+> GOUBLER, **in his 74th year**, beloved husband of **Celine Coman**, father of Lionel Goubler,
+> Mrs. Leola Faust, Mrs. Leah LeJeune, Mrs. Lillian Paoletti and the late Leon R. Goubler,
+> **brother of the late Emile Goubler and Mrs. Thomas Gavin**, **son of the late Leonce Goubler
+> and Theresa Baron**, survived by 10 grandchildren and 2 great-grandchildren… **Plumbers and
+> Steamfitters Local No. 60**, United Cab Co. and Pap's Food Center… Requiem Mass at
+> **St. Raphael's**. **Interment in ST. VINCENT DE PAUL CEMETERY.**" (Union notice signed
+> ARCHIE ACOSTA, Pres.; WILLIAM SOIGNIER, Sec.)
+> **PEDIGREE PROFILE — Marie Valentine Josepha Goubler**, b. **20 March 1847**, d. 1926 aged 79;
+> parents **Emile Joseph Goubler ca 1818–1892 × Théoline Victoire Nesida Cirlot**; siblings:
+> Eugenie Bernadine 1846, Marie Louise 1850, Emile Henry 1852, Lucien 1855, Louis 1856, Edward
+> 1858, **LEON GOUBLER 1860**, Leontine Victoria.
+
+→ **LEONCE = LEON GOUBLER, b. 1860, VALENTINE'S OWN YOUNGER BROTHER**, son of the tomb
+patriarch. **Therefore Pvt. Emile Thomas Goubler was the PATRIARCH'S GRANDSON and VALENTINE'S
+NEPHEW — first cousin to Eugenie Bernadine Moore, and Kevin's FIRST COUSIN FOUR TIMES REMOVED.**
+He is family; site updated to say so. (Obit age 75 in 1939 → b. ~1864 vs the chart's 1860;
+minor variance, both noted.) The sister of the 1918 notice, "Miss Louise Goubler," = **Mrs.
+Thomas Gavin**. Father and son were both **Local No. 60** men, the union turning out for both
+funerals 34 years apart.
+
+**⭐ ALSO FROM THE PROFILE — Théoline's FIRST marriage:** half-siblings listed "on the side of
+Théoline Victoire Nesida Cirlot 1821–[1899?]" with **EDWARD LEROI LANJUNERE (1803–1838)**:
+daughter **ADÈLE PRUDENCE LEROI LANJUNERE (1838–1895)** — born the year her father died, and
+named for Théoline's own mother Adélaïde "Adèle" Pouponneau Petit. So Théoline was a widow with
+a small daughter when she married Emile Joseph Goubler. (Profile's "1899" for her death
+conflicts with the documented 23 Dec 1895; the state index wins.)
+**GEDCOM PROVENANCE:** sources cited as **"EmileDautreuilAnces.ged"** and
+**"JeanDautreuilDesc.ged," imported 9 April 2000** — a DAUTREUIL family researcher compiled
+this. Worth tracking down; also the descendant chart's owner **Stephen FISHER ("stfisher")**.
+
+**SUPERSEDED — the old open question:** Leonce's parentage was unestablished. New Orleans held **TWO Goubler households** of the parent generation:
 - **OURS: Joseph Goubler (c.1818–1892) × Théoline Victoire Cirlot (c.1821–1895)** — children
   per the birth index: Eugenie Philomene (25 Nov 1848), Joseph Emile (11 Jan 1852), Lucien Jean
   Baptiste (8 Jan 1855), Jean Louis (14 Dec 1856), Joseph (14 Apr 1859) + Valentine + Louis.
@@ -1573,7 +1611,13 @@ McPherson and William Winstine records.
   when Grandpa was 12" is wrong (Charles b. 1902 → he was 18); the chart wins.
 - "Anthony died when Grandpa was 2" ✓ (Anthony d. Feb 1904, Charles b. Jul 1902).
 - **Charles Emile was raised by his aunts "Tene" (Leontine) and Louise Moore**, neither married
-  — both are on the Goubler tomb (Leontine d. 1947, Louise d. 1948).
+  — both are on the Goubler tomb (Leontine d. 1947, Louise d. 1948). ⭐ **KEVIN (2026-08-10):
+  "Grandpa told me about the two aunts that raised his dad. He showed me the house they lived in
+  on FRANKLIN AVE, might have been called ALMONASTER back then."** → living memory carried from
+  John Larmann Sr. to Kevin, who has SEEN the house. TO CHECK: the Franklin/Almonaster street-name
+  question (New Orleans renamed several 7th/9th Ward streets), then find the aunts in the 1910/
+  1920/1930 censuses at that address with young Charles in the household — which would document
+  the whole arrangement and give the house number.
 - **Marie Valentine Josepha Goubler 1847–1926** (full name); **Henry John Moore 1848–1893**.
 - Moore siblings of Eugenie: Marie Louise, John Henry (& Nathe Schnider), Anthony Henry
   (& Odile Nathalie Faciane), Emile Henry (& Lola Gets).
@@ -1605,6 +1649,66 @@ States**. The plaques segregate Black and white soldiers. Recent restoration-fun
 in nola.com. **Leonce's house at 1722 St. Ferdinand St. is a few blocks away.**
 **ACTION FOR KEVIN: go photograph Emile's name on the plaque** — it is a visitable ancestor
 memorial in his own city.
+
+### ⭐⭐ POUPONE'S BAPTISMAL CERTIFICATE — the best document of the night (2026-08-10, via Judy)
+
+Original certificate, **Church of St. John the Baptist, Edgard, La.**, issued **29 July 1936**
+by Rev. Ernest Milby, pastor. VERBATIM:
+
+> "This is to Certify That **POPPONE GENEVIÈVE ROUSSEL**, child of **VALERY ROUSSEL** and
+> **MARIE EVE DESLATTES**, born in **Edgard, La.** on the **26th day of November 1863**, was
+> Baptized on the **21st day of January 1864**, according to the Rite of the Roman Catholic
+> Church, by the **Rev. N. M. Lacour**, the Sponsors being **ALEXIS LEMOINE** and **Françoise
+> Josephine Roussel**, as appears from the Baptismal Register of this Church."
+
+**FOUR MAJOR RESULTS:**
+1. **"POPPONE" WAS HER BAPTISMAL NAME**, written FIRST, before Geneviève — not a nickname at
+   all. Site given-name changed to **Poppone Geneviève Roussel**.
+2. **A record naming child + BOTH parents → Genevieve's parent link upgraded CONFIRM → VERIFIED**
+   (41 verified now). Birth 26 Nov 1863 Edgard confirmed from the church register itself,
+   matching Judy's notes exactly.
+3. **⭐ THE GODFATHER WAS A LEMOINE — "ALEXIS LEMOINE."** He stood over her font in January
+   1864, **20+ years before she married Alonzo Lemoine.** The Roussel and Lemoine families were
+   already bound together at Edgard a full generation before the marriage. **HUGE LEAD: Alexis
+   Lemoine is very likely Alonzo's father or uncle** → the route into the Lemoine line's own
+   origins, which have been a dead end. NEXT: St. John the Baptist (Edgard) registers for Alexis
+   Lemoine; 1860/1870 censuses St. John the Baptist.
+4. Godmother **Françoise Josephine Roussel** — a Roussel aunt/kinswoman, another lead.
+5. Human detail: the certificate was drawn up **July 1936**, when she was 72 — almost certainly
+   to prove her age for the brand-new **Social Security** (Act of 1935). She died Feb 1938.
+
+### OBITUARY CLIPPING SHEET (2026-08-10, via Judy) — key extractions
+
+- **JOHANNA LEMOINE LARMANN**, d. **Friday 11 December 1992**, aged 86, native of New Orleans,
+  resident of Metairie 18 years; wife of the late Charles Larmann; mother of John Larmann Sr.
+  and the late Esther Larmann; **"daughter of the late ROBERT LEMOINE"** ⭐ — the Robert-as-father
+  account now confirmed IN PRINT, independent of family testimony. Mother-in-law of Ann Wellmeyer
+  Larmann; 4 grandchildren, 9 great-grandchildren. Mass at Jacob Schoen & Son, 3827 Canal at
+  N. Scott, Mon 14 Dec 1992, 1:15 p.m.; **interment St. Vincent de Paul No. 3** ✓
+- **ROBERT LEMOINE**, d. **Sunday 20 November 1949**, **aged 61** (exact for b. 7 May 1888) ✓;
+  husband of **Sophie A. Lemoine**; children incl. **Mrs. Charles Lawrence** and **Robert Lemoine
+  Jr.**; brother of **Eugene Lemoine**; **"Interment Arlington National Cemetery"** ✓✓ — so
+  Johanna had siblings/half-siblings by Robert we have not yet placed.
+- **LEONE "NOMIE" LEMOINE PAGNAC**, d. Sunday 30 Jan 1983, aged 72; daughter of the late Eugene
+  Lemoine; sister of Robert M. Lemoine and Leah G. Lemoine ✓ (matches Judy's chart).
+- **BERNADINE LOUISE LARMANN JOHNSON**, d. 1956, wife of Harry G. Johnson, sister of Mrs. M. U.
+  Thomas ✓.
+- **MARGUERITE LARMANN MARSH** (d. 17 Aug 1996) and **HELEN LARMANN REDMOND** (d. 7 Apr 1996,
+  age 92) — daughters of Bernard Larmann Sr.; siblings listed as Sophie Seagrave, Thelma Sloan,
+  Edgar Larmann, Bernard Jr., Albert ✓ (matches Judy's "Uncle Bernie's kids").
+- A **WINSTINE** obituary is on the same sheet — likely Agnes Hanley's second family. NOT yet read
+  in detail; ⚠️ **GO BACK TO THIS SHEET** at higher resolution.
+
+### ESTHER MAE LARMANN's BIRTH CERTIFICATE (2026-08-10, via Judy)
+
+Office of the Recorder of Births, Marriages and Deaths, Parish of Orleans, sgd **P. Henry
+Lanauze, Deputy Recorder**: *"…that **ESTHER MAY [Mae] LARMANN**, lawful **daughter** of
+**CHARLES EMILE LARMANN** and **JOHANNA CATHERINE LEMOINE**, was born on the **18th day of July
+1925** and registered in Book No. —, Folio 1316, on the **28th day of July 1925**."*
+→ Confirms Esther Mae's birth date exactly, and puts **"Johanna Catherine Lemoine"** on a CIVIL
+document for the first time (previously only Judy's notes; the 1924 marriage index had her as
+"Johanna K."). This is the baby sister John Larmann Sr. lost at two — the "only sister" of the
+family story.
 
 ### THE 1819 SLAVE SALE — "Valery, aged 4, orphan" (2026-08-10, via Judy)
 
