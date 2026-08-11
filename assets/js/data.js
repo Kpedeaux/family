@@ -1287,6 +1287,15 @@
           text: 'John Brunette, b. about 1894 in Italy; wife Veronica; daughter Veronica M., b. about 1924 in Louisiana.'
         },
         {
+          title: 'HIS BIRTH ACT — found in the Plataci register, 11 August 2026',
+          citation: 'Comune di Plataci, Ufficio dello Stato Civile — Atti di Nascita 1893, ATTO N. 36. Tribunale di Castrovillari copy; FamilySearch collection 2043557, film "Plataci Nati 1874-1910", image 421 of 2,614.',
+          text: '"L’anno milleottocentonovanta TRE, addì SETTE di MAGGIO, a ore antimeridiane nove e minuti trentacinque, nella Casa comunale. Avanti di me CRISPINO D’AGOSTINO, Sindaco ed Uffiziale dello Stato Civile del Comune di PLATACI, è comparso MICHELE BRUNETTI, di anni TRENTATRE, CIVILE, domiciliato in Plataci, il quale mi ha dichiarato che alle ore pomeridiane NOVE e minuti VENTI, del dì CINQUE del corrente mese, nella casa posta in VIA CAVOUR al numero NOVANTASEI, da DOMENICA TROJANO, sua moglie, donna di casa, seco lui convivente, è nato un bambino di sesso mascolino che egli mi presenta, e a cui dà il nome di GIOVANNI." Witnesses: Agostino Blumetti, 55, contadino; Salvatore Dramisino, 32, contadino. "Letto il presente atto agl’intervenuti, si è meco sottoscritto IL SOLO DICHIARANTE, e non gli altri, perchè ANALFABETI." Signed: Michele Brunetti · Crispino D’Agostino.',
+          image: 'assets/img/brunetti-1893-birth-act.jpg',
+          imageAlt: 'Act number 36 of the 1893 birth register of Plataci, recording the birth of Giovanni Brunetti on 5 May 1893',
+          imageCredit: 'Comune di Plataci, Atti di Nascita 1893, atto n. 36 — Tribunale di Castrovillari copy, via FamilySearch. Tap to enlarge.',
+          highlight: 'THE RECORD THIS ARCHIVE HAS BEEN CHASING SINCE THE FIRST SESSION. Born at TWENTY PAST NINE IN THE EVENING on 5 MAY 1893, in his own house at VIA CAVOUR 96, PLATACI. His father MICHELE BRUNETTI, aged THIRTY-THREE and described as CIVILE — a man of independent means — walked to the town hall two mornings later and registered him in person. Three things fall out of it. The mother was DOMENICA TROJANO, not "Forano": the 1921 New Orleans clerk misread a handwritten Trojano, and this family has carried the wrong surname for a century. Michele’s age gives him a birth year of about 1860, which matches the "Michele Brunetti, 40, civile" who witnessed a Plataci marriage in 1900 — the same man. And the closing line is the one to keep: only the declarant signed, "e non gli altri, perchè analfabeti" — the witnesses could not write, and MICHELE BRUNETTI COULD. His signature is at the foot of his son’s birth act.'
+        },
+        {
           title: 'The name his village would have used',
           citation: 'Arbëresh naming custom, from the research binder kept by his granddaughter Patricia Pedeaux Ruda, printed December 2010',
           text: 'Every Arbëresh person carries a legal Italian name and an Arbëresh one. Giuseppe is ZEF · Francesco is NXHIKU · Nicola is KOLL · Antonio is NTONI · Maria is MARIEJA — and GIOVANNI is XHUAN, or JANI.',
@@ -1312,9 +1321,10 @@
         { id: 'johnBrunetti' }
       ],
       given: 'Michele', surname: 'Brunetti', sex: 'M',
+      occupation: 'Recorded as "civile" — a man of independent means, not a labourer. By 1893 an assessore of Plataci, and in later years the ordinary assessor deputising as MAYOR.',
       origin: 'Plataci, Cosenza, Calabria',
-      birth: { date: 'about 1870', place: 'Plataci, Cosenza, Calabria, Italy' },
-      evidence: 'confirm',
+      birth: { date: 'about 1860', place: 'Plataci, Cosenza, Calabria, Italy' },
+      evidence: 'verified',
       branch: 'brunetti',
       blurb: 'Named as John\'s father on the 1921 New Orleans marriage record, and as the "father Michele, Plataci" a nineteen-year-old Giovanni gave the Ellis Island officers in 1912. He stayed in the village; his son never went back.',
       note: 'Plataci\'s own civil registers (Cosenza province, from 1809) and parish books are the route to his dates and his own parents. The village is Arbëreshë — records may carry both Italian and Albanian name forms.'
@@ -1324,12 +1334,12 @@
       children: [
         { id: 'johnBrunetti' }
       ],
-      given: 'Domenica', surname: 'Forano', sex: 'F',
+      given: 'Domenica', surname: 'Trojano', alsoKnownAs: 'written FORANO on her son\'s 1921 New Orleans marriage record — a clerk\'s misreading, corrected 2026', sex: 'F',
       origin: 'Plataci, Cosenza, Calabria',
       birth: { date: 'about 1870', place: 'probably Plataci, Cosenza, Calabria, Italy' },
-      evidence: 'confirm',
+      evidence: 'verified',
       branch: 'brunetti',
-      blurb: 'John\'s mother, named on his 1921 marriage record. Nothing else is known of her yet — she lived and died an ocean away from the New Orleans family her son made.',
+      blurb: 'A housewife of via Cavour, Plataci, who at twenty past nine on the evening of 5 May 1893 gave birth to a son in her own house. Her husband walked to the town hall two days later and registered him. She was written into the New Orleans record twenty-eight years afterwards as "Forano," and stayed that way until her son\'s own birth act was read in 2026. She was a TROJANO — one of the oldest names in that village.',
       note: 'Her surname is indexed FORANO; in an Arbëreshë village the spelling may wobble (Forano, Farano, Fiorano) across records. Plataci\'s registers hold her.'
     },
 

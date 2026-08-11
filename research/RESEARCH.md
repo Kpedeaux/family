@@ -3251,3 +3251,56 @@ be at the foot of the act. That is a specific, checkable prediction, and it is f
 forward. Read the act header — *"L'anno milleottocentonovanta tre, addì cinque di Maggio"* — and
 the act will give the child's name, the father with his age and trade, and the mother's full
 maiden name (**FORANO? FORTINO? FORTINI?**).
+
+---
+
+## ★★★ FOUND — JOHN BRUNETTI'S BIRTH ACT. Plataci, 1893, atto n. 36 ★★★
+
+**Image 421 of 2,614**, right-hand page, lower act. FamilySearch collection **2043557**, film
+**"Plataci Nati 1874-1910"**, waypoint `MC55-WNG:349483701,349602001,349602201`.
+Image ark **`3:1:3QS7-997V-3CNN`**. Downloaded via the viewer's download button (4967×3909).
+
+> **NUMERO 36 — BRUNETTI GIOVANNI**
+> "L'anno milleottocentonovanta **TRE**, addì **SETTE** di **MAGGIO**, a ore antimeridiane nove e
+> minuti trentacinque, nella Casa comunale. Avanti di me **CRISPINO D'AGOSTINO, Sindaco** ed
+> Uffiziale dello Stato Civile del Comune di **PLATACI**, è comparso **MICHELE BRUNETTI, di anni
+> TRENTATRE, CIVILE**, domiciliato in Plataci, il quale mi ha dichiarato che alle ore pomeridiane
+> **NOVE e minuti VENTI**, del dì **CINQUE** del corrente mese, nella casa posta in **VIA CAVOUR
+> al numero NOVANTASEI**, da **DOMENICA TROJANO**, sua moglie, **donna di casa**, seco lui
+> convivente, è nato un bambino di sesso mascolino… a cui dà il nome di **GIOVANNI**."
+> Witnesses: **Agostino Blumetti**, 55, contadino · **Salvatore Dramisino**, 32, contadino.
+> "…si è meco sottoscritto **IL SOLO DICHIARANTE**, e non gli altri, **perchè ANALFABETI**."
+> Signed: **Michele Brunetti** · Crispino D'Agostino.
+
+### What it settles
+
+1. **BORN 5 MAY 1893 AT 9:20 P.M., VIA CAVOUR 96, PLATACI.** Exact hour, exact house. Matches the
+   family date to the day.
+2. 🔴 **THE MOTHER WAS DOMENICA *TROJANO*, NOT "FORANO."** The 1921 New Orleans clerk misread a
+   handwritten *Trojano*. This family has carried the wrong surname for a century. **Trojano is one
+   of the oldest names in Plataci** — Maria Trojano married Daniele Brunetti there in the 1700s per
+   the Bodily genealogy. `domenicaForano` (id kept) now reads **Domenica Trojano**, with the Forano
+   misreading recorded as an alias.
+3. **MICHELE BRUNETTI WAS 33** → born **c. 1860** (site had "about 1870" — corrected). Described
+   **"civile"** — independent means, not a labourer. **This is the same man as the "Michele
+   Brunetti, 40, civile" who witnessed a Plataci marriage in December 1900**, and the same
+   **"Michele Brunetti, Assessore ordinario, funzionando da Sindaco"** who was registering Plataci's
+   births in 1893 and 1897. **John's father helped run the town.**
+4. 🟢 **HE COULD WRITE.** The closing formula: only the declarant signed, *"e non gli altri, perchè
+   analfabeti"* — the two witnesses were illiterate and **Michele was not.** His signature is at
+   the foot of his son's birth act.
+5. **Both parent links upgraded confirm → verified.** Tree now **93 people, 49 verified, 11 gens.**
+
+### Method note — how the image was actually read
+The viewer's own zoom is too soft to read. **Use the viewer's DOWNLOAD button**, then crop/upscale
+the JPG locally (PIL autocontrast + LANCZOS). That is what made the handwriting legible.
+Calibration anchors for this film, if anyone returns: **416 = 16 Feb 1893 (act 18) · 421 = 5–7 May
+1893 (acts 35–36) · 422 = 8–18 May 1893 (acts 37–38) · 426 = 17 Jul 1893 · 494 = Jan 1896 ·
+533 = Jul 1897 · 640 = 1900s.**
+
+### Still open
+- **Michele Brunetti × Domenica Trojano marriage act** — Plataci, c. 1885–92. Would name all four
+  of John's grandparents. Same film, *Matrimoni 1866-1910* section.
+- Michele's own birth act, c. 1860, same film, *Nati* section (~image 190–210 by the calibration).
+- Whether this Michele connects to the Bodily/Albertari Brunetti line. **Trojano is the hinge** —
+  it appears in both.
