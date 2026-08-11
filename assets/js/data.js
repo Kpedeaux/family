@@ -1400,7 +1400,7 @@
     johannaLemoine: {
       siblings: [
         'A brother Robert, born 1909 in Orleans Parish — very probably the boy who died in the orphanage',
-        'A baby sister Agnes, who lived three months (died 9 November 1909) — both probably half-siblings, children of Robert\'s marriage to Agnes Hanley'
+        'A baby sister Agnes, named for their mother, who lived three months (died 9 November 1909)'
       ],
       children: [
         'Esther Mae Larmann (18 July 1925 – 15 February 1928)',
@@ -1409,7 +1409,7 @@
       given: 'Johanna Catherine', surname: 'Lemoine', sex: 'F',
       birth: { date: '9 January 1907', place: 'birthplace not yet documented' },
       death: { date: '11 December 1992' },
-      father: 'robertLemoine',
+      father: 'robertLemoine', mother: 'agnesHanley',
       evidence: 'confirm',
       branch: 'lemoine',
       photo: 'assets/img/goubler-tomb-new-tablet.jpg',
@@ -1435,7 +1435,7 @@
           highlight: 'The census image itself, with its relation-to-head column, is the next document to pull: it will say in one word — daughter or granddaughter — which generation raised her on paper.'
         }
       ],
-      note: 'The tree here follows the family\'s settled account, adopted August 2026: her father was Robert Lemoine, and her mother — whose name is not yet recovered — left when Johanna was young, after which Robert remarried. Agnes Hanley, Robert\'s documented 1906 bride, was NOT Johanna\'s mother, per the family. One chronology wrinkle is kept in the open: the Agnes marriage is indexed 1906 and Johanna was born January 1907, so how the two women order around her birth is unresolved. The civil document that will name her mother outright is her own August 1924 marriage licence application (Vol. 49, p. 468), still to be pulled from the State Archives.'
+      note: 'The tree here follows the family\'s settled account, adopted August 2026: her father was Robert Lemoine, her mother Agnes Margaret Hanley — married at Orleans in 1906, Johanna born the following January. Agnes did not die young; she left, while Robert was away in the Navy, and it was Poupone who raised the children until her own death in 1915 sent them to the orphanage. The parent links are carried at confirm, not verified: the civil document that will state her parents outright is her own August 1924 marriage licence application (Vol. 49, p. 468), still to be pulled from the State Archives.'
     },
 
     robertLemoine: {
@@ -1446,14 +1446,14 @@
       children: [
         { id: 'johannaLemoine' },
         'Robert (b. 1909, Orleans Parish) — very probably the boy who died in the orphanage',
-        'Agnes (c. August – 9 November 1909) — dead at three months, named for Robert\'s wife Agnes Hanley'
+        'Agnes (c. August – 9 November 1909) — dead at three months, named for her mother'
       ],
       given: 'Robert', surname: 'Lemoine', sex: 'M',
       birth: { date: '7 May 1888', place: 'Louisiana' },
       death: { date: '20 November 1949' },
       lifespanText: '7 May 1888 – 20 November 1949',
       father: 'alonzoLemoine', mother: 'genevieveRousselle',
-      spouse: 'Johanna\'s mother (name not yet recovered — she left); Agnes Margaret Hanley (m. 1906, Orleans); later Sophie Anderson',
+      spouse: 'Agnes Margaret Hanley (m. 1906, Orleans) — Johanna\'s mother, who left; later Sophie Anderson',
       occupation: 'Chief commissary steward, United States Navy — a career sailor through the First World War',
       evidence: 'confirm',
       branch: 'lemoine',
@@ -1481,7 +1481,35 @@
       sources: [
         { label: 'Army Cemeteries Explorer — his grave record', url: 'https://ancexplorer.army.mil/publicwmv/' }
       ],
-      note: 'His fatherhood of Johanna is the family\'s settled account (2026), consistent with every record found — and awaiting one civil document, Johanna\'s 1924 marriage licence application, for full verification. Per the family, Johanna\'s mother was NOT Agnes Hanley: she was an earlier woman who left, and Agnes was the remarriage. The chronology has a wrinkle held openly — the Agnes marriage is indexed 1906, Johanna born January 1907 — which the licence application should untangle. The infant Agnes and toddler Robert of 1909 are presumably Agnes Hanley\'s children, Johanna\'s half-siblings. His later marriage to Sophie Anderson (Judy\'s notes) is not in the Orleans index; a Navy man could have married anywhere. Whether the second USS Maine was truly his ship awaits his muster rolls. Johanna\'s mother\'s name, and the paperwork Jean once read saying she "married somebody else," are the line\'s most wanted documents; Agnes Hanley\'s fate after 1909 is open too — no adult Agnes Lemoine remains anywhere in Louisiana by the 1910 census.'
+      note: 'His fatherhood of Johanna is the family\'s settled account (2026), consistent with every record found — and awaiting one civil document, Johanna\'s 1924 marriage licence application, for full verification. The timeline: married Agnes at eighteen in 1906, Johanna born the next January, the babies Robert and Agnes in 1909 — the infant dead by November — and by the April 1910 census Agnes is gone from Louisiana while his mother stands with the children. His remarriage to Sophie Anderson (Judy\'s notes) is not in the Orleans index; a Navy man could have married anywhere. Whether the second USS Maine was truly his ship awaits his muster rolls.'
+    },
+
+    agnesHanley: {
+      children: [
+        { id: 'johannaLemoine' },
+        'Robert (b. 1909)',
+        'Agnes (died 9 November 1909, aged three months)'
+      ],
+      given: 'Agnes Margaret', surname: 'Hanley', sex: 'F',
+      spouse: 'Robert Lemoine (m. 1906, Orleans)',
+      evidence: 'confirm',
+      branch: 'lemoine',
+      blurb: 'Johanna\'s mother — married at Orleans in 1906, a mother by the next January, and gone from the record within four years. The family kept it plainly: "she didn\'t die young — she just left them." Her husband was away in the Navy; her mother-in-law Poupone raised the children she left behind.',
+      records: [
+        {
+          title: 'Marriage — Orleans Parish, 1906',
+          citation: 'Louisiana marriage index, Orleans, Vol. 27, p. 962',
+          text: 'HANLEY, AGNES MARGARET × LEMOINE, ROBERT — 1906.',
+          highlight: 'Johanna was born the following 9th of January.'
+        },
+        {
+          title: 'The death of her infant daughter',
+          citation: 'Louisiana death index, Orleans, 9 November 1909 — Vol. 147, p. 1104',
+          text: 'LEMOINE, AGNES — aged 3 months.',
+          highlight: 'A daughter named for her mother, born in the summer of 1909 and dead by November. Within months, Agnes herself disappears from the Louisiana record.'
+        }
+      ],
+      note: 'Family memory says she remarried — "the paperwork said that she married somebody else." No remarriage appears in the Orleans index under Hanley or Lemoine, so it likely happened in another parish or state; no Louisiana death fits her under either name. Her fate, and her own parentage, are open fronts. Johanna\'s 1924 marriage licence application should name her as mother and verify the link.'
     },
 
     anthonyLarmann: {
