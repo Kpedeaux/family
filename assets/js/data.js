@@ -1094,7 +1094,7 @@
       given: 'Marie Françoise', surname: 'Renard', sex: 'F',
       evidence: 'verified',
       branch: 'gaiennie',
-      blurb: 'Named across fifteen years of her children\'s baptisms, and still standing godmother to a Sardet granddaughter in 1769. A native of New Orleans, married to her mason by March 1750. Her daughter Françoise Reyne married into the Caraby family, whose records call the couple "natives of New Orleans."',
+      blurb: 'Three husbands, and she buried two of them before she was thirty. A native of New Orleans, she married Pierre Cousin and had a son in 1745; married Antoine Joly by contract in September 1747 and buried him within the year; and by March 1750 was the wife of Étienne Reine, mason — the marriage that lasted, and that this family descends from. Named across fifteen years of her children\'s baptisms, and still standing godmother to a Sardet granddaughter in 1769.',
       records: [
         {
           title: 'The first time she appears — as a godmother, 16 March 1750',
@@ -1103,10 +1103,22 @@
           highlight: 'The oldest record of either of them, and it gives her the full name the later entries drop: MARIE Françoise. She is standing over the font for the baby of a widow — the kind of small neighbourly act that is most of what survives of a woman\'s life in these books.'
         },
         {
-          title: 'A first husband? — the Cousin lead',
+          title: 'Her first husband — Pierre Cousin',
           citation: 'St. Louis church, New Orleans — baptism of Jean François Cousin, 7 September 1745 (SLC, B2, 49); SRANO Vol. 1',
           text: '"COUSIN — Jean Francois (PIERRE and FRANCOISE RENARD), b. Sept. 7, 1745, s. Jean CONNARD and Sylvestre? MAUNOY."',
-          highlight: 'PROBABLE, NOT PROVEN, and worth watching. A Françoise Renard is the wife of a Pierre Cousin in 1745; five years later a Marie Françoise Renard is the wife of Étienne Reine. And when the Reynes\' last child was baptised in 1766, the godfather was a FRANÇOIS COUSIN — who would be exactly the right age, at twenty-one, to be her son by that first marriage standing over his half-sister. The gap between 1745 and 1750 is the right shape for a young widowhood. What would settle it is Pierre Cousin\'s burial, or the Reine–Renard marriage act itself, which would call her a widow if she was one. Neither has been found. Until then this stays a lead, because "Françoise Renard" is not a rare enough name to convict on.'
+          highlight: 'Her son by her first marriage, born seven years before her eldest Reyne child. He is almost certainly the "François COUSIN" who stood godfather at the last Reyne baptism in 1766 — twenty-one years old, standing over his own half-sister.'
+        },
+        {
+          title: 'THE COURT NAMES HER OUTRIGHT — twice widowed by 1748',
+          citation: 'French Superior Council, New Orleans — 3 August 1748, petition (Louisiana Historical Quarterly Vol. 20 no. 1, p. 215); Louisiana Historical Center, doc. 1748-08-03-03',
+          text: 'Parties named: Antoine JOLY · Nicolas HENRY · Vincent Guillaume Le Senechal D\'AUBERVILLE · Pierre COUSIN · Jean Baptiste GARIC · Jean Baptiste RAGUET · and "RENARD, FRANÇOISE — WIDOW OF PIERRE COUSIN & ANTOINE JOLY."',
+          highlight: 'Found 11 August 2026, and it does more than confirm the Cousin lead — it hands over an entire marriage nobody in this family knew about. The Superior Council\'s own index carries her, in its own words, as the widow of two men. She buried Pierre Cousin, married Antoine Joly, and buried him too, all inside about three years. Then she married the mason.'
+        },
+        {
+          title: 'Her second husband — the marriage contract, 6 September 1747',
+          citation: 'French Superior Council, New Orleans — Notarial Acts, Marriage Contract, 6 September 1747 (doc. 1747-09-06-01, ten pages); with the Joly will of 11 March 1748 (doc. 1748-03-11-02, five pages)',
+          text: 'Marriage contract: Antoine JOLY and Françoise RENARD, with Wiltz, Augustin CHANTALOU, Nicolas HENRY and Menkingle. Will and testament, five months later: RENARD, Nicolas JUDICE, Nicolas HENRY, JOLY, Vegas.',
+          highlight: 'The shape of a very short marriage, in three documents. A contract drawn in September 1747 — ten pages of it, so there was property to settle. A will in March 1748. An estate petition in August. Whatever Antoine Joly had, he had time to write it down and not much more.'
         }
       ],
       note: 'WHO CAME TO NEW ORLEANS, AND WHEN — the honest state of it. Her daughter\'s 1784 marriage act calls Étienne and Marie Françoise "naturales todos de esta Parroquia," natives of this parish. If that is right, neither of them crossed the ocean: they were born in New Orleans in the 1720s, and it was their PARENTS who came, in the town\'s founding years. Those parents cannot yet be named, and there is a hard reason why. The St. Louis church baptismal registers effectively begin in 1731; what came before is lost or fragmentary, and the 1788 fire took more. So the generation that actually made the crossing falls in the gap. Barring a notarial act, a Superior Council case or a passenger list, they may stay nameless — which is its own kind of answer.'

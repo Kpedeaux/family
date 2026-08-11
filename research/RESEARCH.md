@@ -2738,3 +2738,43 @@ Reine–Renard record — exactly where a widowhood and estate settlement would 
 
 **Still untried:** Maduell's *Census Tables 1699–1732*; Company of the Indies passenger lists
 1718–21; SRANO Vol. 1 funerals for COUSIN, Pierre, 1745–50.
+
+### ★★★ MARIE FRANÇOISE RENARD MARRIED THREE TIMES — SOLVED 2026-08-11 ★★★
+
+The Cousin lead is no longer a lead. Three French Superior Council documents at
+`lacolonialdocs.org` carry her, in the archive's own index, as:
+
+> **"RENARD, Francoise — WIDOW OF PIERRE COUSIN & ANTOINE JOLY"**
+
+**The sequence, documented:**
+
+| Date | Document | Source |
+|---|---|---|
+| 7 Sep 1745 | Son **Jean François COUSIN** bapt. (Pierre and Françoise Renard) | SLC, B2, 49 — SRANO Vol. 1 |
+| — | Pierre Cousin dies, between Sept 1745 and Sept 1747 | *(burial not yet found)* |
+| **6 Sep 1747** | **MARRIAGE CONTRACT, Antoine JOLY × Françoise RENARD** — 10 pp. w. Wiltz, Augustin Chantalou, Nicolas Henry, Menkingle | Sup. Council, doc. **1747-09-06-01** = `/document/7686` |
+| **11 Mar 1748** | **WILL/TESTAMENT** — Renard, Nicolas Judice, Nicolas Henry, Joly, Vegas — 5 pp. | doc. **1748-03-11-02** = `/document/7942` |
+| **3 Aug 1748** | **PETITION** — Joly, Nicolas Henry, **d'Auberville** (royal commissary), **Pierre Cousin**, **Jean Baptiste Garic** (notary), Raguet, and Françoise Renard **"widow of Pierre Cousin & Antoine Joly"** | doc. **1748-08-03-03** = `/document/8153`; *LA Historical Quarterly* Vol. 20 #1, p. 215 |
+| by **16 Mar 1750** | wife of **ÉTIENNE REINE, mason** | SLC, B2, 180 — SRANO Vol. 1 |
+
+**Twice widowed in about three years, then married the mason.** Third marriage is the one this
+family descends from.
+
+**Knock-on:** the **François COUSIN** who was godfather at Marie Joseph Reyne's baptism in 1766
+(SLC, B5, 136) is her own son Jean François Cousin, aged 21, standing over his half-sister. That
+reading is now supported, not speculative.
+
+**Age estimate:** married Cousin by ~1744, so b. c.1722–25 — consistent with the 1784 act calling
+her a native of this parish, born in New Orleans within a decade of its founding.
+
+**METHOD NOTE — this is the transferable win.** The church registers had gone as far as they
+could. The answer was in the *civil* record: `lacolonialdocs.org` is URL-searchable
+(`?last_name=X`, also `rest_of_name`, `professions`, `roles`, `residences`, `places`), covering
+French Superior Council + Spanish Judiciary 1714–1769. **When a colonial Louisiana line stalls in
+the sacramental books, go to the court records next.**
+
+**STILL OPEN on this couple:** Pierre Cousin's burial (would date the first widowhood); the
+Reine × Renard marriage act itself, c.1748–1750 — it would call her *veuve Joly* and may name her
+parents, which is the whole game; and a `professions=mason`/*maçon* search for Étienne, who as a
+master mason should appear in building contracts. Post-1750 RENARD hits at lacolonialdocs are
+unnamed ("Renard, ___") and cannot be attributed.
