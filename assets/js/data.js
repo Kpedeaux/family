@@ -1792,7 +1792,7 @@
       father: 'alonzoLemoine', mother: 'genevieveRousselle',
       spouse: 'Agnes Margaret Hanley (m. 1906, Orleans) — Johanna\'s mother, who left; later Sophie Anderson',
       occupation: 'Chief commissary steward, United States Navy — a career sailor through the First World War',
-      evidence: 'confirm',
+      evidence: 'verified',
       branch: 'lemoine',
       blurb: 'The Navy man in Arlington. A father at nineteen, and at sea for the rest of it: Johanna\'s mother left when the children were young, Robert was away in the Navy, and his mother Poupone stepped in to raise them. What sent the children to the orphanage anyway is now an open question — it was long assumed to be Poupone\'s death, but she lived until 1938, so it was not that. Robert made the Navy his life and rose to chief commissary steward, the man in charge of feeding a warship. He lies in Arlington National Cemetery, section 34, grave 1964.',
       records: [
@@ -1803,8 +1803,8 @@
           highlight: 'CCS is the Navy rating chief commissary steward. The family remembered him as "head of all the foods and stuff — commissary something." The stone says exactly that.'
         },
         {
-          title: 'Marriage — Orleans Parish, 1906',
-          citation: 'Louisiana marriage index, Orleans, Vol. 27, p. 962',
+          title: 'Marriage — Orleans Parish, 1906 — the act that names his parents',
+          citation: 'Louisiana, Parish Marriages, 1787–1958 — Orleans, 22 May 1906, p. 962 (FamilySearch 1:1:QKJH-M2WC); civil index Vol. 27, p. 962',
           text: 'HANLEY, AGNES MARGARET × LEMOINE, ROBERT — 1906.',
           highlight: 'The year before Johanna\'s birth. He was eighteen.'
         },
@@ -1824,6 +1824,18 @@
           highlight: 'Two dates in this card are not coincidences. His wartime service opens on 6 APRIL 1917 — the day the United States declared war on Germany — and his last ship\'s entry closes on 11 NOVEMBER 1918, the Armistice. In between he went from a New Orleans baker\'s rating to chief of a battleship\'s commissary: the man responsible for feeding a thousand-man crew. The stone at Arlington reads CCS. This is the paperwork behind those three letters, and it also gives his enlistment date exactly — 31 October 1913, not "around 1906" as this site previously guessed.'
         },
         {
+          title: 'Mare Island — the 1930 census, Vallejo, California',
+          citation: 'United States Census, 1930 — Vallejo, Solano County, California; sheet 4A, line 38 (NARA T626)',
+          text: 'ROBERT LEMOINE, 41, born Louisiana, married, head of household — father born Louisiana, mother born Louisiana. Wife: SOPHIE LEMOINE, 43, born NORWAY. Also in the house: Mary Anderson, 37, born Austria.',
+          highlight: 'Seventeen years into the Navy and three thousand miles from Plaquemines. Vallejo is MARE ISLAND, the Navy yard on San Francisco Bay — so this is a posting, not a move. It also puts a face on the second marriage the family only half-remembered: Sophie was NORWEGIAN, ten months older than him, and a Mary Anderson was living with them, which is very likely her sister — Anderson was Sophie\'s own maiden name. His parents are both entered as Louisiana-born, quietly corroborating Alonzo and Poppone a generation back.'
+        },
+        {
+          title: 'Washington, and why he lies at Arlington',
+          citation: 'United States Census, 1940 — Tract 96, Police Precinct 11, District of Columbia',
+          text: 'Robert Lemoine, born 1888, Louisiana — resident in the District of Columbia.',
+          highlight: 'By 1940 he had come off the ships and was living in Washington, which is the missing step between a New Orleans boyhood and a grave in Virginia. He died in 1949 and was buried at Arlington on 23 November. The arc runs Camp Street to Mare Island to the capital.'
+        },
+        {
           title: 'Where the Utah was, while he was aboard her',
           citation: 'Dictionary of American Naval Fighting Ships, "Utah I (Battleship No. 31)," Naval History and Heritage Command',
           text: 'USS Utah reached Berehaven, Bantry Bay, Ireland, on 10 September 1918 and became flagship of Rear Admiral Thomas S. Rodgers, Commander, Battleship Division Six. With Oklahoma and Nevada she operated from Bantry Bay until the armistice of 11 November 1918, covering the Allied convoys approaching the British Isles against any surface attack on the troop transports.',
@@ -1836,6 +1848,37 @@
       note: 'CONFIRMED IN PRINT, August 2026: Johanna\'s own December 1992 obituary calls her "daughter of the late Robert Lemoine." His own November 1949 notice gives his age as 61 — exact for a man born 7 May 1888 — names his wife Sophie A. Lemoine and his brother Eugene, and ends "Interment Arlington National Cemetery." His fatherhood of Johanna is therefore no longer only family testimony. It is consistent with every record found — and awaiting one civil document, Johanna\'s 1924 marriage licence application, for full verification. The timeline: married Agnes at eighteen in 1906, Johanna born the next January, the babies Robert and Agnes in 1909 — the infant dead by November — and by the April 1910 census Agnes is gone from Louisiana while his mother stands with the children. His remarriage to Sophie Anderson (Judy\'s notes) is not in the Orleans index; a Navy man could have married anywhere. Whether the second USS Maine was truly his ship awaits his muster rolls.'
     },
 
+    stephenHanley: {
+      children: [ { id: 'agnesHanley' } ],
+      given: 'Stephen D.', surname: 'Hanley', sex: 'M',
+      evidence: 'verified',
+      branch: 'lemoine',
+      blurb: 'Agnes\'s father, and the reason this family is Irish at all. He appears on his daughter\'s 1906 marriage act and nowhere else yet — but a Hanley buried from St. Alphonsus, the old Irish Channel church, is exactly what the surname promises.',
+      records: [
+        {
+          title: 'Named at his daughter\'s marriage',
+          citation: 'Louisiana, Parish Marriages, 1787–1958 — Orleans, 22 May 1906, p. 962',
+          text: 'On the act with the couple: STEPHEN D. HANLEY and MARY C. REED — the bride\'s parents.',
+          highlight: 'Found 12 August 2026. His name had been an open question on this site: "Agnes Hanley\'s own people — her parents, her birth date." Half of it is answered by a record we had already cited for something else and never read all the way down.'
+        }
+      ]
+    },
+
+    maryReed: {
+      children: [ { id: 'agnesHanley' } ],
+      given: 'Mary C.', surname: 'Reed', sex: 'F',
+      evidence: 'verified',
+      branch: 'lemoine',
+      blurb: 'Agnes\'s mother. Named once, on her daughter\'s marriage act of 1906, when that daughter was sixteen years old.',
+      records: [
+        {
+          title: 'Named at her daughter\'s marriage',
+          citation: 'Louisiana, Parish Marriages, 1787–1958 — Orleans, 22 May 1906, p. 962',
+          text: 'On the act with the couple: Stephen D. HANLEY and MARY C. REED — the bride\'s parents.'
+        }
+      ]
+    },
+
     agnesHanley: {
       children: [
         { id: 'johannaLemoine' },
@@ -1845,15 +1888,16 @@
       given: 'Agnes Margaret', surname: 'Hanley', sex: 'F',
       spouse: 'Robert Lemoine (m. 1906, Orleans); later William Winstine',
       death: { date: '15 November 1964', place: 'New Orleans' },
+      father: 'stephenHanley', mother: 'maryReed',
       evidence: 'verified',
       branch: 'lemoine',
-      blurb: 'Johanna\'s mother — married at Orleans in 1906, a mother by the next January, and gone from her first family within four years. The family kept it plainly: "she didn\'t die young — she just left them." She married William Winstine and raised a second family in the same city, and when she died in 1964 her obituary named all three of her children together — Johanna first.',
+      blurb: 'Johanna\'s mother — SIXTEEN YEARS OLD when she married at Orleans in May 1906, a mother by the next January, and gone from her first family within four years. The family kept it plainly: "she didn\'t die young — she just left them." She married William Winstine and raised a second family in the same city, and when she died in 1964 her obituary named all three of her children together — Johanna first.',
       records: [
         {
-          title: 'Marriage — Orleans Parish, 1906',
-          citation: 'Louisiana marriage index, Orleans, Vol. 27, p. 962',
-          text: 'HANLEY, AGNES MARGARET × LEMOINE, ROBERT — 1906.',
-          highlight: 'Johanna was born the following 9th of January.'
+          title: 'Marriage — Orleans Parish, 1906, read in full',
+          citation: 'Louisiana, Parish Marriages, 1787–1958 — Orleans, 22 May 1906, p. 962 (FamilySearch 1:1:QKJH-M2WC); civil index Vol. 27, p. 962',
+          text: 'ROBERT LEMOINE, aged 21, son of ANAZAN [Alonzo] LEMOINE and GENEVIEVE ROUSSEL × AGNES MARGARET HANLEY, aged 16. Also on the record: STEPHEN D. HANLEY and MARY C. REED — her parents.',
+          highlight: 'THE SAME RECORD, READ ALL THE WAY DOWN. This site has cited this marriage since the beginning and never looked past the two names in the index. It carries FOUR parents. Hers were STEPHEN D. HANLEY and MARY C. REED — which closes an open question that has been on the field-notes page for months. And it carries their ages: she was SIXTEEN, and Johanna was born less than eight months later. Robert is entered as twenty-one, but his 1913 Navy card gives his age as twenty-five years five months in October of that year, which puts his birth in May 1888 and makes him EIGHTEEN at this wedding, not twenty-one. A groom of eighteen needed his parents\' consent in Louisiana. A groom of twenty-one did not.'
         },
         {
           title: 'The death of her infant daughter',

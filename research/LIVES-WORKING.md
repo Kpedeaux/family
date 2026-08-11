@@ -285,3 +285,58 @@ a Maine posting would sit** — the family story is now possible in a way it was
 - **Obituary 27 Nov 1949** (GenealogyBank, New Orleans) — spouse *"Sole [Sophie] Anderson,"*
   daughter *"Mrs Charles Larmann"* (Johanna).
 - ❌ **A different man:** *Robert P. Lemoine*, WWI AEF Deaths, d. 24 Jul 1918. Not ours.
+
+### 🟢 ROBERT LEMOINE, round 2 — marriage upgrade, two censuses, and the muster-roll verdict. 2026-08-12
+
+**🟢🟢 THE 1906 MARRIAGE, READ ALL THE WAY DOWN — and it carries FOUR parents.**
+*Louisiana, Parish Marriages, 1787–1958* — Orleans, **22 May 1906, p. 962**; FamilySearch
+**`1:1:QKJH-M2WC`**. This site has cited this marriage from the beginning and never read past the
+two names in the index.
+
+> **ROBERT LEMOINE, aged 21**, son of **ANAZAN [Alonzo] LEMOINE** and **GENEVIEVE ROUSSEL**
+> × **AGNES MARGARET HANLEY, aged 16**
+> *Other people on this record:* **STEPHEN D. HANLEY** · **MARY C. REED**
+
+1. 🟢 **Robert upgraded confirm → verified** — a record naming him with both parents.
+2. 🟢🟢 **AGNES HANLEY'S PARENTS: STEPHEN D. HANLEY × MARY C. REED.** Two new people
+   (`stephenHanley`, `maryReed`, both verified). **Closes a standing open question** on the
+   field-notes page. Fits the St. Alphonsus / Irish Channel burial the site already noted.
+3. 🔴 **SHE WAS SIXTEEN.** Johanna was born 9 January 1907 — under eight months later.
+4. ⚠️ **AGE DISCREPANCY, flagged not smoothed:** he is entered as **21**, but his 1913 Navy card
+   gives 25 yrs 5 mos in October 1913 → born May 1888 → he was **18** at this wedding. Eighteen
+   needed parental consent in Louisiana; twenty-one did not. Site states both and draws no
+   conclusion beyond that.
+**Tree now 99 people, 59 verified.**
+
+**🟢 1930 CENSUS — VALLEJO, SOLANO CO., CALIFORNIA** (sheet 4A line 38, NARA T626):
+Robert Lemoine, 41, b. Louisiana, head; **father b. Louisiana, mother b. Louisiana** (quiet
+corroboration of Alonzo × Poppone); wife **SOPHIE LEMOINE, 43, born NORWAY**; also in household
+**Mary Anderson, 37, b. Austria** — Sophie's maiden name was Anderson, so probably her sister.
+**Vallejo = MARE ISLAND Navy Yard** — a posting, not a move.
+
+**🟢 1940 CENSUS — WASHINGTON, D.C.**, Tract 96, Police Precinct 11. Thinly indexed (no household
+members). Explains the Arlington burial. Arc: **5608 Camp St. → Mare Island → Washington**.
+
+### ❌ THE MUSTER ROLLS: NOT ONLINE. Verdict, so nobody re-runs this.
+
+The 1913–1917 gap that would settle the **USS Maine spoon** cannot be closed from a desk right now.
+- **NARA holds Navy muster rolls ~1798–June 1939 at Archives I, Washington.** The digitized
+  portion is **19th-century** (a NOAA/JISAO weather-data project, 1861–79). 1913–17 is **not**
+  digitized.
+- ⚠️ **TRAP I FELL INTO:** FamilySearch's *"United States, Enlisted and Officer Muster Rolls and
+  Rosters, 1916–1939"* (collection **3346936**) looks perfect and is **ARMY** — records transferred
+  by the *Department of the Army*, from NARA St. Louis. Searching it for Robert Lemoine returns
+  only **Robert P. Lemoine, 18 Sep 1917**, who is the *other* man — the one in the AEF Deaths index,
+  d. 24 Jul 1918. **Not ours. Do not attach it.**
+
+**→ TWO REAL PATHS, both by letter rather than search:**
+1. **His Official Military Personnel File.** A man who enlisted in 1913 and served into at least
+   the 1930s has an OMPF. He died in 1949, so it is long past the 62-year rule and **open to the
+   public**. **One file would give the complete ship-by-ship service including 1913–17** — and
+   settle the Maine outright. Navy OMPFs of that era: National Personnel Records Center, St. Louis.
+2. **NARA Archives I Reference** — `archives1reference@nara.gov` — will do a name-and-ship lookup
+   in the pre-1939 Navy muster rolls.
+
+**What we can already say honestly:** the spoon went from *unlikely* to *open*. The second USS
+Maine served until 1920; his card covers 1917 onward only; 1913–17 is blank and is exactly where a
+Maine posting fits.
