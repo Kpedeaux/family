@@ -224,3 +224,64 @@ Pareti are all additions**, and the married surnames are the key to finding thei
 - ⚠️ **The other session is downloading to the same Downloads folder.** Check file timestamps
   before assuming a download is mine.
 
+
+---
+
+### 🟢🟢 ROBERT LEMOINE — his whole war, ship by ship. 2026-08-12
+
+**⚠️ SESSION NOTE: the two-window split is over.** Kevin consolidated to a single session; git
+commits and pushes are running from here again. The "no git commands" rule at the top of this file
+no longer applies.
+
+**THE DOCUMENT:** *Louisiana, World War I Service Records, 1917–1920* — Orleans, **Navy Records**
+section. Louisiana State Archives, via FamilySearch `1:1:Q2TY-5CYY`, image **3822 of 6,940**
+(`3:1:3QS7-8968-Z74M`, collection `2489920`). **First document this archive has ever had for his
+service.** Image saved to `assets/img/lemoine-1913-service-card.jpg`.
+
+> **LEMOINE ROBERT · Service No. 181-02-79 · Rcr Station New Orleans La. · 10-31-13**
+> 25 yrs. 5 mos. · **Baker 2 Class** · U S N · **5608 Camp St.**, Orleans, New Orleans, Louisiana
+>
+> | Served at | From | To | Served as | Days |
+> |---|---|---|---|---|
+> | USS **New York** | 4-6-17 | 7-31-17 | **Commissary Steward** | 178 |
+> | *Discharged 7-31-17 · Reenlisted 8-1-17, USS New York at New York N.Y.* | | | | |
+> | USS **New York** | 8-1-17 | 9-15-17 | | |
+> | USS **Utah** | 9-15-17 | **11-11-18** | **Chief Commissary Steward** | 406 |
+>
+> **Remarks:** Date of discharge **8-18-19**, Receiving Ship New Orleans La.
+> Rating at discharge: **Chief Commissary Steward**
+
+**WHAT IT SETTLES**
+1. **Enlisted 31 Oct 1913**, not "around 1906" as the site guessed. Age 25 yrs 5 mos on that date
+   → born ~end of May 1888; site has 7 May 1888. Close enough to corroborate.
+2. **He started as a BAKER.** Baker 2 Class → Commissary Steward → **Chief Commissary Steward**.
+   The Arlington stone's "CCS" now has a career behind it.
+3. **Address at enlistment: 5608 Camp Street, New Orleans.**
+4. His war opens **6 April 1917** — the day the U.S. declared war — and his last ship's entry
+   closes **11 November 1918**, the Armistice.
+5. **USS Utah context** (DANFS, Naval History and Heritage Command): reached **Berehaven, Bantry
+   Bay, Ireland** 10 Sep 1918, flagship of **Battleship Division Six**; with *Oklahoma* and
+   *Nevada* covered the Allied convoys until the armistice. So his last two months were in Irish
+   waters guarding AEF transports.
+6. 🔴 **NOT CLAIMED:** USS New York went to Scapa Flow with the Grand Fleet in **December 1917** —
+   he had transferred off her in September. Stated explicitly on the page so nobody upgrades it.
+
+**🟡 THE SPOON JUST GOT MORE PLAUSIBLE.** The card covers **1917 onward only**. His enlistment was
+**1913**. The second USS Maine (BB-10) served until **1920**. **The 1913–1917 gap is exactly where
+a Maine posting would sit** — the family story is now possible in a way it was not before.
+**NEXT:** U.S. Navy muster rolls / enlistment returns 1913–17 would fill that gap.
+
+**OTHER RECORDS FOUND, NOT YET WORKED:**
+- **1930 census — VALLEJO, SOLANO CO., CALIFORNIA**, with wife **Sophie**. Vallejo = **Mare Island
+  Navy Yard**. Confirms the career continued and locates the second marriage.
+- **1940 census — Washington, D.C.**, Tract 96, Police Precinct 11. Explains the Arlington burial.
+- **Voter registrations** 13 Jul 1908 (La.), 31 Jul 1921 and 31 Jul 1922 (Orleans) — two of them
+  give his birthplace as **"ST. JOHN, LOUISIANA"**, i.e. St. John the Baptist Parish. **The site
+  currently says only "Louisiana."**
+- **1900 census**, 1st Precinct New Orleans Ward 13 — Robert b. June 1888, parents **Alonzo** and
+  **Genevieve**, siblings **Eugene** and **ERNEST**.
+- **1906 marriage** (Orleans) names his parents: *"Genenive Rousselle, Anajau [Alonzo] Lemoine."*
+  🟢 **This is a record naming him WITH both parents — grounds to upgrade him confirm → verified.**
+- **Obituary 27 Nov 1949** (GenealogyBank, New Orleans) — spouse *"Sole [Sophie] Anderson,"*
+  daughter *"Mrs Charles Larmann"* (Johanna).
+- ❌ **A different man:** *Robert P. Lemoine*, WWI AEF Deaths, d. 24 Jul 1918. Not ours.

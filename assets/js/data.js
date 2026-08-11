@@ -28,9 +28,9 @@
         'Catherine Ann Pedeaux'
       ],
       children: [
-        'Owen Pedeaux',
-        'Philip Pedeaux',
-        'John Pedeaux'
+        'Owen John Pedeaux',
+        'Philip Joseph Pedeaux — the name is already on this tree: Numa Sr.\'s eldest brother was christened Antoine Philippe Joseph at Labadieville in 1872',
+        'John Charles Pedeaux — John for his great-grandfather John Richard Larmann; Charles for Charles Emile Larmann, the generation before'
       ],
       given: 'Kevin Joseph', surname: 'Pedeaux', sex: 'M',
       birth: { place: 'Meraux, St. Bernard Parish, Louisiana' },
@@ -1812,7 +1812,22 @@
           title: 'The battleship spoon',
           citation: 'Family keepsake, photographed August 2026 — see the research page',
           text: 'A souvenir spoon engraved U.S. BATTLESHIP MAINE — 6682 TONS, kept in the family with the story that the Maine was his ship.',
-          highlight: 'He was nine when the first Maine exploded at Havana in 1898 — but a second USS Maine served from 1902 through the First World War, exactly the span of his career. His muster rolls would tell whether the family story fits the second ship.'
+          highlight: 'He was nine when the first Maine exploded at Havana in 1898 — but a second USS Maine served from 1902 until 1920, and his service card only accounts for 1917 onward. The four years between his enlistment in October 1913 and the war are still blank, and that is exactly where a Maine posting would sit. The family story is now possible in a way it was not before, and the muster rolls for 1913–17 would settle it.'
+        },
+        {
+          title: 'HIS SERVICE CARD — the whole war, ship by ship',
+          citation: 'Louisiana, World War I Service Records, 1917–1920 — Orleans, Navy Records; Louisiana State Archives, via FamilySearch (1:1:Q2TY-5CYY, image 3822 of 6,940)',
+          text: 'LEMOINE ROBERT · Service No. 181-02-79 · enlisted Receiving Station New Orleans, La., 31 October 1913, aged 25 years 5 months, rating BAKER 2 CLASS, U.S.N. · address 5608 Camp St., New Orleans. — USS NEW YORK, 6 Apr 1917 to 31 Jul 1917, served as COMMISSARY STEWARD, 178 days. Discharged 31 Jul 1917. Reenlisted 1 Aug 1917 at New York, N.Y. — USS NEW YORK, 1 Aug 1917 to 15 Sep 1917. — USS UTAH, 15 Sep 1917 to 11 Nov 1918, CHIEF COMMISSARY STEWARD, 406 days. — Date of discharge 18 Aug 1919, Receiving Ship New Orleans, La. Rating at discharge: CHIEF COMMISSARY STEWARD.',
+          image: 'assets/img/lemoine-1913-service-card.jpg',
+          imageAlt: 'A typed Louisiana World War I service card for Robert Lemoine, listing his enlistment at New Orleans in 1913 and his service aboard USS New York and USS Utah',
+          imageCredit: 'Louisiana, World War I Service Records, 1917–1920, Orleans Navy Records — Louisiana State Archives, via FamilySearch. Tap to enlarge.',
+          highlight: 'Two dates in this card are not coincidences. His wartime service opens on 6 APRIL 1917 — the day the United States declared war on Germany — and his last ship\'s entry closes on 11 NOVEMBER 1918, the Armistice. In between he went from a New Orleans baker\'s rating to chief of a battleship\'s commissary: the man responsible for feeding a thousand-man crew. The stone at Arlington reads CCS. This is the paperwork behind those three letters, and it also gives his enlistment date exactly — 31 October 1913, not "around 1906" as this site previously guessed.'
+        },
+        {
+          title: 'Where the Utah was, while he was aboard her',
+          citation: 'Dictionary of American Naval Fighting Ships, "Utah I (Battleship No. 31)," Naval History and Heritage Command',
+          text: 'USS Utah reached Berehaven, Bantry Bay, Ireland, on 10 September 1918 and became flagship of Rear Admiral Thomas S. Rodgers, Commander, Battleship Division Six. With Oklahoma and Nevada she operated from Bantry Bay until the armistice of 11 November 1918, covering the Allied convoys approaching the British Isles against any surface attack on the troop transports.',
+          highlight: 'So the last two months of his war were spent in Irish waters, on the flagship of an American battleship division guarding the convoys that carried the AEF to France. His service entry for the Utah ends on the same day the guns stopped. NOTE ON WHAT IS NOT CLAIMED: USS New York went to Scapa Flow with the British Grand Fleet in December 1917 — after he had already transferred off her. He was not there.'
         }
       ],
       sources: [
