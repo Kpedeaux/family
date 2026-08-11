@@ -2681,3 +2681,35 @@ Record **images now render inside person panels** on the tree (new `image` / `im
 `imageCredit` fields on record objects, `.record__fig` CSS, tap to enlarge) — not just on the
 field-notes page. Gesmold 1846 and Reyne 1784 attached so far; the other images are still
 figure-only on research.html and could be wired up the same way.
+
+### Reyne origin hunt, round 2 — 2026-08-11
+
+Wide re-sweep of SRANO Vol. 1 (1718–1750) for every spelling variant
+(REIN/REYN/REHEN/RENN/RAIN/REGN/RENAR/RENART), reading every hit in context.
+
+**🟡 NEW LEAD — Marie Françoise Renard may have been a widow when she married Étienne.**
+> **COUSIN — Jean Francois (PIERRE and FRANCOISE RENARD), b. Sept. 7, 1745 (SLC, B2, 49)**
+
+Chain: Françoise Renard is wife of Pierre Cousin in **1745** → Marie Françoise Renard is wife of
+Étienne Reine by **March 1750** → and the godfather at the Reynes' last child's baptism in **1766
+is a FRANÇOIS COUSIN**, who at 21 fits a son of the 1745 marriage standing over his half-sister.
+The 1745→1750 gap is the right shape for a young widowhood.
+**PROBABLE, NOT PROVEN** — "Françoise Renard" is not rare enough to convict on. **Settles it:**
+Pierre Cousin's burial record, or the Reine–Renard marriage act (would call her *veuve*). Neither
+found. Search Vol. 1 funerals for COUSIN 1745–1750.
+
+**🔴 DEAD END, CLOSED — the "Ste. Reyne concession."** Carried on the site for months as
+"possibly connected." It is real: *"CEARD — Pierre, director of ST. REYNE concession, i. June 25,
+1726 (AN, F 1726, 10)."* But **Sainte Reine** is a saint (Reine of Alise) and the concession
+carries a dedication, not a surname. *Sainte* ≠ *Reyne*. Removed from the leads list on both the
+site and here. Do not resurrect.
+
+**Still negative:** no Reine/Reyne baptism or marriage anywhere in Vol. 1. Consistent with the
+structural gap — SLC B1 citations start 1731; pre-1731 events cite "AN, F 172x" (Archives
+Nationales) instead, i.e. funerals only. **The 1720s baptisms simply are not there.**
+
+**UNTRIED, in priority order:** (1) `lacolonialdocs.org` — Superior Council + notarial records,
+1714–1769; a master mason appears in building contracts and estate inventories. My earlier URL
+guess (`/search?keyword=`) returned nothing; find the real search form. (2) Maduell, *Census
+Tables for the French Colony of Louisiana 1699–1732*. (3) Company of the Indies passenger lists,
+1718–1721. (4) SRANO Vol. 1 funerals for **COUSIN, Pierre**, 1745–1750.
