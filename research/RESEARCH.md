@@ -3341,3 +3341,32 @@ LANCZOS. Downloads land in `C:\Users\pedea\Downloads\<ark-tail>.jpg` at ~5000×3
 Domenica Trojano's parents — with ages and occupations. **TROJANO is the hinge**: a Maria Trojano
 married Daniele Brunetti at Plataci in the 1700s in the Bodily genealogy, so this act is the most
 likely single document to connect our line to that one.
+
+### 🎯 Matrimoni section located and calibrated to the YEAR — 2026-08-11
+
+Same film `MC55-WNG…`, cc 2043557. **Marriage acts confirmed present and reached.**
+
+| Image | What is on it |
+|---|---|
+| 1725 | **ATTI DI MATRIMONIO — 1878**, acts 15 & 16 (13 Oct / 1 Nov 1878) |
+| 1840 | **ATTI DI MATRIMONIO — 1891**, acts 9 & 10, both 4 October 1891 |
+| **1846** | 🎯 **PRINTED COVER: "COMUNE DI PLATACI · REGISTRO DEGLI ATTI DI MATRIMONI0 · ANNO 1892"** |
+
+**→ THE 1892 MARRIAGE REGISTER BEGINS AT IMAGE 1847.**
+Plataci ran roughly **10–16 marriages a year**, two acts to an opening, so **all of 1892 sits in
+about images 1847–1856.** 1891's acts sit at about **1836–1845**.
+
+**John was born 5 May 1893.** If he was the first child, his parents married in **1892** (images
+1847–1856) or **late 1891** (≈1840–1845). Both ranges are now small enough to read page by page.
+
+**NEXT ACTION — literally a few clicks:** open image **1847** and step forward, reading the
+right-hand marginal names (they are indexed there in a large hand: e.g. "Brunetti Giuseppe /
+Chidichimo Rosa"). **Look for BRUNETTI × TROJANO.** If 1892 comes up empty, drop back to 1836–1845
+for 1891, then work backwards year by year — each year's register has a printed cover page, so the
+year boundaries are easy to spot.
+
+**Sample of what the act gives** (from the 1891 acts read at image 1840): groom's name, age, trade,
+birthplace, residence, **father's name (with "fu" if deceased) and mother's name**; then the same
+for the bride. **That is all four of John's grandparents in one document.**
+
+Method reminder: Image box → download icon → crop/upscale locally. Viewer zoom is unusable.
