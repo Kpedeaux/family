@@ -1709,6 +1709,77 @@ by Rev. Ernest Milby, pastor. VERBATIM:
 - A **WINSTINE** obituary is on the same sheet — likely Agnes Hanley's second family. NOT yet read
   in detail; ⚠️ **GO BACK TO THIS SHEET** at higher resolution.
 
+### ⭐⭐⭐ AGNES HANLEY'S OBITUARY — the Lemoine case closes (2026-08-10, via Judy)
+
+> "**WINSTINE** — On Sunday, **November 15, 1964, AGNES HANLEY**, wife of the late **William
+> Winstine**, mother of **Mrs. JOHANA LAUMAN** [= Johanna LARMANN], **Mrs. Elsie McPherson** and
+> **William Winstine**, sister of **Mrs. Rose Stringer, Tom Neader and Mrs. Catherine Strom**, a
+> **native and resident of New Orleans**. …Services from the Metairie Funeral Home of L. A.
+> Muhleisen & Son, 2929 Metairie Road, Tuesday **November 17, 1964**, 9 a.m., followed by
+> Requiem Mass at **St. Alphonsus Church**. **Interment in CYPRESS GROVE CEMETERY.**"
+
+**THIS IS THE PROOF.** A record naming Agnes AND Johanna together → **johannaLemoine.mother =
+agnesHanley upgraded to VERIFIED.** Everything Kevin's mother and Judy said, in print:
+- **Agnes Hanley = Johanna's mother** ✓ (settles Kevin's own mid-session reversal — he was right
+  the second time)
+- **Remarried WILLIAM WINSTINE** ✓ (Judy's "Agnes Hanley Lemoine (Winstine)")
+- **Half-siblings Elsie [Winstine] McPherson + William Winstine** ✓ (Judy's "Grandma's ½ brother
+  + sister" list, exactly)
+- **Agnes's own siblings: Rose Stringer, Tom Neader, Catherine Strom** ✓ (Judy's top-of-page
+  "Grandma's Mother sister + brother: Mrs. Ra[o]e Stringer, Tom [Neader], Mrs. Catherine Strom")
+- **d. 15 Nov 1964** → ⚠️ **corrects my earlier reading of Judy's note**: the "died 11/15/64" on
+  her sheet belongs to AGNES, not to Robert's second wife Sophie Anderson.
+- **Native of New Orleans**; buried **Cypress Grove**; Mass at **St. Alphonsus** (Irish Channel —
+  fits a Hanley).
+- Johanna is listed first among the children — but that is just eldest-first, and I initially
+  wrote a warm inference off it that the family corrected within minutes. ⚠️ **JUDY
+  (2026-08-10):** *"I remember my grandma talking about Elsie. I never knew it at the time but
+  it was her half sister. Grandma never met Agnes until my dad was a kid. Dad remembered her not
+  wanting to meet her."* → Johanna kept up with the HALF-SISTER but not the mother; she was in
+  her thirties before she met Agnes at all, and went reluctantly. **Site corrected before
+  publishing the warm version.** Lesson: don't read sentiment into the ORDER of names in an
+  obituary; ask the family.
+
+**STILL OPEN on Agnes:** her parents; her birth date; the Hanley–Winstine marriage (NOT in the
+Orleans index under either name → another parish); Elsie and William Winstine's own records.
+
+### ⭐ THE "E1" LARMANN FAMILY IS NOT UNCONNECTED — it's Edward's (2026-08-10, via Judy)
+
+**CORRECTION TO OUR OWN FILE.** RESEARCH.md previously listed "Unconnected Larmann families:
+'E1' (Edward John × Marie [Edna] Fernandez, m. 1921)." **They are connected.** Judy's annotated
+clipping settles it: on the obituary of **Father Marian Edward Larmann, O.S.B.** she wrote
+"Grandpa's cousin," with an arrow to the priest, and **"Father's ½ brother"** with an arrow to
+**Edward John Larmann Sr.** (Judy's "Grandpa" = Charles Emile Larmann throughout her notes.)
+→ **Edward John Larmann Sr. (b. 16 Dec 1896) was Casper's son by Louisa — i.e. ANTHONY HENRY
+LARMANN'S HALF-BROTHER**, exactly as our own children-of-Casper list already had him. The 1921
+Fernandez marriage is his.
+
+**FATHER MARIAN EDWARD LARMANN, O.S.B. — obituary verbatim highlights:**
+> Monk of **Saint Joseph Abbey**, St. Benedict, LA; d. **6 June 2007**, Ochsner Westbank,
+> Gretna, aged **84**. **Son of the late Edward John Larmann Sr. and Marie Edna Fernandez
+> Larmann**; b. New Orleans **15 March 1923**. Professed a Benedictine **20 Aug 1942**; ordained
+> priest **7 June 1947**. **Professor, Saint Joseph Seminary 1946–1999** (53 years); Prefect of
+> Discipline 1957–62; acting Rector 1962–64, **Rector 1964**, **Rector of Saint Joseph Seminary
+> College 1967**; Director, Abbey Youth Camp 1960–62; Consulter to the abbot 1964–71; Pastor,
+> St. Benedict Church, Covington 1978–82 and 1987–2005; Pastor, St. Peter's, Covington 1982–87;
+> Chaplain, St. Scholastica Convent 1974–78; priest in residence, Annunciation, Bogalusa 2005.
+> **Buried in the Abbey Cemetery.** Predeceased by sisters Anna Mae Larmann Maher and Catherine
+> Marie Larmann; survived by brother **Alfred Louis Larmann** (Delmont, PA) and sisters **Marie
+> Larmann Jacob** (Baton Rouge), **Carol Larmann Springmann** (Metairie), **Joan Larmann
+> Drewes** (Jefferson), **Margaret Larmann Osterhold** (Arabi).
+Same sheet also carries the obituaries of **Carol Larmann Springmann** (d. 23 July 2008, wife
+of Louis H. Springmann Jr., 54 years married) and **Joan Larmann Drewes** (d. 18 March 2014,
+aged 83) — both naming Edward John Larmann Sr. and Marie Edna Fernandez as parents. **A whole
+first-cousin branch of Charles Emile's, now attached.**
+
+⚠️ **ALSO CORRECT OUR EARLIER READING:** the 1996 obituary I transcribed as "Helen Larmann
+REDMOND" is **Helen Larmann REGGIO** (d. 7 Apr 1996, age 92, wife of the late John J. Reggio) —
+matching Judy's chart, which had "Helen Larmann Reggio."
+Separate and probably a different branch: **GEORGE JOHN LARMANN**, d. aged 90, retired senior
+VP of First National Bank; Warren Easton High + Loyola; WWII Army major, **Bronze Star**; wife
+Thelma Bernaden Larmann, daughter Geraldyn Larmann Gerard; buried **Metairie Cemetery**. Not
+yet placed — check whether he is one of Casper's grandsons.
+
 ### ESTHER MAE LARMANN's BIRTH CERTIFICATE (2026-08-10, via Judy)
 
 Office of the Recorder of Births, Marriages and Deaths, Parish of Orleans, sgd **P. Henry

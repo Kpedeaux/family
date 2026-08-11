@@ -1397,10 +1397,11 @@
         'Louisa Francis Larmann (17 Sept 1897 – 30 May 1898) — died at eight months',
         'Bernadine Louise Larmann (28 Oct 1898 – 21 Aug 1956) — married Ed Porter in 1926, later Harry G. Johnson',
         'Anthony Leo Larmann (9 Aug 1900 – 4 March 1969) — father of Barbara and of the attorney Lawrence “Larry” Emig Larmann',
+        'and among the cousins: FATHER MARIAN EDWARD LARMANN, O.S.B. (15 March 1923 – 6 June 2007), son of Charles\'s half-uncle Edward John Larmann Sr. — a Benedictine of Saint Joseph Abbey who taught in its seminary for fifty-three years and became Rector of Saint Joseph Seminary College',
         'Esther Marguerite Larmann (2 Jan 1904 – 14 Sept 1976) — never married; her handwritten ledger preserved this whole family\'s dates'
       ],
       children: [
-        'Esther Mae Larmann (18 July 1925 – 15 February 1928)',
+        'Esther May Genevieve Larmann (18 July 1925 – 15 February 1928) — her third name was for her great-grandmother Poppone Geneviève',
         { id: 'johnLarmannSr' }
       ],
       given: 'Charles Emile', nickname: 'Charlie', surname: 'Larmann', sex: 'M',
@@ -1441,7 +1442,9 @@
     johannaLemoine: {
       siblings: [
         'A brother Robert, born 1909 in Orleans Parish — very probably the boy who died in the orphanage',
-        'A baby sister Agnes, named for their mother, who lived three months (died 9 November 1909)'
+        'A baby sister Agnes, named for their mother, who lived three months (died 9 November 1909)',
+        'Half-siblings by her mother\'s second marriage: Elsie Winstine McPherson — whom Johanna talked about for years without ever saying who she was — and William Winstine',
+        'Half-siblings by her father\'s later marriage to Sophie Anderson, named in his 1949 obituary: Mrs. Charles Lawrence and Robert Lemoine Jr.'
       ],
       children: [
         'Esther Mae Larmann (18 July 1925 – 15 February 1928) — her Orleans birth certificate, kept in the family, names her "lawful daughter of Charles Emile Larmann and Johanna Catherine Lemoine," registered 28 July 1925',
@@ -1532,10 +1535,11 @@
         'Agnes (died 9 November 1909, aged three months)'
       ],
       given: 'Agnes Margaret', surname: 'Hanley', sex: 'F',
-      spouse: 'Robert Lemoine (m. 1906, Orleans)',
-      evidence: 'confirm',
+      spouse: 'Robert Lemoine (m. 1906, Orleans); later William Winstine',
+      death: { date: '15 November 1964', place: 'New Orleans' },
+      evidence: 'verified',
       branch: 'lemoine',
-      blurb: 'Johanna\'s mother — married at Orleans in 1906, a mother by the next January, and gone from the record within four years. The family kept it plainly: "she didn\'t die young — she just left them." Her husband was away in the Navy; her mother-in-law Poupone raised the children she left behind.',
+      blurb: 'Johanna\'s mother — married at Orleans in 1906, a mother by the next January, and gone from her first family within four years. The family kept it plainly: "she didn\'t die young — she just left them." She married William Winstine and raised a second family in the same city, and when she died in 1964 her obituary named all three of her children together — Johanna first.',
       records: [
         {
           title: 'Marriage — Orleans Parish, 1906',
@@ -1547,17 +1551,23 @@
           title: 'The death of her infant daughter',
           citation: 'Louisiana death index, Orleans, 9 November 1909 — Vol. 147, p. 1104',
           text: 'LEMOINE, AGNES — aged 3 months.',
-          highlight: 'A daughter named for her mother, born in the summer of 1909 and dead by November. Within months, Agnes herself disappears from the Louisiana record.'
+          highlight: 'A daughter named for her mother, born in the summer of 1909 and dead by November. Within months, Agnes herself disappears from the Lemoine record.'
+        },
+        {
+          title: 'Her own obituary — the record that proves the whole line',
+          citation: 'New Orleans newspaper, November 1964; clipping kept by the family, via Judy Larmann Gifford',
+          text: '"WINSTINE — On Sunday, November 15, 1964, AGNES HANLEY, wife of the late William Winstine, mother of MRS. JOHANA LAUMAN [Larmann], Mrs. Elsie McPherson and William Winstine, sister of Mrs. Rose Stringer, Tom Neader and Mrs. Catherine Strom, a native and resident of New Orleans… Requiem Mass at St. Alphonsus Church. Interment in Cypress Grove Cemetery."',
+          highlight: 'Everything at once, and in print. Agnes Hanley is named as Johanna\'s mother — the last thing the Lemoine reconstruction needed. Her second husband, her two Winstine children, and her own three siblings are all there, matching Judy\'s handwritten notes name for name. But the family memory beside it is cooler than the notice reads: Johanna talked about her half-sister Elsie without ever saying who Elsie was, and did not meet Agnes at all until her son John was a boy — and he remembered that she did not want to go.'
         }
       ],
-      note: 'WHERE SHE WENT — answered August 2026 by Judy\'s notes, which name her "Agnes Hanley Lemoine (WINSTINE)." She remarried a Winstine, and Johanna had half-siblings by that marriage: the notes list "Grandma\'s half-brother and sister" as Mrs. Elsie McPherson and William Winstine, with a daughter Marvel and a son of their own. So the woman who left did not vanish — she raised another family in the same city, and Johanna knew them. Finding the Hanley–Winstine marriage, and Elsie and William\'s records, is now a live and very findable front.'
+      note: 'A native of New Orleans, and the last of this line to be found. Her own siblings were Rose Stringer, Tom Neader and Catherine Strom. She was buried from St. Alphonsus — the old Irish Channel church, which suits a Hanley — into Cypress Grove Cemetery. Still open: her parents, her birth date, and the date of her marriage to William Winstine, which is not in the Orleans index under either surname and so was probably made in another parish.'
     },
 
     anthonyLarmann: {
       siblings: [
         'Full brothers, per the 1900 census of his father\'s household: John C. Larmann (b. 1874, d. 1909) and Bernard Leo Larmann (b. 1878, d. 1955) — godfather to Anthony Leo in 1900; married Matilda Jones in 1901',
         'Charles A. Clemence Larmann (c.1877–1880) — died at three, before the census could catch him',
-        'Half-siblings from the 1884 remarriage, all in the 1900 household: Joseph Benedict (1885–1950), Hilda (b. 1886) — godmother to Esther in 1904, Henry (b. 1889), Albert (b. 1891), Edward (b. 1896), and Casper Jr. (b. 1899)'
+        'Half-siblings from the 1884 remarriage, all in the 1900 household: Joseph Benedict (1885–1950), Hilda (b. 1886) — godmother to Esther in 1904, Henry (b. 1889), Albert (b. 1891), Casper Jr. (b. 1899), and EDWARD JOHN (16 Dec 1896 – 1985), who married Marie Edna Fernandez in 1921 and whose son became Father Marian Larmann, the Benedictine'
       ],
       children: [
         'Mary Eugenia (20 Sept 1896 – 3 Oct 1971)',
