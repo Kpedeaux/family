@@ -3204,3 +3204,50 @@ and `javascript_tool` kept getting blocked on FamilySearch pages ("Cookie/query 
 **Fallback if the register is not digitized:** write to **Comune di Plataci, Ufficio di Stato
 Civile** (Cosenza) for a *estratto dell'atto di nascita* — Italian comuni answer these for
 genealogy, free or nominal, and 1893 is well outside privacy limits.
+
+### 🎯 INSIDE THE 1893 PLATACI BIRTH REGISTER — 2026-08-11. Act not yet read.
+
+**Got in.** Full path solved, and the film is open at the right year. Next session starts at an
+image number, not a search.
+
+**THE FILM:** Plataci → **"Nati 1874-1910 Pubblicazioni 1866-1910 Matrimoni 1866-1910 Morti
+1866-1894"** · **2,614 images** · collection **2043557**
+waypoint **`MC55-WNG:349483701,349602001,349602201`**
+Viewer: `https://www.familysearch.org/ark:/61903/3:1:3QS7-L97V-3ZK7?cc=2043557&i=0&lang=en&groupId=2043557&wc=MC55-WNG%3A349483701%2C349602001%2C349602201`
+(the `i=` param resets on load — set the image number in the **Image box** top-left instead)
+
+**How to reach the waypoints without the UI** (this is the reusable trick):
+`/service/cds/recapi/collections/<cc>/waypoints` → returns XML → drill by `sortKey`.
+Cosenza = `MC5P-KP8:349483701` · Plataci = `MC55-768:349483701,349602001`.
+
+**CALIBRATION — years read off the actual pages:**
+| Image | What it says |
+|---|---|
+| **421** | **1893** (act "del dì diciannove"; child Maddalena, mother Rosa Chidichimo) |
+| **426** | **"L'anno milleottocentonovanta TRE, addì diciassette di Luglio"** = **17 July 1893** |
+| 494 | 13 January **1896** (Sindaco Carlo Pace) |
+| 533 | 13 July **1897** |
+| 640 | 1900s, August |
+
+**→ 5 MAY 1893 SITS JUST BEFORE IMAGE 421 — almost certainly IMAGES 415–420.** Roughly 20–26
+images per year in this register; May is about a third of the way through the year's acts.
+
+### 🟢🟢 AND A REAL FIND ALONG THE WAY — MICHELE BRUNETTI WAS RUNNING THE TOWN
+
+Twice, in two different years, the officer registering Plataci's births signs himself:
+
+> **"Avanti di me MICHELE BRUNETTI, Assessore ordinario, funzionando da Sindaco pel titolare
+> mancante"** — *before me, Michele Brunetti, ordinary assessor, acting as Mayor in the absence of
+> the incumbent.* (image 426, **17 July 1893**; and again image 533, **13 July 1897**)
+
+**A Michele Brunetti was an assessore — a town councillor — of Plataci, deputising as MAYOR, in the
+very year John was born.** This fits the other Michele we found: the 1900 marriage witness, aged
+40, described as **"civile"** — a man of standing, born c.1860, so ~33 in 1893.
+
+**IF he is John's father, he very likely registered his own son's birth** — and his signature will
+be at the foot of the act. That is a specific, checkable prediction, and it is five images away.
+
+**NEXT SESSION, first action:** open the viewer link above, set the Image box to **416**, and step
+forward. Read the act header — *"L'anno milleottocentonovanta tre, addì cinque di Maggio"* — and
+the act will give the child's name, the father with his age and trade, and the mother's full
+maiden name (**FORANO? FORTINO? FORTINI?**).
