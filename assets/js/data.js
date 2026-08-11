@@ -1073,7 +1073,7 @@
           text: 'Marie Marguerite (1752) · Marie Jeanne (1755) · Louise Françoise (1757) · Pierre (1761, "Etienne, master mason") · Marie Joseph (1766) — all children of Etienne and Francoise RENARD.'
         }
       ],
-      note: 'Whether he was born in France or in the colony is not yet documented. A "Ste. Reyne concession" appears in the earliest New Orleans records of the 1720s — possibly connected, possibly coincidence.'
+      note: 'HE WAS BORN IN THE COLONY. His daughter\'s 1784 remarriage act calls Estevan and Francisca Renard "natives of this parish" — that is, natives of New Orleans — and the Caraby records say the same of another daughter\'s parents. So the answer to "how long has this family been in Louisiana" is not 1752, the year of the first baptism we can read; it is a generation earlier still. A man raising children as a master mason in 1752 was most likely born in the 1720s, inside the first decade of a city founded in 1718. No baptism has been found for him — the earliest St. Louis church registers are fragmentary — so his birth year stays undocumented, but his birthplace no longer is. A "Ste. Reyne concession" appears in the earliest New Orleans records of the 1720s: possibly connected, possibly coincidence, and worth a look.'
     },
 
     francoiseRenard: {
