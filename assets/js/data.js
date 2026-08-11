@@ -1582,15 +1582,27 @@
       birth: { date: '26 August 1871', place: 'New Orleans' },
       death: { date: '12 February 1904', place: 'Orleans Parish' },
       father: 'johnCasparLarmann', mother: 'emilyMevers',
-      evidence: 'confirm',
+      evidence: 'verified',
       branch: 'larmann',
-      blurb: 'Dead at thirty-two, six weeks after his sixth child was born. His widow raised six children alone; the family record his daughter Esther kept is how all of their dates survived.',
+      blurb: 'Dead at thirty-two, six weeks after his sixth child was born. His widow raised six children alone; the family record his daughter Esther kept is how all of their dates survived. The eldest of Casper\'s ten, and the only one of them on this line of descent.',
       records: [
         {
-          title: 'Louisiana marriage record',
-          citation: 'Orleans Parish, November 1895 — Vol. 18, p. 718',
-          text: 'MOORE, EUGENIE × LARMANN, ANTHONY.',
-          highlight: 'Esther\'s ledger supplies the day — Tuesday, 12 November 1895 — and his exact ages: born Saturday 26 August 1871, married at 24, dead at 32.'
+          title: 'His marriage — the act that names his parents',
+          citation: 'Louisiana, Parish Marriages, 1787–1958 — Orleans, November 1895; civil index Vol. 18, p. 718',
+          text: 'ANTHONY LARMANN, born 1871, son of CASPAR LARMANN and EMILY MEVERS, m. Eugenie Moore.',
+          highlight: 'The church-marriage series again — the same collection that cracked the Brunetti and Larmann walls. The state\'s civil index gives only "MOORE, EUGENIE × LARMANN, ANTHONY"; the parish act names both his parents, which is what this site requires before it will call a link proven. His link to Casper and Emily moved from single-source to documented on 11 August 2026. Esther\'s ledger supplies the day — Tuesday, 12 November 1895 — and his exact ages: born Saturday 26 August 1871, married at 24, dead at 32.'
+        },
+        {
+          title: 'His own name, written out in his daughters\' birth records',
+          citation: 'Louisiana, Orleans, Birth Records, 1819–1915 — Mary Eugenia Larmann, 20 September 1896, certificate 91; and Louise Frances Larmann, 1897',
+          text: 'Father: ANTHONY HENRY LARMANN. Mother: Eugenia Bernadine "Mone" [Moore].',
+          highlight: 'Two civil birth records, registered while he was alive, giving his name in full. These are what settled the "John Henry" question — see the note below. They also date his eldest exactly: Mary Eugenia, born 20 September 1896, ten months after the wedding.'
+        },
+        {
+          title: 'In his father\'s house, aged eight',
+          citation: 'United States Census, 1880 — New Orleans, household of J. C. Larman',
+          text: 'Anthony Larman, son, in the household of J C Larman.',
+          highlight: 'Two years before his mother died, and four before his father remarried. The 1880 census catches the first family whole, before that house became two half-families under one roof.'
         },
         {
           title: 'Louisiana death record',
@@ -1599,7 +1611,7 @@
           highlight: 'Exactly the date in Esther\'s ledger: "Fri. Feb. 12th, Age 32."'
         }
       ],
-      note: 'He was born nine and a half months after his parents\' November 1870 Orleans wedding. The old sibling list carried "Louise Frances (b. 1897)" as if she grew up; the death index shows Louisa Francis died at eight months, on 30 May 1898 — and the 1900 census confirms it, catching his household that June with only Mary E and Bernadine at home. A NAME TO WATCH: the RootsWeb family file supplied by Judy Gifford in 2026 lists Casper and Emily\'s eldest as "JOHN HENRY Larmann, b. 26 August 1871" — the same day, the same parents, the same city. Almost certainly this man, under a baptismal name the family did not use; his father and two of his brothers were all Johns, and a boy called Anthony at home would not be the first. But no record yet read gives both names together, so the site keeps him as Anthony and flags the alias rather than merging the two on a matching birthday alone.'
+      note: 'He was born nine and a half months after his parents\' November 1870 Orleans wedding. The old sibling list carried "Louise Frances (b. 1897)" as if she grew up; the death index shows Louisa Francis died at eight months, on 30 May 1898 — and the 1900 census confirms it, catching his household that June with only Mary E and Bernadine at home. THE "JOHN HENRY" QUESTION — ANSWERED, 11 August 2026. The RootsWeb family file supplied by Judy Gifford listed Casper and Emily\'s eldest as "John Henry Larmann, b. 26 August 1871" — the same day, the same parents, the same city as this man. It was flagged here rather than merged, because it sat on the direct line of descent and a matching birthday is not proof. It is now settled the other way: HE WAS ANTHONY HENRY, and the RootsWeb name is simply wrong. Nine independent records say so and not one says John — including two Orleans birth records of his own daughters, which spell out ANTHONY HENRY LARMANN in full; the 1880 census, which has him in his father\'s house; the 1900 census, his 1896 voter registration, his 1895 marriage, his 1904 death record, and his daughter Esther\'s own ledger. His FamilySearch profile carries twenty-four attached sources and no alternate name. The likeliest explanation for the error is the obvious one: his father and two of his brothers were Johns, and a compiler working from a list filled in the name he expected. Cross-check that closes it — his brother Henry\'s 1938 obituary lists the surviving and late siblings by name, and lists ANTHONY and JOHN C as two different men.'
     },
 
     eugeniaMoore: {
@@ -1693,7 +1705,7 @@
           title: 'Second marriage',
           citation: 'Orleans Parish, April 1884 — Vol. 10, p. 589',
           text: 'EHMANN, LOUISA MARGARET × LARMANN, JOHN CASPER.',
-          highlight: 'Two years after Emily\'s death, on 26 April 1884. She was born in New Orleans on 27 August 1857 and died there on 7 September 1931. She was EHMANN by birth — the daughter of John David Ehmann and Catharina Lutz, the two names the act itself records. Joseph Stauder, who appears in the 1900 census of this house as "father-in-law," was the man who RAISED her, not the man who fathered her. See "The Stauder puzzle, and how it fooled me" below.'
+          highlight: 'Two years after Emily\'s death, on 26 April 1884. She was born on 27 August 1857 — at MILNEBURG, the lakefront settlement at the end of the Pontchartrain Railroad, according to her own obituary — and died in New Orleans on 17 September 1931, her death notice running the following day. She was EHMANN by birth — the daughter of John David Ehmann and Catharina Lutz, the two names the act itself records. Joseph Stauder, who appears in the 1900 census of this house as "father-in-law," was the man who RAISED her, not the man who fathered her. See "The Stauder puzzle, and how it fooled me" below.'
         },
         {
           title: 'The Stauder puzzle, and how it fooled me',
@@ -1884,11 +1896,11 @@
         'Bernard Leo (March 1878 – 1955)'
       ],
       given: 'Marie Emily', surname: 'Mevers', sex: 'F',
-      birth: { date: 'about 1845–1847', place: 'Pascagoula, Jackson County, Mississippi' },
+      birth: { date: 'about 1846', place: 'Pascagoula, Jackson County, Mississippi' },
       death: { date: '11 February 1882', place: 'Orleans Parish' },
       evidence: 'confirm',
       branch: 'larmann',
-      blurb: 'Anthony\'s mother, dead in her thirties when he was ten — her marriage act makes her twenty-three in 1870 and her death record thirty-seven in 1882, two years apart, so the site carries the range rather than picking. Not an immigrant at all but a Mississippi girl, born at Pascagoula to a German couple out of Westphalia. A Dorothea Mevers — sister, cousin or niece — stood godmother to Charles Emile twenty years later, so her family stayed close.',
+      blurb: 'Anthony\'s mother, dead in her thirties when he was ten — her marriage act makes her twenty-three in 1870 and her death record thirty-seven in 1882, so her birth year sits somewhere in 1845–47 and about 1846 is the honest middle. Not an immigrant at all but a Mississippi girl, born at Pascagoula to a German couple out of Westphalia. A Dorothea Mevers — sister, cousin or niece — stood godmother to Charles Emile twenty years later, so her family stayed close.',
       records: [
         {
           title: 'Marriage — Orleans Parish',

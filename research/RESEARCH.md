@@ -2492,5 +2492,69 @@ instead of silently preferring one.
 
 ---
 
+## The Anthony / "John Henry" question — CLOSED, 2026-08-11
+
+**Question:** RootsWeb listed Casper × Emily's eldest as *John Henry Larmann, b. 26 Aug 1871*.
+Our Anthony: b. 26 Aug 1871, same parents, same city. One man — but under which name? Flagged
+rather than merged because he is a **direct ancestor of Kevin**.
+
+**Answer: ANTHONY HENRY.** Nine independent records, zero saying John.
+
+| # | Record | Name as written |
+|---|---|---|
+| 1 | Orleans birth record of dau. **Mary Eugenia**, 20 Sep 1896, **cert. 91** | **ANTHONY HENRY LARMANN** |
+| 2 | Orleans birth record of dau. **Louise Frances**, 1897 | **ANTHONY HENRY LARMANN** |
+| 3 | US Census 1880, household of "J C Larman" | Anthony Larman, son |
+| 4 | US Census 1900 | Anthony H Larmann, b. Aug 1871 |
+| 5 | Orleans voter registration, 16 Mar 1896 | Anthony H Larmann, b. 1871 |
+| 6 | LA Parish Marriages 1787–1958, Nov 1895 | Anthony Larmann, **son of Caspar Larmann and Emily Mevers** |
+| 7 | Orleans death record, 12 Feb 1904, Vol. 131 p. 1097 | Larmann, Anthony, age 32 |
+| 8 | Esther's ledger (his own daughter) | Anthony Henry Larmann |
+| 9 | FamilySearch **L5P7-JYC**, 24 attached sources | Anthony H Larmann, **no alternate name** |
+
+**The cross-check that closes it:** brother **Henry C. Larmann's 1938 obituary** lists the
+siblings and names **ANTHONY** and **JOHN C.** as *two different men*. There was no John Henry.
+Likeliest cause of the error: the father and two brothers were Johns, and the compiler wrote the
+name he expected.
+
+### 🟢 UPGRADE: Anthony moved confirm → **verified**
+
+Record #6 does it. The **LA Parish Marriages** series — the same church-marriage collection that
+cracked Brunetti and the Gesmold Larmanns — gives *"Anthony Larmann, born 1871, son of CASPAR
+LARMANN and EMILY MEVERS, m. Eugenie Moore."* The state's own civil index (Vol. 18 p. 718) gives
+only "MOORE, EUGENIE × LARMANN, ANTHONY" and never names parents; that is why this sat at confirm
+for so long. **Verified count 41 → 42.** *Lesson, third time now: when a Louisiana link is stuck
+at confirm, check Parish Marriages before anything else.*
+
+### Other findings from the same sweep
+
+- **Mary Eugenia Larmann born 20 September 1896**, Orleans certificate 91 — ten months after the
+  wedding. Exact date was previously unknown.
+- 🔴 **A TRAP FOR ANY FUTURE RESEARCHER — Henry Casper Larmann's 1938 death record names his
+  mother as "Amelia Mevis."** Emily Mevers died **February 1882**; Henry was born **May 1889**.
+  His mother was Louisa Ehmann. The 1938 informant named the wrong wife. Anyone building from
+  that certificate will hang Louisa's six children onto a woman seven years dead. Published in
+  the site's Corrections list.
+- **Henry Casper Larmann (1889–1938)** fills out: full name; **WWI service** (Louisiana WWI
+  Service Records, 14 May 1918; VA Master Index, 19 Feb 1919); a **military headstone
+  application**, so he has a government stone in New Orleans; wife **Pearl Ritchie**. A second
+  Larmann soldier alongside Emile Goubler.
+- **Bernard Leo Larmann d. 17 June 1955**, wife **Mathilda Jones** ✓ (Judy's annotation
+  independently confirmed). Children per his obituary: Bernard H., Edgar J., Albert F.,
+  **Mrs Jules J. Reggio**, Mrs Thelma Sloane, Mrs C. J. Marsh, Mrs W. J. Seagrave. The Reggio
+  spelling is confirmed a second time — an earlier reading of "Redmond" stays retracted.
+- Grandson **Bernard Henry Larmann b. 15 Mar 1905**, m. **Alberta Camille Ripoll**, July 1930.
+- ⚠️ **CORRECTION TO MY OWN ENTRY OF YESTERDAY: Louisa died 17 September 1931, not the 7th.**
+  Two GenealogyBank index entries for her obituary (published **18 Sept 1931**) give the death as
+  **17 September**. I took "7 Sep" from a RootsWeb summary field whose own note said the 17th.
+- **Louisa was born at MILNEBURG**, per her obituary — the lakefront settlement at the end of the
+  Pontchartrain Railroad, not the city proper. New detail; consistent with "born Louisiana."
+- **Marie Emily Mevers**: FamilySearch's considered value is **1846**, between her marriage act
+  (23 in Nov 1870 → 1847) and her death record (37 in Feb 1882 → 1845). Site now says about 1846.
+- FamilySearch profile **L5P7-JYC has a Social Security NUMIDENT record wrongly attached** to a
+  man who died in 1904, three decades before SSNs existed. Not ours to fix, but do not inherit it.
+
+---
+
 *Maintained alongside the site. The private research-infrastructure notes (search techniques,
 tooling, session workflow) live in Kevin's local memory folder, not in this repo.*
