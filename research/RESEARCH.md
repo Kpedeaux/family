@@ -1104,6 +1104,74 @@ separate commune until 1908, with combined N/M/D tables décennales per decade f
 Loire." Michel Pierre was born there; André could have died there. Not yet read. (b) Nantes
 1853–1862 (1E 1693) for a very old André. (c) The parents' 1764 Saint-Saturnin marriage act.
 
+### Robert Lemoine — Mamère… no, JEAN's phone call, the Arlington stone, and the generation question (2026-08-10, session 5)
+
+Kevin recorded a phone call with his mother Jean Larmann Pedeaux about the Lemoine side and
+supplied a photo of a family souvenir spoon. Her claims, extracted from a rough auto-transcript
+("the mayor" = Mamère, i.e. Veronica Brunetti Pedeaux, Dad's side; "United crew" = United Fruit):
+
+1. Robert Lemoine was **Johanna's father** (Judy's written tree makes him her brother)
+2. Robert married an **Agnes**
+3. Johanna's mother **"didn't die young — she just left them"** and remarried, per paperwork Jean once read
+4. Robert was **career Navy**, "head of all the foods… commissary something"
+5. Robert is **buried in Arlington National Cemetery**
+6. The family's **Battleship Maine souvenir spoon** was Robert's; the Maine was "his ship"
+7. Johanna may have been **in the orphanage too**, before/when the boy died
+8. (Dad's side) **John Brunetti served in WWI and gained US citizenship through service**; worked for United Fruit
+
+**What checked out the same night:**
+
+- **Arlington, CONFIRMED** — ANC Explorer: *LEMOINE, ROBERT, 05/07/1888 – 11/20/1949, US Navy,
+  interred 11/23/1949, section 34, grave 1964.* Headstone photographed in the database:
+  **"ROBERT LEMOINE · LOUISIANA · CCS · US NAVY · WORLD WAR I."** CCS = **chief commissary
+  steward** — claims 4 and 5 verified to the letter, rating and all. Reverse of stone blank.
+- **The Agnes marriage, CONFIRMED** — Orleans index: **HANLEY, AGNES MARGARET × LEMOINE, ROBERT,
+  1906, Vol. 27 p. 962.** Her only marriage under Hanley; no remarriage in Orleans as "Lemoine,
+  Agnes" (an out-of-parish remarriage would be invisible — claim 3 stays open, not refuted).
+- **The spoon, IDENTIFIED** — bowl reads "U.S. BATTLESHIP MAINE — 6682 TONS" (the Maine's exact
+  displacement); mass-produced 1898 memorial souvenir, silverplate, rococo handle. Photo saved to
+  the site (assets/img/maine-spoon.jpg). Robert was 9 when ACR-1 blew up in Havana — but **USS
+  Maine (BB-10) served 1902–1920**, spanning a Navy career begun ~1906. "His ship" is plausible
+  for the second Maine; **muster rolls (NARA/Fold3) would confirm** — queued. No Lemoine of any
+  spelling on the ACR-1 crew/casualty roster (spanamwar.com) — nobody of ours died on the 1898 ship.
+- **1910 census index sweeps** (Ancestry logged-out, Kevin's Chrome): **Johanna Lemoine b. 1907 —
+  the ONLY one in Louisiana — in an Orleans Parish household**; **Genevieve Lemoine b. c. 1865,
+  Orleans** (OCR-mangled "Leonoirce"); **toddler Robert Lemoine b. 1909, Orleans**; **NO Alonzo
+  Lemoine anywhere in the U.S.**; **no adult Agnes Lemoine anywhere in Louisiana**. Same
+  redaction-shaped ward for Johanna/Genevieve/little Robert — likely one household, unproven
+  until the image is read.
+- **Infant Agnes Lemoine, d. 9 Nov 1909, age 3 months, Orleans — Vol. 147 p. 1104.** A daughter
+  named for her mother, born ~Aug 1909, dead by November. Robert × Agnes were in Orleans having
+  children right up to the collapse; by April 1910 Agnes is gone.
+- **Orleans birth index, all LEMOINE (43 rows):** NO Johanna, NO child of father Robert, NO
+  mother Hanley. But: **Ernest Joseph Lemoine × Amelia Gehner's first son is ALONZO Alexie
+  (b. 27 Jul 1911**, Vol. 143 p. 101; also Mary Alix 1914, Albertine 1917, Ernestine 1919,
+  Richard 1922), and **Eugene Lemoine × Marie Jackson named a daughter GENEVIEVE (b. 28 Aug
+  1913**, Vol. 149 p. 919). Two brothers each honoring a parent's name — Judy's "Eugene
+  [Ernest??]" is BOTH men, and the parents' names Alonzo × Genevieve are solid. The 1973 "Alonzo
+  James Lemoine, age 62" death is Ernest's boy — mystery closed.
+- **Orphanage boy:** LEMOINE deaths swept 1915–1922 statewide: no boy matching the 1909 Robert.
+  Only Orleans child: **Warren Lemoine, age 2, d. 6 Feb 1916** (Vol. 165 p. 752) — six months
+  after Poupone's death, but fits no known child of this family. The boy's name is STILL open.
+
+**The generation question, stated for the record.** Jean's version: Robert (m. Agnes 1906) is
+Johanna's father; Agnes left; Poupone raised Johanna, who called her "mother"; the tree later
+flattened her into Poupone's children. Judy's version: Johanna is Alonzo × Genevieve's daughter,
+Robert her brother. Everything found tonight is CONSISTENT WITH JEAN and awkward for Judy's
+version (Genevieve would be ~46 at Johanna's 1907 birth). But testimony + circumstantials ≠ a
+record naming both people. **The tree keeps Judy's documented version; the site carries the
+question openly. Decisive documents, in order:** ① Johanna × Charles Larmann marriage licence
+APPLICATION, Aug 1924, Vol. 49 p. 468 (names her parents — $5, LA State Archives); ② the 1910
+census IMAGE (relation-to-head column: daughter vs granddaughter — library Ancestry session);
+③ Johanna's 1907 baptism (not in Orleans civil index; try church registers, river parishes);
+④ Robert's Navy muster rolls (BB-10?); ⑤ Agnes Hanley's fate (no LA death under Hanley or
+Lemoine that fits — remarriage elsewhere likely).
+
+**Brunetti bonus (claim 8):** WWI service → citizenship matches the Act of May 9, 1918
+(expedited naturalization for alien servicemen). If John Brunetti naturalized through the Army,
+the petition sits in the court nearest his camp — a NEW route besides the NARA Chicago soundex.
+His WWI draft/service records + United Fruit employment are the next Brunetti pulls.
+
 ### Casper — documents to order next
 
 1. **Times-Picayune 22 + 23 Nov 1921, p. 2 col. 8** — his obituary notices (NOPL microfilm, or
@@ -1246,9 +1314,11 @@ Loire." Michel Pierre was born there; André could have died there. Not yet read
    Saint-Saturnin marriage act (AD44 3 E 109/207).
 3. **Casper Larmann's Hanover town** — "Gruswald"? Passenger lists and German civil registers;
    also his and Anthony's death certificates (certificates, unlike the index, name parents).
-4. **The Lemoines upriver** — Alonzo Lemoine × Genevieve Rousselle marriage (river parishes);
-   Genevieve's 1915 death certificate; the orphanage brother's name (New Orleans orphanage records:
-   St. Vincent's, St. Mary's, Hôtel-Dieu registers survive at various archives).
+4. **Johanna's parents — the generation question** — ① Aug 1924 licence application Vol. 49
+   p. 468 (names her parents; settles Robert-vs-Alonzo); ② 1910 census image (relation column);
+   ③ Robert Lemoine's Navy muster rolls (USS Maine BB-10?); ④ Alonzo × Genevieve marriage (river
+   parishes); ⑤ the orphanage boy's name (St. Vincent's, St. Mary's, Hôtel-Dieu registers; no
+   fitting LEMOINE death 1915–22 statewide); ⑥ Agnes Hanley's remarriage, probably outside Orleans.
 5. **Antoine × Marie Cancienne, c. 1846** — not in the diocesan abstracts (Vol. 6 has no PEDEAU
    section). Ancestry compilation 2090 (record 100802) places it in Assumption. Original still out
    there — try the Assumption civil marriage books, Napoleonville.
@@ -1291,6 +1361,14 @@ Loire." Michel Pierre was born there; André could have died there. Not yet read
   Archdiocese of New Orleans archives, (504) 529-2651. A second, independent route to John's
   parents and hometown, alongside the civil licence application (Vol. 46 p. 90). Added to the
   Brunetti document list as target #4a.
+- **Jean Larmann Pedeaux (2026-08-10, recorded phone call):** Robert Lemoine was Johanna's
+  FATHER, married an Agnes; Johanna's mother left (didn't die) and remarried per paperwork Jean
+  once read; Poupone raised Johanna, who called her grandmother "mother"; Robert was career Navy,
+  "commissary" something, buried in Arlington (✓ verified same night: CCS, US Navy, WWI, section
+  34 grave 1964); the family's Battleship Maine spoon was his, "his ship"; Johanna may have spent
+  time in the orphanage too. Dad's side: John Brunetti was in WWI "and that's how he became" a
+  citizen (per Buddy), worked for United Fruit. Vocabulary key: Mamère = Veronica Brunetti
+  Pedeaux; transcript garbles — "the mayor" = Mamère, "United crew" = United Fruit.
 - **Standing asks:** Aunt Patricia → John Brunetti's hometown. Judy → the rest of the "tons."
   Anyone → tomb photographs; Buras/Moizant memories; the orphanage brother's name.
 

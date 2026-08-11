@@ -1399,16 +1399,17 @@
 
     johannaLemoine: {
       siblings: [
-        'Robert Lemoine — married Agnes Hanley, then Sophie Anderson',
-        'Eugene (possibly Ernest) Lemoine',
-        'and a brother who died in the orphanage — his name is not yet recovered'
+        'Robert Lemoine (7 May 1888 – 20 November 1949) — career Navy, chief commissary steward, buried in Arlington National Cemetery; m. ① Agnes Margaret Hanley (Orleans, 1906) ② Sophie Anderson. Family memory holds he was not her brother but her FATHER — see the note below',
+        'Ernest Joseph Lemoine — m. Amelia Gehner; named his first son Alonzo (1911)',
+        'Eugene Lemoine — m. Marie Jackson; named a daughter Genevieve (1913)',
+        'and the boy who died in the orphanage — his name is still not recovered'
       ],
       children: [
         'Esther Mae Larmann (18 July 1925 – 15 February 1928)',
         { id: 'johnLarmannSr' }
       ],
       given: 'Johanna Catherine', surname: 'Lemoine', sex: 'F',
-      birth: { date: '9 January 1907', place: 'outside Orleans Parish' },
+      birth: { date: '9 January 1907', place: 'birthplace not yet documented' },
       death: { date: '11 December 1992' },
       father: 'alonzoLemoine', mother: 'genevieveRousselle',
       evidence: 'confirm',
@@ -1428,9 +1429,15 @@
           citation: 'Photographed by the family, August 2026',
           text: 'LARMANN — JOHANNA LEMOINE, JAN. 9, 1907 — DEC. 11, 1992.',
           highlight: 'The stone supplies what no index could: her exact birthday and death day.'
+        },
+        {
+          title: 'The 1910 census — the only Johanna Lemoine in Louisiana',
+          citation: '1910 U.S. census index, Orleans Parish',
+          text: 'Johanna Lemoine, born 1907, in an Orleans Parish household. She is the only Johanna Lemoine in the state. In the same index: Genevieve Lemoine (b. c. 1865, Orleans), a toddler Robert Lemoine (b. 1909, Orleans) — and no Alonzo Lemoine anywhere in the country, no adult Agnes Lemoine anywhere in Louisiana.',
+          highlight: 'The census image itself, with its relation-to-head column, is the next document to pull: it will say in one word — daughter or granddaughter — which generation raised her on paper.'
         }
       ],
-      note: 'The state index has her only at her 1924 marriage, as LEMOINE, JOHANNA K. Born outside Orleans Parish — the Lemoine, Rousselle and Delatte names all point to the river parishes above New Orleans. No Lemoine × Rousselle marriage appears in the Orleans index, which fits a family that married upriver too.'
+      note: 'An open question of one generation, stated honestly. Judy\'s written tree makes Johanna a daughter of Alonzo and Genevieve. But a 2026 phone call with her granddaughter Jean holds that Johanna\'s FATHER was Robert Lemoine, the Navy man in Arlington, and that Johanna\'s mother did not die — she left, and Poupone (Genevieve) raised the little girl, who called her grandmother "mother." The record so far leans toward the phone call: Robert married Agnes Margaret Hanley in Orleans in 1906, the year before Johanna\'s birth; an infant daughter Agnes Lemoine died at three months in Orleans in November 1909; by the 1910 census Alonzo is dead or gone, adult Agnes has vanished from Louisiana, and Genevieve stands in Orleans with the babies. A grandmother raising a grandchild as her own is exactly how a family tree loses a generation. The document that will settle it: Johanna and Charles\'s August 1924 marriage licence application (Vol. 49, p. 468), which names her parents. Until then the tree keeps the documented version, and this note keeps the question.'
     },
 
     anthonyLarmann: {
@@ -1711,16 +1718,18 @@
 
     alonzoLemoine: {
       children: [
-        'Robert Lemoine',
-        'Eugene (possibly Ernest) Lemoine',
-        'a son who died in the orphanage',
+        'Robert Lemoine (1888–1949) — the Navy man in Arlington; possibly Johanna\'s actual father rather than her brother (see her entry)',
+        'Ernest Joseph Lemoine — m. Amelia Gehner; his first son was Alonzo Alexie (b. 1911)',
+        'Eugene Lemoine — m. Marie Jackson; a daughter Genevieve (b. 1913)',
+        'a boy who died in the orphanage',
         { id: 'johannaLemoine' }
       ],
       given: 'Alonzo', surname: 'Lemoine', sex: 'M',
+      death: { date: 'before April 1910' },
       evidence: 'confirm',
       branch: 'lemoine',
-      blurb: 'Johanna\'s father, known so far only from the family\'s memory of him. A French-Creole name from the river parishes above New Orleans.',
-      note: 'The only Alonzo Lemoine in the state death index (Alonzo James, 1911–1973, Orleans) is a generation too young to be him — possibly a son or nephew. The elder Alonzo may be indexed under Alphonse, or died outside Louisiana. Finding his marriage to Genevieve Rousselle — not recorded in Orleans — is the next step for this line.'
+      blurb: 'Johanna\'s father on paper — and, if the family\'s spoken memory is right, her grandfather in fact. A French-Creole name from the river parishes above New Orleans. His sons honored him and Genevieve in their own children\'s names: Ernest\'s first boy was an Alonzo, Eugene\'s girl a Genevieve.',
+      note: 'No Alonzo Lemoine appears anywhere in the 1910 census — he was dead or gone by then, which fits Genevieve standing alone in Orleans with the grandchildren. The only Alonzo Lemoine in the state death index (Alonzo James, 1911–1973, Orleans) is his grandson, Ernest\'s boy. The elder Alonzo may be indexed under Alphonse, or died before the statewide index begins in 1911. Finding his marriage to Genevieve Rousselle — not recorded in Orleans — is still the next step for this line.'
     },
 
     genevieveRousselle: {
@@ -1733,7 +1742,7 @@
       father: 'valeryRousselle', mother: 'marieEveDelatte',
       evidence: 'confirm',
       branch: 'lemoine',
-      blurb: 'Remembered in the family as "Poppone" — surely Poupone, an old Creole endearment. If the 1915 death is hers, Johanna lost her at eight, and the orphanage years follow directly.',
+      blurb: 'Remembered in the family as "Poppone" — surely Poupone, an old Creole endearment. Family memory says she raised little Johanna herself, and the child called her "mother." If the 1915 death is hers, Johanna lost her at eight, and the orphanage years follow directly.',
       records: [
         {
           title: 'Louisiana death record — probably hers',
