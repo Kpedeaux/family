@@ -3304,3 +3304,40 @@ Calibration anchors for this film, if anyone returns: **416 = 16 Feb 1893 (act 1
 - Michele's own birth act, c. 1860, same film, *Nati* section (~image 190–210 by the calibration).
 - Whether this Michele connects to the Bodily/Albertari Brunetti line. **Trojano is the hinge** —
   it appears in both.
+
+### Hunting the Michele Brunetti × Domenica Trojano marriage — calibration, 2026-08-11
+
+**NOT FOUND YET.** Same film (`MC55-WNG…`, cc 2043557, 2,614 images). Film section order is given
+by its own title: **Nati 1874-1910 → Pubblicazioni 1866-1910 → Matrimoni 1866-1910 → Morti
+1866-1894.** John was born May 1893, so the marriage is roughly **1885–1892**.
+
+**❌ NOT name-indexed.** `q.surname=Brunetti&q.spouseSurname=Trojano` in collection 2043557 returns
+one irrelevant hit. Browse only.
+
+**New calibration points read this round:**
+| Image | Section / date |
+|---|---|
+| 421 | Nati — **5 May 1893** (the birth act) |
+| 640 | Nati — 1900 |
+| **1500** | **PUBBLICAZIONE DI MATRIMONIO — 23 September 1906**, act n. 5 |
+| **1890** | **BLANK PAGE** — almost certainly a section boundary |
+
+**Derived brackets (verify before trusting):**
+- Nati 1874-1910 ends ≈ image **900**
+- Pubblicazioni 1866-1910 ≈ **900 → ~1560** (≈15 images/year; 1906 at 1500 fits)
+  → **BANNS for 1885-92 ≈ images 1185–1290**
+- Matrimoni 1866-1910 ≈ **~1600 → ~1890** (≈6.6 images/year)
+  → **MARRIAGE ACT for 1885-92 ≈ images 1725–1770**
+
+**Two shots, either one works** — an Italian *pubblicazione* names both parties' parents just as the
+*matrimonio* does. **Try images 1725–1770 first** (the act itself is richer: ages, trades, and
+whether each parent was living or *fu*).
+
+**READING METHOD THAT WORKS** (do not fight the viewer's zoom): set the number in the **Image box**,
+click the viewer's **download** icon, then crop/upscale the JPG locally with PIL autocontrast +
+LANCZOS. Downloads land in `C:\Users\pedea\Downloads\<ark-tail>.jpg` at ~5000×3900.
+
+**What the act will give us:** all four of John's grandparents — Michele Brunetti's parents and
+Domenica Trojano's parents — with ages and occupations. **TROJANO is the hinge**: a Maria Trojano
+married Daniele Brunetti at Plataci in the 1700s in the Bodily genealogy, so this act is the most
+likely single document to connect our line to that one.
