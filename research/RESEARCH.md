@@ -1348,11 +1348,49 @@ stepfather/prior married name, or Stauder her mother's remarriage. Also availabl
 Casper's **GenealogyBank obituary** (attached to LLH7-YD6) and his **Orleans death certificate**
 image (FS "Louisiana, Orleans, Death Records and Certificates, 1835-1954").
 
-**NEXT ON THIS LINE:** ① Gesmold Catholic parish registers (Bistum Osnabrück; also
-Meyersgaz/Matricula) — Casper's 1846 christening settles Esther's 1 Jan 1846 vs the German
-5 Apr 1846, and the 1791/1815 generations live or die there. ② Casper's obituary + death
-certificate images on FS (already attached to his profile — cheap). ③ The Ehmann/Stauder
-question. ④ Ibbenbüren registers for the Wallmeyers. ⑤ Emily's Pascagoula/Warstein Mevers line.
+**THE BAPTISM ACT — READ, SAME NIGHT [VERIFIED].** Matricula Online hosts ALL 42 Gesmold
+St. Petrus registers, 1674–1943, free: `data.matricula-online.eu/de/deutschland/osnabrueck/
+gesmold-st-petrus-melle/`. Book **D1_105 Taufen 1846–1852**, first page (`?pg=2`), **entry 16
+of 1846**:
+
+> **"16. | 5. Apr. | 7. Apr. | Larmann, Johann Caspar, ehelich. [male: 1]
+> Vat.: Jos. Caspar Larmann, Neubauer zu Weringhof.
+> Mütt.: Maria Elisabeth Werges.
+> Gev.: Jos. Caspar Larmann."**
+
+- **Born 5 April 1846, baptised 7 April 1846** — matches the FS profile to the day; **Esther's
+  "Jan 1st 1846" is WRONG on the day but RIGHT on the year**; the American 1848 (death index,
+  1900 census, death cert) is wrong. Site birth updated; Casper's parent link → **VERIFIED**.
+- Father **"Jos. Caspar"** (Joseph), not Johann as the FS reconstruction has it — in this hand
+  Joh./Jos. are a hair apart; both readings kept on the site.
+- **Mother MARIA ELISABETH WERGES** — the German spelling, confirming the NOLA clerks' "Wergers"
+  (1884) and "Weiner" (1921 death cert) as the same woman heard twice.
+- **"NEUBAUER ZU WERINGHOF"** — a new-settler smallholder on newly broken land, at Weringhof in
+  the Gesmold parish. **This kills the "von Larmann = nobility" reading** and gives the family's
+  actual station and their farm/place.
+- Godfather a **Jos. Caspar Larmann** — grandfather or namesake kinsman.
+
+**TECHNIQUE (reusable, avoids the deep-zoom viewer entirely):** Matricula page HTML contains
+`/image/<base64>` paths; base64-decode → direct JPG URL on `hosted-images.matricula-online.eu`;
+download with a normal UA + Referer header and read locally with PIL (autocontrast + crop +
+LANCZOS upscale). Full page ≈ 1518×1426, ~590 KB. **Licence: CC BY-NC-ND 2.0** — non-commercial
+republication IS allowed with attribution; ND means publish the page UNALTERED (the site does),
+and users are asked to notify the archive, for which an online link suffices (the site links).
+
+**NEXT ON THIS LINE:** ① the same register run backwards — father's baptism c.1821 (D1_003_1
+Taufen 1811–1826), parents' marriage 8 Nov 1843 (D2_202 Heiraten 1811–1852), grandparents'
+marriage 31 Jan 1815 (same book) — which will confirm or kill the 1791/Johann-Heinrich
+generations; ② **D4_401 Auswanderer 1832–1865** — an EMIGRANT register for the parish! Casper
+left 1866/67, just past its end, but kin may be listed; ③ Casper's obituary + death-certificate
+IMAGES on FS (indexed line already captured: b. 1848 Hanover, parents John C. Larmann ×
+Elizabeth Weiner, wife Louise M. Ehmann); ④ the Ehmann/Stauder question (Judy's "Louise Standed"
+is vindicated — a son's death record names the mother **Louisa Stouder**, and the 1900 census
+indexes her father as **Joseph Stauder**, though the 1884 marriage makes her daughter of John D.
+Ehmann × Katharina Lutz — stepfather? prior marriage?); ⑤ **Anthony Larmann's death record is
+in the FS Orleans death-certificate collection** (indexed as spouse of Eugenie B. Moore) — the
+long-wanted civil record naming his parents; ⑥ **Esther Mae Larmann's 1928 death record** is
+there too (father Charles, mother Johanna Lemoine); ⑦ Ibbenbüren registers for the Wallmeyers;
+⑧ Emily's Pascagoula/Warstein Mevers line.
 
 ### Casper — documents to order next
 
@@ -1569,7 +1607,16 @@ question. ④ Ibbenbüren registers for the Wallmeyers. ⑤ Emily's Pascagoula/W
   He was away in the navy and their mother left them." Jean also mentioned a "little case" of
   keepsakes she wants explained "when I die y'all going to throw it all away" — the paperwork
   about the mother's remarriage may be in it. STANDING ASK: sit with Jean and the case.
+- **Aaron Pedeaux (2026-08-10, via Buddy):** John Brunetti "fought in WW1, and was like a part of
+  a group that operated cannons. Which was why he was deaf later in life." → ARTILLERY unit.
+  Consistent with the VA Master Index card. ACTION: his service/unit records (NARA St. Louis
+  burned 1973 for Army 1912–60, but VA index + state adjutant-general rosters + the 1942 WWII
+  draft card survive); an artillery unit is a searchable detail. Deafness = a service-connected
+  disability, which is exactly why a VA file would exist.
 - **Jean (2026-08-10, follow-up):** "they were named VonLarmann in Germany" — heard, unverified.
+  ANSWERED 2026-08-10 by the Gesmold baptism act: the family were **Neubauern** (new-settler
+  smallholders) at Weringhof — NOT nobility. The "von" almost certainly preserves the regional
+  *Hofname* custom (von/zu + farm name = "of the X place"). Do not repeat as a nobility claim.
   Almost certainly a *Hofname* (farm name) form, not nobility: see the Gesmold section. Also
   supplied: Ann Larmann was one of six children ✓ (matches the documented sibling set).
 - **Standing asks:** Aunt Patricia → memories of John Brunetti himself. Judy → the rest of the "tons."

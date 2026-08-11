@@ -1148,7 +1148,7 @@
           title: 'Veterans Administration Master Index, 1917–1940',
           citation: 'U.S. Veterans Administration master index card',
           text: 'John Brunetti — a veteran\'s index card, with military service dated 24 May 1919 at New Orleans.',
-          highlight: 'The family said he served in the First World War and gained his citizenship through it — the VA index is the federal confirmation that he served.'
+          highlight: 'The family said he served in the First World War and gained his citizenship through it — the VA index is the federal confirmation that he served. His grandson Aaron carries the rest of it from Buddy: he was with a gun crew, artillery, and it left him deaf in later life.'
         },
         {
           title: 'WWI draft registration — Chicago',
@@ -1172,7 +1172,7 @@
         { label: 'Ellis Island — Giovanni Brunetti, 16 April 1912', url: 'https://www.statueofliberty.org/arrival-details/?id=JJ11-KJ4' },
         { label: 'Ellis Island — every Brunetti who left Plataci', url: 'https://www.statueofliberty.org/arrival-result/?last_name=Brunetti&residence_place=Plataci&arrival_year_from=1790&arrival_year_to=1974' }
       ],
-      note: 'For years this entry carried three unequal claims, and refused to enter Michele as his father until a record named them together. In August 2026 the 1921 marriage record did exactly that: John Brunetti, 28, son of Michele Brunetti and Domenica Forano — matching the Ellis Island manifest\'s "father Michele, Plataci" and settling the village. The arc now reads whole: born in Plataci — an Arbëreshë village, an Italo-Albanian community in Calabria since the fifteenth century — he sailed from Naples in April 1912 at eighteen, went to Chicago, registered there for the draft, served in the war (VA index; service dated 24 May 1919 at New Orleans), gained his citizenship through that service as the family always said, and married Veronica in New Orleans the month after his twenty-eighth birthday. Still wanted for full verification: the WWII "old man\'s draft" card of 1942 (states exact birthplace), his Declaration of Intention at NARA Chicago, Veronica Marie\'s 1923 birth certificate, and the St. Louis Cathedral sacramental act of the wedding.'
+      note: 'For years this entry carried three unequal claims, and refused to enter Michele as his father until a record named them together. In August 2026 the 1921 marriage record did exactly that: John Brunetti, 28, son of Michele Brunetti and Domenica Forano — matching the Ellis Island manifest\'s "father Michele, Plataci" and settling the village. The arc now reads whole: born in Plataci — an Arbëreshë village, an Italo-Albanian community in Calabria since the fifteenth century — he sailed from Naples in April 1912 at eighteen, went to Chicago, registered there for the draft, served in the war (VA index; service dated 24 May 1919 at New Orleans), gained his citizenship through that service as the family always said, and married Veronica in New Orleans the month after his twenty-eighth birthday. His grandson Aaron adds the detail that survives in the family from Buddy: John served on a gun crew — artillery — and went deaf from it in later life, which would make his unit records the next thing worth finding. Still wanted for full verification: the WWII "old man\'s draft" card of 1942 (states exact birthplace), his Declaration of Intention at NARA Chicago, Veronica Marie\'s 1923 birth certificate, and the St. Louis Cathedral sacramental act of the wedding.'
     },
 
     michelBrunetti: {
@@ -1635,19 +1635,31 @@
       ],
       given: 'John Casper', alsoKnownAs: 'born Johann Caspar Larmann', surname: 'Larmann', sex: 'M',
       origin: 'Gesmold, Melle — Kingdom of Hanover',
-      birth: { date: '5 April 1846, christened the 7th', place: 'Gesmold, Melle, Kingdom of Hanover' },
+      birth: { date: '5 April 1846, baptised the 7th', place: 'Gesmold, Melle, Kingdom of Hanover' },
       death: { date: '21 November 1921', place: 'Orleans Parish' },
       father: 'johnCasparLarmannSr', mother: 'mariaElisabethWerges',
-      evidence: 'confirm',
+      evidence: 'verified',
       branch: 'larmann',
       immigrant: true,
       blurb: 'The Larmann immigrant: "Casper Sr." to his family. A Hanoverian from the village of Gesmold who crossed at twenty, married in New Orleans in 1870, buried his first wife in 1882, remarried in 1884, and died nine months after his daughter-in-law Eugenie — having outlived his son Anthony by seventeen years.',
       records: [
         {
-          title: 'The record that named his parents',
+          title: 'His baptism — read in the Gesmold parish register',
+          citation: 'Katholische Pfarrei St. Petrus, Gesmold (Melle) — Taufen 1846–1852, D1_105, entry 16 of 1846',
+          text: '"16. | 5. Apr. | 7. Apr. | Larmann, Johann Caspar, ehelich. Vat.: Jos. Caspar Larmann, Neubauer zu Weringhof. Mütt.: Maria Elisabeth Werges. Gev.: Jos. Caspar Larmann."',
+          highlight: 'The primary record, in the priest\'s own hand: born 5 April 1846, baptised the 7th, a legitimate son of Joseph Caspar Larmann — a Neubauer, a new-settler farmer, at Weringhof — and Maria Elisabeth Werges. His godfather was a Jos. Caspar Larmann too. This is the document the whole hunt was for.'
+        },
+        {
+          title: 'The record that first named his parents',
           citation: 'Louisiana Parish Marriages — Orleans, 26 April 1884 (Vol. 10, p. 589)',
           text: 'John Casper Larmann, 36, son of JOHN CASPER LARMANN and MARIA ELIZABETH WERGERS, m. Louisa Margaret Ehmann, 27, daughter of John D. Ehmann and Katharina Lutz.',
-          highlight: 'Found August 2026, in the church-marriage collection the state civil index never covered. His parents\' names had been unknown to the family for a century.'
+          highlight: 'Found August 2026, in the church-marriage collection the state civil index never covered — the lead that sent the search to Gesmold. His parents\' names had been unknown to the family for a century.'
+        },
+        {
+          title: 'His death certificate — the parents again, independently',
+          citation: 'Louisiana, Orleans, Death Records and Certificates — 21 November 1921',
+          text: 'John Casper Larmann, born 1848 in Hanover, Germany; parents JOHN C. LARMANN and ELIZABETH WEINER; wife Louise M. Ehmann.',
+          highlight: 'A second American record naming his parents, thirty-seven years after the first. "Weiner" is the same Werges through one more clerk\'s ear.'
         },
         {
           title: 'First marriage',
@@ -1686,21 +1698,28 @@
         { id: 'johnCasparLarmann' },
         'and at least one more child recorded in the Gesmold registers'
       ],
-      given: 'Johann Caspar', surname: 'Larmann', sex: 'M',
-      origin: 'Gesmold, Melle — Kingdom of Hanover',
-      birth: { date: '6 April 1821, christened the 7th', place: 'Gesmold, Melle, Kingdom of Hanover' },
+      given: 'Joseph Caspar', alsoKnownAs: 'the register abbreviates him "Jos. Caspar" — Joseph, or a very tight Johann', surname: 'Larmann', sex: 'M',
+      origin: 'Weringhof, in the parish of Gesmold — Kingdom of Hanover',
+      birth: { date: 'about 1821', place: 'Gesmold, Melle, Kingdom of Hanover' },
+      occupation: 'Neubauer zu Weringhof — a new-settler farmer',
       evidence: 'confirm',
       branch: 'larmann',
-      blurb: 'The father who stayed. Named on his son\'s 1884 New Orleans marriage record — the document that finally opened this line — he married Maria Elisabeth Werges at Gesmold on 8 November 1843 and, so far as any record shows, never left the village.',
+      blurb: 'The father who stayed, and the answer to what this family actually was: a Neubauer, a new-settler farmer at Weringhof in the Gesmold parish. He married Maria Elisabeth Werges at Gesmold in November 1843, stood godfather to his own son in 1846, and so far as any record shows never left the village.',
       records: [
         {
-          title: 'Named on his son\'s marriage record',
+          title: 'Named in his son\'s baptism — the primary record',
+          citation: 'Katholische Pfarrei St. Petrus, Gesmold — Taufen 1846–1852, entry 16 of 1846',
+          text: '"Vat.: Jos. Caspar Larmann, Neubauer zu Weringhof… Gev.: Jos. Caspar Larmann."',
+          highlight: 'A Neubauer was a smallholder settled on newly broken land — the lowest rung of the landholding peasantry, not gentry. He stood as his own son\'s godfather, or a namesake kinsman did.'
+        },
+        {
+          title: 'Named on his son\'s American marriage record',
           citation: 'Louisiana Parish Marriages — Orleans, 26 April 1884 (Vol. 10, p. 589)',
           text: 'The groom John Casper Larmann, 36, is entered as the son of JOHN CASPER LARMANN and MARIA ELIZABETH WERGERS.',
-          highlight: 'Three generations of this family were named Johann Caspar Larmann in a row — 1791, 1821, 1846 — which is exactly why the American records blur them together.'
+          highlight: 'Generation after generation of this family carried the name Caspar Larmann, which is exactly why the American records blur them together.'
         }
       ],
-      note: 'His name comes from a record; his dates and village come from the FamilySearch reconstruction of the Gesmold registers, and are carried at confirm until those registers are read directly. That reconstruction continues above him — Johann Caspar Larmann (b. 1791) and Catharina Maria Ortmann, married at Gesmold on 31 January 1815, and above them a Johann Heinrich Larmann and Catharina Maria Gerven with no dates at all. Those two generations are not drawn on this tree yet: they carry no attached sources, and this family has learned what "close enough" costs.'
+      note: 'The 1846 baptism act, read directly in the Gesmold register, gives his given name as "Jos. Caspar" — Joseph — where the online reconstruction calls him Johann Caspar and dates his birth to 6 April 1821. In this hand Joh. and Jos. are a hair apart, so both readings are kept. Above him the reconstruction continues — a Johann Caspar Larmann born 1791 who married Catharina Maria Ortmann at Gesmold on 31 January 1815, and above them a Johann Heinrich Larmann and Catharina Maria Gerven with no dates at all. Those generations are not drawn on this tree: they carry no attached sources. But the Gesmold registers run back to 1674 and are online in full, so they can be settled the same way this act was — by reading the book.'
     },
 
     mariaElisabethWerges: {
