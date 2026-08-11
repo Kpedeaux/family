@@ -2923,3 +2923,37 @@ relationship that no pedigree chart would ever show, because there is no blood i
 **Untried on Connard:** his own given name is not pinned (Jean vs Gilles Alexis — likely father,
 brother or uncle); `last_name=CONNARD` documents 1735–39 predate our story and may explain how he
 came to have an orphan in the house.
+
+### The 1735–39 Connard documents — read 2026-08-11
+
+All three read via their WPA cards. **They are Alexis Connard's property business, not the
+orphan's story.** Recording that plainly so nobody re-runs it.
+
+| Doc | WPA card | Content |
+|---|---|---|
+| `1735-01-29-01` `/document/2310` | **#A-35/3**; *LHQ* Vol. 5 no. 2, Apr 1922, p. 260 | **"PETITION TO SELL REAL ESTATE BY ALEXIS CONNARD, ALIAS LA FOREST."** |
+| `1739-01-07-01` `/document/3965` | **Doc. #2541**; *LHQ* Vol. 6 no. 2, Apr 1923, p. 300 (card dates it **Feb 7**, site indexes Jan 7) | **"Acknowledgment of debt and mortgage by ALEXIS CONNARD AND WIFE to DR. GERARD PERY."** Signed: Connard · Françoise Gonzalle · Roumier · Jahan · **Henry** |
+| `1738-02-03-01` `/document/3493` | — | **Succession of Jan BOISSELIER** (w. Catherine Labrot). Connard is only a council member. **NOT ours.** |
+
+**GAINED:**
+- **"ALIAS LA FOREST"** — confirms SRANO's "Gilles Alexis Connard, surnamed LA FOREZ". A
+  searchable *dit* name.
+- **The head of that household was ALEXIS, not Jean.** So **Jean Connard is a distinct man** —
+  brother, father or uncle. Two independent sources say Jean (1740 contract text; 1745 baptism
+  SLC B2 49), so it is not a misreading.
+- **The house was under financial strain in exactly these years** — selling real estate in 1735,
+  mortgaged to a physician by 1739. Whoever took in the orphan did it while borrowing against
+  his own property. That makes the act more notable, not less.
+
+**NOT GAINED — and the honest answer to "how did they know each other":** nothing read so far
+explains how a girl with two dead parents came to be in a Connard house. No tutorship, no
+guardianship appointment, no succession naming her. The 1735–39 papers are about land.
+
+**⚠️ RECURRING NAME, now across five documents spanning ten years: NICOLAS HENRY** — 1738
+Boisselier succession · 1739 Connard mortgage · 1744 Cousin contract for goods and services ·
+1747 Joly marriage contract · 1748 Joly will · 1748 Joly estate petition. He is the constant in
+this entire circle. **`last_name=HENRY` is the next search**, and the likeliest single lead to
+what bound these households together.
+
+**Also still untried:** `rest_of_name=Jean` + `last_name=CONNARD` to pin the man; Maduell's
+census tables 1699–1732; Company of the Indies passenger lists.
