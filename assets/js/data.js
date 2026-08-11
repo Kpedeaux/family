@@ -1475,7 +1475,7 @@
           highlight: 'The census image itself, with its relation-to-head column, is the next document to pull: it will say in one word — daughter or granddaughter — which generation raised her on paper.'
         }
       ],
-      note: 'The tree here follows the family\'s settled account, adopted August 2026: her father was Robert Lemoine, her mother Agnes Margaret Hanley — married at Orleans in 1906, Johanna born the following January. Agnes did not die young; she left, while Robert was away in the Navy, and it was Poupone who raised the children until her own death in 1915 sent them to the orphanage. The parent links are carried at confirm, not verified: the civil document that will state her parents outright is her own August 1924 marriage licence application (Vol. 49, p. 468), still to be pulled from the State Archives.'
+      note: 'The tree here follows the family\'s settled account, adopted August 2026: her father was Robert Lemoine, her mother Agnes Margaret Hanley — married at Orleans in 1906, Johanna born the following January. Agnes did not die young; she left, while Robert was away in the Navy, and it was Poupone who raised the children. ⚠️ One thread has since come loose and is kept open here: Poupone did NOT die in 1915, as this site briefly had it — Judy\'s notes give her 26 November 1863 to 21 February 1938. So whatever sent the children to the orphanage, it was not her death. The parent links are carried at confirm, not verified: the civil document that will state her parents outright is her own August 1924 marriage licence application (Vol. 49, p. 468), still to be pulled from the State Archives.'
     },
 
     robertLemoine: {
@@ -1549,7 +1549,7 @@
           highlight: 'A daughter named for her mother, born in the summer of 1909 and dead by November. Within months, Agnes herself disappears from the Louisiana record.'
         }
       ],
-      note: 'Family memory says she remarried — "the paperwork said that she married somebody else." No remarriage appears in the Orleans index under Hanley or Lemoine, so it likely happened in another parish or state; no Louisiana death fits her under either name. Her fate, and her own parentage, are open fronts. Johanna\'s 1924 marriage licence application should name her as mother and verify the link.'
+      note: 'WHERE SHE WENT — answered August 2026 by Judy\'s notes, which name her "Agnes Hanley Lemoine (WINSTINE)." She remarried a Winstine, and Johanna had half-siblings by that marriage: the notes list "Grandma\'s half-brother and sister" as Mrs. Elsie McPherson and William Winstine, with a daughter Marvel and a son of their own. So the woman who left did not vanish — she raised another family in the same city, and Johanna knew them. Finding the Hanley–Winstine marriage, and Elsie and William\'s records, is now a live and very findable front.'
     },
 
     anthonyLarmann: {
@@ -1567,6 +1567,7 @@
         'Esther Marguerite (2 Jan 1904 – 14 Sept 1976)'
       ],
       given: 'Anthony Henry', surname: 'Larmann', sex: 'M',
+      occupation: 'Architect',
       birth: { date: '26 August 1871', place: 'New Orleans' },
       death: { date: '12 February 1904', place: 'Orleans Parish' },
       father: 'johnCasparLarmann', mother: 'emilyMevers',
@@ -1940,14 +1941,16 @@
         'probably Eugenie Goubler (c.1848–1871)',
         { id: 'valentineGoubler' }
       ],
-      given: 'Joseph', surname: 'Goubler', sex: 'M',
-      birth: { date: 'about 1818' },
+      given: 'Emile Joseph', surname: 'Goubler', sex: 'M',
+      father: 'claudeGoubler', mother: 'marieJeanneLeBlanc',
+      origin: 'a Lorraine family — Bertrambois, Meurthe-et-Moselle',
+      birth: { date: '1818 or 1819' },
       death: { date: '7 November 1892', place: 'Orleans Parish' },
       evidence: 'confirm',
       branch: 'larmann',
       photo: 'assets/img/goubler-tomb-new-tablet.jpg',
       photoCaption: 'The Goubler family tomb, restored with its new marble tablet — thirteen names, Lucien Goubler to John R. Larmann Sr. The pediment reads "Family — Joseph Goubler." Family photograph.',
-      blurb: 'Patriarch of the tomb the Larmann line still uses. The Goubler name — likely Alsatian or German — was in New Orleans by the 1840s, in at least two households: his own, and that of Jean Baptiste Goubler and Françoise Tessier, almost certainly his brother. Private Emile Goubler, who died in France in 1918, came from one of the two — see the research page.',
+      blurb: 'Patriarch of the tomb the Larmann line still uses — and, it turns out, a Lorrainer. His parents married at Bertrambois in Meurthe-et-Moselle in 1808, so the Goublers came out of that French-German borderland rather than Germany proper. The name was in New Orleans by the 1840s in at least two households: his own, and that of Jean Baptiste Goubler and Françoise Tessier, almost certainly his brother.',
       records: [
         {
           title: 'Louisiana death record',
@@ -1967,7 +1970,32 @@
           text: 'The pediment reads "FAMILY — JOSEPH GOUBLER." The original marble tablet, now broken and replaced by the family, is still partly legible: Lucien (d. Oct. 1876) · Emile (d. 1889) · Joseph Goubler (d. Nov. 1892, aged 74 yrs) · Victoire Cirlot, wife of Joseph Goubler (d. 1895) · Anthony Moore (d. Nov. 1, 1920, aged 37 yrs) · Valentine Goubler, wife of Henry Moore (d. Feb. 14, 1926, aged 77 yrs) · Louis Goubler (d. March 1940) · Leontine M. Moore (d. March 27, 1947) · Louise M. Moore (d. 1948).',
           highlight: 'The stone documents Louis Goubler\'s 1940 death, which the state index missed entirely, and gives Anthony Moore and Leontine their exact dates.'
         }
-      ]
+      ],
+      note: 'The tomb and the state index call him plainly Joseph; a family pedigree chart via Judy Gifford gives his full name as EMILE Joseph Goubler, born 1819 — which explains the Emiles that run down this family for a century, to the son Joseph Emile, and to Private Emile Thomas Goubler who died in France in 1918.'
+    },
+
+    claudeGoubler: {
+      children: [
+        { id: 'josephGoubler' }
+      ],
+      given: 'Claude', surname: 'Goubler', sex: 'M',
+      origin: 'Bertrambois, Meurthe-et-Moselle — Lorraine',
+      evidence: 'confirm',
+      branch: 'larmann',
+      blurb: 'The Goubler origin, found in August 2026: he married Marie Jeanne LeBlanc at Bertrambois, in Meurthe-et-Moselle, on 21 September 1808. Bertrambois is a village of the Lorraine forest country near Sarrebourg, a few miles from the Alsatian line — which is why the name always sounded half German in New Orleans.',
+      note: 'From a family pedigree chart supplied by Judy Gifford, tier confirm until the Bertrambois registers are read directly. Those registers are online through the Archives départementales de Meurthe-et-Moselle, and the 1808 marriage act would give both sets of parents and carry this line another generation.'
+    },
+
+    marieJeanneLeBlanc: {
+      children: [
+        { id: 'josephGoubler' }
+      ],
+      given: 'Marie Jeanne', surname: 'LeBlanc', sex: 'F',
+      origin: 'Bertrambois, Meurthe-et-Moselle — Lorraine',
+      evidence: 'confirm',
+      branch: 'larmann',
+      blurb: 'Married Claude Goubler at Bertrambois on 21 September 1808. A French name in a borderland where French and German sat side by side in the same parish books.',
+      note: 'Awaiting the Bertrambois registers, like her husband.'
     },
 
     victoireCirclot: {
@@ -1975,10 +2003,11 @@
         'The same Goubler children — see Joseph Goubler',
         { id: 'valentineGoubler' }
       ],
-      given: 'Victoire Théoline', surname: 'Cirlot', sex: 'F',
-      alsoKnownAs: '"Circlot" in Judy\'s transcription; indexed at death as "Theoline Victoire"',
-      birth: { date: 'about 1821' },
+      given: 'Théoline Victoria Nesida', surname: 'Cirlot', sex: 'F',
+      alsoKnownAs: '"Victoire Cirlot" on the tomb; "Circlot" in Judy\'s transcription',
+      birth: { date: '1821' },
       death: { date: '23 December 1895', place: 'Orleans Parish' },
+      father: 'jeanAugusteCirlot', mother: 'adelaidePouponneauPetit',
       evidence: 'confirm',
       branch: 'larmann',
       photo: 'assets/img/goubler-tomb-new-tablet.jpg',
@@ -1990,7 +2019,36 @@
           citation: 'Orleans Parish, 23 December 1895 — Vol. 110, p. 79',
           text: 'GOUBLER, THEOLINE VICTOIRE, age 74.'
         }
-      ]
+      ],
+      note: 'Her full name comes from a family pedigree chart: Théoline Victoria Nesida Cirlot, born 1821 to Jean Auguste Cirlot and Adélaïde "Adèle" Pouponneau Petit — both of whom died in 1825, when she was four. Two parents in one year in New Orleans usually means an epidemic; the city buried thousands to yellow fever in that decade.'
+    },
+
+    jeanAugusteCirlot: {
+      children: [
+        { id: 'victoireCirclot' }
+      ],
+      given: 'Jean Auguste', surname: 'Cirlot', sex: 'M',
+      birth: { date: '1794' },
+      death: { date: '1825' },
+      lifespanText: '1794 – 1825',
+      evidence: 'confirm',
+      branch: 'larmann',
+      blurb: 'Dead at thirty-one, in the same year as his wife, leaving a four-year-old daughter who would live to seventy-four and give her name to a tomb.',
+      note: 'From a family pedigree chart via Judy Gifford. Both Cirlot parents dying in 1825 points hard at one of New Orleans\'s yellow-fever seasons; the sacramental burial registers for 1825 would confirm it and give the days.'
+    },
+
+    adelaidePouponneauPetit: {
+      children: [
+        { id: 'victoireCirclot' }
+      ],
+      given: 'Adélaïde', nickname: 'Adèle', surname: 'Pouponneau Petit', sex: 'F',
+      birth: { date: '1798' },
+      death: { date: '1825' },
+      lifespanText: '1798 – 1825',
+      evidence: 'confirm',
+      branch: 'larmann',
+      blurb: 'Died at twenty-seven, the same year as her husband. Her double surname, Pouponneau Petit, is the oldest French-colonial-sounding name on this side of the family.',
+      note: 'From a family pedigree chart via Judy Gifford. The Pouponneau and Petit families are both traceable in the New Orleans sacramental registers, which the Archdiocese has published in the volumes already used elsewhere on this tree.'
     },
 
     alonzoLemoine: {
@@ -2013,17 +2071,19 @@
         { id: 'robertLemoine' }
       ],
       given: 'Genevieve', nickname: 'Poupone', surname: 'Rousselle', sex: 'F',
-      death: { date: 'probably 24 August 1915', place: 'Orleans Parish' },
+      birth: { date: '26 November 1863', place: 'Edgard, St. John the Baptist Parish' },
+      death: { date: '21 February 1938', place: 'Lucy, St. John the Baptist Parish' },
+      lifespanText: '26 November 1863 – 21 February 1938',
       father: 'valeryRousselle', mother: 'marieEveDelatte',
       evidence: 'confirm',
       branch: 'lemoine',
-      blurb: 'Remembered in the family as "Poupone," an old Creole endearment. When her son Robert\'s marriage collapsed and he went to sea, she raised his little daughter Johanna herself — and the child called her "mother." The 1910 census shows her standing in Orleans with the babies. If the 1915 death is hers, Johanna lost her at eight, and the orphanage years follow directly.',
+      blurb: 'Remembered in the family as "Poupone," an old Creole endearment. Born at Edgard on the river, she raised her son Robert\'s little daughter Johanna when his marriage collapsed and he went to sea — and the child called her "mother." She lived until 1938 and died back in the country at Lucy, aged seventy-four.',
       records: [
         {
-          title: 'Louisiana death record — probably hers',
-          citation: 'Orleans Parish, 24 August 1915 — Vol. 164, p. 309',
-          text: 'ROUSSELLE, GENEVIEVE, age 54.',
-          highlight: 'Indexed under her maiden name, as this index often does with married women. Right name, right city, right generation — but no document yet ties this death to Johanna\'s mother, so it is offered as probable, not proven.'
+          title: 'The family record — her dates in full',
+          citation: 'Judy Larmann Gifford\'s notes, taken down from her father John Larmann Sr., 2026',
+          text: '"Poppone — Genevieve Rousselle Lemoine, 11/26/1863, child of Valery Rousselle + Marie Eve Deslattes, born in Edgard, La. Died in Lucy, La. 2/21/38, 74 years."',
+          highlight: 'Born 26 November 1863, died 21 February 1938 at seventy-four — internally consistent, and it matches the nineteen-year-old Genevieve in her father\'s 1880 Edgard household exactly. This corrects an earlier guess on this site that she was the Genevieve Rousselle who died in Orleans in 1915; that was a different woman.'
         }
       ],
       note: 'Her parents were Valery Rousselle and Marie Eve Delatte, per Judy\'s notes — and the 1880 census of Edgard, in St. John the Baptist Parish, found the household in August 2026: Genevieve at about nineteen, with brothers and sisters Ignace, Florentine, Ettienne, Leo, Joseph, Aurelia, Noemie and Ozeme. Judy remembered four of those names without a document in front of her. Genevieve\'s birth about 1861 matches her death in 1915 at fifty-four exactly.'

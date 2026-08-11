@@ -1527,6 +1527,85 @@ settles the cousinhood; ③ **ABMC database + AEF burial file** — was Emile re
 a French cemetery? (Many 1918 dead were brought home 1921–22.) ④ his WWI draft registration
 card; ⑤ 114th Engineers unit history; ⑥ Find a Grave / Goubler tomb — is he on the tomb roster?
 
+### JUDY'S NOTES + PEDIGREE CHART — the biggest single haul (2026-08-10)
+
+Judy: "These are my notes that I wrote down as I talked to my Dad one night" (Dad = John
+Richard Larmann Sr., d. 2018) + a pedigree chart + a descendant chart (Family Tree owner
+**Stephen FISHER / "stfisher"** — a cousin researcher worth contacting).
+
+**⭐ GOUBLER ORIGIN — LORRAINE, FRANCE.**
+> **Claude Goubler × Marie Jeanne LeBlanc — married 21 SEPTEMBER 1808, BERTRAMBOIS,
+> MEURTHE-ET-MOSELLE, LORRAINE, FRANCE.** Their son **Emile Joseph Goubler, b. 1819,
+> d. 1892 New Orleans** = the tomb patriarch (site had him as plain "Joseph").
+Bertrambois is a forest village near Sarrebourg, a few miles from the Alsatian line — which is
+why the name always read half-German here. **+2 people on the tree.** NEXT: Archives
+départementales de Meurthe-et-Moselle (online) → the 1808 act names both sets of parents.
+
+**⭐ CIRLOT — two more generations, and a tragedy.**
+> **Théoline Victoria Nesida Cirlot, b. 1821, d. 1895** (full name new), daughter of
+> **Jean Auguste Cirlot (1794–1825) × Adélaïde "Adèle" Pouponneau Petit (1798–1825).**
+**Both parents died in 1825**, orphaning Théoline at four — two deaths in one year in New
+Orleans reads as a yellow-fever season. **+2 people.** NEXT: 1825 sacramental burial registers;
+Pouponneau/Petit are old French-colonial NOLA names, traceable in the Archdiocese volumes.
+
+**⭐ POUPONE CORRECTED — SHE DID NOT DIE IN 1915.**
+> "Poppone — **Genevieve Rousselle Lemoine, 11/26/1863**, child of Valery Rousselle + Marie Eve
+> Deslattes, **born in Edgard, La. Died in Lucy, La. 2/21/38, 74 years.**"
+Internally consistent, and matches the 19-year-old Genevieve in the 1880 Edgard household.
+**This kills our earlier [PROBABLE] guess that she was the Genevieve Rousselle who died in
+Orleans 24 Aug 1915 age 54 — different woman.** ⚠️ **CONSEQUENCE: the orphanage was NOT caused
+by Poupone's death.** Site note updated to hold that open. Re-think: what put the children in
+the orphanage c.1915 if their grandmother lived to 1938? (Robert at sea + Agnes gone + Poupone
+possibly upriver at Lucy, not in the city?)
+
+**⭐ AGNES HANLEY'S FATE — SOLVED.** Judy's notes: "Grandma's parents: **Robert Lemoine — died
+11/20/49 in WASH. D.C., buried in Arlington Nat'l Cemetery**" ✓✓ (independently confirms our
+ANC find) · "**Agnes Hanley Lemoine (WINSTINE)**" · Robert's "2nd wife **Sophie Anderson** —
+died 11/15/64." And top-right: "**Grandma's half-brother + sister: Mrs. Elsie McPherson,
+William Winstine** — daughter Marvel + son." → **Agnes remarried a WINSTINE and had a second
+family; Johanna knew her half-siblings.** NEXT: Hanley–Winstine marriage; Elsie Winstine
+McPherson and William Winstine records.
+
+**OTHER FACTS FROM THE CHART/NOTES:**
+- **Anthony H. Larmann was an ARCHITECT** (added to his entry).
+- **Eugenie Bernadine Moore: b. 1875 New Orleans, d. 23 FEB 1921** — exact date new; confirms
+  "Casper died nine months after his daughter-in-law." ⚠️ Judy's handwritten note "Eugenie died
+  when Grandpa was 12" is wrong (Charles b. 1902 → he was 18); the chart wins.
+- "Anthony died when Grandpa was 2" ✓ (Anthony d. Feb 1904, Charles b. Jul 1902).
+- **Charles Emile was raised by his aunts "Tene" (Leontine) and Louise Moore**, neither married
+  — both are on the Goubler tomb (Leontine d. 1947, Louise d. 1948).
+- **Marie Valentine Josepha Goubler 1847–1926** (full name); **Henry John Moore 1848–1893**.
+- Moore siblings of Eugenie: Marie Louise, John Henry (& Nathe Schnider), Anthony Henry
+  (& Odile Nathalie Faciane), Emile Henry (& Lola Gets).
+- Larmann siblings per chart: Mary Eugene 1896– · **Louisa ERNESTINE 1897–1898** (site has
+  "Louisa Francis"; middle name in question) · Bernadine Louise 1898–1956 (① Ed Porter
+  ② Harry G. Johnson; d. 8/21/56, bur. St. Vincent de Paul) · Anthony Leo 1900–1969 (& Beryl
+  Julia Emig, b. 1908) · Charles Emile 1902–1969 · Esther Marguerite 1904–1976.
+- Eugene Lemoine's children: Bob (Robert M.), Leah G., Leone "Nomie" Lemoine RAGNAC (d. 1/30/83
+  aged 72). Ernest Lemoine also named.
+- Uncle Bernie (Bernard Leo Larmann)'s descendants incl. Bernard H. Larmann III (d. 1/3/02,
+  Slidell post office) and Bernard IV.
+- Poupone's brother **Joe Roussel's** kids = 1st cousins: Adele, Leo, Joel, Ida → Grelien
+  (Florestine, Agnes, Bernadette). Sisters: **Mrs. J. B. Grelien (Marie)** and **Mrs. Naomi
+  Zellar** ✓. **Aurelian — "NO KIDS KNOWN"** ✓ (matches his 1949 obituary).
+
+### ⭐ THE VICTORY ARCH — Emile Goubler's name is in bronze (2026-08-10)
+
+Third clipping from Judy: **"NINTH WARD TO HONOR FIGHTERS — Twelve Hundred Service Men of Uncle
+Sam to Be Immortalized."** Lists 8 killed in action and 13 who "died in service," including
+**EMILE THOMAS GOUBLER**. Monument to be erected in **McCarthy Square**. Chairman William T.
+Hall, Ninth Ward Army and Navy Aid Association. The clipping also states: *"a separate tablet
+will be provided for colored soldiers."*
+
+**THE MONUMENT WAS BUILT AND STILL STANDS: the VICTORY ARCH, McCarthy Square, Bywater**
+(bounded by Alvar / N. Rampart / Pauline / Burgundy). Erected 1919, **dedicated 14 March 1920**;
+architect **Charles L. Lawhon**; granite from **Albert Weiblen Marble & Granite Co.**; four
+bronze plaques, **1,260 names**; described as the **first permanent WWI memorial in the United
+States**. The plaques segregate Black and white soldiers. Recent restoration-funding coverage
+in nola.com. **Leonce's house at 1722 St. Ferdinand St. is a few blocks away.**
+**ACTION FOR KEVIN: go photograph Emile's name on the plaque** — it is a visitable ancestor
+memorial in his own city.
+
 ### THE 1819 SLAVE SALE — "Valery, aged 4, orphan" (2026-08-10, via Judy)
 
 Judy supplied a printout from WorldVitalRecords of **Dr. Gwendolyn Midlo Hall's
