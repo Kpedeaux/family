@@ -3159,3 +3159,48 @@ FamilySearch is the easier door and Kevin is already authenticated there.
 
 **Also worth a look from the same archive:** `1752parregcirc.html` and the `catasto*` pages — the
 1752 Catasto Onciario of Plataci, which is the generation above everything in the binder.
+
+### Browsing for John Brunetti's 1893 birth act — where I got to, 2026-08-11
+
+**⚠️ NOT FOUND YET. Reached the Plataci image set but not the 1893 birth register.** Recording the
+exact handles so the next attempt starts here instead of re-deriving all of it.
+
+**THE COLLECTION — confirmed, and it is the right one:**
+- **"Italy, Cosenza, Castrovillari, Civil Registration (Tribunale), 1866–1910"**
+- **Collection ID `2043557`** · 244,341 images · 69,873 records
+- Originals held at the **Castrovillari Courthouse (Tribunale di Castrovillari)**
+- FamilySearch's own description confirms birth acts in this series give: **child's name, date and
+  place of birth, sex, PARENTS' NAMES, parents' occupations, parents' residence**, and often
+  baptism date/place and godparents. **This is the record that names Michele and Domenica.**
+
+**PLATACI IS DEFINITELY IN IT.** Reached a live Plataci image group:
+- **"Plataci. Death Records 1895"** — 18 images
+- image ark **`3:1:3QSQ-G972-THZ5`**, **`groupId=M9HV-GK7`**, `cc=2043557`
+- Sample indexed Plataci acts pulled from it: Lorenzo Brunetti (d. 16 Mar 1895, b. 1870 Plataci,
+  *calzolaio*, parents **Donato** and **Domenica Polametti**); Maddalena Brunetti (d. 1895, parents
+  Domenico and Maria Conte); Giuseppe Brunetti (d. 1895, b. 1872, parents Clemente and Rosa
+  Imilari); Sebastiano Brunetti (d. 1895, b. 1859, parents Domenico and Isabella Gramisci);
+  Clemente Brunetti (d. 1895, b. 1845). **More Plataci Brunetti households, none yet ours.**
+
+**❌ WHY IT STALLED:** Plataci **BIRTH** registers appear **not to be name-indexed** in this
+collection — only deaths and marriages return Plataci hits. Filtered searches with
+`q.birthLikePlace=Plataci` leak to other comuni (San Basile, Rocca Imperiale, Francavilla). So it
+is a **browse-the-images** job, and the browse route needs the waypoint UI:
+**Collection page → "BROWSE ALL 244,341 IMAGES" → drill Italy ▸ Cosenza ▸ Plataci ▸ Nati 1893.**
+Constructed URLs for that browser 404'd (`/records/collection/2043557/waypoints`,
+`/search/image/index?owc=…`), the Images search demands a `placeId` it would not accept by name,
+and `javascript_tool` kept getting blocked on FamilySearch pages ("Cookie/query string data").
+
+**→ NEXT ATTEMPT, exact steps:**
+1. `https://www.familysearch.org/search/collection/2043557` → click **BROWSE ALL … IMAGES**
+2. Drill **Plataci → Nati (births) → 1893**
+3. Page to **5 May 1893**. A comune of ~1,500 people ran roughly 40–60 births a year, so the act
+   is within a handful of images; registers are chronological and numbered.
+4. The act will name the father (**Michele?**) with his age and trade, and the mother (**Domenica
+   FORANO / FORTINO / FORTINI?**) — settling both the parentage and the surname question.
+5. Cross-check against the **1900 marriage witness "Michele BRUNETTI, 40, *civile*"** (b. c.1860)
+   from the Bodily site — if the 1893 father is a Michele aged about 33, that is the same man.
+
+**Fallback if the register is not digitized:** write to **Comune di Plataci, Ufficio di Stato
+Civile** (Cosenza) for a *estratto dell'atto di nascita* — Italian comuni answer these for
+genealogy, free or nominal, and 1893 is well outside privacy limits.
