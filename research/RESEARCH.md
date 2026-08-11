@@ -3370,3 +3370,44 @@ birthplace, residence, **father's name (with "fu" if deceased) and mother's name
 for the bride. **That is all four of John's grandparents in one document.**
 
 Method reminder: Image box → download icon → crop/upscale locally. Viewer zoom is unusable.
+
+### 1892 marriage register — acts 1–8 read, no Brunetti × Trojano. 2026-08-11
+
+Stepped image by image from the 1892 cover. **Two acts per image.** All of Plataci's 1892
+marriages through act 8:
+
+| Img | Act | Couple | Date |
+|---|---|---|---|
+| 1848 | 1 | Gramisci Emmanuele × De Paola Maria | 15 Jan 1892 |
+| 1848 | 2 | De Cesare Domenico × Osnato Caterina | 4 Feb 1892 |
+| 1849 | 3 | Albamonte Ambrogio × De Paola Aurora | 6 Feb 1892 |
+| 1849 | 4 | De Cesare Giovanni × **TROIANO Rosa** | 15 May 1892 |
+| 1850 | 5 | Barone Angelo × **BRUNETTI Maddalena** | 22 May 1892 |
+| 1850 | 6 | **BRUNETTI Angelo** × Barone Margherita | 25 May 1892 |
+| 1851 | 7 | Bellusci Giovanni × Smilari Rosa | 5 Jun 1892 |
+| 1851 | 8 | Chidichimo Giovan Battista × Flocco Domenica | 5 Jun 1892 |
+
+**❌ Not ours.** Continue at **image 1852** (acts 9+) to finish 1892.
+
+**⚠️ BUT 1892 IS PROBABLY THE WRONG YEAR.** Michele was **33 in May 1893**, and the grooms in
+these acts marry at **21–27**. If Michele married at a typical age he married around
+**1885–1888**, and John (b. 1893) was simply not the eldest child. **Search 1885–88 next.**
+
+**Year anchors for working backwards** (≈9–10 images per year in this section; every year opens
+with a printed cover page, so boundaries are easy to spot):
+| Year | Approx. images |
+|---|---|
+| 1892 | 1847–1856 (cover at **1846**) |
+| 1891 | ~1836–1845 (act 9–10 confirmed at **1840**) |
+| 1890 | ~1827–1836 |
+| 1889 | ~1817–1827 |
+| **1888** | **~1808–1817** |
+| **1887** | **~1798–1808** |
+| **1886** | **~1789–1798** |
+| **1885** | **~1780–1789** |
+| 1878 | confirmed at **1725** |
+
+**Useful side-observation:** Plataci in 1892 married 8+ couples from a pool of maybe six surnames —
+Brunetti, Barone, De Cesare, De Paola, Chidichimo, Bellusci, Troiano, Flocco, Gramisci, Smilari,
+Osnato, Albamonte. **Two Brunetti–Barone weddings three days apart** (acts 5 and 6). It is a very
+small, very intermarried village, which is exactly why surname alone proves nothing here.
