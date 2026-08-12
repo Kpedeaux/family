@@ -3451,3 +3451,56 @@ TROJANO/TROIANO** (both spellings occur in this register).
 
 **Reminder of the target:** Michele Brunetti, *civile*, born c. 1860 — so aged 25–28 in 1885–88.
 Grooms in these acts marry at 21–27, and brides at 16–24.
+
+---
+
+## St. Vincent de Paul Church, Bywater — who married there, and why it is hard
+
+**Question:** which family members were married at St. Vincent de Paul, 3051 Dauphine
+(now Blessed Seelos, where Kevin and Ashley were married)?
+
+### The obstacle, stated plainly
+
+**The Louisiana civil records never name the church.** The Orleans Parish marriage index
+gives names, dates, volume and page and nothing about where the ceremony happened. No
+amount of work in the state index will answer this question for anybody. It can only come
+from a parish register, a newspaper notice, or family memory.
+
+### What was checked, 12 August 2026
+
+**1. The SRANO volumes held locally are too early.** `CoreRail\Memory\SRANO\` holds volumes
+1–18, ending 1829. St. Vincent de Paul parish was founded in 1838. The set stops before the
+church existed. The published series continues past volume 18 and **later volumes are the
+most likely published route** — that is the next thing to obtain.
+
+**2. FamilySearch has no St. Vincent de Paul registers. Checked and confirmed negative.**
+Catalog search by place (New Orleans, Orleans, Louisiana; placeId 4165722) returns 461
+items, of which 21 are Church records. The list was fully expanded and read. "Vincent de
+Paul" does not appear in it; neither does Seelos. The only Catholic holdings for New
+Orleans are St. Louis Cathedral and St. Louis Parish material, the 1720–1734 registres
+paroissiaux, and the published SRANO series. **There is no microfilm to order and no images
+to browse.** This is consistent with the Archdiocese of New Orleans retaining its
+sacramental records rather than permitting them to be filmed.
+
+### Candidates, in the order worth checking
+
+| Year | Who | Why |
+|---|---|---|
+| 1924 | **Charles Emile "Charlie" Larmann** | **Strongest.** Kevin's mother and grandfather both say his FUNERAL was at St. Vincent de Paul, and he is buried in St. Vincent de Paul Cemetery No. 1 in the Goubler tomb. Both ends of a parish burial are accounted for. |
+| 1888 | Alphonse Florestan Gaiennie Jr. | French |
+| 1906 | Robert Lemoine × Agnes Hanley | French |
+| 1926 | Melanie Moizant | French, the Bordeaux line |
+| 1870, 1884 | John Casper Larmann | Bywater by geography — 710 Love Street, 32 Independence, 2833 Dauphine — but German, and Holy Trinity was the German national parish |
+| 1883, 1910 | John and Henry Wellmeyer | Clouet at N. Rampart, also German |
+
+**The German question is real, not a formality.** Bywater Catholics split between the
+territorial parish (St. Vincent de Paul) and the German national parish (Holy Trinity).
+For the Larmanns and Wellmeyers, geography argues one way and language the other, and
+this archive already places a Wellmeyer on stage at Holy Trinity in 1877.
+
+### What would actually settle it
+
+1. **SRANO volumes covering 1838 onward** — the published, citable route.
+2. **Archdiocese of New Orleans Sacramental Records office** — written request, per person.
+3. **Times-Picayune wedding notices** — these do name churches. A paper route, and the one
+   most likely to be reachable without an archdiocesan request.
