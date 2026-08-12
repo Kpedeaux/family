@@ -849,7 +849,7 @@
         },
         {
           title: 'Louisiana death record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 19 March 1919 — Vol. 176, p. 115',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, 19 March 1919 — Vol. 176, p. 115',
           text: 'GAIENNE, ALPHONSE F, age 56.'
         }
       ],
@@ -878,7 +878,7 @@
       records: [
         {
           title: 'Louisiana death record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 12 January 1919 — Vol. 175, p. 218',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, 12 January 1919 — Vol. 175, p. 218',
           text: 'GAIENNIE, JEANNE E CURIEN, age 52.'
         }
       ]
@@ -927,7 +927,7 @@
         },
         {
           title: 'Louisiana death record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 20 July 1884 — Vol. 85, p. 616',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, 20 July 1884 — Vol. 85, p. 616',
           text: 'GAIENNIE, FLORESTAN, age 60.'
         }
       ]
@@ -1641,7 +1641,7 @@
       ],
       given: 'Melanie', surname: 'Moizant', sex: 'F',
       birth: { date: 'January 1877', place: 'Louisiana' },
-      death: { date: '17 or 18 October 1957', place: 'Orleans Parish' },
+      death: { date: '18 October 1957', place: 'Orleans Parish' },
       father: 'alfredMoizant', mother: 'victoriaDaroca',
       evidence: 'verified',
       branch: 'moizant',
@@ -1649,7 +1649,7 @@
       records: [
         {
           title: 'Louisiana death index',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 18 October 1957 — Vol. 0, p. 7108',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, 18 October 1957 — Vol. 0, p. 7108',
           text: 'PAASCH, MELANIE FRANOVICH MOIZANT, age 80.',
           highlight: 'The clerk recorded her whole life in one line: married name, previous married name, maiden name.'
         },
@@ -1942,7 +1942,7 @@
         },
         {
           title: 'Louisiana death record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 13 July 1969 — p. 4760',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, 13 July 1969 — p. 4760',
           text: 'LARMANN, CHARLES EMILE, age 67.'
         },
         {
@@ -2124,7 +2124,7 @@
         },
         {
           title: 'The death of her infant daughter',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana death index, Orleans, 9 November 1909 — Vol. 147, p. 1104',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Louisiana death index, Orleans, 9 November 1909 — Vol. 147, p. 1104',
           text: 'LEMOINE, AGNES — aged 3 months.',
           highlight: 'A daughter named for her mother, born in the summer of 1909 and dead by November. Within months, Agnes herself disappears from the Lemoine record.'
         },
@@ -2579,7 +2579,7 @@
         },
         {
           title: 'Louisiana death record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 9 December 1893 — Vol. 105, p. 417',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, 9 December 1893 — Vol. 105, p. 417',
           text: 'MOORE, HENRY, age 46.',
           highlight: 'Esther\'s ledger reads "Dec 9, 189─" with the last digit clipped by the photocopier. The index restores it: 1893 — and the age of 46 lands exactly on her 27 February 1847 birthdate for him.'
         }
@@ -3058,7 +3058,7 @@
         },
         {
           title: 'Louisiana death record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 12 November 1914 — Vol. 161, p. 1051',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, 12 November 1914 — Vol. 161, p. 1051',
           text: 'SANDER, LOUIS E, age 63.',
           highlight: 'Judy\'s notes: "B-3/1851, D-11/12/1914." The index agrees on both, to the day.'
         }

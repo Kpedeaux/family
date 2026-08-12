@@ -272,3 +272,40 @@ is needed]**:
 collections, and Louisiana vital records outside the Orleans indexes already worked.
 Kevin is signed in to FamilySearch in Chrome, which makes a large part of that block
 reachable in a future session.
+
+---
+
+# Batch 5 — eight Orleans deaths, 12 August 2026
+
+Driven at https://vitalrecords.sos.la.gov/Deaths/DataView.aspx. **All eight CONFIRMED
+exactly**, name, age, date, volume and page. Nothing corrected.
+
+| Person | Index returns | Site said | Verdict |
+|---|---|---|---|
+| alphonseSr | 1884 · 7 · 20 · 60 · GAIENNIE, FLORESTAN · Orleans · Vol 85 p 616 | same | CONFIRMED |
+| alphonseJr | 1919 · 3 · 19 · 56 · GAIENNE, ALPHONSE F · Orleans · Vol 176 p 115 | same | CONFIRMED |
+| jeanneCurien | 1919 · 1 · 12 · 52 · GAIENNIE, JEANNE E CURIEN · Orleans · Vol 175 p 218 | same | CONFIRMED |
+| melanieMoizant | 1957 · 10 · 18 · 80 · PAASCH, MELANIE FRANOVICH MOIZANT · Orleans · Vol 0 p 7108 | same | CONFIRMED |
+| charlesEmileLarmann | 1969 · 7 · 13 · 67 · LARMANN, CHARLES EMILE · Orleans · Vol 0 p 4760 | same | CONFIRMED |
+| agnesHanley (infant dau.) | 1909 · 11 · 9 · 3 MO · LEMOINE, AGNES · Orleans · Vol 147 p 1104 | same | CONFIRMED |
+| henryMoore | 1893 · 12 · 9 · 46 · MOORE, HENRY · Orleans · Vol 105 p 417 | same | CONFIRMED |
+| louisSander | 1914 · 11 · 12 · 63 · SANDER, LOUIS E · Orleans · Vol 161 p 1051 | same | CONFIRMED |
+
+**A spelling worth keeping.** Father and son carried the same name and the index files
+them under two different spellings: the father is GAIENNIE, FLORESTAN and the son is
+GAIENNE, ALPHONSE F, with no second i. The transcriptions on this site were faithful to
+each, which is why the son did not surface in a Gaiennie search and had to be found under
+Gaienne. Anyone re-checking these must search both.
+
+**One ambiguity resolved.** This site carried Melanie Moizant's death as "17 or 18 October
+1957." The index says **18 October**. Her page now says 18.
+
+## Two leads thrown off by these searches — recorded, not claimed
+
+- **GAIENNIE, FLORESTAN MRS (TROSCLAIR)** — died 1855, **aged 21**, Orleans, Vol 16 p 466.
+  A Mrs Florestan Gaiennie, dead at twenty-one, twenty-nine years before the Florestan who
+  died in 1884. Possibly a first wife. Not pursued, not on any page.
+- **MOORE, HENRY** — died August 1892, **aged 9 months**, Orleans, Vol 102 p 506. An infant
+  of the same name who died sixteen months before the Henry Moore aged 46. A son named for
+  his father is the obvious reading and is exactly the sort of thing that should be checked
+  rather than assumed.
