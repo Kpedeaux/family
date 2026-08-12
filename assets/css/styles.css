@@ -436,3 +436,16 @@ img { max-width: 100%; height: auto; display: block; }
   .node { break-inside: avoid; box-shadow: none; }
   .tree li.is-collapsed > ul { display: block !important; }
 }
+
+/* Small-caps metadata line under the controls, and inline source credits in
+   the field notes. These were inline style="" attributes until August 2026;
+   the production CSP blocks inline styles, so they silently lost their
+   formatting on the live site while looking correct locally. */
+.controls__count {
+  font-size: .8rem;
+  color: var(--ink-3);
+  letter-spacing: .06em;
+}
+.cite-inline {
+  font-size: .8rem;
+}
