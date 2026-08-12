@@ -36,7 +36,15 @@
       birth: { place: 'Meraux, St. Bernard Parish, Louisiana' },
       father: 'buddy', mother: 'jeanLarmann',
       evidence: 'verified',
-      blurb: 'Raised in Meraux; Archbishop Hannan. Married to Lauren Ashley Dauro Pedeaux; father of Owen, Philip and John.'
+      blurb: 'Raised in Meraux; Archbishop Hannan. Married to Lauren Ashley Dauro Pedeaux; father of Owen, Philip and John. Lives in the Bywater — a few streets from where his Larmann and Brunetti people lived a century ago.',
+      records: [
+        {
+          title: 'MARRIED 237 METRES FROM HIS GREAT-GREAT-GREAT-GRANDFATHER\'S DOOR',
+          citation: 'St. Vincent de Paul church, 3051 Dauphine Street — now Blessed Francis Xavier Seelos. Distance measured between the geocoded church and the Larmann house on Dauphine; see the map.',
+          text: 'Kevin and Lauren were married at Blessed Seelos, the old ST. VINCENT DE PAUL at 3051 Dauphine Street in the Bywater — the third parish founded in New Orleans, in 1838, its red brick basilica built in 1866.',
+          highlight: 'NOBODY ARRANGED ANY OF THIS, WHICH IS WHY IT IS WORTH WRITING DOWN. John Casper Larmann came ashore at New Orleans in 1866 — the year that church was built — and died in the Larmann house on Dauphine Street in 1921, two blocks up the same street. His son Anthony was at 922 Port Street, 247 metres off. The parish where Kevin\'s grandparents John Larmann and Ann Wellmeyer married, St. Cecilia, was later merged into this very church. Five generations, one street, and a family that left the Bywater for Chalmette and Meraux over a century — and then came back to it.'
+        }
+      ]
     },
 
     buddy: {
@@ -55,6 +63,12 @@
       evidence: 'verified',
       blurb: 'Buried in St. Louis Cemetery No. 3 in the same space as his parents and his mother\'s parents — Sq. 5 East, Facing G, St. Louis Avenue, Space 9.',
       records: [
+        {
+          title: 'Where he grew up, and where he married',
+          citation: 'Family testimony (Kevin Pedeaux, August 2026), with the 1934 City of New Orleans tax bill on John Brunetti\'s page for the Mazant property',
+          text: 'He was a child on MAZANT STREET in the Bywater — his grandfather John Brunetti\'s corner at Mazant and Derbigny — before the family moved out to 2212 PIRATE DRIVE, CHALMETTE. He married Jean Larmann at ST. CATHERINE OF SIENA, 105 Bonnabel Boulevard, Metairie, and they raised Kevin, Aaron and Catherine at 2905 MARQUEZ DRIVE, MERAUX.',
+          highlight: 'FOUR ADDRESSES, AND THEY DRAW THE WHOLE CENTURY. Bywater to Chalmette to Meraux is the same movement every family on this tree made — out of the old downriver wards, into the parish next door, then further down. Katrina stopped it in August 2005 and pushed the next generation back toward the city. His wedding church is the middle point too: his people married at Holy Trinity and St. Cecilia in the Bywater, he married out at Bonnabel Boulevard, and his son married back downtown at Blessed Seelos.'
+        },
         {
           title: 'The cemetery register, in the archdiocese\'s own hand',
           citation: 'Archdiocese of New Orleans, Catholic Cemeteries burial register — profile 36915129, plot L3 SQ 5E / G ST. LOUIS AVENUE / 9. Searched 12 August 2026.',
@@ -1280,6 +1294,15 @@
       blurb: 'Left Italy as a young man, spent his twenties in Chicago, and turned up in New Orleans in time to marry a Dalmatian oyster family\'s daughter in June 1921. Apart from his own daughter\'s there is not another Brunetti birth in the Louisiana index — no sibling or cousin followed him south, so the surname ended with him here. It ends in one tomb, too: he lies in St. Louis No. 3 with his wife, his daughter, his son-in-law and his grandson.',
       records: [
         {
+          title: 'HE OWNED THE CORNER — a paid tax bill, Mazant and Derbigny',
+          citation: 'City of New Orleans, 1934 Real Estate Tax, bill no. 48051, assessment 16-A-11260, district 9-W square 724 — receipted November 1934 by the Deputy Comptroller, Department of Public Finances, Treasury Division. Family papers, photographed by Aaron Pedeaux, August 2026.',
+          text: '"J. BRUNETTI ET ALS., N.O. LA. — SQ. 724, LOT A, MAZANT & DERBIGNY, 31 X 118." Total tax $67.83; final installment $22.61; interest 72 cents; total $68.55, paid November 1934.',
+          image: 'assets/img/brunetti-1934-tax-bill.jpg',
+          imageAlt: 'A City of New Orleans 1934 real estate tax bill made out to J. Brunetti et als. for Square 724, Lot A, at Mazant and Derbigny, measuring 31 by 118 feet',
+          imageCredit: 'City of New Orleans, 1934 Real Estate Tax bill no. 48051 — Pedeaux family papers. Tap to enlarge.',
+          highlight: 'THIS SCRAP OF GREEN PAPER ANSWERS A QUESTION THE FAMILY COULD ONLY HALF-ANSWER. Kevin knew his father grew up "on Mazant somewhere" before the family moved out to Chalmette, and no number went with it. The tax bill gives the corner: square 724, lot A, thirty-one feet of frontage by a hundred and eighteen deep, at Mazant and Derbigny. An immigrant who reached New Orleans by way of Chicago and married a Dalmatian oysterman\'s daughter in 1921 was a New Orleans property owner by 1934, paying his taxes on time in the middle of the Depression. "ET ALS" — et alii, and others — means he did not hold it alone. Two generations later his grandson Buddy was a child on that same corner.'
+        },
+        {
           title: 'THE TOMB — six people, one plot, and the whole descent in it',
           citation: 'Archdiocese of New Orleans, New Orleans Catholic Cemeteries burial register — St. Louis Cemetery No. 3, plot L3 SQ 5E / G ST. LOUIS AVENUE / 9. Searched 12 August 2026 (nolacatholiccem.discovereverafter.com, profiles 36915128–36915133).',
           text: 'Interred in this one space, in order of burial: VERONICA (TWINS) BRUNETTI, 19 May 1951 · VERONICA BRUNETTI, 25 Aug 1981, aged 79 — his wife, born Veronica Franovich · JOHN BRUNETTI, 14 Jan 1987, aged 93 · HERBERT JOSEPH PEDEAUX, 24 Jul 1992 — his son-in-law · HERBERT JOHN "BUDDY" PEDEAUX, 20 Feb 2009 — his grandson · VERONICA PEDEAUX, 10 Aug 2013, aged 89 — his daughter.',
@@ -1699,6 +1722,12 @@
           title: 'Louisiana marriage record',
           citation: 'Orleans Parish, July 1947 — p. 3644',
           text: 'WELLMEYER, ANN G × LARMANN, JOHN R.'
+        },
+        {
+          title: 'THE CHURCH — St. Cecilia, in the Bywater',
+          citation: 'Family testimony (Kevin Pedeaux, August 2026); parish history and closure from the Archdiocese of New Orleans',
+          text: 'They were married at ST. CECILIA, 4201 North Rampart Street — the Bywater parish. Sixty-three years of marriage started there.',
+          highlight: 'AND THE PARISH ENDED UP WHERE THEIR GRANDSON WOULD MARRY. St. Cecilia closed in 2000, its attendance gone; the building is now the Shirley Landry Benson PACE Center, a day programme for the elderly. Its congregation was merged with Annunciation, St. Gerard and Sts. Peter and Paul into a single new parish — Blessed Francis Xavier Seelos — housed in the old ST. VINCENT DE PAUL church at 3051 Dauphine. That is the church Kevin and Lauren were married in. Nobody chose it for that reason. See the map.'
         }
       ],
       sources: [
@@ -1989,6 +2018,12 @@
       branch: 'larmann',
       blurb: 'Dead at thirty-two, six weeks after his sixth child was born. His widow raised six children alone; the family record his daughter Esther kept is how all of their dates survived. The eldest of Casper\'s ten, and the only one of them on this line of descent.',
       records: [
+        {
+          title: 'WHERE HE LIVED — 922 PORT STREET, read off the same sheet',
+          citation: 'United States Census, 1900 — Louisiana, Orleans, ED 85, 4th Precinct, New Orleans Ward 9, sheet 14A, line 46; HOUSE 922, dwelling 258, family 267 (NARA T623). Enumerated 12 June 1900 by James C. Garity.',
+          text: 'House number 922, and the street written vertically in the margin column beside it: PORT ST. The enumerator ran that street name down the page from line 34 to the foot of the sheet, covering every household in the block. Anthony is at 922, his neighbours at 924 and 920.',
+          highlight: 'THE ADDRESS WAS ALWAYS ON THIS SHEET AND WAS NEVER INDEXED. Census indexes carry names, ages and birthplaces; the two narrow LOCATION columns at the far left — street, and house number — are almost never transcribed, so a searchable database can hold a family for a century without ever telling you where they lived. It has to be read by eye off the image, and the street is written sideways because it belongs to the whole block rather than to one line. 922 Port Street puts this household in the BYWATER — about 250 metres from the Dauphine Street house where his father Casper would die twenty-one years later. Father and son lived a three-minute walk apart.'
+        },
         {
           title: 'WHAT HE DID FOR A LIVING — the 1900 census, read off the sheet',
           citation: 'United States Census, 1900 — ED 85, 4th Precinct, New Orleans Ward 9, sheet 14A, LINE 46; house 922, family 267 (NARA T623). FamilySearch image 3:1:S3HY-6SQY-F2.',

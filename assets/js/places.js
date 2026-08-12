@@ -26,16 +26,30 @@
 
       {
         id: 'casper-dauphine',
-        name: '2833 Dauphine Street',
+        name: 'The Larmann house on Dauphine — 2833 or 2883',
         kind: 'home',
         lat: 29.9653529, lng: -90.0483747,
-        precision: 'exact',
-        years: 'until 1921',
+        precision: 'block',
+        years: 'to 1921',
         people: ['johnCasparLarmann'],
-        who: 'John Casper Larmann',
-        headline: 'The carpenter\'s house — and he died in it',
-        text: 'Casper Larmann landed at New Orleans in 1866 and was a carpenter of Local 1312. His obituary places his death at home on Dauphine Street in November 1921, aged seventy-five.',
-        source: 'Obituary, New Orleans, November 1921; Orleans Parish death record — quoted in full on his page.'
+        who: 'John Casper Larmann, carpenter',
+        headline: 'THE CARPENTER\'S HOUSE — AND TWO SOURCES THAT DISAGREE BY FIFTY NUMBERS',
+        text: 'Casper landed at New Orleans in 1866 and was a carpenter of Local 1312; he died at home on Dauphine Street in November 1921, aged seventy-five. But the number is not settled. The 1900 census transcription gives 2833 Dauphine; his 1921 obituary gives 2883 Dauphine, "near Press." One is probably a typo — and since Press Street runs at about the 3100 block, the obituary\'s 2883 sits closer to where it says he was. They may also simply have moved in twenty-one years. This archive prints both and harmonizes neither, so the pin is drawn on the block rather than the doorstep.',
+        source: '1900 census transcription (2833); obituary, New Orleans, November 1921 (2883, "near Press"); Orleans Parish death record. All quoted on his page.'
+      },
+
+      {
+        id: 'larmann-922-port',
+        name: '922 Port Street',
+        kind: 'home',
+        lat: 29.9671216, lng: -90.0499200,
+        precision: 'exact',
+        years: '1900',
+        people: ['anthonyLarmann', 'eugeniaMoore'],
+        who: 'Anthony H. Larmann, his wife Eugenia, and their two little girls',
+        headline: 'READ OFF THE CENSUS SHEET — the street name is written sideways down the margin',
+        text: 'On 12 June 1900 the enumerator James C. Garity worked down Port Street and wrote the Larmanns into line 46: Anthony H., head, born August 1871, aged 28, a draughtsman; Eugenia, his wife, October 1874; Mary C., aged 3; Bernardine, aged 1. The house number 922 sits in the margin beside them, and the street itself — "Port St." — is written vertically in the column to its left, covering every household from line 34 down to the foot of the page.',
+        source: 'United States Census, 1900 — Louisiana, Orleans, ED 85, 4th Precinct, New Orleans Ward 9, sheet 14A, line 46; house 922, dwelling 258, family 267 (NARA T623). The same sheet reproduced on his page.'
       },
 
       {
@@ -110,6 +124,48 @@
         source: 'Casper\'s obituary; parish history. Distance measured between the two geocoded points on this map — his house at 2833 Dauphine is the next marker over.'
       },
 
+      {
+        id: 'st-vincent-de-paul-church',
+        name: 'St. Vincent de Paul Church — 3051 Dauphine Street',
+        kind: 'church',
+        lat: 29.9647432, lng: -90.0460147,
+        precision: 'exact',
+        years: 'built 1866; now Blessed Seelos',
+        people: ['kevin'],
+        who: 'Now Blessed Francis Xavier Seelos — where Kevin and Lauren were married',
+        headline: 'HE MARRIED 237 METRES FROM HIS GREAT-GREAT-GREAT-GRANDFATHER\'S FRONT DOOR',
+        text: 'The third parish founded in New Orleans, in 1838; the red brick basilica went up in 1866 — the very year Casper Larmann landed. It is on the same street as his house and two blocks down it. Nobody planned that. Five generations separate the man who died at 2833 Dauphine in 1921 from the wedding held at 3051 Dauphine, and the walk between them takes about three minutes.',
+        source: 'Archdiocese of New Orleans; St. Vincent de Paul Roman Catholic Church, New Orleans. Distance measured between the two geocoded points on this map.'
+      },
+
+      {
+        id: 'st-cecilia',
+        name: 'St. Cecilia Church — 4201 N. Rampart Street',
+        kind: 'church',
+        lat: 29.9640300, lng: -90.0337570,
+        precision: 'exact',
+        years: 'married July 1947',
+        people: ['johnLarmannSr', 'annWellmeyer'],
+        who: 'Where John Richard Larmann Sr. married Ann Wellmeyer',
+        headline: 'AND ITS PARISH LATER MERGED INTO THE CHURCH THEIR GRANDSON WOULD MARRY IN',
+        text: 'The Bywater parish where John and Ann were married in July 1947 — sixty-three years of marriage started here. St. Cecilia closed in 2000 when attendance fell away, and the building is now the Shirley Landry Benson PACE Center, caring for the elderly. Its congregation was merged, with Annunciation, St. Gerard and Sts. Peter and Paul, into a new parish housed in St. Vincent de Paul\'s church — which is Blessed Seelos, two markers over.',
+        source: 'Family testimony (Kevin Pedeaux, August 2026) for the church; Orleans Parish marriage record, July 1947, p. 3644 for the marriage. Parish history and closure: Archdiocese of New Orleans.'
+      },
+
+      {
+        id: 'st-catherine-siena',
+        name: 'St. Catherine of Siena — 105 Bonnabel Boulevard, Metairie',
+        kind: 'church',
+        lat: 29.9866235, lng: -90.1429082,
+        precision: 'exact',
+        years: 'married',
+        people: ['buddy', 'jeanLarmann'],
+        who: 'Where Buddy Pedeaux married Jean Larmann',
+        headline: 'The generation that got married in the suburbs',
+        text: 'Kevin\'s parents. Three weddings on this map tell the family\'s whole migration in one line: Casper\'s people at Holy Trinity in the Bywater, Buddy and Jean out at Bonnabel Boulevard in Metairie, and their son back downtown at Blessed Seelos.',
+        source: 'Family testimony (Kevin Pedeaux, August 2026).'
+      },
+
       /* ── GRAVES ───────────────────────────────────────────────── */
 
       {
@@ -152,6 +208,34 @@
         headline: 'THE GROUND NO DATABASE WILL SHOW YOU',
         text: 'John Richard Larmann Sr., Ann Wellmeyer, all ten Wellmeyers of Henry John\'s household, and the Goublers are here — in the oldest part of the complex. The archdiocese\'s online burial register covers this cemetery, but only its V1 and V2 sections: across 173 sampled burials, not one carried a V3. Searching for this family online returns nothing. The tomb is standing; Kevin has photographed it. This marker is placed on the cemetery, not the tomb.',
         source: 'Find a Grave; family photographs; and the negative result documented on John Sr.\'s page.'
+      },
+
+      {
+        id: 'cypress-grove',
+        name: 'Cypress Grove Cemetery — 120 City Park Avenue',
+        kind: 'grave',
+        lat: 29.9795672, lng: -90.1113881,
+        precision: 'block',
+        years: 'buried 17 November 1964',
+        people: ['agnesHanley'],
+        who: 'Agnes Margaret Hanley',
+        headline: 'She married twice, and lies with neither husband',
+        text: 'Agnes married Robert Lemoine in 1906 at sixteen, and Johanna was born less than eight months later. By 1910 she had left Louisiana. She later married William Winstine, and when she died in November 1964 her obituary called her a native and resident of New Orleans and buried her here — nowhere near Robert, who had gone into Arlington fifteen years earlier.',
+        source: 'Obituary, "WINSTINE — Agnes Hanley," New Orleans, November 1964 — the same notice that names her daughter Johanna and proved the link. Quoted in full on the field notes page.'
+      },
+
+      {
+        id: 'st-alphonsus',
+        name: 'St. Alphonsus Church — 2030 Constance Street',
+        kind: 'church',
+        lat: 29.9298760, lng: -90.0741196,
+        precision: 'exact',
+        years: '17 November 1964',
+        people: ['agnesHanley'],
+        who: 'Where Agnes Hanley\'s Requiem Mass was sung',
+        headline: 'The Irish Channel church, and the only Uptown stop on this map',
+        text: 'The great Irish parish of the Channel. Agnes was a Hanley, daughter of Stephen Hanley and Mary Reed, and her funeral went from a Metairie chapel to St. Alphonsus before her burial at Cypress Grove.',
+        source: 'Obituary, New Orleans, November 1964.'
       },
 
       {
@@ -229,31 +313,45 @@
       },
 
       {
-        id: 'meraux',
-        name: 'Meraux, St. Bernard Parish',
-        kind: 'town',
-        lat: 29.9269610, lng: -89.9197890,
-        precision: 'town',
-        years: 'from the 1960s',
-        people: ['kevin', 'buddy'],
-        who: 'Where the line comes to rest',
-        headline: 'The end of the road down the river',
-        text: 'Buddy and Jean raised Kevin, Aaron and Catherine here. Eleven generations from a ship\'s carpenter\'s son on the Nantes quayside to a house in St. Bernard Parish.',
-        source: 'Family.'
+        id: 'brunetti-mazant',
+        name: 'Mazant & Derbigny — Square 724, Lot A',
+        kind: 'home',
+        lat: 29.971541, lng: -90.032603,
+        precision: 'block',
+        years: '1934, and into the 1950s',
+        people: ['johnBrunetti', 'veronicaFranovich', 'buddy'],
+        who: 'John Brunetti\'s own lot — and the street Buddy Pedeaux grew up on',
+        headline: 'A PAID TAX BILL PUT A CORNER ON A HALF-REMEMBERED STREET',
+        text: 'Kevin knew only that his father grew up "on Mazant somewhere" before the family moved to Chalmette. A City of New Orleans real estate tax bill for 1934, kept in the family and photographed by his brother Aaron, names the place exactly: J. BRUNETTI ET ALS — SQUARE 724, LOT A, MAZANT & DERBIGNY, 31 by 118 feet. John Brunetti, the Italian immigrant from Plataci, owned the corner. His grandson was raised on it. Assessed value that year carried a tax of $67.83, paid in November with 72 cents of interest — $68.55 in all.',
+        source: 'City of New Orleans, 1934 Real Estate Tax bill no. 48051 (9-W 724), receipted November 1934 — family papers, photographed August 2026. Reproduced on John Brunetti\'s page. The pin is the surveyed Mazant × N. Derbigny intersection; the lot is one of its four corners, and the bill does not say which.'
       },
 
       {
-        id: 'chalmette',
-        name: 'Chalmette, St. Bernard Parish',
-        kind: 'town',
-        lat: 29.9441960, lng: -89.9644624,
-        precision: 'town',
-        years: '1950s–1992',
-        people: ['herbertJoseph', 'veronicaBrunetti'],
+        id: 'pedeaux-pirate',
+        name: '2212 Pirate Drive, Chalmette',
+        kind: 'home',
+        lat: 29.9473246, lng: -89.9883917,
+        precision: 'exact',
+        years: 'about 1960–1992',
+        people: ['herbertJoseph', 'veronicaBrunetti', 'buddy'],
         who: 'Herbert Joseph and Veronica Pedeaux',
-        headline: 'Out of the city, down the parish road',
-        text: 'The generation that left New Orleans proper. Herbert Joseph died here in July 1992.',
-        source: 'Orleans and St. Bernard records; obituaries.'
+        headline: 'The move out of the city',
+        text: 'The generation that left New Orleans proper for the parish next door. Herbert Joseph died in Chalmette in July 1992, and Buddy grew up here after Mazant Street.',
+        source: 'Family testimony (Kevin Pedeaux, August 2026); Orleans and St. Bernard records; obituaries.'
+      },
+
+      {
+        id: 'kevin-marquez',
+        name: '2905 Marquez Drive, Meraux',
+        kind: 'home',
+        lat: 29.9367824, lng: -89.9185772,
+        precision: 'exact',
+        years: 'to August 2005',
+        people: ['kevin', 'buddy', 'jeanLarmann'],
+        who: 'Where Buddy and Jean raised Kevin, Aaron and Catherine',
+        headline: 'The furthest point down the river — and Katrina ended it',
+        text: 'Eleven generations from a ship\'s carpenter\'s son on the Nantes quayside to a house in St. Bernard Parish. Kevin lived here until the storm in August 2005, which is where this address stops. Almost every family on this map had moved steadily downriver and outward for a century; the flood reversed it, and the generation after Katrina came back toward the city.',
+        source: 'Family testimony (Kevin Pedeaux, August 2026).'
       },
 
       {
