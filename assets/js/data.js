@@ -1426,14 +1426,14 @@
         },
         {
           title: 'Veterans Administration Master Index, 1917–1940',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] U.S. Veterans Administration master index card',
+          citation: '[INDEX VERIFIED, August 2026 — the FamilySearch index entry was read and matches; the scanned card itself has NOT been opened. See the verification log] U.S. Veterans Administration master index card',
           text: 'John Brunetti — a veteran\'s index card, with military service dated 24 May 1919 at New Orleans.',
           highlight: 'The family said he served in the First World War and gained his citizenship through it — the VA index is the federal confirmation that he served. His grandson Aaron carries the rest of it from Buddy: he was with a gun crew, artillery, and it left him deaf in later life.'
         },
         {
           title: 'WWI draft registration — Chicago',
           citation: 'Cook County, Illinois, 1917–18 (NARA RG 163)',
-          text: 'Exactly one John Brunetti registered in Chicago — and no Brunetti at all registered anywhere in Louisiana.',
+          text: 'No Brunetti at all registered anywhere in Louisiana. IN CHICAGO THE INDEX RETURNS TWO ENTRIES for a John Brunetti born 5 May 1893 — one giving his birthplace as PLATACI, COSENZA, ITALY and the other as CHICAGO, ILLINOIS. That is very likely ONE CARD INDEXED TWICE, but this page previously said “exactly one” and that wording is not supportable until both are opened.',
           highlight: 'This is what turns the family\'s "he was in Chicago" story into a documented fact, and brackets his move south to somewhere between 1918 and his June 1921 wedding.'
         },
         {
@@ -2089,8 +2089,14 @@
           highlight: 'By 1940 he had come off the ships and was living in Washington, which is the missing step between a New Orleans boyhood and a grave in Virginia. He died in 1949 and was buried at Arlington on 23 November. The arc runs Camp Street to Mare Island to the capital.'
         },
         {
+          title: 'THE UTAH WAS A TRAINING SHIP FOR MOST OF HIS TIME ABOARD — correcting what this page implied',
+          text: 'DANFS confirms the Bantry Bay passage word for word: “Utah … reached Berehaven, Bantry Bay, Ireland, on 10 September 1918 … became the flagship of Rear Adm. Thomas S. Rodgers, Commander, Battleship Division 6. Until the signing of the armistice on 11 November 1918, Utah, along with the sisterships Oklahoma and Nevada, operated from Bantry Bay, covering the Allied convoys approaching the British Isles.”',
+          highlight: 'BUT THE DATES DO NOT SAY WHAT THIS PAGE IMPLIED. His service card puts him aboard from 15 SEPTEMBER 1917 TO 11 NOVEMBER 1918 — 406 days. DANFS also says Utah “operated in the waters of the Chesapeake Bay as an engineering and gunnery training ship” until 30 AUGUST 1918. So for roughly ELEVEN AND A HALF OF HIS FOURTEEN MONTHS the ship was a training vessel in the Chesapeake, and the Irish convoy duty covers about 62 of his 406 days. The convoy story is true; it is not the story of his war. After the armistice Utah escorted the transport carrying President Wilson into Brest on 13 December 1918 and reached New York on Christmas Day.',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Dictionary of American Naval Fighting Ships, \'Utah I (Battleship No. 31)\', by Robert J. Cressman, Naval History and Heritage Command, updated 3 February 2021 — history.navy.mil/research/histories/ship-histories/danfs/u/utah.html'
+        },
+        {
           title: 'Where the Utah was, while he was aboard her',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Dictionary of American Naval Fighting Ships, "Utah I (Battleship No. 31)," Naval History and Heritage Command',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Dictionary of American Naval Fighting Ships, "Utah I (Battleship No. 31)," Naval History and Heritage Command',
           text: 'USS Utah reached Berehaven, Bantry Bay, Ireland, on 10 September 1918 and became flagship of Rear Admiral Thomas S. Rodgers, Commander, Battleship Division Six. With Oklahoma and Nevada she operated from Bantry Bay until the armistice of 11 November 1918, covering the Allied convoys approaching the British Isles against any surface attack on the troop transports.',
           highlight: 'So the last two months of his war were spent in Irish waters, on the flagship of an American battleship division guarding the convoys that carried the AEF to France. His service entry for the Utah ends on the same day the guns stopped. NOTE ON WHAT IS NOT CLAIMED: USS New York went to Scapa Flow with the British Grand Fleet in December 1917 — after he had already transferred off her. He was not there.'
         }
@@ -2674,6 +2680,24 @@
       photoCaption: 'The Goubler family tomb, restored with its new marble tablet — thirteen names, Lucien Goubler to John R. Larmann Sr. The pediment reads "Family — Joseph Goubler." Family photograph.',
       blurb: 'Patriarch of the tomb the Larmann line still uses — and, it turns out, a Lorrainer. His parents married at Bertrambois in Meurthe-et-Moselle in 1808, so the Goublers came out of that French-German borderland rather than Germany proper. The name was in New Orleans by the 1840s in at least two households: his own, and that of Jean Baptiste Goubler and Françoise Tessier, almost certainly his brother.',
       records: [
+        {
+          title: 'HIS UNIT, HIS SERIAL NUMBER, THE VILLAGE HE DIED IN, AND WHAT KILLED HIM',
+          text: 'PVT. EMILE THOMAS GOUBLER — SERIAL 1609590 — COMPANY C, 114TH ENGINEER REGIMENT, 39TH DIVISION. Born 2 June 1892 in New Orleans. DRAFTED AT CAMP BEAUREGARD, LOUISIANA, ON 29 MAY 1918. Died 22 September 1918, aged 26, at SAINT-FLORENT-SUR-CHER in the D\u00e9partement du Cher, central France — nowhere near the front. CAUSE OF DEATH: BRONCHO PNEUMONIA. His mother is named on the memorial as Theresa Goubler.',
+          highlight: 'FOUR MONTHS FROM DRAFT BOARD TO GRAVE. He was called up on 29 May and dead on 22 September, of pneumonia, in a town in the middle of France during the influenza autumn of 1918. “SOLDIERS OF THE GREAT WAR” lists him in the Louisiana section under the heading DIED OF DISEASE — which is independent of everything else here and says the same thing. An engineer regiment, a serial number, a village on the Cher: this is as close as the record has come to the man.',
+          citation: 'Find a Grave memorial 209296699 (findagrave.com/memorial/209296699/emile-thomas-goubler), read 12 August 2026, with the photo caption added by a contributor 30 June 2025; Haulsee, Howe and Doyle, Soldiers of the Great War (Soldiers Record Publishing Association, Washington DC, 1920), Louisiana list, DIED OF DISEASE; United States, World War I American Expeditionary Forces Deaths 1917–1919, FamilySearch ark:/61903/1:1:QPH4-78NM (NARA ARC 1726747)'
+        },
+        {
+          title: 'WHERE HE IS NOT — and where his mother and father are',
+          text: 'His parents are both in ST. ROCH CEMETERY NO. 1, in one tomb: LEONCE GOUBLER (Jan 1862 – 14 Nov 1939) and THERESA C. BARON GOUBLER (1869 – 20 May 1934), plot SQ B, CHRISTIAN MOTHER WALK, T/C 006. The contributor who recorded Leonce noted “No headstone. Interment records: 15 Nov 1939, aged 77 years” — so they were working from St. Roch\u2019s own interment books. EMILE IS NOT IN THAT CEMETERY\u2019S LISTING. His own memorial says, in full: “Burial Details Unknown.”',
+          highlight: 'AND A NEW NEGATIVE THAT IS DECISIVE. The VA NATIONWIDE GRAVESITE LOCATOR RETURNS ZERO GOUBLERS. A “begins with GOUB” search returns 29 people — Gouba, Goubeaud, Goubeaux — and not one Goubler, and nobody who died in 1918. HE IS IN NO NATIONAL OR STATE VETERANS CEMETERY, which rules out Chalmette and Baton Rouge National. Taken with the American Battle Monuments Commission having no Goubler at all, he was repatriated and buried privately. THE FAMILY TOMB IS THE OBVIOUS CANDIDATE AND THIS ARCHIVE STILL WILL NOT CLAIM IT — the same contributor who read St. Roch\u2019s books for his parents did not find him there. Note too that this family is split across cemeteries: his brother LEON JOSEPH GOUBLER (1890–1963) is in ST. VINCENT DE PAUL NO. 2.',
+          citation: 'Find a Grave memorials 136192200 (Leonce Goubler) and Theresa C. Baron Goubler, St. Roch Cemetery No. 1, read 12 August 2026; VA Nationwide Gravesite Locator, gravelocator.cem.va.gov, surname Goubler exact and GOUB prefix, both searched 12 August 2026 — nil'
+        },
+        {
+          title: 'THE LEAD THAT SHOULD CRACK IT — a death notice in the New Orleans Item',
+          text: 'THE NEW ORLEANS ITEM CARRIED A DEATH NOTICE FOR “PRIVATE EMILE GOUBLER” ON 30 OCTOBER 1918. The index records the relations named in it: father LEONCE GOUBLER, brother LEON GOUBLER, sister MISS LOUISE GOUBLER. A second Item notice for him is indexed at 24 NOVEMBER 1934 — sixteen years on, which reads like an anniversary memoriam.',
+          highlight: 'NEW ORLEANS DEATH NOTICES OF THAT PERIOD ROUTINELY NAME THE CEMETERY AND THE HOUR OF THE FUNERAL. This is now a better lead than the St. Roch microfilm, because it is already indexed and located — it needs GenealogyBank access or the Item on microfilm at NOPL for that one date. The text is behind a paywall and HAS NOT BEEN READ; only the index metadata above is confirmed.',
+          citation: 'GenealogyBank obituary index via FamilySearch, ark:/61903/1:1:Q5SJ-6W45 (New Orleans Item, 30 October 1918) and ark:/61903/1:1:Q57F-SD1C (24 November 1934) — INDEX METADATA ONLY, the notices themselves are paywalled and unread'
+        },
         {
           title: 'PVT. EMILE THOMAS GOUBLER — his name is on the arch, and he did not die the way the family thinks',
           citation: 'Find a Grave memorial 209296699 (service number, unit and cause); Soldiers of the Great War, Vol. I, pp. 419–422 (Haulsee, Howe & Doyle, 1920), under "Died of Disease"; Honor States profile 561092; the Ninth Ward Victory Arch plaques as transcribed by the Historical Marker Database; 39th Infantry Division unit history',

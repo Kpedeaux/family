@@ -184,3 +184,73 @@ been restructured.** This is recorded as evidence, not acted on.
 **Separate lead, not proved:** EVA ROUSELLE, 68, in the 1910 household was born about 1842.
 Valery Roussel's wife Marie was 38 in 1880 — also about 1842 — and this archive records her
 as MARIE EVE DELATTE. Very likely the same woman, living with her widowed daughter.
+
+---
+
+# Military batch, 12 August 2026
+
+## DANFS — CONFIRMED word for word, but the page's framing was wrong
+
+The Bantry Bay passage checks out exactly (Berehaven 10 Sep 1918, Rear Adm. Rodgers, BatDiv 6,
+Oklahoma and Nevada, armistice 11 Nov 1918). Correct URL is
+history.navy.mil/research/histories/ship-histories/danfs/u/utah.html — the `utah-i.html` form is a 404.
+
+**The correction.** The record was titled "where the Utah was WHILE HE WAS ABOARD HER."
+Lemoine's service card puts him aboard **15 Sep 1917 – 11 Nov 1918, 406 days**. DANFS says
+Utah "operated in the waters of the Chesapeake Bay as an engineering and gunnery training
+ship" **until 30 August 1918**. So about **11½ of his 14 months** were training duty in the
+Chesapeake, and the Irish convoy work covers roughly **62 of his 406 days**. The convoy story
+is true but it is not the story of his war, and the page now says so.
+
+## Pvt. Emile Thomas Goubler — the man is now documented; the grave is still not
+
+**NEW, and substantial:** serial **1609590**, **Company C, 114th Engineer Regiment, 39th
+Division**; born 2 June 1892 New Orleans; **drafted at Camp Beauregard 29 May 1918**; died
+22 September 1918 at **SAINT-FLORENT-SUR-CHER, Cher, France** — central France, far from the
+front — of **BRONCHO PNEUMONIA**. Four months from draft board to grave, in the influenza
+autumn of 1918. *Soldiers of the Great War* lists him in the Louisiana section under **DIED
+OF DISEASE**, independently.
+
+**Where he is not.** The **VA Nationwide Gravesite Locator returns ZERO Goublers** (exact,
+and a GOUB-prefix search returning 29 people, none named Goubler, none died 1918). He is in
+no national or state veterans cemetery — Chalmette and Baton Rouge National are ruled out.
+With ABMC also having no Goubler, he was repatriated and buried privately.
+
+**His parents are in St. Roch No. 1**, one tomb, **Sq B, Christian Mother Walk, T/C 006** —
+Leonce (d. 1939) and Theresa Baron (d. 1934). The contributor who recorded them quotes St.
+Roch's interment book for a grave with no headstone, so they read the books; **Emile is not
+in that cemetery's listing.** His own memorial says "Burial Details Unknown." The family is
+split across grounds — brother Leon Joseph is in St. Vincent de Paul No. 2. **Still not
+claimed.**
+
+**The best remaining lead is cheaper than microfilm:** the **New Orleans Item carried a death
+notice for "Private Emile Goubler" on 30 October 1918**, naming father Leonce, brother Leon,
+sister Miss Louise. A second Item notice is indexed at 24 November 1934. New Orleans notices
+of that era routinely name the cemetery and the funeral hour. **The text is paywalled and
+has not been read** — index metadata only.
+
+## Other service records
+
+- **Herbert Joseph Pedeaux** — enlistment CONFIRMED with new detail: serial **18153029**,
+  PVT, Regular Army, term **"Enlistment for the Panama Canal Department"**, 4 years of high
+  school, married, New Orleans, 30 Oct 1945. It is the ONLY military record indexed for him;
+  no draft card, no separation record. VA gravesite locator: no Herbert Pedeaux, so no
+  government headstone.
+- **Robert Lemoine** — VA Master Index card: b. **7 May 1888**, d. **20 Nov 1949**, residence
+  **VALLEJO, CALIF**. This is the first single document tying the Arlington headstone dates to
+  the Mare Island household in the 1930 census — previously an inference. BillionGraves
+  independently confirms the Arlington burial with coordinates. *Caution: "St. Louis, Missouri"
+  on that card is where the index is held, not a place of service.* **Lead not yet opened:**
+  Orleans voter registrations of 1921 and 1922 give his birthplace as **"St. John, Louisiana"**,
+  which would narrow the site's generic "Louisiana" to St. John the Baptist Parish.
+- **John Brunetti** — VA card index entry confirmed (b. 5 May 1893, New Orleans, event 24 May
+  1919). Flagged **INDEX VERIFIED**, not fully verified: the scanned card was not opened, and
+  the card carries no branch, unit or serial number, and 24 May 1919 is after the Armistice —
+  it does not establish overseas service.
+
+## A claim withdrawn
+
+The Brunetti page said **"Exactly one John Brunetti registered in Chicago."** The index in
+fact returns **two** entries for a John Brunetti born 5 May 1893 in Chicago — one giving
+birthplace Plataci, Cosenza, the other giving Chicago. Very likely one card indexed twice,
+but "exactly one" is not supportable until both are opened, and the page has been reworded.
