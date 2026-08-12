@@ -832,8 +832,15 @@
       father: 'alphonseSr', mother: 'marieAlixFazende',
       evidence: 'confirm',
       branch: 'gaiennie',
-      blurb: 'The A. F. Gaiennie tomb at Greenwood Cemetery is his. He and his wife died ten weeks apart in the winter of 1919 — almost certainly the influenza pandemic.',
+      blurb: 'A sugar-machinery engineer and patent-holder at Thibodaux, later a civil engineer in New Orleans. The A. F. Gaiennie tomb at Greenwood Cemetery is his. He and his wife died ten weeks apart in the winter of 1919 — almost certainly the influenza pandemic.',
+      occupation: 'ENGINEER AND INVENTOR — sugar-house machinery. Held at least five United States patents between 1895 and 1910.',
       records: [
+        {
+          title: 'HE HELD PATENTS — and that is why his daughter was born at Thibodaux',
+          citation: 'Specifications and Drawings of Patents Issued from the United States Patent Office, 1896; Annual Report of the Commissioner of Patents, 1897; The Sugar Cane (1896); Water and Gas Review (1899); Official Gazette of the U.S. Patent Office (1910); The Louisiana Planter and Sugar Manufacturer, 1897, 1905 and 1907; English Mechanic and Mirror of Science, 1897',
+          text: 'US 551,161, "Vacuum pan," A. F. GAIENNIE, LA FOURCHE, December 1895. · US 567,894 and US 567,895, "SEPARATOR," 15 September 1896 — "Alphonse F. Gaiennie, La Fourche, La., assignor of one-third." · US 570,790, 3 November 1896. · US 640,659, 1899 — "A. F. Gaiennie, THIBODEAUX, La., assignor to himself and John Leche, same place." · The firm: "LECHE & GAIENNIE report that they have done a large business in the sale of their GAIENNIE PATENT SEPARATORS" (Louisiana Planter, 1897). · The British trade press carried him too: "GAIENNIE\'S APPARATUS FOR TREATING JUICE AND VAPOUR… Gaiennie, of Lafourche (Thibodaux, P.O.), Louisiana." · 1907: "A. F. GAIENNIE, Supt. & Engineer." · By 1910 he is patenting from NEW ORLEANS, and the 1913 city directory has him as "Gaiennie Alphonse F, CIVIL ENGR."',
+          highlight: 'A QUESTION THIS TREE NEVER THOUGHT TO ASK, ANSWERED SIDEWAYS. Edna Marie Gaiennie — who married Numa Pedeaux Sr. and is buried in the tomb that carries her father\'s initials — was born at THIBODAUX in September 1894, and nothing on this page ever explained why a New Orleans family produced a daughter sixty miles down Bayou Lafourche. This is why. Her father was there building sugar-house machinery. In the 1890s he was patenting vacuum pans and juice separators out of Lafourche Parish, selling them through the firm of Leche & Gaiennie, and being written up in the London trade press. He was a superintendent and engineer by 1907, and had moved the work back to New Orleans by 1910. The family were not visiting Thibodaux. They lived there because that is where the sugar houses were. ONE CAUTION KEPT IN VIEW: New Orleans plumbing directories of the same years also carry an "A. F. Gaiennie" and a "J. S. Gaiennie" in the Gaiennie Company at Carondelet and St. Joseph. Whether the sugar engineer and the master plumber are the same man is NOT established here, and the two should not be merged without a directory or a probate that says so.'
+        },
         {
           title: 'Louisiana marriage record',
           citation: 'Orleans Parish, February 1888 — Vol. 13, p. 255',
@@ -970,9 +977,15 @@
       branch: 'gaiennie',
       photo: 'assets/img/joseph-gervaise-pierre-gaiennie.webp',
       photoCaption: 'Joseph Gervaise Gaiennie (1797–1854). Portrait via the deGruy family history.',
-      occupation: 'War of 1812 — 6th Regiment (Landry\'s), Louisiana Militia',
+      occupation: 'Sugar planter, St. James Parish, east bank — 115 hogsheads in 1845. His War of 1812 service is UNVERIFIED; see the record below.',
       blurb: 'Seventeen years old when the British came up the river. Twenty-two and already an orphan when he married in January 1820. Twelve children. Gaiennie Street in the Warehouse District still carries the family name.',
       records: [
+        {
+          title: 'HIS PLACE, FOUND — the east bank of the river, next door to Golden Grove',
+          citation: 'P. A. Champomier, Statement of the Sugar Crop Made in Louisiana in 1845-6, p. 10 (Internet Archive, ldpd_6413611_000); the 1844 statement; Lillian Bourgeois, Cabanocey; Cohen\'s New Orleans Directory, 1855, planters\' section',
+          text: 'Champomier lists the sugar crop plantation by plantation, under the heading "ST. JAMES.—LEFT SIDE" — the east bank. In the 1845–6 list: "GERVAIS GAIENNIÈ, | 52 | 115 115." His neighbours in the enumerator\'s order are "Alex. Humphreys & F Poché, F Reyne, A Sehenaidre & A Reyne, GERVAIS GAIENNIÈ, M Shepherd & M & F Hook." In 1844 he is a handful of entries above the ST. JOHN BAPTIST heading, immediately upriver of MOSES SHEPHERD, whose place was Golden Grove. And in Cohen\'s 1855 directory, a year after his death: "GAIENNIE MRS. G. & CO., SUG., CONVENT, ST. JAMES."',
+          highlight: 'THREE THINGS THIS SETTLES. WHERE: the east bank, the LEFT DESCENDING BANK of the Mississippi, in the lower end of St. James Parish close to the St. John the Baptist line, mail through Convent — and not, as one might assume from the family\'s later New Orleans life, in the city. WHAT: he was a sugar planter, making 115 hogsheads in 1845 with 52 in the labour column. Sugar in Louisiana in 1845 means enslaved labour, and this page will not soften that; what the figure in that column represents is exactly what it looks like. AND WHO KEPT IT AFTER HIM: he was buried in June 1854, and the 1855 directory lists the business as "MRS. G. GAIENNIE & CO." — his widow, running a sugar plantation under her own name, the second widow on this tree to do it. Her son later sued her over the estate; the Louisiana Supreme Court heard it as Gaiennie, Administrator v. Widow Gervais Gaiennie, 24 La. Ann. 79 (1872), a fight over a tract of land in St. James Parish.'
+        },
         {
           title: 'Baptism — St. James Parish',
           citation: 'Diocese of Baton Rouge, Vol. 2 (1770–1803), SJA-3, 157',
@@ -1038,9 +1051,15 @@
       evidence: 'verified',
       branch: 'gaiennie',
       immigrant: true,
-      occupation: 'War of 1812 — 4th Regiment (Morgan\'s), Louisiana Militia (probable)',
+      occupation: '⚠️ WAR OF 1812 SERVICE — WITHDRAWN PENDING PROOF. See the record below: the 4th Regiment man was very likely his nephew, not him.',
       blurb: 'The Gaiennie immigrant, found at last: a man of Brûlon in the old province of Maine, in New Orleans by the early 1790s, married at St. James in 1793, upriver with the Sardet clan by 1797. His brother Urbain came too, and married his wife\'s sister.',
       records: [
+        {
+          title: '⚠️ THE WAR OF 1812 CLAIM IS WITHDRAWN — there are two François Gaiennies and this page had the wrong one',
+          citation: 'Louisiana Historical Association, Dictionary of Louisiana Biography, entry "GAINNIE, François"; Arsène Lacarrière Latour, Historical Memoir of the War in West Florida and Louisiana in 1814-15 (1816), pp. 125 and 141',
+          text: 'The Dictionary of Louisiana Biography: "GAINNIE, François, soldier, planter. Born, NEW ORLEANS, 1791; son of RENÉ URBAIN GAINNIÉ of France and Jeanne Marguerite (dit Manette) Sarde of New Orleans… Served during War of 1812 as FIRST LIEUTENANT OF THE FOURTH REGIMENT, Louisiana Militia, known as Morgan\'s Fourth. In 1823, became commander of Fourth Regiment… Promoted, 1829, to rank of brigadier general… Died in a duel with Gen. Pierre Bossier in Natchitoches Parish, September 18, 1839. Duelists used rifles at forty paces."',
+          highlight: 'THE MAN IN MORGAN\'S FOURTH WAS THIS FAMILY\'S NEPHEW, NOT ITS IMMIGRANT. This page carried François Gaiennie of Brûlon as a probable soldier of the 4th Regiment. The only documented François Gaiennie in that regiment was born at NEW ORLEANS IN 1791, and his father was RENÉ URBAIN — the brother who crossed with our François. So he is the emigrant\'s nephew, thirty years younger, and he went on to command that regiment, sit in the legislature, make brigadier general and die in a rifle duel at forty paces. The claim is withdrawn from the top of this page until somebody reads an actual service record. A SECOND ERROR RIDES ALONG WITH THE FIRST. "Morgan\'s Fourth" does not mean General David B. Morgan, who commanded on the west bank on 8 January 1815. Latour, Jackson\'s own engineer, names the regiment\'s commander as COLONEL G. W. MORGAN and puts the 4th Regiment out at CHEF MENTEUR, on the opposite side of the city, "until the 6th of January." Two different officers named Morgan, in two different places. Anyone writing that a 4th Regiment man "fought under Morgan at the West Bank" has merged them.'
+        },
         {
           title: 'THE STREET — Gaiennie Street, New Orleans',
           citation: 'John Kendall, History of New Orleans (Lewis Publishing Co., Chicago & New York, 1922), Chapter XLII "Streets, Parks, Squares," p. 675',
@@ -2600,6 +2619,12 @@
       blurb: 'Patriarch of the tomb the Larmann line still uses — and, it turns out, a Lorrainer. His parents married at Bertrambois in Meurthe-et-Moselle in 1808, so the Goublers came out of that French-German borderland rather than Germany proper. The name was in New Orleans by the 1840s in at least two households: his own, and that of Jean Baptiste Goubler and Françoise Tessier, almost certainly his brother.',
       records: [
         {
+          title: 'PVT. EMILE THOMAS GOUBLER — his name is on the arch, and he did not die the way the family thinks',
+          citation: 'Find a Grave memorial 209296699 (service number, unit and cause); Soldiers of the Great War, Vol. I, pp. 419–422 (Haulsee, Howe & Doyle, 1920), under "Died of Disease"; Honor States profile 561092; the Ninth Ward Victory Arch plaques as transcribed by the Historical Marker Database; 39th Infantry Division unit history',
+          text: 'PVT. EMILE THOMAS GOUBLER, service number 1609590, CO. C, 114TH ENGINEERS, 39TH DIVISION. Born New Orleans 2 June 1892; drafted at Camp Beauregard 29 May 1918; DIED 22 SEPTEMBER 1918 AT SAINT-FLORENT-SUR-CHER, CHER, FRANCE, of BRONCHO PNEUMONIA. Mother: Theresa Goubler. · The 39th Division sailed on 6 August 1918, was designated the FIFTH DEPOT DIVISION on 14 August, and moved to the St. Florent area southwest of Bourges. It never saw combat; it was broken up to feed replacements into the Meuse-Argonne.',
+          highlight: 'HE WAS KILLED BY THE 1918 FLU, THREE HUNDRED KILOMETRES BEHIND THE LINES — AND THE MONUMENT ITSELF SAYS SO. The Ninth Ward Victory Arch at 3810 Burgundy Street, put up by the ward\'s own residents in 1919 and dedicated in March 1920, carries his name. But it carries it under the heading "WHITE MEN WHO DIED IN SERVICE," on a plaque kept separate from "WHITE MEN KILLED IN ACTION." He is not in the second list. Three independent sources agree: Soldiers of the Great War files him under Died of Disease, so does the federal Honor States record, and his own memorial gives broncho pneumonia. He reached France in August and was dead six weeks later, having never got near the front. That is not a lesser death. It is how tens of thousands of American soldiers died that autumn — the same influenza that killed 3,362 people in New Orleans between September 1918 and March 1919, and put 410 in the ground at Camp Beauregard, the very camp he had been drafted into four months earlier. ONE THING THE ARCH ALSO RECORDS, AND IT SHOULD NOT BE PASSED OVER: its plaques are segregated. "Colored men who died in service" is a separate list from his. HIS GRAVE IS STILL UNLOCATED. He is not at Suresnes, the American cemetery where Services of Supply deaths were concentrated, and no Goubler memorial appears in any American cemetery in France, Belgium or England — but the American Battle Monuments Commission database could not be searched, so absence is not proof. Sixty-one per cent of families chose repatriation in the 1921 balloting, so he may well have come home.'
+        },
+        {
           title: 'Louisiana death record',
           citation: 'Orleans Parish, 7 November 1892 — Vol. 102, p. 1145',
           text: 'GOUBLER, JOSEPH, age 74.',
@@ -2804,11 +2829,19 @@
         { id: 'alonzoLemoine' },
         'and the rest of the seven — see Alexis Alonzo Lemoine'
       ],
-      given: 'Françoise', alsoKnownAs: 'entered as "Alice" by the 1880 census taker, probably from her middle name Alex', surname: 'Martin', sex: 'F',
+      given: 'Françoise', alsoKnownAs: 'called ALICE in at least three records — see below; the balance of evidence has shifted', surname: 'Martin', sex: 'F',
       birth: { date: 'about 1834', place: 'St. John the Baptist Parish' },
       evidence: 'confirm',
       branch: 'lemoine',
-      blurb: 'Married Alexis Lemoine at Edgard on 23 May 1854 and raised seven children on the river. The 1880 census taker heard her as "Alice."',
+      blurb: 'Married Alexis Lemoine at Edgard on 23 May 1854 and raised seven children on the river. Three separate records call her Alice, and only the marriage calls her Françoise.',
+      records: [
+        {
+          title: 'ALICE OR FRANÇOISE? — the priest wrote Alice twice, four years apart',
+          citation: 'St. John the Baptist Catholic Church, Edgard — baptisms of Louis Alcee Lemoine (born 11 Nov 1863, baptised 1 Feb 1864) and Alfred Florian Lemoine (born 9 Nov 1867, baptised 12 Feb 1868), transcribed from Les Voyageurs, journal of the German-Acadian Coast Historical and Genealogical Society, by Shirley C. Terrio; with the United States Census, 1880, Edgard',
+          text: 'Both baptismal entries name the mother identically: "Alexis Lemoine & ALICE MARTIN." The 1880 census taker also wrote Alice. The name Françoise comes from the 1854 marriage record.',
+          highlight: 'THIS PAGE USED TO EXPLAIN THE PROBLEM AWAY, AND IT SHOULD NOT HAVE. The entry here said the 1880 census taker "heard her as Alice" — one enumerator, one slip, easily dismissed. That is no longer the shape of the evidence. The parish priest at Edgard wrote ALICE MARTIN into the register in 1864 and again in 1868, in a church where the family were known, and the census taker made it three. Against that stands the marriage record. Both names are kept on this page because a marriage act is a strong document and Alice may well be a familiar form of a longer name — but the honest position now is that ALICE is the better-attested one, and the page says so rather than leaving the old reassurance standing.'
+        }
+      ],
       note: 'From the FamilySearch reconstruction plus the 1880 census; her own parents are not yet identified.'
     },
 
