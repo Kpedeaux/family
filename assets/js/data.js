@@ -53,9 +53,18 @@
       death: { date: '17 February 2009' },
       father: 'herbertJoseph', mother: 'veronicaBrunetti',
       evidence: 'verified',
-      blurb: 'Buried in St. Louis Cemetery No. 3 in the same space as his parents — Sq. 5 East, Facing G, Tier STLOUS AVE, Space 9.',
+      blurb: 'Buried in St. Louis Cemetery No. 3 in the same space as his parents and his mother\'s parents — Sq. 5 East, Facing G, St. Louis Avenue, Space 9.',
+      records: [
+        {
+          title: 'The cemetery register, in the archdiocese\'s own hand',
+          citation: 'Archdiocese of New Orleans, Catholic Cemeteries burial register — profile 36915129, plot L3 SQ 5E / G ST. LOUIS AVENUE / 9. Searched 12 August 2026.',
+          text: 'HERBERT JOHN PEDEAUX — born 20 October 1956 — died 17 February 2009, aged 52 — buried 20 February 2009, St. Louis Cemetery No. 3.',
+          highlight: 'Both his dates come back exactly as this tree already carried them, from a record nobody in the family supplied. That matters more than it looks: the archdiocese\'s register is an independent third party, and where it can be checked against what the family knew, it agrees.'
+        }
+      ],
       sources: [
-        { label: 'Find a Grave 223275967', url: 'https://www.findagrave.com/memorial/223275967' }
+        { label: 'Find a Grave 223275967', url: 'https://www.findagrave.com/memorial/223275967' },
+        { label: 'Catholic Cemeteries burial record', url: 'https://nolacatholiccem.discovereverafter.com/profile/36915129' }
       ]
     },
 
@@ -96,7 +105,7 @@
       father: 'numaSr', mother: 'ednaGaiennie',
       evidence: 'verified',
       branch: 'pedeaux',
-      blurb: 'Married Veronica Brunetti in April 1943, served in the Army, and re-enlisted for the Panama Canal Zone when the war ended. Buried St. Louis Cemetery No. 3, Sq. 5 East, Facing G, Tier STLOUS AVE, Space 9.',
+      blurb: 'Married Veronica Brunetti in April 1943, served in the Army, and re-enlisted for the Panama Canal Zone when the war ended. Buried St. Louis Cemetery No. 3, Sq. 5 East, Facing G, St. Louis Avenue, Space 9 — in his wife\'s family\'s tomb, alongside her parents.',
       records: [
         {
           title: 'Louisiana birth record',
@@ -136,12 +145,18 @@
       father: 'johnBrunetti', mother: 'veronicaFranovich',
       evidence: 'verified',
       branch: 'brunetti',
-      blurb: 'Holy Angels Academy; retired from BellSouth. Lived New Orleans, then Chalmette, then Long Beach after Katrina. Interred St. Louis Cemetery No. 3.',
+      blurb: 'Holy Angels Academy; retired from BellSouth. Lived New Orleans, then Chalmette, then Long Beach after Katrina. Buried in her father\'s tomb at St. Louis Cemetery No. 3 — the last of the six laid in it.',
       records: [
         {
           title: 'Louisiana birth record',
           citation: 'Orleans Parish, 20 November 1923 — Vol. 181, p. 2241',
           text: 'BRUNETTI, VERONICA MARY. Father: BRUNETTI, JOHN. Mother: FRANOVICH, VERONICA. The only Brunetti birth in the entire Louisiana index, 1790–1925.'
+        },
+        {
+          title: 'Her burial — and a question in the same plot',
+          citation: 'Archdiocese of New Orleans, Catholic Cemeteries burial register — St. Louis No. 3, plot L3 SQ 5E / G ST. LOUIS AVENUE / 9, profile 36915128. Searched 12 August 2026.',
+          text: 'VERONICA PEDEAUX — died 6 August 2013, aged 89 — buried 10 August 2013 in the Brunetti plot, with her husband, her son, and both her parents. Also in the plot, buried 19 May 1951: "VERONICA (TWINS) BRUNETTI."',
+          highlight: 'THAT 1951 ENTRY IS NOT EXPLAINED YET, AND IT SHOULD NOT BE GUESSED AT. Cemetery ledgers routinely record infants who died before naming under the mother\'s name and the plot\'s family surname — so "Veronica (Twins) Brunetti" most likely means twins born to a Veronica. Two women in this family answer to that. Veronica Franovich Brunetti was about forty-nine in 1951, which makes her very unlikely. Veronica Marie was twenty-seven, married eight years, and had her children in exactly these years — Patricia, then Buddy in 1956. Twins lost in May 1951 would sit precisely in that gap. But the ledger does not say whose they were, and this tree does not print inferences as facts: the Orleans Parish death index for May 1951 would settle it, and until it does this stays a question.'
         }
       ],
       sources: [
@@ -1262,8 +1277,14 @@
       evidence: 'verified',
       branch: 'brunetti',
       immigrant: true,
-      blurb: 'Left Italy as a young man, spent his twenties in Chicago, and turned up in New Orleans in time to marry a Dalmatian oyster family\'s daughter in June 1921. He and Veronica are the only two Brunettis in St. Louis Cemetery No. 3, and apart from his own daughter\'s there is not another Brunetti birth in the Louisiana index — no sibling or cousin followed him south, so the surname ended with him here.',
+      blurb: 'Left Italy as a young man, spent his twenties in Chicago, and turned up in New Orleans in time to marry a Dalmatian oyster family\'s daughter in June 1921. Apart from his own daughter\'s there is not another Brunetti birth in the Louisiana index — no sibling or cousin followed him south, so the surname ended with him here. It ends in one tomb, too: he lies in St. Louis No. 3 with his wife, his daughter, his son-in-law and his grandson.',
       records: [
+        {
+          title: 'THE TOMB — six people, one plot, and the whole descent in it',
+          citation: 'Archdiocese of New Orleans, New Orleans Catholic Cemeteries burial register — St. Louis Cemetery No. 3, plot L3 SQ 5E / G ST. LOUIS AVENUE / 9. Searched 12 August 2026 (nolacatholiccem.discovereverafter.com, profiles 36915128–36915133).',
+          text: 'Interred in this one space, in order of burial: VERONICA (TWINS) BRUNETTI, 19 May 1951 · VERONICA BRUNETTI, 25 Aug 1981, aged 79 — his wife, born Veronica Franovich · JOHN BRUNETTI, 14 Jan 1987, aged 93 · HERBERT JOSEPH PEDEAUX, 24 Jul 1992 — his son-in-law · HERBERT JOHN "BUDDY" PEDEAUX, 20 Feb 2009 — his grandson · VERONICA PEDEAUX, 10 Aug 2013, aged 89 — his daughter.',
+          highlight: 'THE SIX PROFILE NUMBERS RUN CONSECUTIVELY — 36915128 through 36915133. The archdiocese entered this plot into its database as a single ledger page, which is what it is: one family\'s space, opened by the Brunettis and closed around the Pedeaux who married into them. Three generations of this tree are in it. Kevin\'s great-grandparents, his grandmother and grandfather, and his father are all in the same nine feet of ground on St. Louis Avenue. The ledger also settles two small things the site had wrong: he is not one of two Brunettis here but one of three, and his plot is shared, not separate from his daughter\'s.'
+        },
         {
           title: 'Marriage — the record that names his parents',
           citation: 'Louisiana Parish Marriages, Orleans, June 1921 (licence Vol. 46, p. 90; two entries, 15 and 18 June)',
@@ -1365,8 +1386,14 @@
       father: 'anthonyFranovich', mother: 'melanieMoizant',
       evidence: 'verified',
       branch: 'franovich',
-      blurb: 'A Dalmatian oyster family\'s daughter from the lower delta, and the last of this family born at Buras. She was nine when her father died; her widowed mother brought the children up to New Orleans, and in 1921 she married John Brunetti, an Italian immigrant lately of Chicago. Buried St. Louis Cemetery No. 3.',
+      blurb: 'A Dalmatian oyster family\'s daughter from the lower delta, and the last of this family born at Buras. She was nine when her father died; her widowed mother brought the children up to New Orleans, and in 1921 she married John Brunetti, an Italian immigrant lately of Chicago. She was the first adult laid in the family tomb at St. Louis No. 3, and five more followed her into it.',
       records: [
+        {
+          title: 'Her burial — the first of the six',
+          citation: 'Archdiocese of New Orleans, Catholic Cemeteries burial register — St. Louis No. 3, plot L3 SQ 5E / G ST. LOUIS AVENUE / 9, profile 36915131. Searched 12 August 2026.',
+          text: 'VERONICA BRUNETTI — aged 79 — buried 25 August 1981, St. Louis Cemetery No. 3.',
+          highlight: 'The age matches her March 1902 birth to the year. She went in six years ahead of her husband, and thirty-two years ahead of her daughter — the whole rest of the tomb filled in behind her.'
+        },
         {
           title: 'In her father\'s household, aged eight',
           citation: 'United States Census, 1910 — Nairn, Plaquemines Parish, Louisiana',
@@ -1538,8 +1565,14 @@
       evidence: 'verified',
       branch: 'moizant',
       immigrant: true,
-      blurb: 'A Bordeaux man who died at ninety-five in New Orleans, having outlived his wife, several of his children, and the century he was born in. He married in 1866, raised a large family down the river in Plaquemines, took American citizenship at sixty-two after thirty-four years here, moved up to the city in old age, and was still registering to vote at ninety-three. Buried in the same plot as his daughter — St. Louis No. 3, Square 3, Section B, Lot 11.',
+      blurb: 'A Bordeaux man who died at ninety-five in New Orleans, having outlived his wife, several of his children, and the century he was born in. He married in 1866, raised a large family down the river in Plaquemines, took American citizenship at sixty-two after thirty-four years here, moved up to the city in old age, and was still registering to vote at ninety-three. Buried in St. Louis No. 3 with his wife — Square 3, facing O, Alley de la Vierge, plot 11.',
       records: [
+        {
+          title: 'THE PLOT, CORRECTED — and Victoria is in it',
+          citation: 'Archdiocese of New Orleans, Catholic Cemeteries burial register — St. Louis Cemetery No. 3, plot L3 SQ 03 / O ALLEY DE LA VIERGE / 11; profiles 36892936 and 36892935. Searched 12 August 2026.',
+          text: 'ALFRED L MOIZANT — buried 24 February 1933. · "WID VICTORIA MOIZANT" — buried 10 October 1928. Two burials, one plot, five years apart.',
+          highlight: 'This page used to place him at "Square 3, Section B, Lot 11," beside a daughter. The archdiocese\'s own register puts him on the ALLEY DE LA VIERGE, facing O, plot 11 — and the person already lying there was his wife, Victoria, who had gone in five years before him. Corrected here rather than quietly overwritten. One oddity is left standing on purpose: the clerk entered her as "Wid" — widow — in 1928, when Alfred still had five years to live. Either she carried a widowhood from before this marriage, or the entry was written up after 1933 and back-styled. The register does not say, so neither does this page.'
+        },
         {
           title: 'HIS PARENTS, AND BORDEAUX',
           citation: 'Louisiana, Orleans, Death Records and Certificates, 1835–1954 — Alfred L. Moizant, 23 February 1933; with his obituary, New Orleans, 23 February 1933 (GenealogyBank), and his voter registration of 9 December 1931',
@@ -1620,7 +1653,19 @@
       death: { date: '9 October 1928' },
       evidence: 'confirm',
       branch: 'moizant',
-      sources: [{ label: 'Find a Grave 143366666', url: 'https://www.findagrave.com/memorial/143366666' }]
+      blurb: 'Buried 10 October 1928 in St. Louis Cemetery No. 3, Square 3, facing O, Alley de la Vierge, plot 11 — the plot her husband joined five years later.',
+      records: [
+        {
+          title: 'Her burial',
+          citation: 'Archdiocese of New Orleans, Catholic Cemeteries burial register — profile 36892935. Searched 12 August 2026.',
+          text: 'Entered in the register as "WID VICTORIA MOIZANT," buried 10 October 1928.',
+          highlight: 'She died on the 9th and went into the ground on the 10th — the register\'s date and this page\'s date agree. See her husband\'s entry for the "Wid" puzzle, which is not resolved.'
+        }
+      ],
+      sources: [
+        { label: 'Find a Grave 143366666', url: 'https://www.findagrave.com/memorial/143366666' },
+        { label: 'Catholic Cemeteries burial record', url: 'https://nolacatholiccem.discovereverafter.com/profile/36892935' }
+      ]
     },
 
     /* ─────────────────────────  LARMANN / WELLMEYER  ───────────────────────── */
@@ -1644,6 +1689,12 @@
       occupation: 'Electrician, IBEW Local 130 — retired 1988',
       blurb: 'Married sixty-three years. Buried St. Vincent de Paul Cemetery No. 3.',
       records: [
+        {
+          title: 'WHY HE IS NOT IN THE ARCHDIOCESE\'S DATABASE — and why that proves nothing about him',
+          citation: 'Archdiocese of New Orleans, Catholic Cemeteries burial search (nolacatholiccem.discovereverafter.com), tested 12 August 2026 against 173 sampled St. Vincent burials and eight family surnames',
+          text: 'The archdiocese publishes a searchable burial register for six cemeteries — St. Charles, St. Joseph, St. Louis, St. Patrick, St. Roch and St. Vincent. He is not in it. Neither is his wife, nor any Goubler, nor nine of the ten Wellmeyers. The reason is in the plot codes: every St. Vincent burial the database returns is numbered V1 or V2. Across 173 records pulled in two separate samples, not one carried a V3.',
+          highlight: 'ST. VINCENT DE PAUL NO. 3 IS NOT IN THE DATABASE. That is where he is, where Ann is, where the Wellmeyer tomb stands and where the Goublers lie — the oldest ground in that complex, and the one section the archdiocese has not loaded. So an empty search result for this family means the cemetery was never indexed, not that the grave is not there. Kevin has stood at the Wellmeyer tomb and photographed it. This is worth writing down as method, not just as trivia: a silent gap in a database is the easiest way in genealogy to turn a record you have not found into a person you decide did not exist. Test the index before you trust its zeroes.'
+        },
         {
           title: 'Louisiana marriage record',
           citation: 'Orleans Parish, July 1947 — p. 3644',
@@ -2104,6 +2155,12 @@
           citation: 'New Orleans Times-Picayune; transcribed in a RootsWeb family file supplied by Judy Gifford, 2026',
           text: '"LARMANN — On Monday, November 21, 1921, at 3:15 o\'clock p.m., JOHN CASPER LARMANN, beloved husband of Louise Margaret Ehmann, aged 75 years, a native of Hanover, Germany, and a resident of this city for the past fifty-six years. The relatives, friends and acquaintances of the family, also the officers and members of the United Brotherhood of Carpenters and Joiners of America, Local No. 1312, St. Sebastian Branch No. 311, Catholic Knights of America, St. Joseph Society, Holy Name Society and St. Elizabeth Ladies of Holy Trinity Church are respectfully invited to attend the funeral… from the late residence of the deceased, No. 2883 Dauphine street, near Press. Interment in St. Roch Cemetery."',
           highlight: 'A whole life in one paragraph. He was a CARPENTER — a union man of Local 1312 — and his parish was HOLY TRINITY, the German national church of New Orleans. He died at home on Dauphine Street in the Bywater and was buried in St. Roch. "Aged 75" gives 1846, agreeing with Esther\'s ledger against the death index\'s 1848.'
+        },
+        {
+          title: 'HIS GRAVE, LOCATED — and the walk is named for his own parish priest',
+          citation: 'Archdiocese of New Orleans, Catholic Cemeteries burial register — St. Roch Cemetery, profile 36953104 (nolacatholiccem.discovereverafter.com/profile/36953104). Searched 12 August 2026. Sons Casper M. and Edward J. are profiles 36953103 and 36953101.',
+          text: 'JOHN CASPER LARMANN — age 75 — buried 23 November 1921 — PLOT: R2 SQ C / 18 FATHER THEVIS PIAZZA / 11 — St. Roch Cemetery, 1725 St. Roch Avenue, New Orleans 70117. Listed as "others here" in the same plot: CASPER M. LARMANN, d. 7 Nov 1945, aged 46 (his son Caspar Maurice, b. 1899) · EDWARD J. LARMANN, d. 19 Nov 1985, aged 88 (his son Edward John, b. 1896) · MARIE LARMANN, d. 17 Oct 1987, aged 89 · and BABY OSTERHOLD, d. 22 August 1954.',
+          highlight: 'THE ADDRESS OF THE TOMB IS THE STORY. Father Peter Leonhard Thevis was the German priest of HOLY TRINITY at St. Ferdinand and Dauphine — Casper’s own parish, named in his obituary, on the street he died on. When yellow fever took more than three thousand New Orleanians in 1867, Thevis vowed a chapel to St. Roch if his congregation was spared. Not one Holy Trinity parishioner died, in that epidemic or the next, and he built this cemetery in 1875 to keep the promise. He lies under the chapel floor at the middle of it. Casper — who landed in 1866, the year before the fever — is buried on the walk that carries his priest’s name, with two of his sons and sixty-six years of family after him — down to an infant recorded only as "Baby Osterhold," laid in with them in 1954. AND IT SPLITS THE FAMILY IN TWO: this is Louisa’s side. Anthony’s line, the one this tree descends through, lies across town in the Goubler tomb at St. Vincent de Paul No. 3. The two half-families are in two different cemeteries.'
         },
         {
           title: 'Naturalization — 16 October 1868',
