@@ -105,7 +105,7 @@
         who: 'Leontine and Louise Moore, and the nephew they raised',
         headline: 'THE PIN IS ON THE STREET, NOT THE HOUSE — and that is the point',
         text: 'Charles Emile Larmann lost his father at eighteen months and his mother at eighteen years, and was brought up by two unmarried aunts, his mother\'s sisters Leontine ("Tene") and Louise Moore, in their house on Franklin Avenue. John Larmann Sr. later pointed the house out to his grandson. The street is remembered; the number is not, and this map will not invent one. Franklin Avenue runs from the river all the way to the lake, so this marker sits at the middle of it as a placeholder — deliberately imprecise until a census sheet or a city directory gives the number.',
-        source: 'Family recollection, corroborated by the household censuses on Charles Emile\'s page. THE NUMBER IS AN OPEN RESEARCH ITEM.'
+        source: 'Family recollection. SEARCHED AND STILL OPEN, 12 August 2026 — the 1910 census puts this household at house 927 on a "Lafayette Street" that no longer exists in Ward 9, and the 1940 census at house 727 on another street entirely. Two numbers, no Franklin. Next: the 1920 and 1930 censuses, Leontine Moore\'s voter registrations of 1927, 1931 and 1941, and the sisters\' obituaries of 1947 and 1948. See Charles Emile Larmann\'s page.'
       },
 
       /* ── CHURCH ───────────────────────────────────────────────── */
