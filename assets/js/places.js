@@ -428,6 +428,34 @@
       /* ── LOUISIANA TOWNS ──────────────────────────────────────── */
 
       {
+        id: 'plattenville',
+        name: 'Church of the Assumption, Plattenville',
+        kind: 'church',
+        lat: 29.99062, lng: -91.02368,
+        precision: 'exact',
+        years: '26 January 1808',
+        people: ['michelPedeau', 'florenceAucoin'],
+        who: 'Where the Nantes emigrant married the Acadian girl',
+        headline: 'THE OLDEST PARISH IN LOUISIANA, AND THE PLACE THIS FAMILY BEGINS IN AMERICA',
+        text: 'On 26 January 1808 Michel Pédeau, son of Michel Pédeau and Jeanne Muraille of Nantes, married FLORIANNE-MARGUERITE AUCOIN here. Her story is the harder one. Born 28 November 1780 and baptised the next day at Saint-Énogat in Brittany, she is on the list of Acadians at Saint-Malo in September 1784, and she crossed to Louisiana AGED FOUR aboard LA VILLE D\'ARCHANGEL — one of the seven ships of 1785 — with 312 people on board. She appears in the Valenzuela censuses of 1795, 1797 and 1798. Michel was dead within six years and she remarried in this same church in November 1814, to François Barrilleaux. The parish was founded in 1793 and is the oldest in the state; the building standing now went up in 1856.',
+        source: 'Diocese of Baton Rouge Catholic Church Records, vol. 3, pp. 37, 683 (first marriage) and 37, 69 (second), as abstracted by Steven A. Cormier, Acadians in Gray. Witnesses to the 1808 marriage: Pierre-Hypolite Brais, Jean-Baptiste Tojan and Isaac Landry.'
+      },
+
+      {
+        id: 'albemarle-4th-ward',
+        name: 'The 4th Ward, Albemarle post office',
+        kind: 'town',
+        lat: 29.94048, lng: -91.02482,
+        precision: 'block',
+        years: '1860',
+        people: ['marieCancienne', 'pierreNuma'],
+        who: 'Where the widow held the farm together',
+        headline: 'NOT LABADIEVILLE — THE FAMILY WAS TEN MILES UP THE BAYOU',
+        text: 'The 1860 census enumerator wrote the ward and post office on every page, and it puts this family in the 4th Ward, post office ALBEMARLE, on the Napoleonville stretch of Bayou Lafourche — not at Labadieville, where they would later be buried. Albemarle was a Pugh family sugar plantation; the Pughs held thirteen plantations outright and more than fifteen hundred people in bondage on the eve of the war. The Pedeaux moved the ten miles down to Labadieville between 1860 and 1876, and Numa\'s 1871 marriage to Eulalie Borne is the obvious hinge.',
+        source: 'United States Census, 1860 — Assumption Parish, 4th Ward, reel M653-407, p. 29, enumerated 14 June 1860 by Louis U. Folse; USGenWeb Census Project transcription by Audrey B. Westerman. NO COORDINATE EXISTS for Albemarle Plantation in any gazetteer searched, so this pin sits on Napoleonville, the nearest reliable anchor on the same bank.'
+      },
+
+      {
         id: 'labadieville',
         name: 'Labadieville, Assumption Parish',
         kind: 'town',
