@@ -204,13 +204,23 @@
         'Joy Marie Pedeaux Byrne (1935–2013)'
       ],
       given: 'Numa Louis Charles', suffix: 'Sr.', surname: 'Pedeaux', sex: 'M',
-      birth: { date: '16 March 1888', place: 'probably Lafourche or Assumption Parish' },
+      birth: { date: '16 March 1888', place: 'Lafourche Parish' },
       death: { date: '17 July 1958', place: 'Orleans Parish' },
       father: 'pierreNuma', mother: 'eulalieBorne',
       evidence: 'verified',
       branch: 'pedeaux',
-      blurb: 'Buried at Greenwood Cemetery in his wife\'s family tomb — "5 Palmetto Magnolia Hawthorne, A. F. Gaiennie Tomb."',
+      occupation: 'Worked for MARITIME ELECTRIC CO., 615 Commerce Place — a marine electrical firm in the Warehouse District, named on his own 1942 draft card.',
+      blurb: 'A bayou-born man who ended up in Lakeview. He was working for a marine electrical company at fifty-four, in the middle of a war that had New Orleans building ships as fast as it could. Buried at Greenwood Cemetery in his wife\'s family tomb — "5 Palmetto Magnolia Hawthorne, A. F. Gaiennie Tomb."',
       records: [
+        {
+          title: 'HIS OWN HAND — the 1942 draft card, with his address, his telephone and his employer',
+          citation: 'United States, World War II Draft Registration Cards, 1942 — Fourth Registration, State of Louisiana; serial number U-1108, D.S.S. Form 1 (revised 4-1-42), signed by the registrant.',
+          text: 'NUMA — LOUIS — PEDEAUX. · Place of residence: 6509 WEST END BLVD., N.O., La. · Mailing address: same. · Telephone: AU-1452. · Age 54; born 3-16-1888. · PLACE OF BIRTH: LAFOURCHE PARISH, LA. · Person who will always know your address: EDNA PEDEAUX (WIFE), 6509 West End Blvd. · Employer: MARITIME ELEC. CO. · Place of employment: 615 COMMERCE PLACE, N.O., La. · Signed, Numa L. Pedeaux.',
+          image: 'assets/img/pedeaux-1942-draft-card.jpg',
+          imageAlt: 'A 1942 United States draft registration card for Numa Louis Pedeaux, giving his residence at 6509 West End Boulevard, his birthplace as Lafourche Parish, and his employer as Maritime Electric Co. at 615 Commerce Place',
+          imageCredit: 'United States, World War II Draft Registration Cards, 1942, Fourth Registration, Louisiana — NARA, via FamilySearch. Tap to enlarge.',
+          highlight: 'ONE CARD, FOUR THINGS THIS PAGE DID NOT HAVE. His BIRTHPLACE was carried here as "probably Lafourche or Assumption Parish" — a hedge, because Louisiana did not require birth registration outside Orleans until 1918 and there is no birth record for him anywhere. He answers it himself: LAFOURCHE PARISH. His ADDRESS, 6509 West End Boulevard, puts this family out at Lakeview near the lake — five miles from the Bywater blocks where every Larmann on this tree lived, which is worth seeing on the map. His EMPLOYER was MARITIME ELECTRIC CO. on Commerce Place, a marine electrical firm on the riverfront edge of the Warehouse District, in the year New Orleans was turning out landing craft by the thousand. And there is a small trap in the index: the transcribers entered the employer field as "Numa Louis/Pedeaux," which reads as though he worked for himself. The card says otherwise. Read the image, not the index.'
+        },
         {
           title: 'Louisiana marriage record',
           citation: 'Orleans Parish, July 1917 — Vol. 39, p. 1008',

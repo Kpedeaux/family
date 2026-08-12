@@ -16,6 +16,7 @@
       home:    { label: 'Where they lived',   color: '#7a2e2e' },
       church:  { label: 'Parish church',      color: '#a8873f' },
       grave:   { label: 'Where they lie',     color: '#4a423a' },
+      work:    { label: 'Where they worked',  color: '#6b5a8a' },
       service: { label: 'Military service',   color: '#4a6b45' },
       town:    { label: 'Town or village',    color: '#3d5a6c' }
     },
@@ -78,6 +79,34 @@
         headline: 'APRIL 1950 — AND KEVIN\'S GRANDPARENTS ARE THE NEWLYWEDS IN THE BACK ROOM',
         text: 'The census taker found five people in this house on 10 April 1950. CHARLES EMILE LARMANN, 47, head — a BOOKKEEPER at an AUTO REPAIR SHOP. His wife JOHANNA, 43. Their son JOHN R. LARMANN, 22, married, a MOTOR REPAIRER at an electric motor repair shop. His wife ANN G., 21, married, a CASHIER in a retail department store. And JOHN R. LARMANN JR., aged one, entered as "grandson."',
         source: 'United States Census, 1950 — New Orleans, Orleans Parish, ED 36-460, page 77, lines 3–7 (NARA T628). House number 1607, dwelling 64, read off the sheet; the street is written vertically in column 1 as "Piety." Neighbours at 1615 and 1511 on the same page match the modern block exactly.'
+      },
+
+      {
+        id: 'pedeaux-west-end',
+        name: '6509 West End Boulevard',
+        kind: 'home',
+        lat: 30.0093577, lng: -90.1140305,
+        precision: 'exact',
+        years: '1942',
+        people: ['numaSr', 'ednaGaiennie'],
+        who: 'Numa Louis Charles Pedeaux Sr. and Edna Gaiennie',
+        headline: 'THE ONE BRANCH THAT LEFT THE OLD WARDS ALTOGETHER',
+        text: 'On his 1942 draft card Numa Sr. printed this address in his own hand, gave his telephone as AU-1452, and named "EDNA PEDEAUX (WIFE), 6509 West End Blvd." as the person who would always know where he was. Look where it is. Every other home on this map is packed into the downriver wards — Bywater, Marigny, the Ninth. This one is out at Lakeview, near the lake, five miles from Casper Larmann\'s door. The Pedeaux were the branch that moved to the new suburbs while the Larmanns stayed downtown, and it would be another generation before a marriage brought the two halves of this tree back into the same city again.',
+        source: 'United States, World War II Draft Registration Cards, 1942 — 4th Registration, State of Louisiana; serial U-1108, signed Numa L. Pedeaux. The card is reproduced on his page.'
+      },
+
+      {
+        id: 'maritime-electric',
+        name: 'Maritime Electric Co. — 615 Commerce Place',
+        kind: 'work',
+        lat: 29.9452737, lng: -90.0666451,
+        precision: 'block',
+        years: '1942',
+        people: ['numaSr'],
+        who: 'Where Numa Pedeaux Sr. worked',
+        headline: 'A ship-electrical firm in the Warehouse District, in the middle of the war',
+        text: 'His draft card names his employer as MARITIME ELEC. CO. and his place of business as 615 Commerce Place. In 1942 New Orleans was building and repairing ships at a furious rate — Higgins Industries alone would turn out thousands of landing craft — and a marine electrical company on the riverfront edge of the Warehouse District was in the middle of that work. He was fifty-four and registering for the fourth draft, the one for older men, which is why the card exists at all.',
+        source: 'United States, World War II Draft Registration Cards, 1942, serial U-1108. "Commerce Place" does not appear in modern New Orleans addressing, so this pin sits on Commerce Street in the Warehouse District rather than on a doorway — the block is right, the building is not identified.'
       },
 
       {
