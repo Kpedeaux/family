@@ -314,13 +314,13 @@
       records: [
         {
           title: 'Baptism — Church of the Assumption, Plattenville',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 7 (1848–1852), ASM-9, 290',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Diocese of Baton Rouge, Vol. 7 (1848–1852), ASM-9, 290',
           text: 'Pierre Numa (Antoine Pedeau and Marie CANCIENNE) bn. 20 Nov. 1847 bt. 11 May 1848 spo. Pierre Cancienne and Florence Aucoin.',
           highlight: 'The godmother is Florence Aucoin — his own grandmother, Michel Pedeau\'s widow, standing at the font. One line ties 1808 to 1847.'
         },
         {
           title: 'Marriage — St. Philomena, Labadieville',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 12 (1871–1873), SPH-4, 367',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Diocese of Baton Rouge, Vol. 12 (1871–1873), SPH-4, 367',
           text: 'Numa (Antoine Pedeaux and Marie CANCIENNE) m. 27 April 1871 Eulalie BORNE of Lafourche Parish (Marcellin Borne and Anne Marie GUEDRY) wit. Alcee Pedeaux; Edouard Borne; Ulysse Pedeaux; Ulger Douce; Odile Foret; Edw. Vives; Marie Vives; Clementine Schiffestien.'
         }
       ],
@@ -401,13 +401,14 @@
       records: [
         {
           title: 'Baptism — Church of the Assumption, Plattenville',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 3 (1804–1818), ASM-6, 288',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Diocese of Baton Rouge, Vol. 3 (1804–1818), ASM-6, 288',
           text: 'Antonio Florentin (Miguel and Florencia AUCOIN) bn. 1 Nov 1812 bt. 25 Apr 1813 spo. Antonio Robertson and Margarita Bourque.'
         },
         {
-          title: 'Burial',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 9 (1858–1862), ASM-10, 168',
-          text: 'Antoine Pedo, age 45 years, bur. 8 Aug. 1858 d. yesterday.'
+          title: 'Burial — and the record names nobody, which this page had glossed over',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Diocese of Baton Rouge, Vol. 9 (1858–1862), ASM-10, 168',
+          text: 'The entry reads, in its entirety: "PEDO, PEDEAU — Antoine Pedo, age 45 years, bur. 8 Aug. 1858 d. yesterday (ASM-10, 168)."',
+          highlight: 'THIS IS AN IDENTIFICATION, NOT A NAMING, AND THE DIFFERENCE MATTERS. The August 2026 audit read this entry in the book and found it carries NO parents, NO wife, NO residence — just a name, an age and two dates. Everything that makes it Antoine Florentin Pedeau is inference: the age of 45 fits a birth on 1 November 1812, the parish is right, it is the only Pedeau burial of its kind in the volume, and his widow\'s own burial four years later calls her the wife of "Antoine PEDO." That case is sound and almost certainly correct. But this page presented it as his burial record, and a document that does not name a man is not the same as one that does. One further caution from the same volume: Marie Cancienne\'s 1862 burial calls her the WIFE of Antoine Pedo, three years and nine months after he was buried — so this register\'s relationship language is loose, and should not be leaned on.'
         }
       ],
       note: 'An Ancestry user tree claims he died in 1854. He did not — Volume 8 (1853–1857) contains no burial for him, his daughter Rosalia Florence was born in March 1855, and the burial register puts his death squarely on 7 August 1858. The recorded age of 45 matches the 1812 baptism exactly.'
@@ -444,7 +445,7 @@
       records: [
         {
           title: 'Burial',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 9 (1858–1862), ASM-10, 190',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Diocese of Baton Rouge, Vol. 9 (1858–1862), ASM-10, 190',
           text: 'Marie Cancienne, age 40 years, wife of Antoine PEDO, bur. 12 May 1862 d. yesterday.'
         }
       ],
@@ -500,7 +501,7 @@
       records: [
         {
           title: 'Marriage — Church of the Assumption, Plattenville',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 3 (1804–1818), ASM-2, 127',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Diocese of Baton Rouge, Vol. 3 (1804–1818), ASM-2, 127',
           text: 'Michel, of Nantes, Brittany, France (Michel and Jeanne MURAILLE) m. 26 Jan 1808 Florence Marguerite AUCOIN, of St. Malo, Brittany, France (Michel and Isabelle HEBERT, both decd.) wit. Pierre Hypolite Brais; Jean Baptiste Tojan; Isaac Landry.'
         },
         {
@@ -706,7 +707,7 @@
         },
         {
           title: 'Burial',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 7 (1848–1852), ASM-10, 120',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Diocese of Baton Rouge, Vol. 7 (1848–1852), ASM-10, 120',
           text: 'Florence Aucoin, age 72 years, wife of Francois BARIOT, bur. 31 March 1852.'
         }
       ],
@@ -921,7 +922,7 @@
       records: [
         {
           title: 'Baptism — St. Michael, Convent (St. James Parish)',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 4 (1820–1829), SMI-3, 164',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Diocese of Baton Rouge, Vol. 4 (1820–1829), SMI-3, 164',
           text: 'Florentin (Gerve and Natalie CHENET) bn. 9 Sept. 1826 bt. 27 Sept. 1829 spo. Armand Bourgeois and Selese Frederic.'
         },
         {
@@ -988,13 +989,13 @@
         },
         {
           title: 'Baptism — St. James Parish',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 2 (1770–1803), SJA-3, 157',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Diocese of Baton Rouge, Vol. 2 (1770–1803), SJA-3, 157',
           text: 'Gervasio (Francisco & Eulalia Sarde) bt. 6 Sep 1797 bn. 1 Jun 1797 spo. Estevain Rene & Eufrosyna Sarde. Pat. GP: (Juliano Gagnier & Renata de Brun) Mat. GP: (Nicolas Sarde & Margarita Rene).',
           highlight: 'His own baptism, found in 2026 under the spelling GANIER — with both parents and all four grandparents named in a single entry. The godfather is his great-uncle Étienne Reyne; the godmother his aunt Euphrosine.'
         },
         {
           title: 'Marriage — St. Michael, Convent',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 4 (1820–1829), SMI-2, 77',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Diocese of Baton Rouge, Vol. 4 (1820–1829), SMI-2, 77',
           text: 'Gervais, age 22, nat. of New Orleans (Francois and Elisabete SARDE, both decd.) m. 22 Jan. 1820 Nathalie CHENET, age 17 (Pierre and Susanne LAVIGNE) wit. Jean Baptiste Oury; Dominique LeBourgeois; Orter Reine; Maximillien Rousselle.',
           highlight: 'One record fixes four things: his 1797 birth, his New Orleans origin, both his parents, and both of his wife\'s parents. Note the witness "Orter Reine" — his grandmother\'s family, still standing up for him twenty-three years on.'
         },
@@ -1006,7 +1007,7 @@
         },
         {
           title: 'Burial — St. Michael, Convent',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 8 (1853–1857), SMI-4, 236',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Diocese of Baton Rouge, Vol. 8 (1853–1857), SMI-4, 236',
           text: 'Gervais Gaiennie, age 57 yrs., bur. 9 June 1854.'
         }
       ],
@@ -1068,7 +1069,7 @@
         },
         {
           title: 'Marriage — St. James Parish',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 2 (1770–1803), SJA-2, 19',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Diocese of Baton Rouge, Vol. 2 (1770–1803), SJA-2, 19',
           text: 'Francisco (Julian & Reneta Lebrum, of Brulon, France) m. 10 Feb 1793 Eulalia SARDE (Nicolas & Margarita Renne, of New Orleans) wit. Juan Haydel & Margarita Sarde.',
           highlight: 'One line names his parents, his French home town, his bride, and her parents. This record sat unfound for years because the clerk filed the family under GANIER — the "no Gaiennie in Volume 2" conclusion was a spelling artifact.'
         },
@@ -1098,12 +1099,12 @@
       records: [
         {
           title: 'Named in his son Urbain\'s marriage record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] St. Louis Cathedral, 19 March 1789 — SLC, M5, 62 (SRANO Vol. 4)',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] St. Louis Cathedral, 19 March 1789 — SLC, M5, 62 (SRANO Vol. 4)',
           text: 'Urbano (Julián and Renata LEBRUN), native of la Bassouge de Chesnery, Province Dumene [La Bazouge-de-Chemeré, province of Maine], m. Maria SARDET, Mar. 19, 1789.'
         },
         {
           title: 'Named in his grandson Gervais\'s baptism',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] St. James Parish, 6 September 1797 — SJA-3, 157 (Diocese of Baton Rouge Vol. 2)',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] St. James Parish, 6 September 1797 — SJA-3, 157 (Diocese of Baton Rouge Vol. 2)',
           text: 'Pat. GP: Juliano Gagnier & Renata de Brun.'
         }
       ]
@@ -1145,16 +1146,16 @@
       records: [
         {
           title: 'Marriage — St. Louis church, New Orleans',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] 20 January 1767 — SLC, M2, 25 (SRANO Vol. 2)',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] 20 January 1767 — SLC, M2, 25 (SRANO Vol. 2)',
           text: 'Marguerite [REINE], m. Nicolas SARDE, Jan. 20, 1767.'
         },
         {
           title: 'Daughter Eulalie\'s baptism, naming his trade',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] 16 January 1774 — SLC, B7, 35 (SRANO Vol. 3)',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] 16 January 1774 — SLC, B7, 35 (SRANO Vol. 3)',
           text: 'Eulalie Alexandrine (Nicolas, master cooper, and Marie Margueritte REINE), b. Jan. 16, 1774, bn. Jan. 5, 1774.'
         }
       ],
-      note: 'His widow remarried Pierre Bourgeois of Normandy on 2 May 1784, which brackets Nicolas\'s death. His own Bordeaux parents are the next step on this line.'
+      note: 'His widow remarried Pierre Bourgeois of Normandy on 2 May 1784, which brackets Nicolas\'s death. HIS FATHER WAS PIERRE SARDET — and this page asked for that for months while already printing the citation that answers it. The 1767 marriage is indexed TWICE in SRANO, once under each spouse. This site quoted the bride-side entry, which leaves the parents blank. The groom-side entry, Vol. 2, reads: "Nicolas (Pierre and [*]), m. Marguerite REINE, Jan. 20, 1767, w. Francoise RENE, Antoine DEJAN (SLC, M2, 25)." The father is named; the mother was already illegible when the abstract was made, which is what the asterisk means. Found in the August 2026 verification audit — the lesson being that a citation is not read until BOTH its index entries have been read.'
     },
 
     margueriteReyne: {
@@ -1172,12 +1173,13 @@
       records: [
         {
           title: 'Baptism — St. Louis church, New Orleans',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] 6 November 1752 — SLC, B2, 269 (SRANO Vol. 2)',
-          text: 'Marie Marguerite (Etienne and Francoise [RENARD]), b. Nov. 6, 1752, bn. Nov. 6, 1752, s. Laurant BAILLY and Marguerite CHENET.'
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] 6 November 1752 — SLC, B2, 269 (SRANO Vol. 2)',
+          text: 'Marie Marguerite (Etienne and Francoise FAUX), b. Nov. 6, 1752, bn. Nov. 6, 1752, s. Laurant BAILLY and Marguerite CHENET.',
+          highlight: 'THE PAGE ACTUALLY SAYS "FAUX," AND THIS SITE HAD QUIETLY MENDED IT. For as long as this record has been here it was printed with the mother as "Francoise [RENARD]" — the brackets doing the work of a correction nobody announced. The August 2026 audit rendered the page as an image, not just its text layer, and the printed word is FAUX. The substitution is almost certainly right: her other children\'s entries in the same volume print RENARD and RENAULD, and no Faux family answers to this household. But a bracket is not a licence to replace a word. The register says Faux; this page now says the register says Faux, and then explains why we read it as Renard.'
         },
         {
           title: 'Remarriage, naming her parents — read in the register itself',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] St. Louis Cathedral, New Orleans — Marriages 1784–1806, entry 2 of May 1784 (SLC, M5, 27; SRANO Vol. 4). Digitized register published free by the Archdiocese of New Orleans, Office of Archives and Records.',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] St. Louis Cathedral, New Orleans — Marriages 1784–1806, entry 2 of May 1784 (SLC, M5, 27; SRANO Vol. 4). Digitized register published free by the Archdiocese of New Orleans, Office of Archives and Records.',
           image: 'assets/img/reyne-1784-marriage.jpg',
           imageAlt: 'The handwritten Spanish colonial marriage entry of 2 May 1784 recording Pedro Bourgeois and Maria Margarita Reen',
           imageCredit: 'Archdiocese of New Orleans, Office of Archives and Records. Tap to enlarge.',
@@ -1204,7 +1206,7 @@
       records: [
         {
           title: 'The earliest trace of him — a godmother\'s line, 16 March 1750',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] St. Louis church, New Orleans — baptism of Marie Françoise Castel, 16 March 1750 (SLC, B2, 180); SRANO Vol. 1 (1718–1750)',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] St. Louis church, New Orleans — baptism of Marie Françoise Castel, 16 March 1750 (SLC, B2, 180); SRANO Vol. 1 (1718–1750)',
           text: '"Marie Francoise (Cecile CHRISTOPHE, widow Jean CASTEL), b. March 16, 1750, s. Jean Baptiste LEGROS, surnamed LA TANDRILLE, resident, and MARIE FRANÇOISE RENARD, SP. ETIENNE REINE, MASON."',
           highlight: 'The oldest record of this couple, found 11 August 2026 — two and a half years before their eldest child was born. It catches them sideways: Françoise is standing as godmother to a widow\'s baby, and the clerk identifies her the way clerks did, by her husband — "spouse of Étienne Reine, mason." So they were already married by March 1750, he was already working at his trade, and it gives her full name: MARIE Françoise Renard. He is not yet "master" mason here; that title arrives with his son Pierre\'s baptism in 1761.'
         },
@@ -1216,7 +1218,7 @@
         },
         {
           title: 'His children\'s baptisms — St. Louis church',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] SLC registers B2–B5, 1752–1766 (SRANO Vol. 2)',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] SLC registers B2–B5, 1752–1766 (SRANO Vol. 2)',
           text: 'Marie Marguerite (1752) · Marie Jeanne (1755) · Louise Françoise (1757) · Pierre (1761, "Etienne, master mason") · Marie Joseph (1766) — all children of Etienne and Francoise RENARD.'
         }
       ],
@@ -1278,10 +1280,10 @@
       blurb: 'Three husbands, and she buried two of them before she was thirty. A native of New Orleans, she married Pierre Cousin and had a son in 1745; married Antoine Joly by contract in September 1747 and buried him within the year; and by March 1750 was the wife of Étienne Reine, mason — the marriage that lasted, and that this family descends from. Named across fifteen years of her children\'s baptisms, and still standing godmother to a Sardet granddaughter in 1769.',
       records: [
         {
-          title: 'The first time she appears — as a godmother, 16 March 1750',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] St. Louis church, New Orleans — baptism of Marie Françoise Castel (SLC, B2, 180); SRANO Vol. 1',
+          title: 'Standing as a godmother, 16 March 1750 — but NOT her first appearance',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] St. Louis church, New Orleans — baptism of Marie Françoise Castel (SLC, B2, 180); SRANO Vol. 1',
           text: '"…s. Jean Baptiste LEGROS, surnamed LA TANDRILLE, resident, and MARIE FRANÇOISE RENARD, sp. Etienne REINE, mason."',
-          highlight: 'The oldest record of either of them, and it gives her the full name the later entries drop: MARIE Françoise. She is standing over the font for the baby of a widow — the kind of small neighbourly act that is most of what survives of a woman\'s life in these books.'
+          highlight: 'CORRECTED IN THE AUGUST 2026 AUDIT: this is not the earliest sight of her, and the old title claimed it was. She appears FIVE YEARS EARLIER in the same volume — as the mother of Jean François Cousin, born and baptised 7 September 1745 (SLC, B2, 49) — a record this very page already lists among her children. The 1750 entry is real and quoted correctly; only the boast around it was wrong. What it does still give is the full name the later entries drop: MARIE Françoise. She is standing over the font for the baby of a widow — the kind of small neighbourly act that is most of what survives of a woman\'s life in these books.'
         },
         {
           title: 'HER PARENTS, AT LAST — the 1740 marriage contract',
@@ -1294,7 +1296,7 @@
         },
         {
           title: 'Her first husband — Pierre Cousin, and the man who raised her',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] St. Louis church, New Orleans — baptism of Jean François Cousin, 7 September 1745 (SLC, B2, 49); SRANO Vol. 1. WPA abstract of the 1740 contract, Document C 40 (2845).',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] St. Louis church, New Orleans — baptism of Jean François Cousin, 7 September 1745 (SLC, B2, 49); SRANO Vol. 1. WPA abstract of the 1740 contract, Document C 40 (2845).',
           text: 'Contract: "Marriage contract between PIERRE FRANCOIS COUSIN, CARPENTER, and MARIE FRANCOISE REINARD OF NEW ORLEANS." Signed: Pierre Cousin · Dehallier · Marie Francoise Reinard · Jean Callier · Perier · + Cimonot. Baptism, five years later: "COUSIN — Jean Francois (Pierre and Francoise RENARD), b. Sept. 7, 1745, s. JEAN CONNARD and Sylvestre? MAUNOY."',
           image: 'assets/img/cousin-1740-wpa-card.jpg',
           imageAlt: 'A typed WPA index card abstracting the 1740 marriage contract between Pierre François Cousin and Marie Françoise Reinard, with signatures copied beneath',
@@ -1358,12 +1360,12 @@
       records: [
         {
           title: 'Baptism — St. Louis church, New Orleans',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] 16 January 1774 — SLC, B7, 35 (SRANO Vol. 3)',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] 16 January 1774 — SLC, B7, 35 (SRANO Vol. 3)',
           text: 'Eulalie Alexandrine (Nicolas, master cooper, and Marie Margueritte REINE), b. Jan. 16, 1774, bn. Jan. 5, 1774, s. Nicolas Alexandre DELASSIZE and Marie Eulalie DELASSIZE.'
         },
         {
           title: 'Marriage — St. James Parish',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] 10 February 1793 — SJA-2, 19 (Diocese of Baton Rouge Vol. 2)',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] 10 February 1793 — SJA-2, 19 (Diocese of Baton Rouge Vol. 2)',
           text: 'Eulalia (Nicolas & Margarita Renne, of New Orleans) m. 10 Feb 1793 Francisco GANIER (Julian & Renata Lebrum, of Brulon, France) wit. Juan Haydel & Margarita Sarde.'
         }
       ],
@@ -2194,7 +2196,7 @@
         },
         {
           title: 'Louisiana death record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 12 February 1904 — Vol. 131, p. 1097',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, 12 February 1904 — Vol. 131, p. 1097',
           text: 'LARMANN, ANTHONY, age 32.',
           highlight: 'Exactly the date in Esther\'s ledger: "Fri. Feb. 12th, Age 32."'
         }
@@ -2227,7 +2229,7 @@
       records: [
         {
           title: 'Louisiana death record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 23 February 1921 — Vol. 181, p. 257',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, 23 February 1921 — Vol. 181, p. 257',
           text: 'LARMANN, EUGENIE B MOORE, age 46.',
           highlight: 'Esther\'s ledger has the same day: "Feb. 23rd 1921, Age 46."'
         },
@@ -2312,7 +2314,7 @@
         },
         {
           title: 'Louisiana death record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 21 November 1921 — Vol. 183, p. 215',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, 21 November 1921 — Vol. 183, p. 215',
           text: 'LARMANN, JOHN CASPER, age 73.'
         },
         {
@@ -2522,7 +2524,7 @@
         },
         {
           title: 'Louisiana death record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 11 February 1882 — Vol. 80, p. 272',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, 11 February 1882 — Vol. 80, p. 272',
           text: 'LARMANN, EMILY MEVERS, age 37.',
           highlight: 'Esther\'s ledger, written decades later, gives 13 February — two days off the civil record.'
         }
@@ -2581,7 +2583,7 @@
       records: [
         {
           title: 'Louisiana death record — under her maiden name',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 14 February 1926 — Vol. 192, p. 169',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, 14 February 1926 — Vol. 192, p. 169',
           text: 'GOUBLER, MARIE VALENTINE.',
           highlight: 'The same date Esther wrote: "Feb. 14 - 1926." The index\'s age column is garbled (it prints 7), but the date is exact.'
         },
@@ -2626,7 +2628,7 @@
         },
         {
           title: 'Louisiana death record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 7 November 1892 — Vol. 102, p. 1145',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, 7 November 1892 — Vol. 102, p. 1145',
           text: 'GOUBLER, JOSEPH, age 74.',
           highlight: 'Age 74 in 1892 puts his birth at about 1818 — exactly what his tomb face says: 1818–1892.'
         },
@@ -2688,7 +2690,7 @@
       records: [
         {
           title: 'Louisiana death record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 23 December 1895 — Vol. 110, p. 79',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, 23 December 1895 — Vol. 110, p. 79',
           text: 'GOUBLER, THEOLINE VICTOIRE, age 74.'
         }
       ],
@@ -2751,7 +2753,7 @@
       records: [
         {
           title: 'Named at his son\'s baptism',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Church of St. John the Baptist, Edgard — B7, p. 49; SRANO Vol. 18 (1828–1829)',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Church of St. John the Baptist, Edgard — B7, p. 49; SRANO Vol. 18 (1828–1829)',
           text: '"Alexis Allonzo (JOSEPH and Marie RIBAS)… all of St. Charles Parish."',
           highlight: 'The whole of what is known about him, so far. The next document is his marriage to Marie Ribas — not yet found in the abstracted volumes, so it is either earlier than 1807, filed under a spelling not yet tried, or in a parish register outside this series.'
         }
@@ -2771,12 +2773,12 @@
       records: [
         {
           title: 'Named at her son\'s baptism',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Church of St. John the Baptist, Edgard — B7, p. 49; SRANO Vol. 18 (1828–1829)',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Church of St. John the Baptist, Edgard — B7, p. 49; SRANO Vol. 18 (1828–1829)',
           text: '"Alexis Allonzo (Joseph and MARIE RIBAS)… all of St. Charles Parish."'
         },
         {
           title: 'The Ribas family she probably belongs to',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] SRANO Vols. 14 and 16 — St. John the Baptist, Edgard (SJBED, B4, 57 and B4, 165)',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] SRANO Vols. 14 and 16 — St. John the Baptist, Edgard (SJBED, B4, 57 and B4, 165)',
           text: 'RIVAS: Antoine (ANTOINE DE SANTO YAGO and MARIE BRIGITTE LEGO), born 10 Aug 1819, baptised 11 May 1820 · Louis (Antoine and Marie Brigite LEGAU), born 29 Apr 1822, baptised 22 Mar 1824, sponsors ZENON ROUSSELLE and Estelle de la Tour, "all of St. Charles Parish."',
           highlight: 'NOT PROVEN, but close enough to name: a Rivas household in the right parish in the right decade, headed by an Antoine "de Santo Yago" — Santiago — which would make this a Spanish family on the German Coast. Note the godfather of the 1822 child: a ROUSSELLE. Three generations before Alonzo Lemoine married Poppone Roussel, the two families were already standing at each other\'s fonts.'
         }
@@ -3082,7 +3084,7 @@
         },
         {
           title: 'Louisiana death record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 15 December 1922 — Vol. 186, p. 121',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, 15 December 1922 — Vol. 186, p. 121',
           text: 'WELLMEYER, JOHN, age 69.',
           highlight: 'Judy\'s notes give 15 December 1920; the index says the same day in 1922, and its age of 69 fits the December 1853 birth her notes record. The index year is preferred.'
         }
@@ -3141,7 +3143,7 @@
         },
         {
           title: 'Louisiana death record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 23 September 1880 — Vol. 77, p. 470',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, 23 September 1880 — Vol. 77, p. 470',
           text: 'WELLMEYER, BERNARD, age 57.'
         },
         {
@@ -3200,7 +3202,7 @@
       records: [
         {
           title: 'Louisiana death record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 7 December 1903 — Vol. 131, p. 367',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, 7 December 1903 — Vol. 131, p. 367',
           text: 'WELLMEYER, GERTRUDE LOBMEYER, age 72.',
           highlight: 'Son Louis\'s 1864 birth record calls her Caroline; her death row calls her Gertrude. One woman, two given names. Buried December 1903, St. Vincent de Paul Cemetery No. 1.'
         }
