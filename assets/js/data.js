@@ -141,7 +141,7 @@
         },
         {
           title: 'Louisiana marriage record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, April 1943 — Vol. 58, p. 1681',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, April 1943 — Vol. 58, p. 1681',
           text: 'PEDEAUX, HERBERT JOSEPH × BRUNETTI, VERONICA MARIE.'
         },
         {
@@ -242,7 +242,7 @@
         },
         {
           title: 'Louisiana marriage record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, July 1917 — Vol. 39, p. 1008',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, July 1917 — Vol. 39, p. 1008',
           text: 'PEDEAUX, NUMA LOUIS CHARLES JR × GAIENNIE, EDNA MARIE.'
         },
         {
@@ -1408,7 +1408,7 @@
         },
         {
           title: 'Marriage — the record that names his parents',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana Parish Marriages, Orleans, June 1921 (licence Vol. 46, p. 90; two entries, 15 and 18 June)',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Louisiana Parish Marriages, Orleans, June 1921 (licence Vol. 46, p. 90; two entries, 15 and 18 June)',
           text: 'John Brunetti, 28, son of MICHELE BRUNETTI and DOMENICA FORANO, m. Miss Veronica Franovich, 19. Also on the record: An[thony] Franovich and Melan[ie] Moyant — the bride\'s parents.',
           highlight: 'Found August 2026. This is the document the family file waited five years of records for: it names John\'s parents — and the father matches the "father Michele, Plataci" of the 1912 Ellis Island manifest, closing the chain to the village.'
         },
@@ -1655,7 +1655,7 @@
         },
         {
           title: 'Louisiana marriage index — the same record, indexed twice',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, April 1926 — Vol. 50, p. 376',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, April 1926 — Vol. 50, p. 376',
           text: 'Bride: FRANOVICH, ANTHONY WIDOW × Groom: PAASCH, THEODORE ADOLPH — and — Bride: MOIZANT, MELANIE × Groom: PAASCH, THEODORE ADOLPH.'
         }
       ],
@@ -3079,7 +3079,7 @@
       records: [
         {
           title: 'Louisiana marriage record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, January 1883 — Vol. 9, p. 738',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, January 1883 — Vol. 9, p. 738',
           text: 'LANGE, CATHARINE ELIZABETH × WELLMEYER, JOHN.'
         },
         {

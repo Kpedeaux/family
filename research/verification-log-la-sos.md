@@ -136,3 +136,51 @@ unverified until that elsewhere is identified.
 |---|---|
 | Robert Louis Pedeaux's birth | `1918 · 9/11 · PEDEAUX, ROBERT LOUIS · mother GAIENNIE, EDNA MARIE · father PEDEAUX, NUMA LOUIS C · Orleans · Vol ... p 1177` |
 | Caspar Maurice Larmann's birth — the son buried at St. Roch | `1899 · 1/15 · LARMANN, CASPAR MAURICE · mother EHMANN, LOUISE M · father LARMANN, CASPAR · Orleans · Vol 115 p 383` |
+
+---
+
+# Batch 3 — remaining Orleans marriages
+
+## CONFIRMED EXACTLY — 5 more
+
+| Person | Citation on the page | Index row, transcribed | Verdict |
+|---|---|---|---|
+| herbertJoseph | Orleans Parish, April 1943 — Vol. 58, p. 1681 | `1943 · month 4 · BRUNETTI, VERONICA MARIE × PEDEAUX, HERBERT JOSEPH · Orleans · Vol 58 p 1681` | **CONFIRMED** |
+| numaSr | Orleans Parish, July 1917 — Vol. 39, p. 1008 | `1917 · month 7 · GAIENNIE, EDNA MARIE × PEDEAUX, NUMA LOUIS CHARLES JR · Orleans · Vol 39 p 1008` | **CONFIRMED** |
+| johnBrunetti | Orleans, June 1921, licence Vol. 46, p. 90 | `1921 · month 6 · FRANOVICH, VERONICA × BRUNETTI, JOHN · Orleans · Vol 46 p 90` | **CONFIRMED** |
+| melanieMoizant | Orleans Parish, April 1926 — Vol. 50, p. 376 | `1926 · month 4 · FRANOVICH, ANTHONY WIDOW × PAASCH, THEODORE ADOLPH · Orleans · Vol 50 p 376` | **CONFIRMED** |
+| johnWellmeyer | Orleans Parish, January 1883 — Vol. 9, p. 738 | `1883 · month 1 · LANGE, CATHARINE ELIZABETH × WELLMEYER, JOHN · Orleans · Vol 9 p 738` | **CONFIRMED** |
+
+**Two of these carry a bonus.**
+
+The 1917 entry indexes the groom as **"PEDEAUX, NUMA LOUIS CHARLES JR"**. This page has
+long argued that the "Jr." is load-bearing — that he used it on his marriage licence, his
+WWI draft card and his son's birth record, and that it distinguishes him from his father.
+The state index prints it. That is now demonstrated, not argued.
+
+The 1926 entry indexes the bride as **"FRANOVICH, ANTHONY WIDOW"** — the index does not
+give her own name at all, only her late husband's. That is Melanie Moizant, remarrying
+fifteen years after Anthony Franovich died at thirty-eight. A woman entered into the public
+record of her own second marriage as somebody else's widow.
+
+## NOT FOUND — 1
+
+**Robert Lemoine × Agnes Margaret Hanley, 22 May 1906.**
+Searching LEMOINE, ROBERT in the Orleans marriage index returns six results — 1936, 1944,
+1969 ×2, 1970 — and **not one from 1906**. Searching HANLEY returns nothing from 1906
+either. The index demonstrably covers that era (it returns Hanley marriages from 1900).
+
+**This is not necessarily an error on the page.** The site's citation points at
+*FamilySearch's* "Louisiana, Parish Marriages, 1787–1958" collection with an ark number,
+not at the Secretary of State index — they are different databases with different coverage.
+So the verdict is precisely: **not corroborated by the SOS index, and the cited source has
+not been opened.** It stays flagged [UNVERIFIED] until somebody opens the FamilySearch
+record itself. This matters because that 1906 act is the document naming Agnes's parents,
+Stephen Hanley and Mary Reed — two people who exist on this tree on the strength of it.
+
+## Still outstanding in this pile
+
+Not yet reached, and still flagged: Henry Moore's marriages of 1871 and 1895, Anthony
+Larmann's 1895 marriage, Henry John Wellmeyer's 1910 marriage, and Louis Sander's 1872
+marriage. The Wellmeyer and Sander result sets exceed the 25-row display and need paging or
+a narrower search.
