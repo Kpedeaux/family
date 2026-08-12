@@ -458,14 +458,12 @@
           citation: 'United States Census, 1860 — Assumption Parish, Louisiana, 4th Ward, post office Albemarle; reel M653-407, page 29, dwelling 214, family 211, enumerated 14 June 1860 by Louis U. Folse. USGenWeb Census Project transcription by Audrey B. Westerman.',
           text: 'PEDEAUX, WDW. AN., 38 — real estate $12,000, personal estate $4,000 — marked in the column for CANNOT READ AND WRITE. · Numa, 12 · Alce, 10 · Ulysse, 9 · Alice, 7 — all four marked ATTENDED SCHOOL WITHIN THE YEAR · Florence, 5. · In the same dwelling and the same family: CANCIENNE, OLIVIER, 41, COOPER, also unable to read or write. · Next door, dwelling 215: Cancienne, Pierre, 34, carpenter, real estate $8,000.',
           highlight: 'THIS IS THE MOST INFORMATIVE SINGLE LINE IN THE WHOLE BAYOU RECORD, AND IT IS ABOUT HER. She had been a widow for twenty-two months. She was thirty-eight, could not read or write, and was holding twelve thousand dollars of land — more real estate than the Cancienne carpenter next door, and a substantial farm by any 1860 measure. Living in the house with her was Olivier Cancienne, forty-one, a COOPER, almost certainly her brother; coopering was the sugar trade, since the crop moved in hogsheads. And every one of her school-age children was in school that year. A woman who could not sign her own name was sending four children to a classroom while running a farm she had not expected to inherit. She died two years later at forty and Numa was fourteen. ONE THING THIS RECORD DOES NOT SETTLE, AND IT MUST NOT BE GUESSED AT. In 1860 Louisiana, "personal estate" routinely included the assessed value of enslaved people, and $4,000 is the kind of figure that could mean either. No transcription of the 1860 Assumption Parish slave schedule could be found, so THIS PAGE DOES NOT KNOW whether that household held anyone in bondage. The schedule itself, NARA M653, is the document that answers it, and until somebody reads it the question stays open here in both directions. What can be said is that fifty years earlier, in 1810, Michel Pedeau\'s column was blank.'
-        }
-      ],
-      records: [
+        },
         {
-          title: 'A WOMAN CALLED MARY PEDAUX WAS LIVING IN HER SON\u2019S HOUSE IN 1900 — AND THIS PAGE CANNOT YET SAY WHO SHE WAS',
+          title: 'A WOMAN CALLED MARY PEDAUX WAS LIVING IN HER SON\u2019S HOUSE IN 1900 — AND SHE IS ALMOST CERTAINLY NOT THIS WOMAN',
           text: 'The 1900 census of Lafourche Crossing, ED 29, Ward 5, LIVE OAK PLANTATION, sheet 3B, line 74, in the household of NUMA PEDAUX, 52, married 29 years: “MARY PEDAUX, age 88, born NOVEMBER 1812, Louisiana, WIDOWED, 8 children born, 5 living.” Her relationship to the head is written in the register as MOTHER — not inferred by an indexer, but recorded by the enumerator. The head is this Numa: married 29 years in 1900 gives 1871, the year of the verified St. Philomena marriage, and the children in the house are his.',
-          highlight: 'IF THAT WOMAN IS NUMA\u2019S MOTHER, THEN THE 1862 BURIAL BELOW IS NOT HERS, AND THIS PAGE HAS THE WRONG DEATH. Notice what the birth date does: ANTOINE FLORENTIN PEDEAU WAS BORN 1 NOVEMBER 1812, and Mary Pedaux is born November 1812 — the same month of the same year as her husband. Notice also what carries the weight here. The 1848 baptism and the 1871 marriage both name Marie CANCIENNE as Numa\u2019s mother, and both are verified, but NEITHER RECORDS HER DEATH. The “about 1822” birth and the 1862 death on this page rest entirely on the single burial entry below, and Cancienne and Pedeaux were common names in Assumption Parish — the 1871 marriage alone has an Alcee and an Ulysse Pedeaux standing as witnesses. A second Marie Cancienne married to a second Antoine Pedo is not a stretch. UNTIL THIS IS SETTLED, THE STATEMENT THAT NUMA WAS ORPHANED AT FOURTEEN IS IN DOUBT.',
-          citation: '[CONFLICT RESOLVED, August 2026 — the 1870 census shows no mother in the household, so the 1862 burial IS hers and this 1900 woman is not her; see the verification log] United States Census, 1900 — Lafourche Crossing, ED 29, Ward 5, Live Oak Plantation, sheet 3B, line 74 (NARA T623); FamilySearch ark:/61903/1:1:MS5C-CP2, read 12 August 2026. FamilySearch\u2019s own tree attaches this record to a “Neovie Cancienne, 1822”, which is an unsourced user attachment and fits neither the 1812 birth on the record nor the 1862 burial.'
+          highlight: 'IF THAT WOMAN IS NUMA\u2019S MOTHER, THEN THE 1862 BURIAL BELOW IS NOT HERS, AND THIS PAGE HAS THE WRONG DEATH. Notice what the birth date does: ANTOINE FLORENTIN PEDEAU WAS BORN 1 NOVEMBER 1812, and Mary Pedaux is born November 1812 — the same month of the same year as her husband. Notice also what carries the weight here. The 1848 baptism and the 1871 marriage both name Marie CANCIENNE as Numa\u2019s mother, and both are verified, but NEITHER RECORDS HER DEATH. The “about 1822” birth and the 1862 death on this page rest entirely on the single burial entry below, and Cancienne and Pedeaux were common names in Assumption Parish — the 1871 marriage alone has an Alcee and an Ulysse Pedeaux standing as witnesses. A second Marie Cancienne married to a second Antoine Pedo is not a stretch. WHAT SETTLED IT, AND HOW FAR. The 1870 census puts five orphaned Pedeaux children in OLIVIER CANCIENNE\u2019S house with NO MOTHER PRESENT — eight years after the 1862 burial. That is strong, but it is INFERENTIAL rather than proof: absence from one household does not strictly prove a death, and the reading that \u201cMother\u201d here means MOTHER-IN-LAW rests on a claim about enumerator habit that this archive has not yet sourced. THE ORIGINAL SHEET SETTLES ONE THING OUTRIGHT: her surname column is a DITTO DASH, so \u201cPedaux\u201d was never written and is the index\u2019s supplied value. Whoever she was, the name is not evidence. \u201cOrphaned at fourteen\u201d stays hedged wherever it appears on this site.',
+          citation: '[STRONG BUT INFERENTIAL, August 2026 — the 1870 census shows no mother in the household, which makes the 1862 burial hers and this 1900 woman someone else; not a proof, and the mother-in-law reading is still unsourced. See the verification log] United States Census, 1900 — Lafourche Crossing, ED 29, Ward 5, Live Oak Plantation, sheet 3B, line 74 (NARA T623); FamilySearch ark:/61903/1:1:MS5C-CP2, read 12 August 2026. FamilySearch\u2019s own tree attaches this record to a “Neovie Cancienne, 1822”, which is an unsourced user attachment and fits neither the 1812 birth on the record nor the 1862 burial.'
         },
         {
           title: 'HER PARENTS, AND WHY OLIVIER CANCIENNE TOOK THE CHILDREN IN',
@@ -475,8 +473,7 @@
         },
         {
           title: 'Burial',
-          citation: '[VERIFIED against the original, August 2026 — see the verification log] Diocese of Baton Rouge, Vol. 9 (1858–1862), ASM-10, 190',          title: 'Burial',
-          citation: '[VERIFIED against the original, August 2026 — see the verification log] Diocese of Baton Rouge, Vol. 9 (1858–1862), ASM-10, 190',
+          citation: '[VERIFIED against the published abstract, August 2026 — see the verification log] Diocese of Baton Rouge Catholic Church Records, Vol. 9 (1858–1862), ASM-10, 190',
           text: 'Marie Cancienne, age 40 years, wife of Antoine PEDO, bur. 12 May 1862 d. yesterday.'
         }
       ],
@@ -527,9 +524,7 @@
           citation: 'Carl A. Brasseaux, The "Foreign French": Nineteenth-Century French Immigration into Louisiana (Center for Louisiana Studies, 1990); 64 Parishes, "Refugee Revolution"',
           text: 'Louisiana used "les français étrangers" for immigrants who came FROM FRANCE ITSELF, as distinct from the long-settled Creoles. Governor Claiborne separately used "foreign Frenchmen" for the Saint-Domingue refugees who reached Louisiana by way of Cuba — more than ten thousand of them between 1792 and 1810, about ten thousand in the 1809 wave alone.',
           highlight: 'TWO DIFFERENT GROUPS, ONE PHRASE, AND THIS ARCHIVE SHOULD NOT BLUR THEM. Michel was born at Nantes and emigrated from France, which puts him squarely in the first sense. He was NOT a refugee of the Haitian Revolution, and nothing here should be read as placing him in the Cuban fleets of 1809–10 unless a document turns up saying so. The distinction matters because the two migrations had entirely different reasons, timings and politics behind them.'
-        }
-      ],
-      records: [
+        },
         {
           title: 'Marriage — Church of the Assumption, Plattenville',
           citation: '[VERIFIED against the original, August 2026 — see the verification log] Diocese of Baton Rouge, Vol. 3 (1804–1818), ASM-2, 127',
@@ -868,6 +863,12 @@
       occupation: 'ENGINEER AND INVENTOR — sugar-house machinery. Held at least five United States patents between 1895 and 1910.',
       records: [
         {
+          title: 'A CIVIL ENGINEER, AND A PASSPORT PHOTOGRAPH FROM 1918',
+          text: 'His own sworn passport application, read from the image — NARA M1490, roll 573, certificate 31670: “I, ALPHONSE FLORESTAN GAIENNIE, a native and loyal citizen of the United States … I was born at NEW ORLEANS … on or about the 28TH DAY OF AUGUST, 1862; that my father FLORESTAN GAIENNIE was born in LOUISIANA … [father] DEAD … I desire a passport for use in visiting … PORTO RICO — EMPLOYMENT. I intend to leave the United States from the port of NEW YORK CITY … sailing on board the NEW YORK & PORTO RICO S/S CO., as soon as possible.” Sworn 14 August 1918; stamped CLEARED AUG 22 1918 — M.I.B. CAPT. MOORE.',
+          highlight: 'THE APPLICATION CARRIES HIS PHOTOGRAPH. He was fifty-six, seven months from his death, taking work in Puerto Rico in the last summer of the war. The directories give the trade: 1908 “Gaiennie Alphonse F. ENGR. r. 4852 MAGAZINE”; 1910 “engr. 5335 MAGAZINE”; 1912 “CIVIL ENGR, 5335 Magazine.” And he had already crossed once that year — an Ellis Island arrival on 27 MAY 1918. His 1895–96 sugar-machinery patents fit the 1900 census, which has him at THIBODAUX in Lafourche Parish.',
+          citation: '[VERIFIED against the original image, August 2026 — see the verification log] United States Passport Applications 1795–1925, NARA M1490 roll 573, certificate 31670 — FamilySearch ark:/61903/3:1:3QS7-89X3-9XS6 (index ark:/61903/1:1:QV5B-6PRN); Soards’ New Orleans city directories 1908 p. 414, 1910 image 438, and 1912 p. 437'
+        },
+        {
           title: 'HE HELD PATENTS — and that is why his daughter was born at Thibodaux',
           citation: 'Specifications and Drawings of Patents Issued from the United States Patent Office, 1896; Annual Report of the Commissioner of Patents, 1897; The Sugar Cane (1896); Water and Gas Review (1899); Official Gazette of the U.S. Patent Office (1910); The Louisiana Planter and Sugar Manufacturer, 1897, 1905 and 1907; English Mechanic and Mirror of Science, 1897',
           text: 'US 551,161, "Vacuum pan," A. F. GAIENNIE, LA FOURCHE, December 1895. · US 567,894 and US 567,895, "SEPARATOR," 15 September 1896 — "Alphonse F. Gaiennie, La Fourche, La., assignor of one-third." · US 570,790, 3 November 1896. · US 640,659, 1899 — "A. F. Gaiennie, THIBODEAUX, La., assignor to himself and John Leche, same place." · The firm: "LECHE & GAIENNIE report that they have done a large business in the sale of their GAIENNIE PATENT SEPARATORS" (Louisiana Planter, 1897). · The British trade press carried him too: "GAIENNIE\'S APPARATUS FOR TREATING JUICE AND VAPOUR… Gaiennie, of Lafourche (Thibodaux, P.O.), Louisiana." · 1907: "A. F. GAIENNIE, Supt. & Engineer." · By 1910 he is patenting from NEW ORLEANS, and the 1913 city directory has him as "Gaiennie Alphonse F, CIVIL ENGR."',
@@ -907,6 +908,12 @@
       evidence: 'verified',
       branch: 'gaiennie',
       records: [
+        {
+          title: 'HER PARENTS, FROM HER OWN DEATH CERTIFICATE',
+          text: '“Jeanne B Curien. Age: 52 years. Birth Year (Estimated): 1867. Birthplace: N O La. Death 12 January 1919, Orleans. PARENTS: CHARLES CURIEN (father), N*LE GIQUIEL (mother). Spouse: A F Gaiennie.” The asterisk is in the index itself — the indexer could not read the mother’s given name.',
+          highlight: 'HER FATHER DIED WHEN SHE WAS ABOUT ELEVEN. The Orleans index carries CHARLES CURIEN, died 23 April 1879, born 1840 New Orleans, with a cemetery card at the 24th. The mother’s surname is rendered GIQUIEL here and GIGUEL elsewhere — two independent sources agree on the consonants and not on the vowels, so this archive gives both and asserts neither.',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Louisiana, Orleans, Death Records and Certificates, 1835–1954 — FamilySearch ark:/61903/1:1:CGYP-FPPZ; with Orleans death index entries for Charles Curien, 23 and 24 April 1879'
+        },
         {
           title: 'Louisiana death record',
           citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, 12 January 1919 — Vol. 175, p. 218',
@@ -951,6 +958,18 @@
       occupation: 'Farmer, later farm overseer — 4th ward, Jefferson Parish',
       blurb: 'Married three times. Evela Trosclair died in 1855 at twenty-one; Marie Alix Fazende died in 1877 at thirty-seven.',
       records: [
+        {
+          title: 'THE FIRST WIFE FOUND — and she was twenty-one',
+          text: 'A burial card, read from the image: “FILE IN ‘G’ / TROSCLAIR / M. EVELA / épouse de FLORESTAN GAIENNIE / décédée le 2 Mars 1855 / ST. LOUIS #1 / AISLE 2 NORTH.” A second card gives her birth year as 1834. She died at twenty-one on 2 March 1855.',
+          highlight: 'THIS CLOSES A LEAD THIS ARCHIVE OPENED THIS MORNING. The Louisiana death index had thrown up a “GAIENNIE, FLORESTAN MRS (TROSCLAIR)” dead in 1855 aged 21, twenty-nine years before the Florestan who died in 1884, and it was recorded as a possible first wife and nothing more. It was. HER GRAVE IS LOCATED: St. Louis Cemetery No. 1, Aisle 2 North. NO MARRIAGE RECORD HAS BEEN FOUND — all 35 Gaiennie entries in the state marriage index were checked, and the parish marriage collection 1845–1862, and neither holds it. The 1852 marriage date that circulates rests on a Find a Grave biography, not on a document.',
+          citation: '[VERIFIED against the original image, August 2026 — see the verification log] New Orleans Cemetery Records 1770–1935, Louisiana State Museum Historical Center Cemetery Records 1805–1944 — FamilySearch ark:/61903/3:1:3Q9M-CS4V-X3V9-J, with index ark:/61903/1:1:6Z2P-3QC5 and ark:/61903/1:1:6ZG9-CXMJ'
+        },
+        {
+          title: 'WHAT HE DID, WHERE HE LIVED, AND WHY HE WAS A WIDOWER TWICE',
+          text: '1870 and 1880 both put him in JEFFERSON PARISH, not Orleans — Ward Four in 1870, and in 1880 the 4th Ward, ED 119, sheet 298B: “Florestan Gaionnie, age 55, b. abt 1825 Louisiana, MARITAL STATUS WIDOWED, OCCUPATION OVERSEER ON FARM.” Seven children in the house: Florestan 18, Ernest 16, Raphael 14, Seymour 12, Farnand 10, Alica 7, Blanche 5.',
+          highlight: 'HE WAS WIDOWED TWICE. Evela Trosclair died in 1855 at twenty-one. His second wife Marie Alix Fazende is in the Louisiana death index as “GAIENNIE, MARY ALEX, 1877, age 37, Orleans, Vol 69 p 27” — dead 23 May 1877 — AND AN INFANT FOLLOWED HER A WEEK LATER: “GAIENNIE, MARY ESTELLE, 1877, aged 5 MONTHS, 30 May, Vol 69 p 91.” That is why the 1880 census finds him alone with seven children. HE WAS A FARM OVERSEER, NOT A CITY MAN, which is also why New Orleans directories do not carry him.',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] United States Census, 1880 — 4th Ward, ED 119, Jefferson Parish, Louisiana, sheet 298B (NARA T9), FamilySearch ark:/61903/1:1:MD6R-LP5; United States Census, 1870, Ward Four, Jefferson Parish; Louisiana death index, Orleans, Vol 69 pp. 27 and 91'
+        },
         {
           title: 'Baptism — St. Michael, Convent (St. James Parish)',
           citation: '[VERIFIED against the original, August 2026 — see the verification log] Diocese of Baton Rouge, Vol. 4 (1820–1829), SMI-3, 164',
@@ -1709,6 +1728,12 @@
       blurb: 'Widowed at thirty-four with young children; remarried Theodore Adolph Paasch in 1926. Buried St. Louis Cemetery No. 3, Square 3, Section B, Lot 11.',
       records: [
         {
+          title: 'WHY SHE DIED A PAASCH \u2014 the obituary index names both husbands',
+          text: 'The NOPL obituary index carries her twice. Under \u201cFranovich, Mrs. Anthony\u201d the next-of-kin field lists BOTH ANTHONY FRANOVICH (husband) AND THEODORE PAASCH (husband). She is indexed separately as \u201cPaasch, Mrs. Melanie\u201d.',
+          highlight: 'THE LINE RUNS MOIZANT \u2192 FRANOVICH \u2192 PAASCH. Anthony Franovich died in July 1911 and she outlived him by forty-six years; THEODORE PAASCH is the second husband, and he is new to this archive. It also explains the obituary index entries that call her sons\u2019 parent \u201cPaasch\u201d. A SEARCH CONVENTION WORTH RECORDING: this family is indexed as MOISANT, not Moizant \u2014 a \u201cMoizant\u201d search returns only cross-referenced married names.',
+          citation: 'New Orleans Public Library, Louisiana Biography and Obituary Index, read 12 August 2026. INDEX ENTRY ONLY; the notices have not been pulled'
+        },
+        {
           title: 'Louisiana death index',
           citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, 18 October 1957 — Vol. 0, p. 7108',
           text: 'PAASCH, MELANIE FRANOVICH MOIZANT, age 80.',
@@ -1958,6 +1983,12 @@
       note: 'One detail of that house survived three generations of retelling: the aunts had an instantaneous gas water heater — you lit it, and it heated the water as it flowed. His son John remembered it as a marvel, something they had "before that was a thing," and passed the story to his own grandson Kevin, who happened to be installing a tankless heater in a shotgun house at the time. The aunts were not ahead of their era so much as squarely in it: instantaneous gas heaters reached the American market in 1893 and the 1900s were their golden age, until temperature swings in the shower drove buyers to storage tanks and the design fell out of fashion for most of a century. The thing Kevin put in his own wall is the same idea, come back around.',
       records: [
         {
+          title: 'THE EXACT NOTICE THAT WOULD TEST THE FUNERAL STORY',
+          text: 'NOPL obituary index, record 290996: \u201cLarmann, Charles E \u00b7 death 1969-07-13 \u00b7 age 67\u201d, with TWO notices on one day \u2014 TIMES-PICAYUNE, 14 JULY 1969, PAGE 24 COLUMN 7, and STATES-ITEM, 14 JULY 1969, PAGE 4 COLUMN 3.',
+          highlight: 'KEVIN\u2019S MOTHER AND GRANDFATHER SAY HIS FUNERAL WAS AT ST. VINCENT DE PAUL. NO INDEX CAN CONFIRM THAT \u2014 the NOPL schema has no church, funeral-home or cemetery field, and neither does any other free index reached. New Orleans death notices of this period routinely name the church and the hour, so THE TEXT OF THESE TWO NOTICES IS THE DOCUMENT THAT WOULD SETTLE IT. Both are located to the page and column and neither has been read.',
+          citation: 'New Orleans Public Library, Louisiana Biography and Obituary Index, record 290996, read 12 August 2026 \u2014 nopl.minisisinc.com/NOPL/SCRIPTS/MWIMAIN.DLL/144/obit_public?directsearch. INDEX CITATION ONLY; the notices are on microfilm and have not been pulled'
+        },
+        {
           title: 'HIS MOTHER WAS IN THAT HOUSE TOO — the 1910 directory, one address, two families',
           citation: 'Soards\' New Orleans City Directory, 1910, p. 672 and p. 817 (also 1908 p. 754 and p. 762, and 1912)',
           text: 'Page 672: "LARMANN EUGENIE MRS. r. 927 LAFAYETTE AV." Page 817 of the same volume: "MOORE Valentine Mrs. r. 927 Lafayette av." and "MOORE Leontine V. Miss, teacher McDonogh School No. 16, 1814 Bourbon, r. 927 Lafayette av." The 1908 volume adds "MOORE John H. carp. r. 927 Lafayette av."',
@@ -2196,6 +2227,12 @@
       blurb: 'Johanna\'s mother — SIXTEEN YEARS OLD when she married at Orleans in May 1906, a mother by the next January, and gone from her first family within four years. The family kept it plainly: "she didn\'t die young — she just left them." She married William Winstine and raised a second family in the same city, and when she died in 1964 her obituary named all three of her children together — Johanna first.',
       records: [
         {
+          title: 'THE MARRIAGE THIS PAGE LISTED AS OPEN \u2014 she died a Weinstine',
+          text: 'New Orleans Public Library obituary index: \u201cWEINSTINE, MRS. AGNES \u00b7 death date 1964-11-15 \u00b7 next of kin: WILLIAM WEINSTINE (husband)\u201d, with notices in the States-Item, 16 November 1964, p. 4 col. 5, and the Times-Picayune, 17 November 1964, p. 2 col. 8.',
+          highlight: 'HER SECOND HUSBAND IS NAMED AT LAST. This page has carried the Winstine marriage as an open question; the index gives the spelling WEINSTINE and the man\u2019s given name. Note she is indexed under her married name, which is why searching Hanley never found her.',
+          citation: 'New Orleans Public Library, Louisiana Biography and Obituary Index \u2014 nopl.minisisinc.com/NOPL/SCRIPTS/MWIMAIN.DLL/144/obit_public?directsearch, read 12 August 2026. INDEX ENTRY ONLY; the notices themselves have not been pulled'
+        },
+        {
           title: 'Marriage — Orleans Parish, 1906, read in full',
           citation: 'Louisiana, Parish Marriages, 1787–1958 — Orleans, 22 May 1906, p. 962 (FamilySearch 1:1:QKJH-M2WC); civil index Vol. 27, p. 962',
           text: 'ROBERT LEMOINE, aged 21, son of ANAZAN [Alonzo] LEMOINE and GENEVIEVE ROUSSEL × AGNES MARGARET HANLEY, aged 16. Also on the record: STEPHEN D. HANLEY and MARY C. REED — her parents.',
@@ -2346,6 +2383,18 @@
       immigrant: true,
       blurb: 'The Larmann immigrant: "Casper Sr." to his family. A Hanoverian from the village of Gesmold who sailed out of Hamburg at twenty with a brother, to get out from under Prussian conscription — and who, before New Orleans, settled first at Pointe-à-la-Hache, down near the mouth of the river. He married in 1870, buried his first wife in 1882, remarried in 1884, and outlived his son Anthony by seventeen years.',
       records: [
+        {
+          title: 'THE NATURALISATION CARD, READ \u2014 and it says he arrived in 1860',
+          text: 'Card index to naturalizations in Louisiana: \u201cLARMANN, JOHANN GASPER \u00b7 New Orleans \u00b7 Civ. Dist. Ct. Bldg., MINOR\u2019S NAT. BK. 6, PG. 189B \u00b7 5TH DIST. CT., New Orleans \u00b7 Germany \u00b7 DATE AND PORT OF ARRIVAL: 1860, port not shown \u00b7 date of naturalisation OCT. 16, 1868 \u00b7 witnesses CHRIST NAHLIG and HERMANN EICKE.\u201d',
+          highlight: 'THE VOLUME AND PAGE THIS SITE CITED ARE EXACTLY RIGHT, AND THE CARD CARRIES TWO THINGS THIS PAGE DID NOT HAVE. The witnesses are named. And the arrival is given as 1860, WHICH FIGHTS WITH THE FAMILY STORY of sailing at twenty in 1866 and with the obituary\u2019s \u201cfifty-six years a resident\u201d (1865). The conflict is not casual: this is a MINOR\u2019S naturalisation book, a record class for men who arrived UNDER EIGHTEEN. Born April 1846 he was fourteen in 1860 and twenty in 1866. The record is internally consistent with 1860 and inconsistent with 1866. THIS ARCHIVE DOES NOT KNOW WHICH IS RIGHT and prints both.',
+          citation: 'Louisiana Naturalization Records, 1812\u20131932 \u2014 FamilySearch ark:/61903/1:1:6Y1B-PQ1L, card image ark:/61903/3:1:3Q9M-CSXB-P383-D (image 681 of 1,636), affiliate publication P2087. Read at full resolution 12 August 2026'
+        },
+        {
+          title: 'THE EARLIEST AMERICAN RECORD OF HIM \u2014 boarding on Ward 9, five months before his wedding',
+          text: '\u201cGASPARD LARMAN, 22, born HANOVER\u201d \u2014 United States Census, 1870, New Orleans Ward 9, page 77, household 655, line 11. He is boarding in the household of DAVID DATE, 32, of Hanover, with Date\u2019s wife Johanna, 28, of Oldenburg, and their children John, 6, and Johanna, 3.',
+          highlight: 'FIVE MONTHS BEFORE HE MARRIED EMILY MEVERS HE WAS A LODGER IN ANOTHER HANOVERIAN\u2019S HOUSE. This is the earliest United States record of him this archive has found, and it is new. It does not disprove the family\u2019s Pointe-\u00e0-la-Hache period before 1870 \u2014 but no record supports one either, and no Larmann of any spelling appears in any Plaquemines Parish record.',
+          citation: 'United States Census, 1870 \u2014 New Orleans Ward 9, Orleans Parish, Louisiana, page 77, household 655, line 11 (NARA M593); FamilySearch ark:/61903/1:1:M878-52T. Read 12 August 2026'
+        },
         {
           title: 'His baptism — read in the Gesmold parish register',
           citation: '[SOURCE NOT ONLINE — cited from earlier research; the original document is needed] Katholische Pfarrei St. Petrus, Gesmold (Melle) — Taufen 1846–1852, D1_105, entry 16 of 1846',
@@ -2523,6 +2572,12 @@
       blurb: 'Casper\'s mother, four years older than her husband, from the village of Haste. She married at Gesmold in November 1843; her son sailed for America at twenty and she almost certainly never saw him again.',
       records: [
         {
+          title: 'HER SECOND SON, IN THE SAME REGISTER \u2014 which proves the Brooklyn brother',
+          text: 'Gesmold St. Petrus, Taufen D1_106_1, image Tauf-1856_029, Jahrgang 1856, Pag. 28, entry 40: \u201c40. | WERINGHOF | Knabe | LARMANN, JOHANN HEINRICH | den vier und zwanzigsten December Achtzehnhundert sechs und f\u00fcnfzig | Neubauer JOHANN CASPAR LARMANN und dessen Ehefrau MARIA ELISABETH geborene WERGES zu Weringhof\u201d, baptised 27 December 1856.',
+          highlight: 'SAME FATHER, SAME MOTHER, SAME FARMSTEAD as the 1846 entry \u2014 and the birth date matches the Brooklyn death certificate TO THE DAY. The brotherhood is now documented from the primary register rather than inferred from a death certificate. BUT HE CANNOT BE THE BROTHER WHO SAILED WITH CASPER: born December 1856, he was three in 1860 and nine in 1866. He appears in no American record before his Brooklyn marriage in 1888. The brother exists; the shared voyage does not.',
+          citation: 'Bistumsarchiv Osnabr\u00fcck \u2014 Katholische Pfarrei St. Petrus, Gesmold (Melle), Taufen D1_106_1, Pag. 28, Nr. 40 (1856), read on the register image 12 August 2026 at data.matricula-online.eu. Corroborated by his own naturalisation papers giving birthplace \u201cGesmold, Germany\u201d \u2014 FamilySearch ark:/61903/1:1:6RB3-S619 (8 May 1917, certificate 39171)'
+        },
+        {
           title: 'Her marriage — Gesmold, 8 November 1843',
           citation: '[SOURCE NOT ONLINE — cited from earlier research; the original document is needed] Katholische Pfarrei St. Petrus, Gesmold — Heiraten 1811–1852, last entry of 1843',
           text: '"…mit Maria Elisabeth Werges, geboren zu Haste d. 27 Jan. 1817."',
@@ -2652,6 +2707,12 @@
       blurb: 'Married Valentine Goubler in May 1871 and was dead at forty-six, leaving her a widow for thirty-three years. His children carried French names — Eugenie, Leontine, Emile — from their mother\'s side.',
       records: [
         {
+          title: 'HIS PARENTS NAMED, AND THEY WERE GERMAN \u2014 the 1871 marriage act',
+          text: '\u201cHENRY MOORE, age 23, b. abt 1848. Marriage 23 MAY 1871, Orleans. PARENTS: JOHN MOORE, father; CHRISTINE LOUMANN, mother. Spouse: VALENTINE GOUBLER. Also on the record: Joseph Goubler.\u201d The state index carries the same act at Orleans Vol 2 p 162.',
+          highlight: 'A GENERATION FURTHER BACK ON A LINE THAT STOPPED AT HIM. And the 1880 census says where they came from: Henry, 32, LABOURER, born LOUISIANA \u2014 but FATHER\u2019S BIRTHPLACE GERMANY, MOTHER\u2019S BIRTHPLACE GERMANY. \u201cLoumann\u201d is a German surname a New Orleans clerk did his best with, most likely Lohmann or Laumann. So Henry was the American-born son of German immigrants, and he married the American-born daughter of a Frenchman.',
+          citation: 'Louisiana, Parish Marriages, 1787\u20131958 \u2014 FamilySearch ark:/61903/1:1:QKJW-NFW2, Orleans Vol 2 p 162; with United States Census, 1880 \u2014 New Orleans, ED 64, sheet 211A, FamilySearch ark:/61903/1:1:MDX7-5XG. Read 12 August 2026'
+        },
+        {
           title: 'Louisiana marriage record',
           citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, May 1871 — Vol. 2, p. 162',
           text: 'GOUBLER, VALENTINE × MOORE, HENRY.'
@@ -2723,6 +2784,12 @@
       photoCaption: 'The Goubler family tomb, restored with its new marble tablet — thirteen names, Lucien Goubler to John R. Larmann Sr. The pediment reads "Family — Joseph Goubler." Family photograph.',
       blurb: 'Patriarch of the tomb the Larmann line still uses — and, it turns out, a Lorrainer. His parents married at Bertrambois in Meurthe-et-Moselle in 1808, so the Goublers came out of that French-German borderland rather than Germany proper. The name was in New Orleans by the 1840s in at least two households: his own, and that of Jean Baptiste Goubler and Françoise Tessier, almost certainly his brother.',
       records: [
+        {
+          title: 'HE CAME FROM FRANCE \u2014 three records say so, and none names the town',
+          text: 'His death record: \u201cJoseph Goubler. Death 7 November 1892. BIRTH 1818, FRANCE.\u201d The 1880 census: \u201cJoseph Goubler, birth 1822, FRANCE.\u201d And his daughter Valentine\u2019s 1900 census entry gives her FATHER\u2019S BIRTHPLACE as FRANCE, her mother\u2019s as Louisiana.',
+          highlight: 'THREE INDEPENDENT RECORDS SAY FRANCE AND NOT ONE SAYS ALSACE OR GERMANY. No passenger list and no naturalisation record has been found for him: a search across every Louisiana collection returns 280 Goubler records, all of them vital, directory or cemetery entries, and no immigration document at all. THE COUNTRY IS DOCUMENTED THREE TIMES OVER AND THE TOWN IS STILL UNKNOWN.',
+          citation: 'Louisiana, Orleans, Death Records and Certificates 1835\u20131954, FamilySearch ark:/61903/1:1:ZYHP-PPT2; United States Census 1880, ark:/61903/1:1:MDX7-5X2; United States Census 1900, ark:/61903/1:1:MS52-VRW. Read 12 August 2026'
+        },
         {
           title: 'HIS UNIT, HIS SERIAL NUMBER, THE VILLAGE HE DIED IN, AND WHAT KILLED HIM',
           text: 'PVT. EMILE THOMAS GOUBLER — SERIAL 1609590 — COMPANY C, 114TH ENGINEER REGIMENT, 39TH DIVISION. Born 2 June 1892 in New Orleans. DRAFTED AT CAMP BEAUREGARD, LOUISIANA, ON 29 MAY 1918. Died 22 September 1918, aged 26, at SAINT-FLORENT-SUR-CHER in the D\u00e9partement du Cher, central France — nowhere near the front. CAUSE OF DEATH: BRONCHO PNEUMONIA. His mother is named on the memorial as Theresa Goubler.',
@@ -2809,6 +2876,12 @@
       photoCaption: 'The replacement tablet the family installed after the original broke — thirteen names, Lucien Goubler to John R. Larmann Sr., with her own spelled "Victoire Cirlot Goubler."',
       blurb: 'The old tablet reads "Victoire Cirlot, wife of Joseph Goubler"; the death index reversed her to "Theoline Victoire"; Judy\'s notes made it Circlot. One woman, three spellings — the stone\'s is preferred here.',
       records: [
+        {
+          title: 'HER NAME WAS TH\u00c9OL\u00c8NE SURLOT \u2014 and \u201cCirclot\u201d is a misread S',
+          text: 'Every Orleans birth act for her children between 1847 and 1859 records the mother as TH\u00c9OL\u00c8NE SURLOT or SIRLOT. Her own death record splices both halves of the name together: \u201cGOUBLER, THEOLINE VICTOIRE, died 23 December 1895, aged 74, Orleans, Vol 110 p 79\u201d \u2014 which puts her birth about 1821, matching the tomb\u2019s \u201c1821\u20131895\u201d exactly.',
+          highlight: 'THE TOMB KEPT THE VICTOIRE AND THE REGISTERS KEPT THE TH\u00c9OL\u00c8NE. And the surname carved as CIRCLOT is a C-for-S misreading of SIRLOT \u2014 the two are near-identical in a nineteenth-century hand. Her daughter Marie Joseph\u2019s 1851 death record independently gives \u201cParents Joseph Goubler, Th\u00e9ol\u00e8ne Sirlot.\u201d This page keeps the tomb spelling as the name the family used, because that is what is carved; the registers are the better authority for what it actually was.',
+          citation: 'Louisiana death index, Orleans, Vol 110 p 79 (vitalrecords.sos.la.gov); with the Orleans birth register acts 1847\u20131859 for Valentine Joseph (Vol 9 p 791), Eugenie Philomene (Vol 9 p 1437), Marie Josephe (Vol 11 p 474), Joseph Emile (Vol 12 p 55), Lucien Jean Baptiste (Vol 14 p 517), Jean Louis (Vol 18 p 375) and Joseph (Vol 26 p 18). Read 12 August 2026'
+        },
         {
           title: 'SHE WAS A MIDWIFE — and it puts the family on that block thirty-three years earlier',
           text: 'Soards’ New Orleans City Directory for 1875 lists her twice: in the alphabetical section, “GOUBLER JOSEPH MRS. MIDWIFE, r. ws. LAFAYETTE AV. BET. BURGUNDY AND N. RAMPART” (p. 324), and again in the volume’s classified list of MIDWIVES (p. 808). A woman with a trade of her own, listed under it, in 1875.',
@@ -3257,6 +3330,18 @@
       blurb: 'The German immigrant of the line: a miner\'s-country boy from Ibbenbüren in Westphalia who kept a New Orleans grocery, raised his family there, and died in September 1880 at fifty-seven — three months after the census takers came through. The civil record calls him Bernard.',
       records: [
         {
+          title: 'THE PARISH REGISTER ITSELF \u2014 born at Uffeln, 30 June 1823, at eight in the evening',
+          text: 'St. Mauritius, Ibbenb\u00fcren, in the DIOCESE OF M\u00dcNSTER \u2014 Taufbuch KB008, page 94, entry 78 of 1823: \u201c78. | Bernard Heinrich Joseph | [born] dreissigsten 30. | abends 8 | JOHANN GERARD WALLMEIJER, H\u00e4usling | MARIA ANNA STIEGEMANN\u201d, and on the facing page \u201cUffeln | Julij ersten 1. | [priest] Baakman\u201d. Born 30 JUNE 1823 AT EIGHT IN THE EVENING at Uffeln; baptised the next day.',
+          highlight: 'THIS PAGE CARRIED HIM AT CONFIRM ON AN UNREAD RECONSTRUCTION. The register has now been read, and it CONFIRMS the parents this archive already named \u2014 the christening date was exactly right, and the register adds the birth date and the hour. The German clerks spell the family WALLMEIJER throughout. And one word in that entry says why he left: his father was a H\u00c4USLING, a cottager renting a room in another man\u2019s house, the bottom of the rural Westphalian ladder.',
+          citation: 'Bistumsarchiv M\u00fcnster \u2014 St. Mauritius, Ibbenb\u00fcren, Taufbuch KB008, S. 94, Nr. 78 (1823), read on the register image 12 August 2026 at data.matricula-online.eu/en/deutschland/muenster/ibbenbueren-st-mauritius/KB008/?pg=97 (free, no login); located via the parish baptism index R004_RT, image 48'
+        },
+        {
+          title: 'THE CROSSING, IDENTIFIED \u2014 Bremen to New Orleans aboard the MILAN',
+          text: '\u201cBERNARD WELLMEYER \u00b7 age 28 \u00b7 born 1823 Germany \u00b7 OCCUPATION CARPENTER \u00b7 immigration 2 DECEMBER 1851, New Orleans \u00b7 departure port BREMEN \u00b7 ship MILAN.\u201d',
+          highlight: 'AGE 28 ON 2 DECEMBER 1851 IS EXACTLY RIGHT FOR A MAN BORN 30 JUNE 1823. And \u201cCarpenter\u201d is the trade the New Orleans directories give him ten and fifteen years later \u2014 \u201cWellmeyer B. cabinet mkr. 291 Rampart\u201d in 1861 and 1866. HE ARRIVED WITH THE TRADE HE PRACTISED. He was twenty-eight and single; he married in New Orleans.',
+          citation: 'United States, Germans to America Index, 1850\u20131897 \u2014 FamilySearch ark:/61903/1:1:KDSV-S9C; from the Germans to America Passenger Data file, NARA ARC 1746067. Read 12 August 2026'
+        },
+        {
           title: 'WHERE HE IS BURIED — St. Vincent de Paul No. 1, and why the archdiocese cannot tell you so',
           text: 'Find a Grave memorial 177528019: “BERNARD HENRY WELLMEYER, 1824 – 23 Sep 1880, Saint Vincent de Paul Cemetery 1, New Orleans, Orleans Parish, Louisiana.” The death date is the same 23 September 1880 this page already carries from the Louisiana death index, reached independently — which is what makes the identification safe. The name is written the other way round from the way this archive gives it; the man is the same.',
           highlight: 'SEARCH THE ARCHDIOCESE\u2019S OWN BURIAL DATABASE FOR WELLMEYER AND YOU GET ONE RESULT IN THE WHOLE SYSTEM — Hazel Joan Wellmeyer, buried 1977 in St. Louis. Not him, and not his wife, son or daughter-in-law, all of whom lie in the same ground. This is the second time this archive has run into that wall: the family tomb Kevin has stood in front of and photographed does not come back from that database either. The gap is not confined to No. 3. Nineteenth-century St. Vincent de Paul burials are simply not in it, so a nil return there is not evidence of absence.',
@@ -3351,6 +3436,12 @@
       immigrant: true,
       blurb: 'A Hanover girl who married a Westphalian in America: two German -meyer families joined a generation before the Langes and Sanders came into the line. She outlived Bernard by twenty-three years, buried at least three of her children, and was laid in St. Vincent de Paul No. 1 — beginning the family\'s St. Vincent de Paul tradition that holds to this day.',
       records: [
+        {
+          title: 'SHE WAS HANOVERIAN, NOT WESTPHALIAN \u2014 they met here',
+          text: 'Her Orleans death record gives her birthplace outright: \u201cGertrude Lobmeyer, death 7 December 1903, Orleans \u2014 birthplace HANOVER, GERMANY, spouse Bernard Wellmeyer.\u201d',
+          highlight: 'THE COUPLE WERE NOT FROM THE SAME COUNTRY. He was from Ibbenb\u00fcren in PRUSSIAN WESTPHALIA; she was from the KINGDOM OF HANOVER, a separate state until 1866. They crossed on different ships in the same year and met in New Orleans. A LEAD, NOT PROVED: a \u201cGertrude Lobmyer, 21\u201d arrived at New Orleans in 1851 aboard the WM JARVIS \u2014 a different ship from her husband\u2019s Milan. The age is one year off ours, which is common, and it is not called a match here.',
+          citation: 'Louisiana, Orleans, Death Records and Certificates, 1835\u20131954, entry for Gertrude Lobmeyer, 7 December 1903, read 12 August 2026; the arrival lead is Louisiana, New Orleans Passenger Lists 1820\u20131945, FamilySearch ark:/61903/1:1:QKNP-HNG5 (NARA M259), NOT confirmed as her'
+        },
         {
           title: 'Louisiana death record',
           citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, 7 December 1903 — Vol. 131, p. 367',
