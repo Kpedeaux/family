@@ -1517,7 +1517,7 @@
         },
         {
           title: 'In her father\'s household, aged eight',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States Census, 1910 — Nairn, Plaquemines Parish, Louisiana',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] United States Census, 1910 — Nairn, Plaquemines Parish, Louisiana',
           text: '"Tony Franovich, Sr," b. 1873 Louisiana; wife "Malonie"; children Nicole, VARONIKE, Lizie, Tony Jr.',
           highlight: 'THE RECORD THIS ENTRY ASKED FOR. Her place on the tree used to rest entirely on circumstance, and the note here said outright that the 1910 Plaquemines census "would settle it." It does: "Varonike" is Veronica, in the house with both parents, a year and a half before her father died. Upgraded from inferred to documented on 11 August 2026.'
         }
@@ -1575,7 +1575,7 @@
         },
         {
           title: 'Her own parents and a brother',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States Census, 1900 — Wards 5 and 10, Plaquemines Parish',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] United States Census, 1900 — Wards 5 and 10, Plaquemines Parish',
           text: 'Josephine Franovich, born July 1862 in Louisiana; parent ARTIMISE BURAS; sibling BAZILE BURAS.',
           highlight: 'One line of a census sheet reaching a further generation back — and it is a Buras generation, which is where this branch stops being an immigrant story and starts being a delta one.'
         }
@@ -1608,7 +1608,7 @@
         },
         {
           title: 'His own household, 1910 — the record that places Veronica',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States Census, 1910 — Nairn, Plaquemines Parish, Louisiana',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] United States Census, 1910 — Nairn, Plaquemines Parish, Louisiana',
           text: '"Tony Franovich, Sr," b. 1873 Louisiana; wife "Malonie" [Melanie], b. 1877; children Nicole, VARONIKE, Lizie, and Tony Jr.',
           highlight: '"Varonike" is Veronica, aged eight, in her father\'s house. Her place on this tree used to rest on circumstance — where she was born, when her mother was widowed, who the family lived among. This is a record that simply names them together. A year and a half later he was dead.'
         },
@@ -1708,7 +1708,7 @@
         },
         {
           title: 'A life that moved upriver',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States Censuses of 1900, 1910 and 1930; Orleans and St. Tammany Voter Registration Records, 1867–1949',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] United States Censuses of 1900, 1910 and 1930; Orleans and St. Tammany Voter Registration Records, 1867–1949',
           text: '1900 — Wards 5 and 10, Plaquemines Parish: Alfred Moizant, b. January 1838 in France, married 1866, with Amelie, Angeline, Clemantine, Louise, Adeline and Anitia at home. · 1910 — NAIRN, Plaquemines Parish. · 1930 — New Orleans. · Registered to vote in Orleans Parish on 8 October 1923, and again on 9 December 1931.',
           highlight: 'In 1910 he was living at Nairn — the same small delta village as his son-in-law Tony Franovich, in the same census year. He was still turning up to register to vote at ninety-three, two years before he died.'
         }
@@ -1749,7 +1749,7 @@
         },
         {
           title: 'And in a granddaughter\'s name',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States Census, 1900 — Wards 5 and 10, Plaquemines Parish',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] United States Census, 1900 — Wards 5 and 10, Plaquemines Parish',
           text: 'In Alfred Moizant\'s household: "Clemantine J. Moizant."',
           highlight: 'Not proof of anything, but the kind of detail that makes a name into a person: somewhere in the Plaquemines marsh in the 1880s, a French immigrant named a daughter after his mother.'
         }
