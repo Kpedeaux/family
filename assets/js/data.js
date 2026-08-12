@@ -2289,6 +2289,24 @@
           highlight: 'A second American record naming his parents, thirty-seven years after the first. "Weiner" is the same Werges through one more clerk\'s ear.'
         },
         {
+          title: 'THE MARRIAGE LICENCE ITSELF — 27 October 1870, in his own hand’s language',
+          text: 'Justice of the Peace for the Parish of Orleans. “New Orleans, October 27, 1870. Licence is hereby granted to ANY CLERGYMAN to join in the Bonds of Matrimony, JOHAN KASPER LARMANN, 23, a native of HANOVER (issue of J. C. B. LARMANN) and MISS MARIE EMILY MEVERS, 23, a native of PASCAGOULA (issue of A. MEVERS) on complying with the formalities required by law.” Witnesses: ANTON MEVERS and C. F. HENSLAGE. Signed J. G. Baum, Fourth Justice of the Peace.',
+          highlight: 'The licence is dated 27 October; the marriage act is 10 November. Two weeks between the paperwork and the wedding. It also puts PASCAGOULA in a document written at the time of the marriage — the birthplace this site gives Emily now rests on the licence, not on a later recollection.',
+          image: 'assets/img/larmann-1870-marriage-license.jpg',
+          imageAlt: 'Printed Justice of the Peace marriage licence form for the Parish of Orleans, dated October 27 1870, completed in brown ink for Johan Kasper Larmann of Hanover and Marie Emily Mevers of Pascagoula.',
+          imageCredit: 'Orleans Parish marriage licences, 1870 — supplied by Kevin Pedeaux, August 2026',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish marriage licence, Fourth Justice of the Peace, 27 October 1870 — document image in this repository'
+        },
+        {
+          title: 'HIS SIGNATURE, AND A SON DEAD OF MEASLES AT THREE',
+          text: 'Sworn before the Board of Health on 16 April 1880. “John Casper Larmann, a native of Germany, residing at # 710 LOVE STREET in this city, who hereby declares that CHARLES A. CLEMENCE LARMANN (white), a native of this city, aged 3 YEARS 11 MONTHS & 5 DAYS, departed this life yesterday (15 April 1880) at his aforesaid residence in this city. Cause of death: MEASLES. Certificate of Dr. G. Vernon. Deceased was the lawful child of Deponent and EMILY MEVERS.” At the foot of the act, in Casper’s own hand: JOHANN KESPER LARMANN.',
+          highlight: 'The age computes to a birth on 10 MAY 1876 — to the day, the birth date already carried here from the Orleans birth index. And the address is the point: 710 LOVE STREET in 1880, where the 1883 directory has him at 710 N. RAMPART. Love Street was the old name for that downriver stretch of Rampart. Same house, renamed street.',
+          image: 'assets/img/larmann-1880-clemence-death.jpg',
+          imageAlt: 'Handwritten New Orleans Board of Health death act of 16 April 1880 recording the death of Charles A. Clemence Larmann, aged three, of measles, declared by his father John Casper Larmann and signed at the foot Johann Kesper Larmann.',
+          imageCredit: 'Orleans Parish death acts, 1880, p. 537 — supplied by Kevin Pedeaux, August 2026',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish death act, Board of Health, 16 April 1880, p. 537 — document image in this repository'
+        },
+        {
           title: 'First marriage',
           citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, November 1870 — Vol. 1, p. 662',
           text: 'MEVERS, MARIE E × LARMANN, JOHN G [sic — Casper].',
