@@ -68,6 +68,76 @@
       },
 
       {
+        id: 'gesmold',
+        name: 'Gesmold, Kingdom of Hanover',
+        kind: 'town',
+        lat: 52.2099610, lng: 8.2740577,
+        precision: 'town',
+        years: 'born 1846, left 1866',
+        people: ['johnCasparLarmann'],
+        who: 'Where Casper Larmann was born',
+        headline: 'HE LEFT THE YEAR PRUSSIA TOOK THE KINGDOM',
+        text: 'A village of the Melle district near Osnabrück. Casper was born here on 5 April 1846 and christened two days later. His sister Esther\'s ledger recorded the family reason for leaving in her father\'s own words — he and a brother "came to this country from Hamburg, Germany to escape compulsory military service." The history fits exactly: Gesmold belonged to the Kingdom of Hanover until Prussia annexed it in 1866 after the Austro-Prussian War and brought its conscription with it. Casper emigrated that year or the next, at twenty — the age that mattered. The Osnabrück country sent forty-two per cent of all Hanoverian emigrants to America in that century.',
+        source: 'FamilySearch profile with forty-four attached records giving his birth and christening at Gesmold; Esther Larmann\'s handwritten ledger, copied out by Judy Gifford, August 2026.'
+      },
+
+      {
+        id: 'ibbenburen',
+        name: 'Ibbenbüren, Westphalia',
+        kind: 'town',
+        lat: 52.2774772, lng: 7.7151417,
+        precision: 'town',
+        years: 'christened 1 July 1823',
+        people: ['henryBernardWellmeyer'],
+        who: 'Where Bernard Wellmeyer was christened Bernard Heinrich Wallmeyer',
+        headline: 'COAL COUNTRY, A DYING LINEN TRADE, AND A CATHOLIC ISLAND',
+        text: 'A town of about 1,600 people when he was christened. The Prussian state had taken its coal pits into its own hands in 1731 and 1747 and ran them directly; there were about two hundred miners in 1819. The other living was hand-woven linen, and it was collapsing — only fourteen commercial looms were left in the town by 1820, and 1817 brought famine from failed harvests. It was also a Catholic pocket in a mostly Protestant county, where Catholic worship had been banned outright from 1675 and only fully restored in 1815, eight years before his christening. Kreis Tecklenburg was among the very highest-emigration districts of the Münster region.',
+        source: 'GenWiki (Ibbenbüren and Kreis Tecklenburg); Stadtmuseum Ibbenbüren town chronicle; Friedrich Müller, Westfälische Auswanderer im 19. Jahrhundert. ONE HONEST NOTE: of Müller\'s published records, the documented American chain from Ibbenbüren parish itself pointed mainly at Cincinnati; the New Orleans channel in that district ran through neighbouring parishes.'
+      },
+
+      {
+        id: 'plataci',
+        name: 'Plataci, Cosenza, Calabria',
+        kind: 'town',
+        lat: 39.9004060, lng: 16.4319900,
+        precision: 'town',
+        years: 'born 5 May 1893',
+        people: ['johnBrunetti', 'michelBrunetti'],
+        who: 'Where John Brunetti was born — and the village spoke Albanian',
+        headline: 'HE WAS CHRISTENED GIOVANNI IN ITALIAN AND XHUAN IN ARBËRISHT',
+        text: 'A mountain village in the Pollino, and one of the Arbëresh communities of southern Italy — descendants of Albanians who crossed the Adriatic after the Ottoman conquest and kept their language for five centuries. Plataci spoke ARBËRISHT. His birth act of 5 May 1893 names his father Michele Brunetti and his mother Domenica Trojano, and it is the document that closed the chain from a New Orleans marriage licence back to the village.',
+        source: 'Plataci birth register, 5 May 1893, read from the original image; Ellis Island manifest, 1912; Orleans Parish marriage record, June 1921. The birth act is reproduced on his page.'
+      },
+
+      {
+        id: 'saint-enogat',
+        name: 'Saint-Énogat, Brittany',
+        kind: 'town',
+        lat: 48.6359188, lng: -2.0687571,
+        precision: 'town',
+        years: 'baptised 29 November 1780',
+        people: ['florenceAucoin'],
+        who: 'Where the Acadian exile\'s daughter was baptised',
+        headline: 'BORN IN EXILE, AND ON A SHIP TO LOUISIANA AT FOUR YEARS OLD',
+        text: 'Florianne-Marguerite Aucoin was born on 28 November 1780 and baptised here the next day — in Brittany, because her people had already been driven out of Acadia. She is on the list of Acadians at Saint-Malo in September 1784. The following year she crossed the Atlantic aboard LA VILLE D\'ARCHANGEL with 312 others, aged four, and grew up on Bayou Lafourche. She married Michel Pédeau of Nantes at Plattenville in 1808, was widowed by 1814, married again in the same church, and died in Assumption Parish in 1852 at seventy-two.',
+        source: 'Diocese of Baton Rouge Catholic Church Records vol. 3, as abstracted by Steven A. Cormier, Acadians in Gray; the 1785 sailing lists.'
+      },
+
+      {
+        id: 'bordeaux',
+        name: 'Bordeaux, Gironde',
+        kind: 'town',
+        lat: 44.8412250, lng: -0.5800364,
+        precision: 'town',
+        years: 'born January 1838',
+        people: ['alfredMoizant'],
+        who: 'Where Alfred Moizant was born',
+        headline: 'THE CITY THAT ENDED THE AIRPORT STORY',
+        text: 'The family held for generations that the Moizants were kin to John Moisant, the aviator the New Orleans airport is named for. They were not, and it is no longer a matter of argument: Alfred\'s death record and his 1933 obituary between them give his birth at Bordeaux to Alfred Moizant and Clémence Chapeau. The aviator\'s father Medard was born in Quebec. Two families, two continents, no link. One small confirmation sits in his own household — the daughter the 1900 census calls "Clemantine," named for a grandmother in Bordeaux she would never meet.',
+        source: 'Louisiana, Orleans, Death Records and Certificates — Alfred L. Moizant, 23 February 1933; obituary, New Orleans, 23 February 1933; voter registration, 9 December 1931.'
+      },
+
+      {
         id: 'machecoul',
         name: 'Machecoul — La Trinité and Sainte-Croix',
         kind: 'church',
@@ -337,6 +407,34 @@
         source: 'Family testimony (Kevin Pedeaux, August 2026).'
       },
 
+      {
+        id: 'wellmeyer-grocery',
+        name: 'B. H. Wellmeyer\'s grocery — Clouet at N. Rampart',
+        kind: 'work',
+        lat: 29.96639, lng: -90.04457,
+        precision: 'block',
+        years: '1866–1884',
+        people: ['henryBernardWellmeyer', 'johnWellmeyer'],
+        who: 'The German immigrant\'s store — and the family lived over it',
+        headline: 'A CABINETMAKER WHO BECAME A GROCER, AND A WIDOW WHO KEPT THE STORE',
+        text: 'Soards\' 1875 prints it exactly: "WELLMEYER Bernard H. GROCER, Clouet, ne. cor. N. Rampart" — and on the same page, "Wellmeyer John, clk. B. H. Wellmeyer, r. Clouet, ne. cor. N. Rampart." His son clerked in his father\'s store and slept in the same building. The trade arc runs cabinet maker in 1861 and 1866, then grocer from 1866 to his death in 1880. And then this: the 1884 directory reads "WELLMEYER GERTRUDE MRS. GROCERY, 761 N. Rampart." Four years widowed, she was running it herself.',
+        source: 'Gardner\'s 1861 and 1866; Soards\' 1875 (pp. 701 and 797), 1878 and 1883; Polk\'s 1876 and 1884. The street number 761 is pre-1894 and does not map; THE CORNER IS THE RELIABLE LOCATOR, and it still exists.'
+      },
+
+      {
+        id: 'wellmeyer-conti',
+        name: '1322 Conti Street, Apt. S',
+        kind: 'home',
+        lat: 29.9590427, lng: -90.0719574,
+        precision: 'exact',
+        years: '1942',
+        people: ['henryJohnWellmeyer'],
+        who: 'Henry John Wellmeyer, at fifty-six',
+        headline: 'THE ONLY MAN ON THIS MAP WHOSE CARD SAYS "UNEMPLOYED"',
+        text: 'His 1942 draft card gives this address, with "Mrs. H. J. Wellmeyer, same address" as the person who would always know where he was. Under employer, one word: UNEMPLOYED. He was a machinist by trade and had been since 1910. The card also describes him — five foot five, 162 pounds, hazel eyes, grey hair, ruddy complexion, and a scar on the palm of his left hand.',
+        source: 'United States, World War II Draft Registration Cards, Fourth Registration, Louisiana — NARA RG 147, Local Board No. 4, Orleans Parish, registered 27 April 1942.'
+      },
+
       /* ── GRAVES ───────────────────────────────────────────────── */
 
       {
@@ -379,6 +477,48 @@
         headline: 'THE GROUND NO DATABASE WILL SHOW YOU',
         text: 'John Richard Larmann Sr., Ann Wellmeyer, all ten Wellmeyers of Henry John\'s household, and the Goublers are here — in the oldest part of the complex. The archdiocese\'s online burial register covers this cemetery, but only its V1 and V2 sections: across 173 sampled burials, not one carried a V3. Searching for this family online returns nothing. The tomb is standing; Kevin has photographed it. This marker is placed on the cemetery, not the tomb.',
         source: 'Find a Grave; family photographs; and the negative result documented on John Sr.\'s page.'
+      },
+
+      {
+        id: 'greenwood',
+        name: 'Greenwood Cemetery — the A. F. Gaiennie tomb',
+        kind: 'grave',
+        lat: 29.9848458, lng: -90.1130588,
+        precision: 'block',
+        years: '1932–2014',
+        people: ['numaSr', 'ednaGaiennie'],
+        who: 'The Pedeaux who married into the Gaiennies, and are buried as Gaiennies',
+        headline: 'FIVE OF THEM, IN HIS WIFE\'S FAMILY TOMB — including a child of six',
+        text: 'The plot is recorded as "5 Palmetto Magnolia Hawthorne, A. F. GAIENNIE TOMB." In it: NUMA LOUIS CHARLES PEDEAUX SR., d. 17 July 1958 · EDNA MARIE GAIENNIE, his wife, born at Thibodaux, d. 21 April 1962 · ROBERT LOUIS, their eldest son, 1918–1980 · NUMA LOUIS JR., the IBEW electrician of sixty years, 1930–2014 · and LORRAINE MARIE PEDEAUX, born 14 November 1925 and dead on 31 January 1932, AGED SIX. Her death notice ran in the Times-Picayune the next morning, page 2, column 8. No cause is recorded anywhere this archive has reached.',
+        source: 'Find a Grave memorials 63452655, 63452656, 34208483, 137366059 and 63452654; New Orleans Public Library Obituary Index for the death dates and notice citations. The tomb itself has not been located within the cemetery, so the pin is on the grounds.'
+      },
+
+      {
+        id: 'stvdp-no1',
+        name: 'St. Vincent de Paul Cemetery No. 1 — Louisa Street',
+        kind: 'grave',
+        lat: 29.9705109, lng: -90.0410033,
+        precision: 'block',
+        years: '1880–1948',
+        people: ['henryBernardWellmeyer', 'johnWellmeyer', 'charlesEmileLarmann', 'johannaLemoine'],
+        who: 'The older ground, next to No. 3',
+        headline: 'NOT THE SAME CEMETERY AS THE WELLMEYER TOMB — and the distinction matters',
+        text: 'This archive has been careful to say the Wellmeyer tomb is in St. Vincent de Paul No. 3. But an older layer of this family is in No. 1, immediately beside it: BERNARD HENRY WELLMEYER the grocer, d. 1880 · his wife GERTRUDE CAROLINE LOBMEYER, d. 1903 · their son JOHN WELLMEYER, d. 1922 · his wife CATHERINE LANGE, d. 1930 · and the schoolteacher LEONTINE MOORE with her sister MARIE LOUISE. Charles Emile Larmann and Johanna Lemoine are here too, in a tomb inscribed "FAMILY OF JOSEPH GOUBLER" — which is their own line, through Charles\'s grandmother Valentine Goubler Moore.',
+        source: 'Find a Grave memorials 177528019, 177527347, 177526988, 127973803, 291559760, 291559780, 256882338 and 256882339. ONE WARNING WORTH KEEPING: there are two unrelated St. Vincent de Paul cemeteries in New Orleans. This family\'s are the Louisa Street group in the Bywater. The other is uptown on Soniat Street and has nothing to do with them.'
+      },
+
+      {
+        id: 'stlouis-no2',
+        name: 'St. Louis Cemetery No. 2',
+        kind: 'grave',
+        lat: 29.9607820, lng: -90.0754099,
+        precision: 'block',
+        years: '1930',
+        people: ['pierreNuma'],
+        who: 'Edward Hector Pedeaux, the brother who went to the city first',
+        headline: 'The one who led the family off the bayou, buried in town',
+        text: 'Edward Hector Pedeaux, born at Labadieville on 22 February 1876, was manager of the implement department at Stauffer, Eshleman & Co. on Canal Street, and he was established in New Orleans by the 1908 directory — years before his father and brothers appear there. He died on 25 January 1930 and was buried here rather than carried home. His father Pierre Numa, dying nineteen months later, went back to Labadieville instead.',
+        source: 'Find a Grave memorial 208703495; New Orleans Public Library Obituary Index (Times-Picayune, 26 January 1930, p. 2 col. 6) and the archdiocese\'s burial register, which agree on 25 January against Find a Grave\'s 15 January.'
       },
 
       {
