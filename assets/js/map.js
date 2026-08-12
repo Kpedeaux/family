@@ -39,6 +39,22 @@
     box.appendChild(el('p', 'pop__head', it.headline));
     box.appendChild(el('p', null, it.text));
     box.appendChild(el('p', 'pop__src', it.source));
+
+    /* Clickable sources. Anything the reader can go and check for themselves
+       belongs here, not just in the citation prose. */
+    if (it.links && it.links.length) {
+      var ul = el('ul', 'pop__links');
+      it.links.forEach(function (lk) {
+        var li = el('li');
+        var a = el('a', null, lk.label);
+        a.href = lk.url;
+        a.target = '_blank';
+        a.rel = 'noopener noreferrer';
+        li.appendChild(a);
+        ul.appendChild(li);
+      });
+      box.appendChild(ul);
+    }
     return box;
   }
 

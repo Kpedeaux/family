@@ -73,6 +73,20 @@
   font: 400 12px/1.5 var(--sans); color: var(--ink-3);
   margin: 10px 0 0; padding-top: 9px; border-top: 1px solid var(--rule-soft);
 }
+.leaflet-popup-content .pop__links {
+  list-style: none; margin: 9px 0 0; padding: 9px 0 0;
+  border-top: 1px solid var(--rule-soft);
+}
+.leaflet-popup-content .pop__links li { margin: 0 0 4px; }
+.leaflet-popup-content .pop__links li:last-child { margin-bottom: 0; }
+.leaflet-popup-content .pop__links a {
+  font: 500 12.5px/1.45 var(--sans); color: var(--sea);
+  text-decoration: underline; text-underline-offset: 2px;
+}
+.leaflet-popup-content .pop__links a:hover,
+.leaflet-popup-content .pop__links a:focus-visible { color: var(--oxblood); }
+.leaflet-popup-content .pop__links li::before { content: "↗ "; color: var(--ink-3); }
+
 .leaflet-popup-content .pop__prec {
   display: inline-block; font: 600 10.5px/1 var(--sans); letter-spacing: .07em;
   text-transform: uppercase; padding: 4px 7px; border-radius: 2px; margin-bottom: 9px;

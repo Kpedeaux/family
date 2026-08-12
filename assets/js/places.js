@@ -27,6 +27,10 @@
 
       {
         id: 'bas-de-la-fosse',
+        links: [
+          { label: 'Dosseul, Le quartier de la Fosse (PDF)', url: 'https://m.shabretagne.com/scripts/files/6698cd66847564.52033787/1998_10.pdf' },
+          { label: 'Patrimonia Nantes: la Fosse', url: 'https://patrimonia.nantes.fr/home/decouvrir/themes-et-quartiers/fosse.html' },
+        ],
         name: 'Le bas de la Fosse, Nantes',
         kind: 'home',
         lat: 47.20689, lng: -1.57294,
@@ -41,6 +45,10 @@
 
       {
         id: 'chantenay',
+        links: [
+          { label: 'Patrimonia: Fresque des Acadiens', url: 'https://patrimonia.nantes.fr/home/decouvrir/themes-et-quartiers/fresque-des-acadiens.html' },
+          { label: 'The seven ships of 1785', url: 'https://www.acadian.org/culture/louisiana/ships-transportation-acadians-louisiana/' },
+        ],
         name: 'Chantenay, on the Loire below Nantes',
         kind: 'town',
         lat: 47.20694, lng: -1.59500,
@@ -55,6 +63,9 @@
 
       {
         id: 'moulin-de-la-marche',
+        links: [
+          { label: 'Les moulins de Sainte-Pazanne', url: 'https://www.cirkwi.com/en/point-interet/1039781-les-moulins-de-sainte-pazanne' },
+        ],
         name: 'The Moulin de la Marche, Sainte-Pazanne',
         kind: 'work',
         lat: 47.10354, lng: -1.80698,
@@ -65,6 +76,62 @@
         headline: 'THE MILL IS GONE, BUT THE WORD FARINIER PLACES HIM',
         text: 'At the end of the eighteenth century Sainte-Pazanne had ten mills. One was "le moulin turquois de la Marche, aujourd\'hui disparu" — the turquois mill of la Marche, now vanished — which stood near no. 27 of what is today the rue de l\'Auditoire. "Turquois" is a mill type, not a place. And the local heritage literature uses Pierre\'s exact recorded occupation: the parish mills belonged either to the seigneuries, whose tenants were bound to grind there, or to private "meuniers ou fariniers," who it says generally belonged to the wealthier class of the population. So the first Pédeau this archive can name a trade for was not a poor man. His son left the mill for the Nantes shipyards.',
         source: 'Destination Pornic heritage notice, "Les moulins de Sainte-Pazanne." CORRECTION CARRIED FORWARD: this archive previously placed the mill near the rue de l\'Abreuvoir. Every source found says rue de l\'Auditoire. The rue de l\'Abreuvoir does exist in Sainte-Pazanne but nothing connects it to the mill, so the earlier reading is withdrawn as unverified.'
+      },
+
+      {
+        id: 'brulon',
+        name: 'Brûlon, province of Maine',
+        kind: 'town',
+        lat: 47.9675049, lng: -0.2355172,
+        precision: 'town',
+        years: 'born about the 1760s',
+        people: ['francoisGaiennie'],
+        who: 'Where the Gaiennie immigrant came from',
+        headline: 'THE ONLY FAMILY ON THIS TREE FROM THE LOIRE VALLEY INTERIOR',
+        text: 'François Gaiennie was born here about the 1760s, in the old province of Maine — today the department of the Sarthe, west of Le Mans and a long way from any sea. He was in New Orleans by the early 1790s, married at St. James Parish in 1793, and was upriver among the Sardet families by 1797. His brother URBAIN crossed too. Every other European origin on this map is a port, a mining town or a mountain village; this one is farm country in the middle of France.',
+        source: 'St. James Parish sacramental records; see his page for the identification of Brûlon.'
+      },
+
+      {
+        id: 'bertrambois',
+        name: 'Bertrambois, Meurthe-et-Moselle',
+        kind: 'town',
+        lat: 48.6052036, lng: 6.9856758,
+        precision: 'town',
+        years: 'parents married 1808',
+        people: ['josephGoubler'],
+        who: 'Where the Goublers came from — Lorraine, not Germany',
+        headline: 'THE BORDERLAND, WHICH IS NOT THE SAME AS EITHER SIDE OF IT',
+        text: 'Emile Joseph Goubler, born 1818 or 1819 and the patriarch of the tomb the Larmann line still uses, came out of a Lorraine family: his parents married at Bertrambois in Meurthe-et-Moselle in 1808. That matters because the Goublers have been taken for Germans. Bertrambois sits in the French-German borderland of Lorraine, close to the Vosges and the old linguistic frontier — a place that was neither simply French nor simply German, and changed hands more than once in the century after they left.',
+        source: 'Bertrambois marriage of his parents, 1808 — see his page. The Lorraine identification corrects an older assumption of German origin.'
+      },
+
+      {
+        id: 'edgard',
+        name: 'Edgard, St. John the Baptist Parish',
+        kind: 'town',
+        lat: 30.0432578, lng: -90.5600869,
+        precision: 'town',
+        years: '1829–1900s',
+        people: ['josephLemoine', 'alonzoLemoine', 'valeryRousselle', 'genevieveRousselle'],
+        who: 'The Lemoines and the Rousselles, on the west bank',
+        headline: 'THE RIVER PARISHES — a whole branch that never lived in the city',
+        text: 'Forty miles up the Mississippi from New Orleans, on the west bank of the German Coast. The oldest Lemoine this archive can name appears here in one line of one register, as the father of a boy baptised at Edgard in November 1829. Valery Rousselle was found here in the 1880 census with nine children, four of whose names Judy Gifford had written down from memory sixty years later. Paul Alonzo Lemoine was born here about 1855. Johanna Lemoine, who married Charles Emile Larmann in 1924 and brought this line into the Bywater, came down from Edgard.',
+        source: 'Edgard sacramental registers, November 1829; United States Census, 1880, Edgard, St. John the Baptist Parish, 1st Ward, ED 160, sheet 7B; family notes of Judy Larmann Gifford.'
+      },
+
+      {
+        id: 'st-james-parish',
+        name: 'St. James Parish, on the river',
+        kind: 'town',
+        lat: 29.9818694, lng: -90.8317608,
+        precision: 'town',
+        years: '1793–1854',
+        people: ['francoisGaiennie', 'josephGervais', 'alphonseSr'],
+        who: 'Three generations of Gaiennies before the city',
+        headline: 'Where the Frenchman from Maine came ashore and stayed',
+        text: 'François Gaiennie married here in 1793, within a couple of years of reaching Louisiana. His son JOSEPH GERVAIS GAIENNIE — born at New Orleans in June 1797 and seventeen years old when the British came up the river in 1814 — was buried here on 9 June 1854, having raised twelve children. His grandson Alphonse Florestan was born here in 1826. The family were river-parish people for three generations before any of them settled in New Orleans, and the line reached this tree when Edna Marie Gaiennie married Numa Pedeaux Sr. in 1917.',
+        source: 'St. James Parish sacramental records; see the Gaiennie entries.'
       },
 
       {
@@ -83,6 +150,10 @@
 
       {
         id: 'ibbenburen',
+        links: [
+          { label: 'Mueller, Westfaelische Auswanderer (PDF)', url: 'https://vereine.genealogy.net/wggf/downloads/BZWF22_24_Auswanderer_RBZ_Muenster.pdf' },
+          { label: 'GenWiki: Ibbenbueren', url: 'https://wiki.genealogy.net/Ibbenb%C3%BCren' },
+        ],
         name: 'Ibbenbüren, Westphalia',
         kind: 'town',
         lat: 52.2774772, lng: 7.7151417,
@@ -97,6 +168,9 @@
 
       {
         id: 'plataci',
+        links: [
+          { label: 'Plataci', url: 'https://en.wikipedia.org/wiki/Plataci' },
+        ],
         name: 'Plataci, Cosenza, Calabria',
         kind: 'town',
         lat: 39.9004060, lng: 16.4319900,
@@ -139,6 +213,9 @@
 
       {
         id: 'machecoul',
+        links: [
+          { label: 'Machecoul, InfoBretagne', url: 'https://www.infobretagne.com/machecoul.htm' },
+        ],
         name: 'Machecoul — La Trinité and Sainte-Croix',
         kind: 'church',
         lat: 46.99246, lng: -1.81875,
@@ -169,6 +246,9 @@
 
       {
         id: 'casper-independence',
+        links: [
+          { label: 'Sanborn 1893 Vol. IV, Library of Congress', url: 'https://www.loc.gov/item/sanborn03376_004/' },
+        ],
         name: '32 Independence Street — the 600 block today',
         kind: 'home',
         lat: 29.96211, lng: -90.03930,
@@ -225,6 +305,9 @@
 
       {
         id: 'pedeaux-west-end',
+        links: [
+          { label: 'WWII draft cards, 4th registration', url: 'https://catalog.archives.gov/id/576248' },
+        ],
         name: '6509 West End Boulevard',
         kind: 'home',
         lat: 30.0093577, lng: -90.1140305,
@@ -239,6 +322,9 @@
 
       {
         id: 'mcdonogh-16',
+        links: [
+          { label: 'NOPL obituary index', url: 'https://nolacityarchives.org/genealogy-guide/obituary-index/' },
+        ],
         name: 'McDonogh School No. 16 — 1814 Bourbon Street',
         kind: 'work',
         lat: 29.9546820, lng: -90.0691720,
@@ -267,6 +353,9 @@
 
       {
         id: 'neville-canal',
+        links: [
+          { label: 'Soards 1912 at HathiTrust', url: 'https://babel.hathitrust.org/cgi/pt?id=uiug.30112045772842&seq=873' },
+        ],
         name: 'W. H. Neville — 931 Canal Street',
         kind: 'work',
         lat: 29.9552020, lng: -90.0712633,
@@ -281,6 +370,9 @@
 
       {
         id: 'maritime-electric',
+        links: [
+          { label: 'WWII draft cards, 4th registration', url: 'https://catalog.archives.gov/id/576248' },
+        ],
         name: 'Maritime Electric Co. — 615 Commerce Place',
         kind: 'work',
         lat: 29.9452737, lng: -90.0666451,
@@ -323,6 +415,10 @@
 
       {
         id: 'moore-franklin-727',
+        links: [
+          { label: 'NOPL: changes in street names', url: 'https://nolacityarchives.org/changes-in-street-names/' },
+          { label: 'NOPL obituary index', url: 'https://nolacityarchives.org/genealogy-guide/obituary-index/' },
+        ],
         name: '727 Franklin Avenue',
         kind: 'home',
         lat: 29.9651816, lng: -90.0511917,
@@ -337,6 +433,9 @@
 
       {
         id: 'moore-franklin-927',
+        links: [
+          { label: 'NOPL: changes in street names', url: 'https://nolacityarchives.org/changes-in-street-names/' },
+        ],
         name: '927 Franklin Avenue — THE HOUSE',
         kind: 'home',
         lat: 29.9671702, lng: -90.0505977,
@@ -353,6 +452,9 @@
 
       {
         id: 'holy-trinity',
+        links: [
+          { label: 'Holy Trinity parish history', url: 'https://www.neworleanschurches.com/holytrinity/holytrin.htm' },
+        ],
         name: 'Holy Trinity Church — 721 St. Ferdinand Street',
         kind: 'church',
         lat: 29.9646498, lng: -90.0493592,
@@ -367,6 +469,9 @@
 
       {
         id: 'st-vincent-de-paul-church',
+        links: [
+          { label: 'St. Vincent de Paul (Blessed Seelos)', url: 'https://www.neworleanschurches.com/stvincent/index.htm' },
+        ],
         name: 'St. Vincent de Paul Church — 3051 Dauphine Street',
         kind: 'church',
         lat: 29.9647432, lng: -90.0460147,
@@ -381,6 +486,9 @@
 
       {
         id: 'st-cecilia',
+        links: [
+          { label: 'St. Cecilia, New Orleans Churches', url: 'https://www.neworleanschurches.com/stcecilia/stcecilia.htm' },
+        ],
         name: 'St. Cecilia Church — 4201 N. Rampart Street',
         kind: 'church',
         lat: 29.9640300, lng: -90.0337570,
@@ -409,6 +517,10 @@
 
       {
         id: 'wellmeyer-grocery',
+        links: [
+          { label: 'Succession of Bernard Wellmeyer, 34 La. Ann. 819', url: 'https://static.case.law/la-ann/34/cases/0819-01.json' },
+          { label: 'Soards 1875 at HathiTrust', url: 'https://babel.hathitrust.org/cgi/pt?id=umn.31951002253299l&seq=705' },
+        ],
         name: 'B. H. Wellmeyer\'s grocery — Clouet at N. Rampart',
         kind: 'work',
         lat: 29.96639, lng: -90.04457,
@@ -439,6 +551,9 @@
 
       {
         id: 'st-roch-cem',
+        links: [
+          { label: 'Burial record: John Casper Larmann', url: 'https://nolacatholiccem.discovereverafter.com/profile/36953104' },
+        ],
         name: 'St. Roch Cemetery — 1725 St. Roch Avenue',
         kind: 'grave',
         lat: 29.9755154, lng: -90.0509669,
@@ -453,6 +568,10 @@
 
       {
         id: 'st-louis-3',
+        links: [
+          { label: 'Burial record: John Brunetti', url: 'https://nolacatholiccem.discovereverafter.com/profile/36915133' },
+          { label: 'Burial record: Herbert John Pedeaux', url: 'https://nolacatholiccem.discovereverafter.com/profile/36915129' },
+        ],
         name: 'St. Louis Cemetery No. 3 — 3421 Esplanade Avenue',
         kind: 'grave',
         lat: 29.9857723, lng: -90.0863572,
@@ -467,6 +586,9 @@
 
       {
         id: 'st-vincent-3',
+        links: [
+          { label: 'Find a Grave: St. Vincent de Paul No. 3', url: 'https://www.findagrave.com/cemetery/1393396' },
+        ],
         name: 'St. Vincent de Paul Cemetery No. 3 — Louisa Street',
         kind: 'grave',
         lat: 29.9705109, lng: -90.0410033,
@@ -481,6 +603,10 @@
 
       {
         id: 'greenwood',
+        links: [
+          { label: 'Numa Pedeaux Sr., Find a Grave', url: 'https://www.findagrave.com/memorial/63452655/numa_louis_charles-pedeaux' },
+          { label: 'Lorraine Marie Pedeaux, Find a Grave', url: 'https://www.findagrave.com/memorial/63452654/lorraine_marie-pedeaux' },
+        ],
         name: 'Greenwood Cemetery — the A. F. Gaiennie tomb',
         kind: 'grave',
         lat: 29.9848458, lng: -90.1130588,
@@ -495,6 +621,10 @@
 
       {
         id: 'stvdp-no1',
+        links: [
+          { label: 'Bernard Henry Wellmeyer, Find a Grave', url: 'https://www.findagrave.com/memorial/177528019/bernard-henry-wellmeyer' },
+          { label: 'Charles Emile Larmann, Find a Grave', url: 'https://www.findagrave.com/memorial/256882338/charles-emile-larmann' },
+        ],
         name: 'St. Vincent de Paul Cemetery No. 1 — Louisa Street',
         kind: 'grave',
         lat: 29.9705109, lng: -90.0410033,
@@ -509,6 +639,9 @@
 
       {
         id: 'stlouis-no2',
+        links: [
+          { label: 'Edward Hector Pedeaux, Find a Grave', url: 'https://www.findagrave.com/memorial/208703495/edward_hector-pedeaux' },
+        ],
         name: 'St. Louis Cemetery No. 2',
         kind: 'grave',
         lat: 29.9607820, lng: -90.0754099,
@@ -523,6 +656,9 @@
 
       {
         id: 'cypress-grove',
+        links: [
+          { label: 'NOPL obituary index', url: 'https://nolacityarchives.org/genealogy-guide/obituary-index/' },
+        ],
         name: 'Cypress Grove Cemetery — 120 City Park Avenue',
         kind: 'grave',
         lat: 29.9795672, lng: -90.1113881,
@@ -551,6 +687,9 @@
 
       {
         id: 'arlington',
+        links: [
+          { label: 'Army Cemeteries Explorer', url: 'https://ancexplorer.army.mil/publicwmv/' },
+        ],
         name: 'Arlington National Cemetery — section 34, grave 1964',
         kind: 'grave',
         lat: 38.8785384, lng: -77.0691117,
@@ -583,6 +722,10 @@
 
       {
         id: 'plattenville',
+        links: [
+          { label: 'Diocese of Baton Rouge records', url: 'https://diobr.org/archives-publications' },
+          { label: 'Acadians in Gray: Aucoin appendix', url: 'http://www.acadiansingray.com/Appendices-ATLAL-AUCOIN.htm' },
+        ],
         name: 'Church of the Assumption, Plattenville',
         kind: 'church',
         lat: 29.99062, lng: -91.02368,
@@ -597,6 +740,9 @@
 
       {
         id: 'albemarle-4th-ward',
+        links: [
+          { label: '1860 Assumption census, USGenWeb', url: 'http://us-census.org/pub/usgenweb/census/la/assumption/1860/pg00021.txt' },
+        ],
         name: 'The 4th Ward, Albemarle post office',
         kind: 'town',
         lat: 29.94048, lng: -91.02482,
