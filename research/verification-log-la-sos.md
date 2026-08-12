@@ -82,3 +82,57 @@ body, but it is a Louisiana record of the death and it is orderable from the sta
 The death index covers only deaths. Of the 46 citations in this pile, the remainder are
 **births and marriages**, which live in separate Secretary of State databases and have not
 yet been searched. Those are the next batch.
+
+---
+
+# Batch 2 — Orleans births and marriages
+
+**Date:** 12 August 2026. Same method, same caveat: these are separate SOS databases
+at `/Births/DataView.aspx` and `/Marriages/DataView.aspx`, both postback forms with
+no per-record permalink. Search term and full index row given for each.
+
+## BIRTHS — 5 of 5 CONFIRMED EXACTLY
+
+| Person | Citation on the page | Index row, transcribed | Verdict |
+|---|---|---|---|
+| herbertJoseph | Orleans Parish, 10 July 1921 — Vol. 175, p. 791 | `1921 · 7/10 · PEDEAUX, HERBERT JOSEPH · mother GAIENNIE, EDNA M · father PEDEAUX, NUMA L JR · Orleans · Vol 175 p 791` | **CONFIRMED**, parents verbatim |
+| veronicaBrunetti | Orleans Parish, 20 November 1923 — Vol. 181, p. 2241 | `1923 · 11/20 · BRUNETTI, VERONICA MARY · mother FRANOVICH, VERONICA · father BRUNETTI, JOHN · Orleans · Vol 181 p 2241` | **CONFIRMED** |
+| charlesEmileLarmann | Orleans Parish, 12 July 1902 — Vol. 123, p. 485 | `1902 · 7/12 · LARMANN, CHARLES EMILE · mother MOORE, EUGENIA · father LARMANN, ANTHONY H · Orleans · Vol 123 p 485` | **CONFIRMED** |
+| henryJohnWellmeyer | Orleans Parish, 13 March 1886 — Vol. 83, p. 968 | `1886 · 3/13 · WELLMEYER, HENRY JOHN · mother LANGE, CATHERINE E · father WELLMEYER, JOHN · Orleans · Vol 83 p 968` | **CONFIRMED** |
+| henryBernardWellmeyer | Orleans Parish, 2 February 1864 — Vol. 36, p. 376 | `1864 · 2/2 · WELLMEYER, LOUIS · mother LOBMEYER, CAROLINE · father WELLMEYER, BERNARD · Orleans · Vol 36 p 376` | **CONFIRMED** |
+
+**A site claim that just proved itself.** Veronica Brunetti's record carries the note
+that hers is "the only Brunetti birth in the entire Louisiana index, 1790–1925."
+Searching BRUNETTI in the birth index returns **1 of 1 results**. The claim is now
+demonstrated rather than asserted.
+
+## MARRIAGES — 4 CONFIRMED, 1 with a naming discrepancy
+
+| Person | Citation on the page | Index row, transcribed | Verdict |
+|---|---|---|---|
+| johnCasparLarmann | Orleans, 26 April 1884 (Vol. 10, p. 589) | `1884 · month 4 · bride EHMANN, LOUISA MARGARET · groom LARMANN, JOHN CASPER · Orleans · Vol 10 p 589` | **CONFIRMED** |
+| charlesEmileLarmann | Orleans Parish, August 1924 — Vol. 49, p. 468 | `1924 · month 8 · bride LEMOINE, JOHANNA K · groom LARMANN, CHARLES EMILE · Orleans · Vol 49 p 468` | **CONFIRMED** |
+| alphonseJr | Orleans Parish, February 1888 — Vol. 13, p. 255 | `1888 · month 2 · bride CURIEN, JENNIE ELIZABETH · groom GAIENNIE, ALPHONSE FLORESTAN · Orleans · Vol 13 p 255` | **CONFIRMED** |
+| emilyMevers / johnCasparLarmann | Orleans, 10 November 1870 (Vol. 1, p. 662) | `1870 · month 11 · bride MEVERS, MARIE E · groom LARMANN, JOHN G · Orleans · Vol 1 p 662` | **CONFIRMED on volume, page and month — see the note** |
+
+**The 1870 marriage: two names are not what this site prints.**
+The volume, page and month match exactly. But the index gives the groom as
+**LARMANN, JOHN G** — not John Casper — and the bride as **MEVERS, MARIE E**, not
+Emily. Neither is fatal. A handwritten C read as G is among the commonest index
+errors, and this page already documents that her given name wobbles across records
+(Esther's ledger calls her Amelia; her own death record calls her Emily Mevers;
+this marriage index calls her Marie E). But the middle initial is now a fourth
+variant on a man whose identity this line depends on, and it is recorded rather
+than smoothed over.
+
+**Note on day-of-month:** the marriage index gives YEAR and MONTH only, no day. So
+the specific days this site prints — 26 April 1884, 10 November 1870 — do **not**
+come from this index and are not verified by it. They come from elsewhere and remain
+unverified until that elsewhere is identified.
+
+## New records found in passing
+
+| Finding | Index row |
+|---|---|
+| Robert Louis Pedeaux's birth | `1918 · 9/11 · PEDEAUX, ROBERT LOUIS · mother GAIENNIE, EDNA MARIE · father PEDEAUX, NUMA LOUIS C · Orleans · Vol ... p 1177` |
+| Caspar Maurice Larmann's birth — the son buried at St. Roch | `1899 · 1/15 · LARMANN, CASPAR MAURICE · mother EHMANN, LOUISE M · father LARMANN, CASPAR · Orleans · Vol 115 p 383` |

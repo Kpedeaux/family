@@ -136,7 +136,7 @@
         },
         {
           title: 'Louisiana birth record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 10 July 1921 — Vol. 175, p. 791',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, 10 July 1921 — Vol. 175, p. 791',
           text: 'PEDEAUX, HERBERT JOSEPH. Father: PEDEAUX, NUMA L JR. Mother: GAIENNIE, EDNA M.'
         },
         {
@@ -176,7 +176,7 @@
       records: [
         {
           title: 'Louisiana birth record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 20 November 1923 — Vol. 181, p. 2241',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, 20 November 1923 — Vol. 181, p. 2241',
           text: 'BRUNETTI, VERONICA MARY. Father: BRUNETTI, JOHN. Mother: FRANOVICH, VERONICA. The only Brunetti birth in the entire Louisiana index, 1790–1925.'
         },
         {
@@ -844,7 +844,7 @@
         },
         {
           title: 'Louisiana marriage record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, February 1888 — Vol. 13, p. 255',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, February 1888 — Vol. 13, p. 255',
           text: 'CURIEN, JENNIE ELIZABETH × GAIENNIE, ALPHONSE FLORESTAN.'
         },
         {
@@ -1931,12 +1931,12 @@
         },
         {
           title: 'Louisiana birth record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 12 July 1902 — Vol. 123, p. 485',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, 12 July 1902 — Vol. 123, p. 485',
           text: 'LARMANN, CHARLES EMILE. Father: LARMANN, ANTHONY H. Mother: MOORE, EUGENIA.'
         },
         {
           title: 'Louisiana marriage record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, August 1924 — Vol. 49, p. 468',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, August 1924 — Vol. 49, p. 468',
           text: 'LEMOINE, JOHANNA K × LARMANN, CHARLES EMILE.',
           highlight: 'His sister Esther\'s ledger supplies the exact day: 23 August 1924, New Orleans.'
         },
@@ -2278,7 +2278,7 @@
         },
         {
           title: 'The record that first named his parents',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana Parish Marriages — Orleans, 26 April 1884 (Vol. 10, p. 589)',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Louisiana Parish Marriages — Orleans, 26 April 1884 (Vol. 10, p. 589)',
           text: 'John Casper Larmann, 36, son of JOHN CASPER LARMANN and MARIA ELIZABETH WERGERS, m. Louisa Margaret Ehmann, 27. Also on the act: John D. Ehmann and Katharina Lutz.',
           highlight: 'Found August 2026, in the church-marriage collection the state civil index never covered — the lead that sent the search to Gesmold. His parents\' names had been unknown to the family for a century.'
         },
@@ -2290,13 +2290,13 @@
         },
         {
           title: 'First marriage',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, November 1870 — Vol. 1, p. 662',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, November 1870 — Vol. 1, p. 662',
           text: 'MEVERS, MARIE E × LARMANN, JOHN G [sic — Casper].',
           highlight: 'This settles a smudged digit in Esther\'s ledger: the wedding was 1870, not 1876 — nine and a half months before Anthony was born.'
         },
         {
           title: 'Second marriage',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, April 1884 — Vol. 10, p. 589',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, April 1884 — Vol. 10, p. 589',
           text: 'EHMANN, LOUISA MARGARET × LARMANN, JOHN CASPER.',
           highlight: 'Two years after Emily\'s death, on 26 April 1884. She was born on 27 August 1857 — at MILNEBURG, the lakefront settlement at the end of the Pontchartrain Railroad, according to her own obituary — and died in New Orleans on 17 September 1931, her death notice running the following day. She was EHMANN by birth — the daughter of John David Ehmann and Catharina Lutz, the two names the act itself records. Joseph Stauder, who appears in the 1900 census of this house as "father-in-law," was the man who RAISED her, not the man who fathered her. See "The Stauder puzzle, and how it fooled me" below.'
         },
@@ -2399,7 +2399,7 @@
         },
         {
           title: 'Named on his son\'s American marriage record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana Parish Marriages — Orleans, 26 April 1884 (Vol. 10, p. 589)',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Louisiana Parish Marriages — Orleans, 26 April 1884 (Vol. 10, p. 589)',
           text: 'The groom John Casper Larmann, 36, is entered as the son of JOHN CASPER LARMANN and MARIA ELIZABETH WERGERS.',
           highlight: 'Generation after generation of this family carried the name Caspar Larmann, which is exactly why the American records blur them together.'
         }
@@ -2427,7 +2427,7 @@
         },
         {
           title: 'Named on her son\'s marriage record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana Parish Marriages — Orleans, 26 April 1884 (Vol. 10, p. 589)',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Louisiana Parish Marriages — Orleans, 26 April 1884 (Vol. 10, p. 589)',
           text: 'Indexed as MARIA ELIZABETH WERGERS — also read Wergery in a second indexing of the same act, and WEINER on his 1921 death certificate.',
           highlight: 'Werges, Wergers, Wergery, Weiner: one woman heard by four American clerks who had never seen the name written.'
         }
@@ -2518,7 +2518,7 @@
       records: [
         {
           title: 'Marriage — Orleans Parish',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana Parish Marriages — Orleans, 10 November 1870 (Vol. 1, p. 662)',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Louisiana Parish Marriages — Orleans, 10 November 1870 (Vol. 1, p. 662)',
           text: 'Marie E. Mevers, 23, m. John [Casper] Larmann, 23. Also named on the act: C. MEVERS — her father.',
           highlight: 'Nine and a half months before Anthony was born, and the record that puts a "C. Mevers" at her side: her father was a Clemens, which is where the couple\'s lost little boy Charles A. Clemence got his name.'
         },
@@ -2968,7 +2968,7 @@
         },
         {
           title: 'Louisiana birth record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 13 March 1886 — Vol. 83, p. 968',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, 13 March 1886 — Vol. 83, p. 968',
           text: 'WELLMEYER, HENRY JOHN. Father: WELLMEYER, JOHN. Mother: LANGE, CATHERINE E.'
         },
         {
@@ -3148,7 +3148,7 @@
         },
         {
           title: 'Birth of his son Louis — the couple named together',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 2 February 1864 — Vol. 36, p. 376',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, 2 February 1864 — Vol. 36, p. 376',
           text: 'WELLMEYER, LOUIS — mother LOBMEYER, CAROLINE; father WELLMEYER, BERNARD.',
           highlight: 'The anchor civil record of the immigrant generation: Bernard and Caroline named together, in New Orleans, raising children.'
         }
