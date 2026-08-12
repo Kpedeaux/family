@@ -77,7 +77,7 @@
         },
         {
           title: 'The cemetery register, in the archdiocese\'s own hand',
-          citation: 'Archdiocese of New Orleans, Catholic Cemeteries burial register — profile 36915129, plot L3 SQ 5E / G ST. LOUIS AVENUE / 9. Searched 12 August 2026.',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Archdiocese of New Orleans, Catholic Cemeteries burial register — profile 36915129, plot L3 SQ 5E / G ST. LOUIS AVENUE / 9. Searched 12 August 2026.',
           text: 'HERBERT JOHN PEDEAUX — born 20 October 1956 — died 17 February 2009, aged 52 — buried 20 February 2009, St. Louis Cemetery No. 3.',
           highlight: 'Both his dates come back exactly as this tree already carried them, from a record nobody in the family supplied. That matters more than it looks: the archdiocese\'s register is an independent third party, and where it can be checked against what the family knew, it agrees.'
         }
@@ -136,12 +136,12 @@
         },
         {
           title: 'Louisiana birth record',
-          citation: 'Orleans Parish, 10 July 1921 — Vol. 175, p. 791',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 10 July 1921 — Vol. 175, p. 791',
           text: 'PEDEAUX, HERBERT JOSEPH. Father: PEDEAUX, NUMA L JR. Mother: GAIENNIE, EDNA M.'
         },
         {
           title: 'Louisiana marriage record',
-          citation: 'Orleans Parish, April 1943 — Vol. 58, p. 1681',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, April 1943 — Vol. 58, p. 1681',
           text: 'PEDEAUX, HERBERT JOSEPH × BRUNETTI, VERONICA MARIE.'
         },
         {
@@ -176,12 +176,12 @@
       records: [
         {
           title: 'Louisiana birth record',
-          citation: 'Orleans Parish, 20 November 1923 — Vol. 181, p. 2241',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 20 November 1923 — Vol. 181, p. 2241',
           text: 'BRUNETTI, VERONICA MARY. Father: BRUNETTI, JOHN. Mother: FRANOVICH, VERONICA. The only Brunetti birth in the entire Louisiana index, 1790–1925.'
         },
         {
           title: 'Her burial — and a question in the same plot',
-          citation: 'Archdiocese of New Orleans, Catholic Cemeteries burial register — St. Louis No. 3, plot L3 SQ 5E / G ST. LOUIS AVENUE / 9, profile 36915128. Searched 12 August 2026.',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Archdiocese of New Orleans, Catholic Cemeteries burial register — St. Louis No. 3, plot L3 SQ 5E / G ST. LOUIS AVENUE / 9, profile 36915128. Searched 12 August 2026.',
           text: 'VERONICA PEDEAUX — died 6 August 2013, aged 89 — buried 10 August 2013 in the Brunetti plot, with her husband, her son, and both her parents. Also in the plot, buried 19 May 1951: "VERONICA (TWINS) BRUNETTI."',
           highlight: 'THAT 1951 ENTRY IS NOT EXPLAINED YET, AND IT SHOULD NOT BE GUESSED AT. Cemetery ledgers routinely record infants who died before naming under the mother\'s name and the plot\'s family surname — so "Veronica (Twins) Brunetti" most likely means twins born to a Veronica. Two women in this family answer to that. Veronica Franovich Brunetti was about forty-nine in 1951, which makes her very unlikely. Veronica Marie was twenty-seven, married eight years, and had her children in exactly these years — Patricia, then Buddy in 1956. Twins lost in May 1951 would sit precisely in that gap. But the ledger does not say whose they were, and this tree does not print inferences as facts: the Orleans Parish death index for May 1951 would settle it, and until it does this stays a question.'
         }
@@ -233,7 +233,7 @@
         },
         {
           title: 'HIS OWN HAND — the 1942 draft card, with his address, his telephone and his employer',
-          citation: 'United States, World War II Draft Registration Cards, 1942 — Fourth Registration, State of Louisiana; serial number U-1108, D.S.S. Form 1 (revised 4-1-42), signed by the registrant.',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States, World War II Draft Registration Cards, 1942 — Fourth Registration, State of Louisiana; serial number U-1108, D.S.S. Form 1 (revised 4-1-42), signed by the registrant.',
           text: 'NUMA — LOUIS — PEDEAUX. · Place of residence: 6509 WEST END BLVD., N.O., La. · Mailing address: same. · Telephone: AU-1452. · Age 54; born 3-16-1888. · PLACE OF BIRTH: LAFOURCHE PARISH, LA. · Person who will always know your address: EDNA PEDEAUX (WIFE), 6509 West End Blvd. · Employer: MARITIME ELEC. CO. · Place of employment: 615 COMMERCE PLACE, N.O., La. · Signed, Numa L. Pedeaux.',
           image: 'assets/img/pedeaux-1942-draft-card.jpg',
           imageAlt: 'A 1942 United States draft registration card for Numa Louis Pedeaux, giving his residence at 6509 West End Boulevard, his birthplace as Lafourche Parish, and his employer as Maritime Electric Co. at 615 Commerce Place',
@@ -242,12 +242,12 @@
         },
         {
           title: 'Louisiana marriage record',
-          citation: 'Orleans Parish, July 1917 — Vol. 39, p. 1008',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, July 1917 — Vol. 39, p. 1008',
           text: 'PEDEAUX, NUMA LOUIS CHARLES JR × GAIENNIE, EDNA MARIE.'
         },
         {
           title: '1900 U.S. Census, Lafourche Parish',
-          citation: 'Household of Numa Pedaux (b. 1848) and wife Ulali (b. 1849)',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Household of Numa Pedaux (b. 1848) and wife Ulali (b. 1849)',
           text: 'Son "Numa Pedaux, b. 1888," indexed with parents "Numa, Ulali."'
         }
       ],
@@ -314,13 +314,13 @@
       records: [
         {
           title: 'Baptism — Church of the Assumption, Plattenville',
-          citation: 'Diocese of Baton Rouge, Vol. 7 (1848–1852), ASM-9, 290',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 7 (1848–1852), ASM-9, 290',
           text: 'Pierre Numa (Antoine Pedeau and Marie CANCIENNE) bn. 20 Nov. 1847 bt. 11 May 1848 spo. Pierre Cancienne and Florence Aucoin.',
           highlight: 'The godmother is Florence Aucoin — his own grandmother, Michel Pedeau\'s widow, standing at the font. One line ties 1808 to 1847.'
         },
         {
           title: 'Marriage — St. Philomena, Labadieville',
-          citation: 'Diocese of Baton Rouge, Vol. 12 (1871–1873), SPH-4, 367',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 12 (1871–1873), SPH-4, 367',
           text: 'Numa (Antoine Pedeaux and Marie CANCIENNE) m. 27 April 1871 Eulalie BORNE of Lafourche Parish (Marcellin Borne and Anne Marie GUEDRY) wit. Alcee Pedeaux; Edouard Borne; Ulysse Pedeaux; Ulger Douce; Odile Foret; Edw. Vives; Marie Vives; Clementine Schiffestien.'
         }
       ],
@@ -401,12 +401,12 @@
       records: [
         {
           title: 'Baptism — Church of the Assumption, Plattenville',
-          citation: 'Diocese of Baton Rouge, Vol. 3 (1804–1818), ASM-6, 288',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 3 (1804–1818), ASM-6, 288',
           text: 'Antonio Florentin (Miguel and Florencia AUCOIN) bn. 1 Nov 1812 bt. 25 Apr 1813 spo. Antonio Robertson and Margarita Bourque.'
         },
         {
           title: 'Burial',
-          citation: 'Diocese of Baton Rouge, Vol. 9 (1858–1862), ASM-10, 168',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 9 (1858–1862), ASM-10, 168',
           text: 'Antoine Pedo, age 45 years, bur. 8 Aug. 1858 d. yesterday.'
         }
       ],
@@ -444,7 +444,7 @@
       records: [
         {
           title: 'Burial',
-          citation: 'Diocese of Baton Rouge, Vol. 9 (1858–1862), ASM-10, 190',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 9 (1858–1862), ASM-10, 190',
           text: 'Marie Cancienne, age 40 years, wife of Antoine PEDO, bur. 12 May 1862 d. yesterday.'
         }
       ],
@@ -500,7 +500,7 @@
       records: [
         {
           title: 'Marriage — Church of the Assumption, Plattenville',
-          citation: 'Diocese of Baton Rouge, Vol. 3 (1804–1818), ASM-2, 127',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 3 (1804–1818), ASM-2, 127',
           text: 'Michel, of Nantes, Brittany, France (Michel and Jeanne MURAILLE) m. 26 Jan 1808 Florence Marguerite AUCOIN, of St. Malo, Brittany, France (Michel and Isabelle HEBERT, both decd.) wit. Pierre Hypolite Brais; Jean Baptiste Tojan; Isaac Landry.'
         },
         {
@@ -548,7 +548,7 @@
         },
         {
           title: 'Death — Nantes table décennale des décès, 1793–an X',
-          citation: 'Archives municipales de Nantes, 1E 1675, view 185 of 359, page 1234',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Archives municipales de Nantes, 1E 1675, view 185 of 359, page 1234',
           text: '"Pedo — Michel — 9 nivôse — an 8 — 1er sect." The only Michel in the Ped- surnames of the table, entered between Pedan and Pedrailleau.',
           highlight: 'Read in the original table. 9 nivôse an VIII of the republican calendar is 30 December 1799 — the death date the compilers carried, now confirmed to the day in the city\'s own index. He died in the 1st section of Nantes, the riverfront quarter that held La Fosse.'
         }
@@ -701,12 +701,12 @@
         },
         {
           title: 'Passenger list — La Ville d\'Archangel, 1785',
-          citation: 'Entry 21 of 55 family groups; arrived New Orleans 3 December 1785',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Entry 21 of 55 family groups; arrived New Orleans 3 December 1785',
           text: 'Michel AUCOIN 53 years, Isabelle HEBERT, his wife 48 years. Children: Jean 23, Michel 16, Pierre 14, François 11, Constant 2, Marie 21, Anne 19, Isabelle 13, Floriane 4, Grégoire 18.'
         },
         {
           title: 'Burial',
-          citation: 'Diocese of Baton Rouge, Vol. 7 (1848–1852), ASM-10, 120',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 7 (1848–1852), ASM-10, 120',
           text: 'Florence Aucoin, age 72 years, wife of Francois BARIOT, bur. 31 March 1852.'
         }
       ],
@@ -769,7 +769,7 @@
       records: [
         {
           title: 'Passenger list — La Ville d\'Archangel, 1785, entry 21',
-          citation: 'Rev. Donald J. Hébert, Acadian Families in Exile 1785, p. 93',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Rev. Donald J. Hébert, Acadian Families in Exile 1785, p. 93',
           text: 'Michel AUCOIN 53 years, Isabelle HEBERT, his wife 48 years — with ten named children including "Floriane 4 years."'
         },
         {
@@ -843,12 +843,12 @@
         },
         {
           title: 'Louisiana marriage record',
-          citation: 'Orleans Parish, February 1888 — Vol. 13, p. 255',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, February 1888 — Vol. 13, p. 255',
           text: 'CURIEN, JENNIE ELIZABETH × GAIENNIE, ALPHONSE FLORESTAN.'
         },
         {
           title: 'Louisiana death record',
-          citation: 'Orleans Parish, 19 March 1919 — Vol. 176, p. 115',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 19 March 1919 — Vol. 176, p. 115',
           text: 'GAIENNE, ALPHONSE F, age 56.'
         }
       ],
@@ -877,7 +877,7 @@
       records: [
         {
           title: 'Louisiana death record',
-          citation: 'Orleans Parish, 12 January 1919 — Vol. 175, p. 218',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 12 January 1919 — Vol. 175, p. 218',
           text: 'GAIENNIE, JEANNE E CURIEN, age 52.'
         }
       ]
@@ -921,12 +921,12 @@
       records: [
         {
           title: 'Baptism — St. Michael, Convent (St. James Parish)',
-          citation: 'Diocese of Baton Rouge, Vol. 4 (1820–1829), SMI-3, 164',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 4 (1820–1829), SMI-3, 164',
           text: 'Florentin (Gerve and Natalie CHENET) bn. 9 Sept. 1826 bt. 27 Sept. 1829 spo. Armand Bourgeois and Selese Frederic.'
         },
         {
           title: 'Louisiana death record',
-          citation: 'Orleans Parish, 20 July 1884 — Vol. 85, p. 616',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 20 July 1884 — Vol. 85, p. 616',
           text: 'GAIENNIE, FLORESTAN, age 60.'
         }
       ]
@@ -988,25 +988,25 @@
         },
         {
           title: 'Baptism — St. James Parish',
-          citation: 'Diocese of Baton Rouge, Vol. 2 (1770–1803), SJA-3, 157',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 2 (1770–1803), SJA-3, 157',
           text: 'Gervasio (Francisco & Eulalia Sarde) bt. 6 Sep 1797 bn. 1 Jun 1797 spo. Estevain Rene & Eufrosyna Sarde. Pat. GP: (Juliano Gagnier & Renata de Brun) Mat. GP: (Nicolas Sarde & Margarita Rene).',
           highlight: 'His own baptism, found in 2026 under the spelling GANIER — with both parents and all four grandparents named in a single entry. The godfather is his great-uncle Étienne Reyne; the godmother his aunt Euphrosine.'
         },
         {
           title: 'Marriage — St. Michael, Convent',
-          citation: 'Diocese of Baton Rouge, Vol. 4 (1820–1829), SMI-2, 77',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 4 (1820–1829), SMI-2, 77',
           text: 'Gervais, age 22, nat. of New Orleans (Francois and Elisabete SARDE, both decd.) m. 22 Jan. 1820 Nathalie CHENET, age 17 (Pierre and Susanne LAVIGNE) wit. Jean Baptiste Oury; Dominique LeBourgeois; Orter Reine; Maximillien Rousselle.',
           highlight: 'One record fixes four things: his 1797 birth, his New Orleans origin, both his parents, and both of his wife\'s parents. Note the witness "Orter Reine" — his grandmother\'s family, still standing up for him twenty-three years on.'
         },
         {
           title: 'Militia roll — War of 1812',
-          citation: 'Louisiana Soldiers in the War of 1812 (compiled state militia rosters)',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana Soldiers in the War of 1812 (compiled state militia rosters)',
           text: '"Gervais Gainne — 6 Reg\'t. (Landry\'s), La. Militia."',
           highlight: 'He was not alone. The same roster carries "Francis Gaignie — 4 Reg\'t. (Morgan\'s), La. Militia" and a "U. Gaignie" — his father and, most likely, his uncle Urbain. Seven Gaiennie entries in all, across the usual spelling variants.'
         },
         {
           title: 'Burial — St. Michael, Convent',
-          citation: 'Diocese of Baton Rouge, Vol. 8 (1853–1857), SMI-4, 236',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 8 (1853–1857), SMI-4, 236',
           text: 'Gervais Gaiennie, age 57 yrs., bur. 9 June 1854.'
         }
       ],
@@ -1068,13 +1068,13 @@
         },
         {
           title: 'Marriage — St. James Parish',
-          citation: 'Diocese of Baton Rouge, Vol. 2 (1770–1803), SJA-2, 19',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 2 (1770–1803), SJA-2, 19',
           text: 'Francisco (Julian & Reneta Lebrum, of Brulon, France) m. 10 Feb 1793 Eulalia SARDE (Nicolas & Margarita Renne, of New Orleans) wit. Juan Haydel & Margarita Sarde.',
           highlight: 'One line names his parents, his French home town, his bride, and her parents. This record sat unfound for years because the clerk filed the family under GANIER — the "no Gaiennie in Volume 2" conclusion was a spelling artifact.'
         },
         {
           title: 'Militia roll — War of 1812',
-          citation: 'Louisiana Soldiers in the War of 1812 (compiled state militia rosters)',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana Soldiers in the War of 1812 (compiled state militia rosters)',
           text: '"Francis Gaignie — 4 Reg\'t. (Morgan\'s), La. Militia."',
           highlight: 'Almost certainly this François — which would put father and son in the campaign in different regiments. Probable rather than proven.'
         }
@@ -1098,12 +1098,12 @@
       records: [
         {
           title: 'Named in his son Urbain\'s marriage record',
-          citation: 'St. Louis Cathedral, 19 March 1789 — SLC, M5, 62 (SRANO Vol. 4)',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] St. Louis Cathedral, 19 March 1789 — SLC, M5, 62 (SRANO Vol. 4)',
           text: 'Urbano (Julián and Renata LEBRUN), native of la Bassouge de Chesnery, Province Dumene [La Bazouge-de-Chemeré, province of Maine], m. Maria SARDET, Mar. 19, 1789.'
         },
         {
           title: 'Named in his grandson Gervais\'s baptism',
-          citation: 'St. James Parish, 6 September 1797 — SJA-3, 157 (Diocese of Baton Rouge Vol. 2)',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] St. James Parish, 6 September 1797 — SJA-3, 157 (Diocese of Baton Rouge Vol. 2)',
           text: 'Pat. GP: Juliano Gagnier & Renata de Brun.'
         }
       ]
@@ -1145,12 +1145,12 @@
       records: [
         {
           title: 'Marriage — St. Louis church, New Orleans',
-          citation: '20 January 1767 — SLC, M2, 25 (SRANO Vol. 2)',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] 20 January 1767 — SLC, M2, 25 (SRANO Vol. 2)',
           text: 'Marguerite [REINE], m. Nicolas SARDE, Jan. 20, 1767.'
         },
         {
           title: 'Daughter Eulalie\'s baptism, naming his trade',
-          citation: '16 January 1774 — SLC, B7, 35 (SRANO Vol. 3)',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] 16 January 1774 — SLC, B7, 35 (SRANO Vol. 3)',
           text: 'Eulalie Alexandrine (Nicolas, master cooper, and Marie Margueritte REINE), b. Jan. 16, 1774, bn. Jan. 5, 1774.'
         }
       ],
@@ -1172,12 +1172,12 @@
       records: [
         {
           title: 'Baptism — St. Louis church, New Orleans',
-          citation: '6 November 1752 — SLC, B2, 269 (SRANO Vol. 2)',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] 6 November 1752 — SLC, B2, 269 (SRANO Vol. 2)',
           text: 'Marie Marguerite (Etienne and Francoise [RENARD]), b. Nov. 6, 1752, bn. Nov. 6, 1752, s. Laurant BAILLY and Marguerite CHENET.'
         },
         {
           title: 'Remarriage, naming her parents — read in the register itself',
-          citation: 'St. Louis Cathedral, New Orleans — Marriages 1784–1806, entry 2 of May 1784 (SLC, M5, 27; SRANO Vol. 4). Digitized register published free by the Archdiocese of New Orleans, Office of Archives and Records.',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] St. Louis Cathedral, New Orleans — Marriages 1784–1806, entry 2 of May 1784 (SLC, M5, 27; SRANO Vol. 4). Digitized register published free by the Archdiocese of New Orleans, Office of Archives and Records.',
           image: 'assets/img/reyne-1784-marriage.jpg',
           imageAlt: 'The handwritten Spanish colonial marriage entry of 2 May 1784 recording Pedro Bourgeois and Maria Margarita Reen',
           imageCredit: 'Archdiocese of New Orleans, Office of Archives and Records. Tap to enlarge.',
@@ -1204,7 +1204,7 @@
       records: [
         {
           title: 'The earliest trace of him — a godmother\'s line, 16 March 1750',
-          citation: 'St. Louis church, New Orleans — baptism of Marie Françoise Castel, 16 March 1750 (SLC, B2, 180); SRANO Vol. 1 (1718–1750)',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] St. Louis church, New Orleans — baptism of Marie Françoise Castel, 16 March 1750 (SLC, B2, 180); SRANO Vol. 1 (1718–1750)',
           text: '"Marie Francoise (Cecile CHRISTOPHE, widow Jean CASTEL), b. March 16, 1750, s. Jean Baptiste LEGROS, surnamed LA TANDRILLE, resident, and MARIE FRANÇOISE RENARD, SP. ETIENNE REINE, MASON."',
           highlight: 'The oldest record of this couple, found 11 August 2026 — two and a half years before their eldest child was born. It catches them sideways: Françoise is standing as godmother to a widow\'s baby, and the clerk identifies her the way clerks did, by her husband — "spouse of Étienne Reine, mason." So they were already married by March 1750, he was already working at his trade, and it gives her full name: MARIE Françoise Renard. He is not yet "master" mason here; that title arrives with his son Pierre\'s baptism in 1761.'
         },
@@ -1216,7 +1216,7 @@
         },
         {
           title: 'His children\'s baptisms — St. Louis church',
-          citation: 'SLC registers B2–B5, 1752–1766 (SRANO Vol. 2)',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] SLC registers B2–B5, 1752–1766 (SRANO Vol. 2)',
           text: 'Marie Marguerite (1752) · Marie Jeanne (1755) · Louise Françoise (1757) · Pierre (1761, "Etienne, master mason") · Marie Joseph (1766) — all children of Etienne and Francoise RENARD.'
         }
       ],
@@ -1279,7 +1279,7 @@
       records: [
         {
           title: 'The first time she appears — as a godmother, 16 March 1750',
-          citation: 'St. Louis church, New Orleans — baptism of Marie Françoise Castel (SLC, B2, 180); SRANO Vol. 1',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] St. Louis church, New Orleans — baptism of Marie Françoise Castel (SLC, B2, 180); SRANO Vol. 1',
           text: '"…s. Jean Baptiste LEGROS, surnamed LA TANDRILLE, resident, and MARIE FRANÇOISE RENARD, sp. Etienne REINE, mason."',
           highlight: 'The oldest record of either of them, and it gives her the full name the later entries drop: MARIE Françoise. She is standing over the font for the baby of a widow — the kind of small neighbourly act that is most of what survives of a woman\'s life in these books.'
         },
@@ -1294,7 +1294,7 @@
         },
         {
           title: 'Her first husband — Pierre Cousin, and the man who raised her',
-          citation: 'St. Louis church, New Orleans — baptism of Jean François Cousin, 7 September 1745 (SLC, B2, 49); SRANO Vol. 1. WPA abstract of the 1740 contract, Document C 40 (2845).',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] St. Louis church, New Orleans — baptism of Jean François Cousin, 7 September 1745 (SLC, B2, 49); SRANO Vol. 1. WPA abstract of the 1740 contract, Document C 40 (2845).',
           text: 'Contract: "Marriage contract between PIERRE FRANCOIS COUSIN, CARPENTER, and MARIE FRANCOISE REINARD OF NEW ORLEANS." Signed: Pierre Cousin · Dehallier · Marie Francoise Reinard · Jean Callier · Perier · + Cimonot. Baptism, five years later: "COUSIN — Jean Francois (Pierre and Francoise RENARD), b. Sept. 7, 1745, s. JEAN CONNARD and Sylvestre? MAUNOY."',
           image: 'assets/img/cousin-1740-wpa-card.jpg',
           imageAlt: 'A typed WPA index card abstracting the 1740 marriage contract between Pierre François Cousin and Marie Françoise Reinard, with signatures copied beneath',
@@ -1358,12 +1358,12 @@
       records: [
         {
           title: 'Baptism — St. Louis church, New Orleans',
-          citation: '16 January 1774 — SLC, B7, 35 (SRANO Vol. 3)',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] 16 January 1774 — SLC, B7, 35 (SRANO Vol. 3)',
           text: 'Eulalie Alexandrine (Nicolas, master cooper, and Marie Margueritte REINE), b. Jan. 16, 1774, bn. Jan. 5, 1774, s. Nicolas Alexandre DELASSIZE and Marie Eulalie DELASSIZE.'
         },
         {
           title: 'Marriage — St. James Parish',
-          citation: '10 February 1793 — SJA-2, 19 (Diocese of Baton Rouge Vol. 2)',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] 10 February 1793 — SJA-2, 19 (Diocese of Baton Rouge Vol. 2)',
           text: 'Eulalia (Nicolas & Margarita Renne, of New Orleans) m. 10 Feb 1793 Francisco GANIER (Julian & Renata Lebrum, of Brulon, France) wit. Juan Haydel & Margarita Sarde.'
         }
       ],
@@ -1406,13 +1406,13 @@
         },
         {
           title: 'Marriage — the record that names his parents',
-          citation: 'Louisiana Parish Marriages, Orleans, June 1921 (licence Vol. 46, p. 90; two entries, 15 and 18 June)',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana Parish Marriages, Orleans, June 1921 (licence Vol. 46, p. 90; two entries, 15 and 18 June)',
           text: 'John Brunetti, 28, son of MICHELE BRUNETTI and DOMENICA FORANO, m. Miss Veronica Franovich, 19. Also on the record: An[thony] Franovich and Melan[ie] Moyant — the bride\'s parents.',
           highlight: 'Found August 2026. This is the document the family file waited five years of records for: it names John\'s parents — and the father matches the "father Michele, Plataci" of the 1912 Ellis Island manifest, closing the chain to the village.'
         },
         {
           title: 'Veterans Administration Master Index, 1917–1940',
-          citation: 'U.S. Veterans Administration master index card',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] U.S. Veterans Administration master index card',
           text: 'John Brunetti — a veteran\'s index card, with military service dated 24 May 1919 at New Orleans.',
           highlight: 'The family said he served in the First World War and gained his citizenship through it — the VA index is the federal confirmation that he served. His grandson Aaron carries the rest of it from Buddy: he was with a gun crew, artillery, and it left him deaf in later life.'
         },
@@ -1429,7 +1429,7 @@
         },
         {
           title: '1930 U.S. Census, Orleans Parish',
-          citation: 'Household of John Brunette',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Household of John Brunette',
           text: 'John Brunette, b. about 1894 in Italy; wife Veronica; daughter Veronica M., b. about 1924 in Louisiana.'
         },
         {
@@ -1443,13 +1443,13 @@
         },
         {
           title: 'The name his village would have used',
-          citation: 'Arbëresh naming custom, from the research binder kept by his granddaughter Patricia Pedeaux Ruda, printed December 2010',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Arbëresh naming custom, from the research binder kept by his granddaughter Patricia Pedeaux Ruda, printed December 2010',
           text: 'Every Arbëresh person carries a legal Italian name and an Arbëresh one. Giuseppe is ZEF · Francesco is NXHIKU · Nicola is KOLL · Antonio is NTONI · Maria is MARIEJA — and GIOVANNI is XHUAN, or JANI.',
           highlight: 'So he was Giovanni on the paperwork, John in America, and almost certainly XHUAN or JANI to his own mother. Three names for one man, and the middle one — the one his village actually said out loud — is the one no record of his life anywhere in Louisiana would ever have written down.'
         },
         {
           title: 'What Plataci was, and still is',
-          citation: 'Arbëresh background material in the same binder; corroborated by the parish acts quoted in Alicia Bodily\'s Plataci genealogy',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Arbëresh background material in the same binder; corroborated by the parish acts quoted in Alicia Bodily\'s Plataci genealogy',
           text: 'The baptisms in Plataci\'s own parish books are recorded "secondo il rito greco" — by the Greek rite. The parish is San Giovanni Battista; the priests who sign the acts are archpriests named Chidichimo and Dramisino.',
           highlight: 'Plataci is an ARBËRESH village — one of the Italo-Albanian communities founded by refugees who crossed the Adriatic in the fifteenth century, after the Ottomans took Albania, and who have kept their language and their Byzantine rite ever since. That is why his people were Catholic but not Roman-rite, and why a Calabrian hill town five hundred miles from Albania was still speaking Albanian when he was born there in 1893.'
         }
@@ -1509,13 +1509,13 @@
       records: [
         {
           title: 'Her burial — the first of the six',
-          citation: 'Archdiocese of New Orleans, Catholic Cemeteries burial register — St. Louis No. 3, plot L3 SQ 5E / G ST. LOUIS AVENUE / 9, profile 36915131. Searched 12 August 2026.',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Archdiocese of New Orleans, Catholic Cemeteries burial register — St. Louis No. 3, plot L3 SQ 5E / G ST. LOUIS AVENUE / 9, profile 36915131. Searched 12 August 2026.',
           text: 'VERONICA BRUNETTI — aged 79 — buried 25 August 1981, St. Louis Cemetery No. 3.',
           highlight: 'The age matches her March 1902 birth to the year. She went in six years ahead of her husband, and thirty-two years ahead of her daughter — the whole rest of the tomb filled in behind her.'
         },
         {
           title: 'In her father\'s household, aged eight',
-          citation: 'United States Census, 1910 — Nairn, Plaquemines Parish, Louisiana',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States Census, 1910 — Nairn, Plaquemines Parish, Louisiana',
           text: '"Tony Franovich, Sr," b. 1873 Louisiana; wife "Malonie"; children Nicole, VARONIKE, Lizie, Tony Jr.',
           highlight: 'THE RECORD THIS ENTRY ASKED FOR. Her place on the tree used to rest entirely on circumstance, and the note here said outright that the 1910 Plaquemines census "would settle it." It does: "Varonike" is Veronica, in the house with both parents, a year and a half before her father died. Upgraded from inferred to documented on 11 August 2026.'
         }
@@ -1541,13 +1541,13 @@
       records: [
         {
           title: 'Named as father on two of his sons\' death records',
-          citation: 'Louisiana, Deaths, 1850–1875, 1894–1960 — Anthony Franovich, 19 July 1911, Buras; and Nicole Franovich, 5 May 1955, Buras',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Deaths, 1850–1875, 1894–1960 — Anthony Franovich, 19 July 1911, Buras; and Nicole Franovich, 5 May 1955, Buras',
           text: 'Anthony Franovich, d. 19 July 1911 at Buras, born 1873 at Buras — parents NICOLL FRANOVICH and JOSEPHINE BURAS. · Nicole Franovich, d. 5 May 1955 at Buras, b. 1881 — the same two parents, wife Antoinette Scobel.',
           highlight: 'Two independent death records, forty-four years apart, naming the same couple. That is what put this generation on the tree.'
         },
         {
           title: 'His household in the 1880 census',
-          citation: 'United States Census, 1880 — Plaquemines Parish, Louisiana',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States Census, 1880 — Plaquemines Parish, Louisiana',
           text: 'Nicolle Franovich, with children Anthony (b. 1873), Marie (b. 1876) and Basille (b. 1879), all born in Louisiana.'
         }
       ],
@@ -1568,12 +1568,12 @@
       records: [
         {
           title: 'Named as mother on two sons\' death records',
-          citation: 'Louisiana, Deaths, 1850–1875, 1894–1960 — Anthony Franovich (1911) and Nicole Franovich (1955), both of Buras',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Deaths, 1850–1875, 1894–1960 — Anthony Franovich (1911) and Nicole Franovich (1955), both of Buras',
           text: 'Both acts give the parents as Nicoll Franovich and JOSEPHINE BURAS.'
         },
         {
           title: 'Her own parents and a brother',
-          citation: 'United States Census, 1900 — Wards 5 and 10, Plaquemines Parish',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States Census, 1900 — Wards 5 and 10, Plaquemines Parish',
           text: 'Josephine Franovich, born July 1862 in Louisiana; parent ARTIMISE BURAS; sibling BAZILE BURAS.',
           highlight: 'One line of a census sheet reaching a further generation back — and it is a Buras generation, which is where this branch stops being an immigrant story and starts being a delta one.'
         }
@@ -1600,19 +1600,19 @@
       records: [
         {
           title: 'HIS DEATH RECORD — the one that settled where he was born',
-          citation: 'Louisiana, Deaths, 1850–1875, 1894–1960 — Anthony Franovich, 19 July 1911, Buras, Plaquemines Parish',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Deaths, 1850–1875, 1894–1960 — Anthony Franovich, 19 July 1911, Buras, Plaquemines Parish',
           text: 'Died 19 July 1911 at Buras. BORN 1873 AT BURAS, LOUISIANA. Parents: NICOLL FRANOVICH and JOSEPHINE BURAS.',
           highlight: 'For two years this page said it was unknown whether he was born in Dalmatia or in Louisiana. He was born at Buras. The crossing belongs to his father\'s generation, not his — and the same line hands over both his parents.'
         },
         {
           title: 'His own household, 1910 — the record that places Veronica',
-          citation: 'United States Census, 1910 — Nairn, Plaquemines Parish, Louisiana',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States Census, 1910 — Nairn, Plaquemines Parish, Louisiana',
           text: '"Tony Franovich, Sr," b. 1873 Louisiana; wife "Malonie" [Melanie], b. 1877; children Nicole, VARONIKE, Lizie, and Tony Jr.',
           highlight: '"Varonike" is Veronica, aged eight, in her father\'s house. Her place on this tree used to rest on circumstance — where she was born, when her mother was widowed, who the family lived among. This is a record that simply names them together. A year and a half later he was dead.'
         },
         {
           title: 'In his father\'s house, aged seven',
-          citation: 'United States Census, 1880 — Plaquemines Parish',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States Census, 1880 — Plaquemines Parish',
           text: 'Anthony Franovich, b. 1873 Louisiana, in the household of Nicolle Franovich, with Marie (1876) and Basille (1879).'
         }
       ],
@@ -1647,13 +1647,13 @@
       records: [
         {
           title: 'Louisiana death index',
-          citation: 'Orleans Parish, 18 October 1957 — Vol. 0, p. 7108',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 18 October 1957 — Vol. 0, p. 7108',
           text: 'PAASCH, MELANIE FRANOVICH MOIZANT, age 80.',
           highlight: 'The clerk recorded her whole life in one line: married name, previous married name, maiden name.'
         },
         {
           title: 'Louisiana marriage index — the same record, indexed twice',
-          citation: 'Orleans Parish, April 1926 — Vol. 50, p. 376',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, April 1926 — Vol. 50, p. 376',
           text: 'Bride: FRANOVICH, ANTHONY WIDOW × Groom: PAASCH, THEODORE ADOLPH — and — Bride: MOIZANT, MELANIE × Groom: PAASCH, THEODORE ADOLPH.'
         }
       ],
@@ -1688,25 +1688,25 @@
       records: [
         {
           title: 'THE PLOT, CORRECTED — and Victoria is in it',
-          citation: 'Archdiocese of New Orleans, Catholic Cemeteries burial register — St. Louis Cemetery No. 3, plot L3 SQ 03 / O ALLEY DE LA VIERGE / 11; profiles 36892936 and 36892935. Searched 12 August 2026.',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Archdiocese of New Orleans, Catholic Cemeteries burial register — St. Louis Cemetery No. 3, plot L3 SQ 03 / O ALLEY DE LA VIERGE / 11; profiles 36892936 and 36892935. Searched 12 August 2026.',
           text: 'ALFRED L MOIZANT — buried 24 February 1933. · "WID VICTORIA MOIZANT" — buried 10 October 1928. Two burials, one plot, five years apart.',
           highlight: 'This page used to place him at "Square 3, Section B, Lot 11," beside a daughter. The archdiocese\'s own register puts him on the ALLEY DE LA VIERGE, facing O, plot 11 — and the person already lying there was his wife, Victoria, who had gone in five years before him. Corrected here rather than quietly overwritten. One oddity is left standing on purpose: the clerk entered her as "Wid" — widow — in 1928, when Alfred still had five years to live. Either she carried a widowhood from before this marriage, or the entry was written up after 1933 and back-styled. The register does not say, so neither does this page.'
         },
         {
           title: 'HIS PARENTS, AND BORDEAUX',
-          citation: 'Louisiana, Orleans, Death Records and Certificates, 1835–1954 — Alfred L. Moizant, 23 February 1933; with his obituary, New Orleans, 23 February 1933 (GenealogyBank), and his voter registration of 9 December 1931',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Orleans, Death Records and Certificates, 1835–1954 — Alfred L. Moizant, 23 February 1933; with his obituary, New Orleans, 23 February 1933 (GenealogyBank), and his voter registration of 9 December 1931',
           text: 'Death record: Alfred L. Moizant, died 23 February 1933, born 1838 in France — parents ALFRED MOIZANT and CLEMENCE CHAPEAU. · Obituary, 23 February 1933: born about 1838 at BORDEAUX, died the 22nd. · Voter registration, 9 December 1931: birthplace "South France."',
           highlight: 'THIS CLOSES THE AIRPORT QUESTION FOR GOOD. This page has carried an open item for two years — "Alfred\'s French birth record or passenger manifest would end it." His death record and his obituary do the job between them: he was a Bordeaux man, son of Alfred Moizant and Clémence Chapeau. The aviator John Moisant\'s father Medard was born in Quebec. Two families, now separated by named parents and named birthplaces instead of by argument. And one small confirmation sits in his own household — the daughter the 1900 census calls "Clemantine," named for a grandmother in Bordeaux she would never meet.'
         },
         {
           title: 'Naturalized at sixty-two',
-          citation: 'Louisiana Naturalization Records, 1812–1932 — Alfred Moizant, 2 March 1900',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana Naturalization Records, 1812–1932 — Alfred Moizant, 2 March 1900',
           text: 'Naturalization, 2 March 1900, Louisiana. Birthplace France.',
           highlight: 'He had been in Louisiana since at least 1866, the marriage year his own census entry gives. He waited thirty-four years to become an American, and then did it in the same year the census taker found him at the bottom of the river with six daughters at home.'
         },
         {
           title: 'A life that moved upriver',
-          citation: 'United States Censuses of 1900, 1910 and 1930; Orleans and St. Tammany Voter Registration Records, 1867–1949',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States Censuses of 1900, 1910 and 1930; Orleans and St. Tammany Voter Registration Records, 1867–1949',
           text: '1900 — Wards 5 and 10, Plaquemines Parish: Alfred Moizant, b. January 1838 in France, married 1866, with Amelie, Angeline, Clemantine, Louise, Adeline and Anitia at home. · 1910 — NAIRN, Plaquemines Parish. · 1930 — New Orleans. · Registered to vote in Orleans Parish on 8 October 1923, and again on 9 December 1931.',
           highlight: 'In 1910 he was living at Nairn — the same small delta village as his son-in-law Tony Franovich, in the same census year. He was still turning up to register to vote at ninety-three, two years before he died.'
         }
@@ -1725,7 +1725,7 @@
       records: [
         {
           title: 'Named at his son\'s death',
-          citation: 'Louisiana, Orleans, Death Records and Certificates, 1835–1954 — Alfred L. Moizant, 23 February 1933',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Orleans, Death Records and Certificates, 1835–1954 — Alfred L. Moizant, 23 February 1933',
           text: 'Parents of the deceased: ALFRED MOIZANT and Clemence Chapeau.'
         }
       ],
@@ -1742,12 +1742,12 @@
       records: [
         {
           title: 'Named at her son\'s death',
-          citation: 'Louisiana, Orleans, Death Records and Certificates, 1835–1954 — Alfred L. Moizant, 23 February 1933',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Orleans, Death Records and Certificates, 1835–1954 — Alfred L. Moizant, 23 February 1933',
           text: 'Parents of the deceased: Alfred Moizant and CLEMENCE CHAPEAU.'
         },
         {
           title: 'And in a granddaughter\'s name',
-          citation: 'United States Census, 1900 — Wards 5 and 10, Plaquemines Parish',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States Census, 1900 — Wards 5 and 10, Plaquemines Parish',
           text: 'In Alfred Moizant\'s household: "Clemantine J. Moizant."',
           highlight: 'Not proof of anything, but the kind of detail that makes a name into a person: somewhere in the Plaquemines marsh in the 1880s, a French immigrant named a daughter after his mother.'
         }
@@ -1776,7 +1776,7 @@
       records: [
         {
           title: 'Her burial',
-          citation: 'Archdiocese of New Orleans, Catholic Cemeteries burial register — profile 36892935. Searched 12 August 2026.',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Archdiocese of New Orleans, Catholic Cemeteries burial register — profile 36892935. Searched 12 August 2026.',
           text: 'Entered in the register as "WID VICTORIA MOIZANT," buried 10 October 1928.',
           highlight: 'She died on the 9th and went into the ground on the 10th — the register\'s date and this page\'s date agree. See her husband\'s entry for the "Wid" puzzle, which is not resolved.'
         }
@@ -1828,7 +1828,7 @@
         },
         {
           title: 'Louisiana marriage record',
-          citation: 'Orleans Parish, July 1947 — p. 3644',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, July 1947 — p. 3644',
           text: 'WELLMEYER, ANN G × LARMANN, JOHN R.'
         },
         {
@@ -1929,18 +1929,18 @@
         },
         {
           title: 'Louisiana birth record',
-          citation: 'Orleans Parish, 12 July 1902 — Vol. 123, p. 485',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 12 July 1902 — Vol. 123, p. 485',
           text: 'LARMANN, CHARLES EMILE. Father: LARMANN, ANTHONY H. Mother: MOORE, EUGENIA.'
         },
         {
           title: 'Louisiana marriage record',
-          citation: 'Orleans Parish, August 1924 — Vol. 49, p. 468',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, August 1924 — Vol. 49, p. 468',
           text: 'LEMOINE, JOHANNA K × LARMANN, CHARLES EMILE.',
           highlight: 'His sister Esther\'s ledger supplies the exact day: 23 August 1924, New Orleans.'
         },
         {
           title: 'Louisiana death record',
-          citation: 'Orleans Parish, 13 July 1969 — p. 4760',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 13 July 1969 — p. 4760',
           text: 'LARMANN, CHARLES EMILE, age 67.'
         },
         {
@@ -1982,13 +1982,13 @@
         },
         {
           title: 'Her headstone — the Goubler family tomb',
-          citation: 'Photographed by the family, August 2026',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Photographed by the family, August 2026',
           text: 'LARMANN — JOHANNA LEMOINE, JAN. 9, 1907 — DEC. 11, 1992.',
           highlight: 'The stone supplies what no index could: her exact birthday and death day.'
         },
         {
           title: 'The 1910 census — the only Johanna Lemoine in Louisiana',
-          citation: '1910 U.S. census index, Orleans Parish',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] 1910 U.S. census index, Orleans Parish',
           text: 'Johanna Lemoine, born 1907, in an Orleans Parish household. She is the only Johanna Lemoine in the state. In the same index: Genevieve Lemoine (b. c. 1865, Orleans), a toddler Robert Lemoine (b. 1909, Orleans) — and no Alonzo Lemoine anywhere in the country, no adult Agnes Lemoine anywhere in Louisiana.',
           highlight: 'The census image itself, with its relation-to-head column, is the next document to pull: it will say in one word — daughter or granddaughter — which generation raised her on paper.'
         }
@@ -2031,7 +2031,7 @@
         },
         {
           title: 'The battleship spoon',
-          citation: 'Family keepsake, photographed August 2026 — see the research page',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Family keepsake, photographed August 2026 — see the research page',
           text: 'A souvenir spoon engraved U.S. BATTLESHIP MAINE — 6682 TONS, kept in the family with the story that the Maine was his ship.',
           highlight: 'He was nine when the first Maine exploded at Havana in 1898 — but a second USS Maine served from 1902 until 1920, and his service card only accounts for 1917 onward. The four years between his enlistment in October 1913 and the war are still blank, and that is exactly where a Maine posting would sit. The family story is now possible in a way it was not before, and the muster rolls for 1913–17 would settle it.'
         },
@@ -2052,13 +2052,13 @@
         },
         {
           title: 'Washington, and why he lies at Arlington',
-          citation: 'United States Census, 1940 — Tract 96, Police Precinct 11, District of Columbia',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States Census, 1940 — Tract 96, Police Precinct 11, District of Columbia',
           text: 'Robert Lemoine, born 1888, Louisiana — resident in the District of Columbia.',
           highlight: 'By 1940 he had come off the ships and was living in Washington, which is the missing step between a New Orleans boyhood and a grave in Virginia. He died in 1949 and was buried at Arlington on 23 November. The arc runs Camp Street to Mare Island to the capital.'
         },
         {
           title: 'Where the Utah was, while he was aboard her',
-          citation: 'Dictionary of American Naval Fighting Ships, "Utah I (Battleship No. 31)," Naval History and Heritage Command',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Dictionary of American Naval Fighting Ships, "Utah I (Battleship No. 31)," Naval History and Heritage Command',
           text: 'USS Utah reached Berehaven, Bantry Bay, Ireland, on 10 September 1918 and became flagship of Rear Admiral Thomas S. Rodgers, Commander, Battleship Division Six. With Oklahoma and Nevada she operated from Bantry Bay until the armistice of 11 November 1918, covering the Allied convoys approaching the British Isles against any surface attack on the troop transports.',
           highlight: 'So the last two months of his war were spent in Irish waters, on the flagship of an American battleship division guarding the convoys that carried the AEF to France. His service entry for the Utah ends on the same day the guns stopped. NOTE ON WHAT IS NOT CLAIMED: USS New York went to Scapa Flow with the British Grand Fleet in December 1917 — after he had already transferred off her. He was not there.'
         }
@@ -2078,7 +2078,7 @@
       records: [
         {
           title: 'Named at his daughter\'s marriage',
-          citation: 'Louisiana, Parish Marriages, 1787–1958 — Orleans, 22 May 1906, p. 962',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Parish Marriages, 1787–1958 — Orleans, 22 May 1906, p. 962',
           text: 'On the act with the couple: STEPHEN D. HANLEY and MARY C. REED — the bride\'s parents.',
           highlight: 'Found 12 August 2026. His name had been an open question on this site: "Agnes Hanley\'s own people — her parents, her birth date." Half of it is answered by a record we had already cited for something else and never read all the way down.'
         }
@@ -2094,7 +2094,7 @@
       records: [
         {
           title: 'Named at her daughter\'s marriage',
-          citation: 'Louisiana, Parish Marriages, 1787–1958 — Orleans, 22 May 1906, p. 962',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Parish Marriages, 1787–1958 — Orleans, 22 May 1906, p. 962',
           text: 'On the act with the couple: Stephen D. HANLEY and MARY C. REED — the bride\'s parents.'
         }
       ]
@@ -2122,7 +2122,7 @@
         },
         {
           title: 'The death of her infant daughter',
-          citation: 'Louisiana death index, Orleans, 9 November 1909 — Vol. 147, p. 1104',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana death index, Orleans, 9 November 1909 — Vol. 147, p. 1104',
           text: 'LEMOINE, AGNES — aged 3 months.',
           highlight: 'A daughter named for her mother, born in the summer of 1909 and dead by November. Within months, Agnes herself disappears from the Lemoine record.'
         },
@@ -2176,25 +2176,25 @@
         },
         {
           title: 'His marriage — the act that names his parents',
-          citation: 'Louisiana, Parish Marriages, 1787–1958 — Orleans, November 1895; civil index Vol. 18, p. 718',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Parish Marriages, 1787–1958 — Orleans, November 1895; civil index Vol. 18, p. 718',
           text: 'ANTHONY LARMANN, born 1871, son of CASPAR LARMANN and EMILY MEVERS, m. Eugenie Moore.',
           highlight: 'The church-marriage series again — the same collection that cracked the Brunetti and Larmann walls. The state\'s civil index gives only "MOORE, EUGENIE × LARMANN, ANTHONY"; the parish act names both his parents, which is what this site requires before it will call a link proven. His link to Casper and Emily moved from single-source to documented on 11 August 2026. Esther\'s ledger supplies the day — Tuesday, 12 November 1895 — and his exact ages: born Saturday 26 August 1871, married at 24, dead at 32.'
         },
         {
           title: 'His own name, written out in his daughters\' birth records',
-          citation: 'Louisiana, Orleans, Birth Records, 1819–1915 — Mary Eugenia Larmann, 20 September 1896, certificate 91; and Louise Frances Larmann, 1897',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Orleans, Birth Records, 1819–1915 — Mary Eugenia Larmann, 20 September 1896, certificate 91; and Louise Frances Larmann, 1897',
           text: 'Father: ANTHONY HENRY LARMANN. Mother: Eugenia Bernadine "Mone" [Moore].',
           highlight: 'Two civil birth records, registered while he was alive, giving his name in full. These are what settled the "John Henry" question — see the note below. They also date his eldest exactly: Mary Eugenia, born 20 September 1896, ten months after the wedding.'
         },
         {
           title: 'In his father\'s house, aged eight',
-          citation: 'United States Census, 1880 — New Orleans, household of J. C. Larman',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States Census, 1880 — New Orleans, household of J. C. Larman',
           text: 'Anthony Larman, son, in the household of J C Larman.',
           highlight: 'Two years before his mother died, and four before his father remarried. The 1880 census catches the first family whole, before that house became two half-families under one roof.'
         },
         {
           title: 'Louisiana death record',
-          citation: 'Orleans Parish, 12 February 1904 — Vol. 131, p. 1097',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 12 February 1904 — Vol. 131, p. 1097',
           text: 'LARMANN, ANTHONY, age 32.',
           highlight: 'Exactly the date in Esther\'s ledger: "Fri. Feb. 12th, Age 32."'
         }
@@ -2227,7 +2227,7 @@
       records: [
         {
           title: 'Louisiana death record',
-          citation: 'Orleans Parish, 23 February 1921 — Vol. 181, p. 257',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 23 February 1921 — Vol. 181, p. 257',
           text: 'LARMANN, EUGENIE B MOORE, age 46.',
           highlight: 'Esther\'s ledger has the same day: "Feb. 23rd 1921, Age 46."'
         },
@@ -2267,7 +2267,7 @@
       records: [
         {
           title: 'His baptism — read in the Gesmold parish register',
-          citation: 'Katholische Pfarrei St. Petrus, Gesmold (Melle) — Taufen 1846–1852, D1_105, entry 16 of 1846',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Katholische Pfarrei St. Petrus, Gesmold (Melle) — Taufen 1846–1852, D1_105, entry 16 of 1846',
           image: 'assets/img/gesmold-1846-baptisms.jpg',
           imageAlt: 'A page of the 1846 baptismal register of St. Petrus, Gesmold, in German script; entry 16 records Johann Caspar Larmann',
           imageCredit: 'Bistum Osnabrück, Pfarrei St. Petrus Gesmold, via Matricula Online, CC BY-NC-ND 2.0. Tap to enlarge.',
@@ -2276,25 +2276,25 @@
         },
         {
           title: 'The record that first named his parents',
-          citation: 'Louisiana Parish Marriages — Orleans, 26 April 1884 (Vol. 10, p. 589)',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana Parish Marriages — Orleans, 26 April 1884 (Vol. 10, p. 589)',
           text: 'John Casper Larmann, 36, son of JOHN CASPER LARMANN and MARIA ELIZABETH WERGERS, m. Louisa Margaret Ehmann, 27. Also on the act: John D. Ehmann and Katharina Lutz.',
           highlight: 'Found August 2026, in the church-marriage collection the state civil index never covered — the lead that sent the search to Gesmold. His parents\' names had been unknown to the family for a century.'
         },
         {
           title: 'His death certificate — the parents again, independently',
-          citation: 'Louisiana, Orleans, Death Records and Certificates — 21 November 1921',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Orleans, Death Records and Certificates — 21 November 1921',
           text: 'John Casper Larmann, born 1848 in Hanover, Germany; parents JOHN C. LARMANN and ELIZABETH WEINER; wife Louise M. Ehmann.',
           highlight: 'A second American record naming his parents, thirty-seven years after the first. "Weiner" is the same Werges through one more clerk\'s ear.'
         },
         {
           title: 'First marriage',
-          citation: 'Orleans Parish, November 1870 — Vol. 1, p. 662',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, November 1870 — Vol. 1, p. 662',
           text: 'MEVERS, MARIE E × LARMANN, JOHN G [sic — Casper].',
           highlight: 'This settles a smudged digit in Esther\'s ledger: the wedding was 1870, not 1876 — nine and a half months before Anthony was born.'
         },
         {
           title: 'Second marriage',
-          citation: 'Orleans Parish, April 1884 — Vol. 10, p. 589',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, April 1884 — Vol. 10, p. 589',
           text: 'EHMANN, LOUISA MARGARET × LARMANN, JOHN CASPER.',
           highlight: 'Two years after Emily\'s death, on 26 April 1884. She was born on 27 August 1857 — at MILNEBURG, the lakefront settlement at the end of the Pontchartrain Railroad, according to her own obituary — and died in New Orleans on 17 September 1931, her death notice running the following day. She was EHMANN by birth — the daughter of John David Ehmann and Catharina Lutz, the two names the act itself records. Joseph Stauder, who appears in the 1900 census of this house as "father-in-law," was the man who RAISED her, not the man who fathered her. See "The Stauder puzzle, and how it fooled me" below.'
         },
@@ -2312,7 +2312,7 @@
         },
         {
           title: 'Louisiana death record',
-          citation: 'Orleans Parish, 21 November 1921 — Vol. 183, p. 215',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 21 November 1921 — Vol. 183, p. 215',
           text: 'LARMANN, JOHN CASPER, age 73.'
         },
         {
@@ -2322,7 +2322,7 @@
         },
         {
           title: 'His brother found — a Larmann branch in Brooklyn',
-          citation: 'New York City Municipal Deaths — Henry Larmann, 29 November 1938, Brooklyn, certificate 22867',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] New York City Municipal Deaths — Henry Larmann, 29 November 1938, Brooklyn, certificate 22867',
           text: 'Henry Larmann, 72, laborer, born 24 December 1856 in Germany, married to Gertrude, of Brooklyn, Kings County. Parents: CASPAR LARMANN and ELIZABETH WERGER, both of Germany.',
           highlight: 'The same parents as Casper — the Gesmold couple, heard by a Brooklyn clerk. Esther\'s sheet said "Grandfather Larmann + a brother came to this country," and here the brother is, sixty years of records later, with a family of his own in New York. The Larmanns of Brooklyn and the Larmanns of New Orleans are one family that lost each other.'
         },
@@ -2355,13 +2355,13 @@
         },
         {
           title: 'Naturalization — 16 October 1868',
-          citation: 'Fifth District Court, New Orleans — Minor\'s Naturalization Book 6, p. 189B',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Fifth District Court, New Orleans — Minor\'s Naturalization Book 6, p. 189B',
           text: 'Naturalized under the name JOHANN GASPER LARMANN.',
           highlight: 'Two years after he landed, at twenty-two. The book and page are exact, so the original can be pulled — and a naturalization of that era often records the port and date of arrival.'
         },
         {
           title: 'Obituary notices',
-          citation: 'NOPL obituary index — Times-Picayune, 22 Nov 1921, p. 2 col. 8, and 23 Nov 1921, p. 2 col. 8',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] NOPL obituary index — Times-Picayune, 22 Nov 1921, p. 2 col. 8, and 23 Nov 1921, p. 2 col. 8',
           text: 'LARMANN, JOHN CASPER — death date 1921-11-21, age 75 years.',
           highlight: 'The obituary index says seventy-five — which lands exactly on Esther\'s 1 January 1846 birthdate, against the death index\'s 73. The notices themselves, on microfilm at the New Orleans Public Library, may well name his home town.'
         }
@@ -2385,19 +2385,19 @@
       records: [
         {
           title: 'Named in his son\'s baptism — the primary record',
-          citation: 'Katholische Pfarrei St. Petrus, Gesmold — Taufen 1846–1852, entry 16 of 1846',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Katholische Pfarrei St. Petrus, Gesmold — Taufen 1846–1852, entry 16 of 1846',
           text: '"Vat.: Jos. Caspar Larmann, Neubauer zu Weringhof… Gev.: Jos. Caspar Larmann."',
           highlight: 'A Neubauer was a smallholder settled on newly broken land — the lowest rung of the landholding peasantry, not gentry. He stood as his own son\'s godfather, or a namesake kinsman did.'
         },
         {
           title: 'His marriage — Gesmold, 8 November 1843',
-          citation: 'Katholische Pfarrei St. Petrus, Gesmold — Heiraten 1811–1852, D2_202, last entry of 1843',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Katholische Pfarrei St. Petrus, Gesmold — Heiraten 1811–1852, D2_202, last entry of 1843',
           text: '"8. Nov. — Larmann, Johann Caspar, Neubauer, geboren d. 6ten April 1821, mit Maria Elisabeth Werges, geboren zu Haste d. 27 Jan. 1817. Zeugen: Col. Math. [Zuhfeld] und Col. Conr. Sundermann."',
           highlight: 'Read in the register. It gives his birthday to the day, his wife\'s birthday and her home village of Haste, and settles his given name as Johann. The witnesses are styled Col. — Colonus, full farm owners, a rank above the Neubauer bridegroom.'
         },
         {
           title: 'Named on his son\'s American marriage record',
-          citation: 'Louisiana Parish Marriages — Orleans, 26 April 1884 (Vol. 10, p. 589)',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana Parish Marriages — Orleans, 26 April 1884 (Vol. 10, p. 589)',
           text: 'The groom John Casper Larmann, 36, is entered as the son of JOHN CASPER LARMANN and MARIA ELIZABETH WERGERS.',
           highlight: 'Generation after generation of this family carried the name Caspar Larmann, which is exactly why the American records blur them together.'
         }
@@ -2419,13 +2419,13 @@
       records: [
         {
           title: 'Her marriage — Gesmold, 8 November 1843',
-          citation: 'Katholische Pfarrei St. Petrus, Gesmold — Heiraten 1811–1852, last entry of 1843',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Katholische Pfarrei St. Petrus, Gesmold — Heiraten 1811–1852, last entry of 1843',
           text: '"…mit Maria Elisabeth Werges, geboren zu Haste d. 27 Jan. 1817."',
           highlight: 'The register gives her birthday and her home village — neither of which had ever reached America.'
         },
         {
           title: 'Named on her son\'s marriage record',
-          citation: 'Louisiana Parish Marriages — Orleans, 26 April 1884 (Vol. 10, p. 589)',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana Parish Marriages — Orleans, 26 April 1884 (Vol. 10, p. 589)',
           text: 'Indexed as MARIA ELIZABETH WERGERS — also read Wergery in a second indexing of the same act, and WEINER on his 1921 death certificate.',
           highlight: 'Werges, Wergers, Wergery, Weiner: one woman heard by four American clerks who had never seen the name written.'
         }
@@ -2447,7 +2447,7 @@
       records: [
         {
           title: 'His marriage — Gesmold, 31 January 1815',
-          citation: 'Katholische Pfarrei St. Petrus, Gesmold — Heiraten 1811–1852, D2_202, second entry of 1815',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Katholische Pfarrei St. Petrus, Gesmold — Heiraten 1811–1852, D2_202, second entry of 1815',
           text: '"31 Jan. Sponsus: Joannes Casparus Laarmann, filius legitimus patris Joannis Henrici Laarmann et matris Catharinae Mariae Gerven, hic natus 1791 d. 22 Sept. Sponsa: Catharina Maria Ortmann, filia legitima patris Joannis Henrici Ortmann et matris Catharinae Mariae Decker…"',
           highlight: 'The act that reaches furthest back. Written in Latin, it names the bridegroom\'s parents, the bride\'s parents, and both birthdates — four people who had been guesses on a community tree an hour before, and are now written evidence.'
         }
@@ -2467,7 +2467,7 @@
       records: [
         {
           title: 'Her marriage — Gesmold, 31 January 1815',
-          citation: 'Katholische Pfarrei St. Petrus, Gesmold — Heiraten 1811–1852, second entry of 1815',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Katholische Pfarrei St. Petrus, Gesmold — Heiraten 1811–1852, second entry of 1815',
           text: '"Sponsa: Catharina Maria Ortmann, filia legitima patris Joannis Henrici Ortmann et matris Catharinae Mariae Decker, [h]ic nata 1793 d. 6 Novembris."'
         }
       ],
@@ -2516,13 +2516,13 @@
       records: [
         {
           title: 'Marriage — Orleans Parish',
-          citation: 'Louisiana Parish Marriages — Orleans, 10 November 1870 (Vol. 1, p. 662)',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana Parish Marriages — Orleans, 10 November 1870 (Vol. 1, p. 662)',
           text: 'Marie E. Mevers, 23, m. John [Casper] Larmann, 23. Also named on the act: C. MEVERS — her father.',
           highlight: 'Nine and a half months before Anthony was born, and the record that puts a "C. Mevers" at her side: her father was a Clemens, which is where the couple\'s lost little boy Charles A. Clemence got his name.'
         },
         {
           title: 'Louisiana death record',
-          citation: 'Orleans Parish, 11 February 1882 — Vol. 80, p. 272',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 11 February 1882 — Vol. 80, p. 272',
           text: 'LARMANN, EMILY MEVERS, age 37.',
           highlight: 'Esther\'s ledger, written decades later, gives 13 February — two days off the civil record.'
         }
@@ -2548,12 +2548,12 @@
       records: [
         {
           title: 'Louisiana marriage record',
-          citation: 'Orleans Parish, May 1871 — Vol. 2, p. 162',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, May 1871 — Vol. 2, p. 162',
           text: 'GOUBLER, VALENTINE × MOORE, HENRY.'
         },
         {
           title: 'Louisiana death record',
-          citation: 'Orleans Parish, 9 December 1893 — Vol. 105, p. 417',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 9 December 1893 — Vol. 105, p. 417',
           text: 'MOORE, HENRY, age 46.',
           highlight: 'Esther\'s ledger reads "Dec 9, 189─" with the last digit clipped by the photocopier. The index restores it: 1893 — and the age of 46 lands exactly on her 27 February 1847 birthdate for him.'
         }
@@ -2581,13 +2581,13 @@
       records: [
         {
           title: 'Louisiana death record — under her maiden name',
-          citation: 'Orleans Parish, 14 February 1926 — Vol. 192, p. 169',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 14 February 1926 — Vol. 192, p. 169',
           text: 'GOUBLER, MARIE VALENTINE.',
           highlight: 'The same date Esther wrote: "Feb. 14 - 1926." The index\'s age column is garbled (it prints 7), but the date is exact.'
         },
         {
           title: 'The old tomb tablet',
-          citation: 'Goubler family tomb; photographed by the family, August 2026',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Goubler family tomb; photographed by the family, August 2026',
           text: 'VALENTINE GOUBLER, wife of Henry Moore — died Feb. 14, 1926, aged 77 yrs.',
           highlight: 'The stone names her marriage outright and restores the age the index garbled: seventy-seven.'
         }
@@ -2626,7 +2626,7 @@
         },
         {
           title: 'Louisiana death record',
-          citation: 'Orleans Parish, 7 November 1892 — Vol. 102, p. 1145',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 7 November 1892 — Vol. 102, p. 1145',
           text: 'GOUBLER, JOSEPH, age 74.',
           highlight: 'Age 74 in 1892 puts his birth at about 1818 — exactly what his tomb face says: 1818–1892.'
         },
@@ -2638,7 +2638,7 @@
         },
         {
           title: 'The tomb itself',
-          citation: 'Family photographs, August 2026',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Family photographs, August 2026',
           text: 'The pediment reads "FAMILY — JOSEPH GOUBLER." The original marble tablet, now broken and replaced by the family, is still partly legible: Lucien (d. Oct. 1876) · Emile (d. 1889) · Joseph Goubler (d. Nov. 1892, aged 74 yrs) · Victoire Cirlot, wife of Joseph Goubler (d. 1895) · Anthony Moore (d. Nov. 1, 1920, aged 37 yrs) · Valentine Goubler, wife of Henry Moore (d. Feb. 14, 1926, aged 77 yrs) · Louis Goubler (d. March 1940) · Leontine M. Moore (d. March 27, 1947) · Louise M. Moore (d. 1948).',
           highlight: 'The stone documents Louis Goubler\'s 1940 death, which the state index missed entirely, and gives Anthony Moore and Leontine their exact dates.'
         }
@@ -2688,7 +2688,7 @@
       records: [
         {
           title: 'Louisiana death record',
-          citation: 'Orleans Parish, 23 December 1895 — Vol. 110, p. 79',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 23 December 1895 — Vol. 110, p. 79',
           text: 'GOUBLER, THEOLINE VICTOIRE, age 74.'
         }
       ],
@@ -2751,7 +2751,7 @@
       records: [
         {
           title: 'Named at his son\'s baptism',
-          citation: 'Church of St. John the Baptist, Edgard — B7, p. 49; SRANO Vol. 18 (1828–1829)',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Church of St. John the Baptist, Edgard — B7, p. 49; SRANO Vol. 18 (1828–1829)',
           text: '"Alexis Allonzo (JOSEPH and Marie RIBAS)… all of St. Charles Parish."',
           highlight: 'The whole of what is known about him, so far. The next document is his marriage to Marie Ribas — not yet found in the abstracted volumes, so it is either earlier than 1807, filed under a spelling not yet tried, or in a parish register outside this series.'
         }
@@ -2771,12 +2771,12 @@
       records: [
         {
           title: 'Named at her son\'s baptism',
-          citation: 'Church of St. John the Baptist, Edgard — B7, p. 49; SRANO Vol. 18 (1828–1829)',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Church of St. John the Baptist, Edgard — B7, p. 49; SRANO Vol. 18 (1828–1829)',
           text: '"Alexis Allonzo (Joseph and MARIE RIBAS)… all of St. Charles Parish."'
         },
         {
           title: 'The Ribas family she probably belongs to',
-          citation: 'SRANO Vols. 14 and 16 — St. John the Baptist, Edgard (SJBED, B4, 57 and B4, 165)',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] SRANO Vols. 14 and 16 — St. John the Baptist, Edgard (SJBED, B4, 57 and B4, 165)',
           text: 'RIVAS: Antoine (ANTOINE DE SANTO YAGO and MARIE BRIGITTE LEGO), born 10 Aug 1819, baptised 11 May 1820 · Louis (Antoine and Marie Brigite LEGAU), born 29 Apr 1822, baptised 22 Mar 1824, sponsors ZENON ROUSSELLE and Estelle de la Tour, "all of St. Charles Parish."',
           highlight: 'NOT PROVEN, but close enough to name: a Rivas household in the right parish in the right decade, headed by an Antoine "de Santo Yago" — Santiago — which would make this a Spanish family on the German Coast. Note the godfather of the 1822 child: a ROUSSELLE. Three generations before Alonzo Lemoine married Poppone Roussel, the two families were already standing at each other\'s fonts.'
         }
@@ -2804,19 +2804,19 @@
       records: [
         {
           title: 'HIS OWN BAPTISM — the record that named his parents',
-          citation: 'Church of St. John the Baptist, Edgard — Baptismal book 7, p. 49 (SJBED, B7, 49); abstracted in Sacramental Records of the Archdiocese of New Orleans, Vol. 18 (1828–1829)',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Church of St. John the Baptist, Edgard — Baptismal book 7, p. 49 (SJBED, B7, 49); abstracted in Sacramental Records of the Archdiocese of New Orleans, Vol. 18 (1828–1829)',
           text: '"LEMOINE — Alexis Allonzo (JOSEPH and MARIE RIBAS), b. Nov. 22, 1829, bn. Feb. 4, 1829, s. Pierre GRAVOIS and Marie LATOUR, all of ST. CHARLES PARISH."',
           highlight: 'Found 11 August 2026, and it ends the longest-standing wall on this tree. His birth date matches the family record to the day — born the fourth of February, baptised the twenty-second of November, nine months later. His parents were JOSEPH LEMOINE and MARIE RIBAS, two names nobody in this family has known. And the phrase "all of St. Charles Parish" moves the family one parish downriver from where we had them: they worshipped at Edgard but they lived in St. Charles.'
         },
         {
           title: 'Godfather at Poppone\'s baptism',
-          citation: 'Church of St. John the Baptist, Edgard — baptism of 21 January 1864',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Church of St. John the Baptist, Edgard — baptism of 21 January 1864',
           text: '"…the Sponsors being ALEXIS LEMOINE and Françoise Josephine Roussel."',
           highlight: 'This is the record that broke the Lemoine line open. It was the only Lemoine name anywhere in the family papers older than Alonzo himself.'
         },
         {
           title: 'The 1880 census — his household, with Alonzo in it',
-          citation: '1880 U.S. census, 1st Ward, ED 160, St. John the Baptist Parish, sheet 7B',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] 1880 U.S. census, 1st Ward, ED 160, St. John the Baptist Parish, sheet 7B',
           text: 'Alexis Lemoine, 51, brick mason, born Louisiana — FATHER\'S BIRTHPLACE: FRANCE, mother\'s: Louisiana. Wife Alice, 48. Children: Alozo 25, Alexis 22, Alexina 18, Alscee 17, Alfred 14, Azemia 11, Amelius 7.',
           highlight: 'Two things at once: it puts Alonzo in his father\'s house, and it says the generation above was born in France. The Lemoines had been a wall on this tree; this line is the door.'
         }
@@ -2861,7 +2861,7 @@
       records: [
         {
           title: 'Her baptismal certificate — the record that proves the line',
-          citation: 'Church of St. John the Baptist, Edgard, Louisiana; certificate issued 29 July 1936 by Rev. Ernest Milby, pastor',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Church of St. John the Baptist, Edgard, Louisiana; certificate issued 29 July 1936 by Rev. Ernest Milby, pastor',
           text: '"Poppone Geneviève Roussel, child of VALERY ROUSSEL and MARIE EVE DESLATTES, born in Edgard, La. on the 26th day of November 1863, was baptized on the 21st day of January 1864… by the Rev. N. M. Lacour, the sponsors being ALEXIS LEMOINE and Françoise Josephine Roussel."',
           highlight: 'Three things at once. Poppone was her real baptismal name, written before Geneviève — not the pet name everyone assumed. The act names her with both parents, which is what this site requires before it will call a link proven. And her godfather was a LEMOINE: Alexis Lemoine stood over her font in 1864, more than twenty years before she married Alonzo Lemoine. The two families were already bound together in that river parish a generation before the wedding. The certificate itself was drawn up in July 1936, when she was seventy-two — almost certainly to prove her age for the new Social Security.'
         },
@@ -2894,13 +2894,13 @@
       records: [
         {
           title: 'The 1880 census — Edgard, St. John the Baptist Parish',
-          citation: '1880 U.S. census, Edgard, St. John the Baptist Parish, Louisiana',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] 1880 U.S. census, Edgard, St. John the Baptist Parish, Louisiana',
           text: 'Valery Roussel, born about 1841 in Louisiana, with wife Marie and children Ignace, Florentine, GENEVIEVE, Ettienne, Leo, Joseph, Aurelia, Noemie and Ozeme.',
           highlight: 'Judy\'s notes named four of these children from family memory — Genevieve, Joseph, "Aurelian," and "Naomi." The census gives Aurelia and Noemie, and five siblings nobody had. This is the household Poupone grew up in.'
         },
         {
           title: 'His wife named in his children\'s records',
-          citation: 'Louisiana Parish Marriages and Deaths — entries for Ozeme Joseph and Leo Rousselle',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana Parish Marriages and Deaths — entries for Ozeme Joseph and Leo Rousselle',
           text: 'Valery Rousselle, spouse MARIE EVE DELATTE, father of Ozeme Joseph Rousselle and of Leo Rousselle.',
           highlight: 'Independent confirmation of the wife Judy named — she first wrote the surname "Deslattes," then corrected it to Delatte, and both spellings appear in the records.'
         }
@@ -2966,12 +2966,12 @@
         },
         {
           title: 'Louisiana birth record',
-          citation: 'Orleans Parish, 13 March 1886 — Vol. 83, p. 968',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 13 March 1886 — Vol. 83, p. 968',
           text: 'WELLMEYER, HENRY JOHN. Father: WELLMEYER, JOHN. Mother: LANGE, CATHERINE E.'
         },
         {
           title: 'Louisiana marriage record',
-          citation: 'Orleans Parish, 1910 — Vol. 32, p. 303',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 1910 — Vol. 32, p. 303',
           text: 'SANDER, BERTHA FLORENCE × WELLMEYER, HENRY JOHN.',
           highlight: 'Judy\'s notes supply the day: 15 April 1910.'
         }
@@ -3027,12 +3027,12 @@
       records: [
         {
           title: 'Louisiana marriage record',
-          citation: 'Orleans Parish, June 1872 — Vol. 3, p. 109',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, June 1872 — Vol. 3, p. 109',
           text: 'OHR, CATHERINE × SANDERS, LOUIS ED.'
         },
         {
           title: 'Louisiana death record',
-          citation: 'Orleans Parish, 12 November 1914 — Vol. 161, p. 1051',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 12 November 1914 — Vol. 161, p. 1051',
           text: 'SANDER, LOUIS E, age 63.',
           highlight: 'Judy\'s notes: "B-3/1851, D-11/12/1914." The index agrees on both, to the day.'
         }
@@ -3077,12 +3077,12 @@
       records: [
         {
           title: 'Louisiana marriage record',
-          citation: 'Orleans Parish, January 1883 — Vol. 9, p. 738',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, January 1883 — Vol. 9, p. 738',
           text: 'LANGE, CATHARINE ELIZABETH × WELLMEYER, JOHN.'
         },
         {
           title: 'Louisiana death record',
-          citation: 'Orleans Parish, 15 December 1922 — Vol. 186, p. 121',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 15 December 1922 — Vol. 186, p. 121',
           text: 'WELLMEYER, JOHN, age 69.',
           highlight: 'Judy\'s notes give 15 December 1920; the index says the same day in 1922, and its age of 69 fits the December 1853 birth her notes record. The index year is preferred.'
         }
@@ -3141,12 +3141,12 @@
         },
         {
           title: 'Louisiana death record',
-          citation: 'Orleans Parish, 23 September 1880 — Vol. 77, p. 470',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 23 September 1880 — Vol. 77, p. 470',
           text: 'WELLMEYER, BERNARD, age 57.'
         },
         {
           title: 'Birth of his son Louis — the couple named together',
-          citation: 'Orleans Parish, 2 February 1864 — Vol. 36, p. 376',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 2 February 1864 — Vol. 36, p. 376',
           text: 'WELLMEYER, LOUIS — mother LOBMEYER, CAROLINE; father WELLMEYER, BERNARD.',
           highlight: 'The anchor civil record of the immigrant generation: Bernard and Caroline named together, in New Orleans, raising children.'
         }
@@ -3200,7 +3200,7 @@
       records: [
         {
           title: 'Louisiana death record',
-          citation: 'Orleans Parish, 7 December 1903 — Vol. 131, p. 367',
+          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 7 December 1903 — Vol. 131, p. 367',
           text: 'WELLMEYER, GERTRUDE LOBMEYER, age 72.',
           highlight: 'Son Louis\'s 1864 birth record calls her Caroline; her death row calls her Gertrude. One woman, two given names. Buried December 1903, St. Vincent de Paul Cemetery No. 1.'
         }
