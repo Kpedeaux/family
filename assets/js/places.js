@@ -145,10 +145,10 @@
         precision: 'exact',
         years: 'by 1935 – 1947/48',
         people: ['charlesEmileLarmann'],
-        who: 'Leontine and Louise Moore — the last house, the one they owned',
-        headline: 'Where the two sisters ended, four blocks down from where they started',
-        text: 'The 1940 census finds them here together and independent: Leontine, 60, head of the house, single; Louise, 62, her sister. They OWNED it — valued at $2,200 — and had been in it since at least 1935. Leontine died in March 1947 and Louise the year after, and this is the address they died at. It is not, however, the house the family remembers visiting: that is 927, up the avenue, and the two dates fit together rather than fight.',
-        source: 'United States Census, 1940 — New Orleans Ward 9, ED 36-246, sheet 11A, line 38, household 255 (NARA T627). The enumerator wrote the street as "Almonaster"; the house number was checked digit by digit against 919, 923 and 925 on the same sheet, whose nines are looped where this seven is not.'
+        who: 'Leontine Moore, schoolteacher, and her sister Marie Louise — the house they owned',
+        headline: 'TWO SELF-SUPPORTING WOMEN, AND FORTY YEARS IN A CLASSROOM',
+        text: 'The 1940 census finds them here together and independent: Leontine, 60, head of the house, single; Louise, 62, her sister. They OWNED it, valued at $2,200, with no man in the household. And the New Orleans Public Library\'s obituary index gives Leontine the one line of biography that changes how you read all of this — "TEACHER AT THE McDONOGH NO. 16 SCHOOL FOR 40 YEARS." She died in March 1947; her sister, indexed as MARIE LOUISE, followed on 12 May 1948, aged seventy-one. The boy they raised was not taken in out of charity. He grew up in a house two working women had bought and kept.',
+        source: 'United States Census, 1940 — New Orleans Ward 9, ED 36-246, sheet 11A, line 38, household 255 (NARA T627). The enumerator wrote the street as "Almonaster"; the house number was checked digit by digit against 919, 923 and 925 on the same sheet, whose nines are looped where this seven is not. Occupation from the New Orleans Public Library Obituary Index, 1804–1972. ONE CAVEAT KEPT IN VIEW: a search of digitised New Orleans papers finds no occurrence of "727 Almonaster" in 1947 or 1948, so the newspapers have not corroborated the number. That is weak evidence either way — death-notice type is small and OCR of it is poor — and the census sheet remains the primary source.'
       },
 
       {
