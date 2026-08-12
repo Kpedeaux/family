@@ -3504,3 +3504,32 @@ this archive already places a Wellmeyer on stage at Holy Trinity in 1877.
 2. **Archdiocese of New Orleans Sacramental Records office** — written request, per person.
 3. **Times-Picayune wedding notices** — these do name churches. A paper route, and the one
    most likely to be reachable without an archdiocesan request.
+
+### The Times-Picayune is not in Chronicling America — checked 12 August 2026
+
+Charlie Larmann married **Johanna Catherine Lemoine in August 1924** (Orleans Vol. 49,
+p. 468, already verified). A wedding notice would name the church. It cannot be had free
+from the Library of Congress.
+
+**What was tried.** The old `chroniclingamerica.loc.gov` endpoint is retired and now hangs;
+the live collection is at `loc.gov/collections/chronicling-america/`. Louisiana holdings,
+via the working facet `fa=location_state:louisiana`, are small-parish papers — the Lafayette
+Advertiser, Le Meschacébé, the Sugar Planter, the Bossier Banner, the Donaldsonville Chief,
+the St. Charles Herald. No New Orleans title appeared in any result set.
+
+**The argument that settles it.** A full-text search for the word *Picayune* restricted to
+1924 returns 283 hits, and every one is an Ohio, Alabama or Minnesota paper using the word.
+**If the Times-Picayune were digitized for 1924 its own masthead would match on every page
+it printed**, which would swamp that result list with Louisiana hits. It does not. The paper
+is not there.
+
+**A trap worth recording.** Several LOC parameters are *silently ignored* rather than
+rejected — `location_state=` as a plain query parameter, and `dateFilterType`. A search that
+looks filtered may not be. Results came back spanning 1898–1919 and five states from a query
+that specified Louisiana in 1924. This is the same failure mode as the FamilySearch "0
+results" that was really 3,291: **the tool answers a question you did not ask, and the
+answer looks authoritative.** Confirm a filter is applied before believing a null result.
+
+**So the wedding notice needs one of:** GenealogyBank or Newspapers.com (both paywalled,
+both carry the Times-Picayune), or the microfilm at NOPL. The NOPL online index is
+obituaries only and will not carry a 1924 wedding.
