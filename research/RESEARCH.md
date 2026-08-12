@@ -3533,3 +3533,50 @@ answer looks authoritative.** Confirm a filter is applied before believing a nul
 **So the wedding notice needs one of:** GenealogyBank or Newspapers.com (both paywalled,
 both carry the Times-Picayune), or the microfilm at NOPL. The NOPL online index is
 obituaries only and will not carry a 1924 wedding.
+
+---
+
+## OPEN CONFLICT — who was Mary Pedaux, and was Numa really orphaned at fourteen?
+
+**The record.** 1900 census, Lafourche Crossing, ED 29, Ward 5, **Live Oak Plantation**,
+sheet 3B, line 74. In the household of NUMA PEDAUX, 52, married 29 years:
+**MARY PEDAUX, 88, born November 1812, Louisiana, WIDOWED, 8 children born and 5 living**,
+whose **relationship to head is written by the enumerator as MOTHER.** FamilySearch
+ark:/61903/1:1:MS5C-CP2.
+
+**The head is our Numa.** Married 29 years in 1900 gives 1871, the year of the St. Philomena
+marriage already verified here, and the children in the house are his.
+
+**The conflict.** This archive says Numa's mother was Marie Cancienne, born about 1822, dead
+11 May 1862, and that Numa was orphaned at fourteen. Both cannot be true.
+
+**Where the weight actually sits, and it is not where it looked.**
+- The **1848 baptism** and the **1871 marriage** both name Marie CANCIENNE as Numa's mother.
+  Both are verified. **Neither records her death.**
+- The **"about 1822" birth and the 1862 death rest entirely on one burial entry** — "Marie
+  Cancienne, age 40 years, wife of Antoine PEDO, bur. 12 May 1862" (DOBR Vol. 9, ASM-10, 190).
+  That entry is correctly transcribed. The question is whether it is the *right* Marie Cancienne.
+- Cancienne and Pedeaux were common in Assumption Parish. Numa's own 1871 marriage has an
+  **Alcee Pedeaux and an Ulysse Pedeaux** standing as witnesses, and a Pierre Cancienne as
+  godfather at his baptism. A second Marie Cancienne married to a second Antoine Pedo is not
+  a stretch — it is close to expected.
+
+**A detail that cuts both ways.** ANTOINE FLORENTIN PEDEAU WAS BORN 1 NOVEMBER 1812, and
+Mary Pedaux's birth is given as November 1812 — the same month of the same year as her
+husband. That could be a couple of exactly the same age, or it could be an informant giving
+the enumerator the dead husband's details. It is not evidence either way until tested.
+
+**Not resolved, and deliberately so.** The badge on the record reads OPEN CONFLICT. The
+"orphaned at fourteen" line has been pulled from Numa's page and replaced with a pointer to
+this problem. FamilySearch's tree attaches the 1900 record to a "Neovie Cancienne, 1822",
+which is an unsourced user attachment fitting neither the 1812 birth on the record nor the
+1862 burial, and is worth nothing here.
+
+**What would settle it**, cheapest first:
+1. **The 1910 census** — if Mary is still alive at 97 in Numa's house, she is real and the
+   1862 burial is somebody else. If Numa's household has no mother in 1910, look for her death
+   1900–1910 in the Louisiana index under Pedeaux/Pedaux/Pedo.
+2. **The 1870 and 1880 censuses of Assumption and Lafourche** — the site already says Numa
+   headed a household of four younger siblings by 1870. **Is there a mother in that house?**
+   That single column decides it.
+3. **DOBR volumes for a second Marie Cancienne** and for Pedeaux burials after 1900.
