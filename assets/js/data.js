@@ -247,7 +247,7 @@
         },
         {
           title: '1900 U.S. Census, Lafourche Parish',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Household of Numa Pedaux (b. 1848) and wife Ulali (b. 1849)',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Household of Numa Pedaux (b. 1848) and wife Ulali (b. 1849)',
           text: 'Son "Numa Pedaux, b. 1888," indexed with parents "Numa, Ulali."'
         }
       ],
@@ -1543,7 +1543,7 @@
       records: [
         {
           title: 'Named as father on two of his sons\' death records',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Deaths, 1850–1875, 1894–1960 — Anthony Franovich, 19 July 1911, Buras; and Nicole Franovich, 5 May 1955, Buras',
+          citation: '[PARTLY VERIFIED, August 2026 — the DEATH ITSELF is confirmed in the Louisiana index (date, parish and age all match, and the age independently corroborates the birth year). The PARENTS named here come from the certificate, which the index does not reproduce and which has not been re-read. See the verification log] Louisiana, Deaths, 1850–1875, 1894–1960 — Anthony Franovich, 19 July 1911, Buras; and Nicole Franovich, 5 May 1955, Buras',
           text: 'Anthony Franovich, d. 19 July 1911 at Buras, born 1873 at Buras — parents NICOLL FRANOVICH and JOSEPHINE BURAS. · Nicole Franovich, d. 5 May 1955 at Buras, b. 1881 — the same two parents, wife Antoinette Scobel.',
           highlight: 'Two independent death records, forty-four years apart, naming the same couple. That is what put this generation on the tree.'
         },
@@ -1570,7 +1570,7 @@
       records: [
         {
           title: 'Named as mother on two sons\' death records',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Deaths, 1850–1875, 1894–1960 — Anthony Franovich (1911) and Nicole Franovich (1955), both of Buras',
+          citation: '[PARTLY VERIFIED, August 2026 — the DEATH ITSELF is confirmed in the Louisiana index (date, parish and age all match, and the age independently corroborates the birth year). The PARENTS named here come from the certificate, which the index does not reproduce and which has not been re-read. See the verification log] Louisiana, Deaths, 1850–1875, 1894–1960 — Anthony Franovich (1911) and Nicole Franovich (1955), both of Buras',
           text: 'Both acts give the parents as Nicoll Franovich and JOSEPHINE BURAS.'
         },
         {
@@ -1602,7 +1602,7 @@
       records: [
         {
           title: 'HIS DEATH RECORD — the one that settled where he was born',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Deaths, 1850–1875, 1894–1960 — Anthony Franovich, 19 July 1911, Buras, Plaquemines Parish',
+          citation: '[PARTLY VERIFIED, August 2026 — the DEATH ITSELF is confirmed in the Louisiana index (date, parish and age all match, and the age independently corroborates the birth year). The PARENTS named here come from the certificate, which the index does not reproduce and which has not been re-read. See the verification log] Louisiana, Deaths, 1850–1875, 1894–1960 — Anthony Franovich, 19 July 1911, Buras, Plaquemines Parish',
           text: 'Died 19 July 1911 at Buras. BORN 1873 AT BURAS, LOUISIANA. Parents: NICOLL FRANOVICH and JOSEPHINE BURAS.',
           highlight: 'For two years this page said it was unknown whether he was born in Dalmatia or in Louisiana. He was born at Buras. The crossing belongs to his father\'s generation, not his — and the same line hands over both his parents.'
         },
@@ -1696,7 +1696,7 @@
         },
         {
           title: 'HIS PARENTS, AND BORDEAUX',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Orleans, Death Records and Certificates, 1835–1954 — Alfred L. Moizant, 23 February 1933; with his obituary, New Orleans, 23 February 1933 (GenealogyBank), and his voter registration of 9 December 1931',
+          citation: '[PARTLY VERIFIED, August 2026 — the DEATH ITSELF is confirmed in the Louisiana index (date, parish and age all match, and the age independently corroborates the birth year). The PARENTS named here come from the certificate, which the index does not reproduce and which has not been re-read. See the verification log] Louisiana, Orleans, Death Records and Certificates, 1835–1954 — Alfred L. Moizant, 23 February 1933; with his obituary, New Orleans, 23 February 1933 (GenealogyBank), and his voter registration of 9 December 1931',
           text: 'Death record: Alfred L. Moizant, died 23 February 1933, born 1838 in France — parents ALFRED MOIZANT and CLEMENCE CHAPEAU. · Obituary, 23 February 1933: born about 1838 at BORDEAUX, died the 22nd. · Voter registration, 9 December 1931: birthplace "South France."',
           highlight: 'THIS CLOSES THE AIRPORT QUESTION FOR GOOD. This page has carried an open item for two years — "Alfred\'s French birth record or passenger manifest would end it." His death record and his obituary do the job between them: he was a Bordeaux man, son of Alfred Moizant and Clémence Chapeau. The aviator John Moisant\'s father Medard was born in Quebec. Two families, now separated by named parents and named birthplaces instead of by argument. And one small confirmation sits in his own household — the daughter the 1900 census calls "Clemantine," named for a grandmother in Bordeaux she would never meet.'
         },
@@ -1727,7 +1727,7 @@
       records: [
         {
           title: 'Named at his son\'s death',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Orleans, Death Records and Certificates, 1835–1954 — Alfred L. Moizant, 23 February 1933',
+          citation: '[PARTLY VERIFIED, August 2026 — the DEATH ITSELF is confirmed in the Louisiana index (date, parish and age all match, and the age independently corroborates the birth year). The PARENTS named here come from the certificate, which the index does not reproduce and which has not been re-read. See the verification log] Louisiana, Orleans, Death Records and Certificates, 1835–1954 — Alfred L. Moizant, 23 February 1933',
           text: 'Parents of the deceased: ALFRED MOIZANT and Clemence Chapeau.'
         }
       ],
@@ -1744,7 +1744,7 @@
       records: [
         {
           title: 'Named at her son\'s death',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Orleans, Death Records and Certificates, 1835–1954 — Alfred L. Moizant, 23 February 1933',
+          citation: '[PARTLY VERIFIED, August 2026 — the DEATH ITSELF is confirmed in the Louisiana index (date, parish and age all match, and the age independently corroborates the birth year). The PARENTS named here come from the certificate, which the index does not reproduce and which has not been re-read. See the verification log] Louisiana, Orleans, Death Records and Certificates, 1835–1954 — Alfred L. Moizant, 23 February 1933',
           text: 'Parents of the deceased: Alfred Moizant and CLEMENCE CHAPEAU.'
         },
         {

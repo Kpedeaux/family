@@ -309,3 +309,47 @@ Gaienne. Anyone re-checking these must search both.
   of the same name who died sixteen months before the Henry Moore aged 46. A son named for
   his father is the obvious reading and is exactly the sort of thing that should be checked
   rather than assumed.
+
+---
+
+# Batch 6 — three deaths, and a limit worth naming, 12 August 2026
+
+## Confirmed in the Louisiana index
+
+| Index returns | Site said | Verdict |
+|---|---|---|
+| 1911 · 7 · 19 · **age 38** · FRANOVICH, ANTHONY · Plaquemines · Vol 1 p 514 | Anthony Franovich, 19 July 1911, Buras, Plaquemines | **CONFIRMED** |
+| 1955 · 5 · 5 · age 74 · FRANOVICH, NICOLE · Plaquemines · Vol 06 p 305 | Nicole Franovich, 5 May 1955, Buras | **CONFIRMED** |
+| 1933 · 2 · 23 · **age 95** · MOIZANT, ALFRED L · Orleans · Vol 204 p 1520 | Alfred L. Moizant, 23 February 1933 | **CONFIRMED** |
+
+**Two of these ages do independent work.** Anthony Franovich is 38 in July 1911, which puts
+his birth about 1873 — the year both the 1880 and the 1910 censuses give him, reached here
+from a third record type entirely. Alfred Moizant is **95** in February 1933, and the 1900
+census gives his birth as January 1838. 1838 plus 95 is 1933. The census and the death index
+agree to the year on a man who lived to ninety-five.
+
+Nicole Franovich at 74 in 1955 was born about 1881 — after the 1880 census was taken, which
+is why he is not in that household listing and is not a contradiction of it.
+
+## The limit, stated plainly
+
+**The Louisiana death index does not reproduce the certificate.** It gives year, month, day,
+age, name, parish, volume and page — and no parents. Six citations on this site rest on
+*parents named on a death certificate*: Nicola Franovich and Josephine Buras named as
+parents on two sons' records, Anthony Franovich's record "the one that settled where he was
+born," Alfred Moizant's parents and the Bordeaux origin, and the entries for Alfred Moizant
+père and Clémence Chapeau that depend on the same certificate.
+
+The index confirms **that these deaths happened, on the dates cited, at the ages cited.** It
+cannot confirm what is written inside the certificates. Those six are now flagged **PARTLY
+VERIFIED** rather than left as blanket UNVERIFIED or wrongly promoted — the death is proved,
+the parentage is not yet re-read. Clearing them fully off an index that does not contain the
+claimed information would have been exactly the kind of shortcut this audit exists to
+prevent.
+
+## Also cleared
+
+**numaSr, 1900 census, Lafourche Crossing** — "Household of Numa Pedaux (b. 1848) and wife
+Ulali (b. 1849)." Read in FamilySearch: **Numa Pedaux, b. November 1848**, married 1871, and
+**Ulali Pedaux, b. December 1849**, married 1871, with children Roya, Anna, Numa, Louis,
+Eugenie and Agness. Both birth years confirmed. This was read earlier and never logged.
