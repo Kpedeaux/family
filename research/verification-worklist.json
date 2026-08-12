@@ -1,0 +1,615 @@
+{
+ "BRDR (local PDF)": [
+  {
+   "person": "pierreNuma",
+   "claim": "Baptism — Church of the Assumption, Plattenville",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 7 (1848–1852), ASM-9, 290"
+  },
+  {
+   "person": "pierreNuma",
+   "claim": "Marriage — St. Philomena, Labadieville",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 12 (1871–1873), SPH-4, 367"
+  },
+  {
+   "person": "antoineFlorentin",
+   "claim": "Baptism — Church of the Assumption, Plattenville",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 3 (1804–1818), ASM-6, 288"
+  },
+  {
+   "person": "antoineFlorentin",
+   "claim": "Burial",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 9 (1858–1862), ASM-10, 168"
+  },
+  {
+   "person": "marieCancienne",
+   "claim": "Burial",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 9 (1858–1862), ASM-10, 190"
+  },
+  {
+   "person": "michelPedeau",
+   "claim": "Marriage — Church of the Assumption, Plattenville",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 3 (1804–1818), ASM-2, 127"
+  },
+  {
+   "person": "florenceAucoin",
+   "claim": "Burial",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 7 (1848–1852), ASM-10, 120"
+  },
+  {
+   "person": "alphonseSr",
+   "claim": "Baptism — St. Michael, Convent (St. James Parish)",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 4 (1820–1829), SMI-3, 164"
+  },
+  {
+   "person": "josephGervais",
+   "claim": "Baptism — St. James Parish",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 2 (1770–1803), SJA-3, 157"
+  },
+  {
+   "person": "josephGervais",
+   "claim": "Marriage — St. Michael, Convent",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 4 (1820–1829), SMI-2, 77"
+  },
+  {
+   "person": "josephGervais",
+   "claim": "Burial — St. Michael, Convent",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 8 (1853–1857), SMI-4, 236"
+  },
+  {
+   "person": "francoisGaiennie",
+   "claim": "Marriage — St. James Parish",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Diocese of Baton Rouge, Vol. 2 (1770–1803), SJA-2, 19"
+  },
+  {
+   "person": "julienGagnier",
+   "claim": "Named in his grandson Gervais's baptism",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] St. James Parish, 6 September 1797 — SJA-3, 157 (Diocese of Baton Rouge Vol. 2)"
+  },
+  {
+   "person": "elisabethSarde",
+   "claim": "Marriage — St. James Parish",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] 10 February 1793 — SJA-2, 19 (Diocese of Baton Rouge Vol. 2)"
+  }
+ ],
+ "SRANO (local PDF)": [
+  {
+   "person": "julienGagnier",
+   "claim": "Named in his son Urbain's marriage record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] St. Louis Cathedral, 19 March 1789 — SLC, M5, 62 (SRANO Vol. 4)"
+  },
+  {
+   "person": "nicolasSardet",
+   "claim": "Marriage — St. Louis church, New Orleans",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] 20 January 1767 — SLC, M2, 25 (SRANO Vol. 2)"
+  },
+  {
+   "person": "nicolasSardet",
+   "claim": "Daughter Eulalie's baptism, naming his trade",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] 16 January 1774 — SLC, B7, 35 (SRANO Vol. 3)"
+  },
+  {
+   "person": "margueriteReyne",
+   "claim": "Baptism — St. Louis church, New Orleans",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] 6 November 1752 — SLC, B2, 269 (SRANO Vol. 2)"
+  },
+  {
+   "person": "etienneReyne",
+   "claim": "The earliest trace of him — a godmother's line, 16 March 1750",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] St. Louis church, New Orleans — baptism of Marie Françoise Castel, 16 March 1750 (SLC, B2, 180); SRANO Vol. 1 (1718–1750)"
+  },
+  {
+   "person": "etienneReyne",
+   "claim": "His children's baptisms — St. Louis church",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] SLC registers B2–B5, 1752–1766 (SRANO Vol. 2)"
+  },
+  {
+   "person": "francoiseRenard",
+   "claim": "The first time she appears — as a godmother, 16 March 1750",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] St. Louis church, New Orleans — baptism of Marie Françoise Castel (SLC, B2, 180); SRANO Vol. 1"
+  },
+  {
+   "person": "elisabethSarde",
+   "claim": "Baptism — St. Louis church, New Orleans",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] 16 January 1774 — SLC, B7, 35 (SRANO Vol. 3)"
+  },
+  {
+   "person": "josephLemoine",
+   "claim": "Named at his son's baptism",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Church of St. John the Baptist, Edgard — B7, p. 49; SRANO Vol. 18 (1828–1829)"
+  },
+  {
+   "person": "marieRibas",
+   "claim": "Named at her son's baptism",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Church of St. John the Baptist, Edgard — B7, p. 49; SRANO Vol. 18 (1828–1829)"
+  },
+  {
+   "person": "marieRibas",
+   "claim": "The Ribas family she probably belongs to",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] SRANO Vols. 14 and 16 — St. John the Baptist, Edgard (SJBED, B4, 57 and B4, 165)"
+  }
+ ],
+ "LA SOS vital index (online)": [
+  {
+   "person": "herbertJoseph",
+   "claim": "Louisiana birth record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 10 July 1921 — Vol. 175, p. 791"
+  },
+  {
+   "person": "herbertJoseph",
+   "claim": "Louisiana marriage record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, April 1943 — Vol. 58, p. 1681"
+  },
+  {
+   "person": "veronicaBrunetti",
+   "claim": "Louisiana birth record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 20 November 1923 — Vol. 181, p. 2241"
+  },
+  {
+   "person": "numaSr",
+   "claim": "Louisiana marriage record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, July 1917 — Vol. 39, p. 1008"
+  },
+  {
+   "person": "alphonseJr",
+   "claim": "Louisiana marriage record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, February 1888 — Vol. 13, p. 255"
+  },
+  {
+   "person": "alphonseJr",
+   "claim": "Louisiana death record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 19 March 1919 — Vol. 176, p. 115"
+  },
+  {
+   "person": "jeanneCurien",
+   "claim": "Louisiana death record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 12 January 1919 — Vol. 175, p. 218"
+  },
+  {
+   "person": "alphonseSr",
+   "claim": "Louisiana death record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 20 July 1884 — Vol. 85, p. 616"
+  },
+  {
+   "person": "johnBrunetti",
+   "claim": "Marriage — the record that names his parents",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana Parish Marriages, Orleans, June 1921 (licence Vol. 46, p. 90; two entries, 15 and 18 June)"
+  },
+  {
+   "person": "melanieMoizant",
+   "claim": "Louisiana death index",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 18 October 1957 — Vol. 0, p. 7108"
+  },
+  {
+   "person": "melanieMoizant",
+   "claim": "Louisiana marriage index — the same record, indexed twice",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, April 1926 — Vol. 50, p. 376"
+  },
+  {
+   "person": "alfredMoizant",
+   "claim": "HIS PARENTS, AND BORDEAUX",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Orleans, Death Records and Certificates, 1835–1954 — Alfred L. Moizant, 23 February 1933; with his obituary, New Orleans, 23 February 1933 (GenealogyBank), and his voter registration of 9 December 1931"
+  },
+  {
+   "person": "alfredMoizantPere",
+   "claim": "Named at his son's death",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Orleans, Death Records and Certificates, 1835–1954 — Alfred L. Moizant, 23 February 1933"
+  },
+  {
+   "person": "clemenceChapeau",
+   "claim": "Named at her son's death",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Orleans, Death Records and Certificates, 1835–1954 — Alfred L. Moizant, 23 February 1933"
+  },
+  {
+   "person": "charlesEmileLarmann",
+   "claim": "Louisiana birth record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 12 July 1902 — Vol. 123, p. 485"
+  },
+  {
+   "person": "charlesEmileLarmann",
+   "claim": "Louisiana marriage record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, August 1924 — Vol. 49, p. 468"
+  },
+  {
+   "person": "stephenHanley",
+   "claim": "Named at his daughter's marriage",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Parish Marriages, 1787–1958 — Orleans, 22 May 1906, p. 962"
+  },
+  {
+   "person": "maryReed",
+   "claim": "Named at her daughter's marriage",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Parish Marriages, 1787–1958 — Orleans, 22 May 1906, p. 962"
+  },
+  {
+   "person": "agnesHanley",
+   "claim": "The death of her infant daughter",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana death index, Orleans, 9 November 1909 — Vol. 147, p. 1104"
+  },
+  {
+   "person": "anthonyLarmann",
+   "claim": "His marriage — the act that names his parents",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Parish Marriages, 1787–1958 — Orleans, November 1895; civil index Vol. 18, p. 718"
+  },
+  {
+   "person": "anthonyLarmann",
+   "claim": "Louisiana death record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 12 February 1904 — Vol. 131, p. 1097"
+  },
+  {
+   "person": "eugeniaMoore",
+   "claim": "Louisiana death record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 23 February 1921 — Vol. 181, p. 257"
+  },
+  {
+   "person": "johnCasparLarmann",
+   "claim": "The record that first named his parents",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana Parish Marriages — Orleans, 26 April 1884 (Vol. 10, p. 589)"
+  },
+  {
+   "person": "johnCasparLarmann",
+   "claim": "His death certificate — the parents again, independently",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Orleans, Death Records and Certificates — 21 November 1921"
+  },
+  {
+   "person": "johnCasparLarmann",
+   "claim": "First marriage",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, November 1870 — Vol. 1, p. 662"
+  },
+  {
+   "person": "johnCasparLarmann",
+   "claim": "Second marriage",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, April 1884 — Vol. 10, p. 589"
+  },
+  {
+   "person": "johnCasparLarmann",
+   "claim": "Louisiana death record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 21 November 1921 — Vol. 183, p. 215"
+  },
+  {
+   "person": "johnCasparLarmannSr",
+   "claim": "Named on his son's American marriage record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana Parish Marriages — Orleans, 26 April 1884 (Vol. 10, p. 589)"
+  },
+  {
+   "person": "mariaElisabethWerges",
+   "claim": "Named on her son's marriage record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana Parish Marriages — Orleans, 26 April 1884 (Vol. 10, p. 589)"
+  },
+  {
+   "person": "emilyMevers",
+   "claim": "Marriage — Orleans Parish",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana Parish Marriages — Orleans, 10 November 1870 (Vol. 1, p. 662)"
+  },
+  {
+   "person": "emilyMevers",
+   "claim": "Louisiana death record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 11 February 1882 — Vol. 80, p. 272"
+  },
+  {
+   "person": "henryMoore",
+   "claim": "Louisiana marriage record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, May 1871 — Vol. 2, p. 162"
+  },
+  {
+   "person": "henryMoore",
+   "claim": "Louisiana death record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 9 December 1893 — Vol. 105, p. 417"
+  },
+  {
+   "person": "valentineGoubler",
+   "claim": "Louisiana death record — under her maiden name",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 14 February 1926 — Vol. 192, p. 169"
+  },
+  {
+   "person": "josephGoubler",
+   "claim": "Louisiana death record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 7 November 1892 — Vol. 102, p. 1145"
+  },
+  {
+   "person": "victoireCirclot",
+   "claim": "Louisiana death record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 23 December 1895 — Vol. 110, p. 79"
+  },
+  {
+   "person": "valeryRousselle",
+   "claim": "His wife named in his children's records",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana Parish Marriages and Deaths — entries for Ozeme Joseph and Leo Rousselle"
+  },
+  {
+   "person": "henryJohnWellmeyer",
+   "claim": "Louisiana birth record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 13 March 1886 — Vol. 83, p. 968"
+  },
+  {
+   "person": "henryJohnWellmeyer",
+   "claim": "Louisiana marriage record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 1910 — Vol. 32, p. 303"
+  },
+  {
+   "person": "louisSander",
+   "claim": "Louisiana marriage record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, June 1872 — Vol. 3, p. 109"
+  },
+  {
+   "person": "louisSander",
+   "claim": "Louisiana death record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 12 November 1914 — Vol. 161, p. 1051"
+  },
+  {
+   "person": "johnWellmeyer",
+   "claim": "Louisiana marriage record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, January 1883 — Vol. 9, p. 738"
+  },
+  {
+   "person": "johnWellmeyer",
+   "claim": "Louisiana death record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 15 December 1922 — Vol. 186, p. 121"
+  },
+  {
+   "person": "henryBernardWellmeyer",
+   "claim": "Louisiana death record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 23 September 1880 — Vol. 77, p. 470"
+  },
+  {
+   "person": "henryBernardWellmeyer",
+   "claim": "Birth of his son Louis — the couple named together",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 2 February 1864 — Vol. 36, p. 376"
+  },
+  {
+   "person": "carolineLobmeyer",
+   "claim": "Louisiana death record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 7 December 1903 — Vol. 131, p. 367"
+  }
+ ],
+ "Other/unclear": [
+  {
+   "person": "buddy",
+   "claim": "The cemetery register, in the archdiocese's own hand",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Archdiocese of New Orleans, Catholic Cemeteries burial register — profile 36915129, plot L3 SQ 5E / G ST. LOUIS AVENUE / 9. Searched 12 August 2026."
+  },
+  {
+   "person": "veronicaBrunetti",
+   "claim": "Her burial — and a question in the same plot",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Archdiocese of New Orleans, Catholic Cemeteries burial register — St. Louis No. 3, plot L3 SQ 5E / G ST. LOUIS AVENUE / 9, profile 36915128. Searched 12 August 2026."
+  },
+  {
+   "person": "numaSr",
+   "claim": "1900 U.S. Census, Lafourche Parish",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Household of Numa Pedaux (b. 1848) and wife Ulali (b. 1849)"
+  },
+  {
+   "person": "michelPedeauPere",
+   "claim": "Death — Nantes table décennale des décès, 1793–an X",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Archives municipales de Nantes, 1E 1675, view 185 of 359, page 1234"
+  },
+  {
+   "person": "florenceAucoin",
+   "claim": "Passenger list — La Ville d'Archangel, 1785",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Entry 21 of 55 family groups; arrived New Orleans 3 December 1785"
+  },
+  {
+   "person": "michelAucoin",
+   "claim": "Passenger list — La Ville d'Archangel, 1785, entry 21",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Rev. Donald J. Hébert, Acadian Families in Exile 1785, p. 93"
+  },
+  {
+   "person": "josephGervais",
+   "claim": "Militia roll — War of 1812",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana Soldiers in the War of 1812 (compiled state militia rosters)"
+  },
+  {
+   "person": "francoisGaiennie",
+   "claim": "Militia roll — War of 1812",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana Soldiers in the War of 1812 (compiled state militia rosters)"
+  },
+  {
+   "person": "johnBrunetti",
+   "claim": "Veterans Administration Master Index, 1917–1940",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] U.S. Veterans Administration master index card"
+  },
+  {
+   "person": "johnBrunetti",
+   "claim": "1930 U.S. Census, Orleans Parish",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Household of John Brunette"
+  },
+  {
+   "person": "johnBrunetti",
+   "claim": "The name his village would have used",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Arbëresh naming custom, from the research binder kept by his granddaughter Patricia Pedeaux Ruda, printed December 2010"
+  },
+  {
+   "person": "johnBrunetti",
+   "claim": "What Plataci was, and still is",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Arbëresh background material in the same binder; corroborated by the parish acts quoted in Alicia Bodily's Plataci genealogy"
+  },
+  {
+   "person": "veronicaFranovich",
+   "claim": "Her burial — the first of the six",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Archdiocese of New Orleans, Catholic Cemeteries burial register — St. Louis No. 3, plot L3 SQ 5E / G ST. LOUIS AVENUE / 9, profile 36915131. Searched 12 August 2026."
+  },
+  {
+   "person": "veronicaFranovich",
+   "claim": "In her father's household, aged eight",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States Census, 1910 — Nairn, Plaquemines Parish, Louisiana"
+  },
+  {
+   "person": "nicolaFranovich",
+   "claim": "Named as father on two of his sons' death records",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Deaths, 1850–1875, 1894–1960 — Anthony Franovich, 19 July 1911, Buras; and Nicole Franovich, 5 May 1955, Buras"
+  },
+  {
+   "person": "nicolaFranovich",
+   "claim": "His household in the 1880 census",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States Census, 1880 — Plaquemines Parish, Louisiana"
+  },
+  {
+   "person": "josephineBuras",
+   "claim": "Named as mother on two sons' death records",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Deaths, 1850–1875, 1894–1960 — Anthony Franovich (1911) and Nicole Franovich (1955), both of Buras"
+  },
+  {
+   "person": "josephineBuras",
+   "claim": "Her own parents and a brother",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States Census, 1900 — Wards 5 and 10, Plaquemines Parish"
+  },
+  {
+   "person": "anthonyFranovich",
+   "claim": "HIS DEATH RECORD — the one that settled where he was born",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Deaths, 1850–1875, 1894–1960 — Anthony Franovich, 19 July 1911, Buras, Plaquemines Parish"
+  },
+  {
+   "person": "anthonyFranovich",
+   "claim": "His own household, 1910 — the record that places Veronica",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States Census, 1910 — Nairn, Plaquemines Parish, Louisiana"
+  },
+  {
+   "person": "anthonyFranovich",
+   "claim": "In his father's house, aged seven",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States Census, 1880 — Plaquemines Parish"
+  },
+  {
+   "person": "alfredMoizant",
+   "claim": "THE PLOT, CORRECTED — and Victoria is in it",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Archdiocese of New Orleans, Catholic Cemeteries burial register — St. Louis Cemetery No. 3, plot L3 SQ 03 / O ALLEY DE LA VIERGE / 11; profiles 36892936 and 36892935. Searched 12 August 2026."
+  },
+  {
+   "person": "alfredMoizant",
+   "claim": "Naturalized at sixty-two",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana Naturalization Records, 1812–1932 — Alfred Moizant, 2 March 1900"
+  },
+  {
+   "person": "alfredMoizant",
+   "claim": "A life that moved upriver",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States Censuses of 1900, 1910 and 1930; Orleans and St. Tammany Voter Registration Records, 1867–1949"
+  },
+  {
+   "person": "clemenceChapeau",
+   "claim": "And in a granddaughter's name",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States Census, 1900 — Wards 5 and 10, Plaquemines Parish"
+  },
+  {
+   "person": "victoriaDaroca",
+   "claim": "Her burial",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Archdiocese of New Orleans, Catholic Cemeteries burial register — profile 36892935. Searched 12 August 2026."
+  },
+  {
+   "person": "johnLarmannSr",
+   "claim": "Louisiana marriage record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, July 1947 — p. 3644"
+  },
+  {
+   "person": "charlesEmileLarmann",
+   "claim": "Louisiana death record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 13 July 1969 — p. 4760"
+  },
+  {
+   "person": "johannaLemoine",
+   "claim": "Her headstone — the Goubler family tomb",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Photographed by the family, August 2026"
+  },
+  {
+   "person": "johannaLemoine",
+   "claim": "The 1910 census — the only Johanna Lemoine in Louisiana",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] 1910 U.S. census index, Orleans Parish"
+  },
+  {
+   "person": "robertLemoine",
+   "claim": "The battleship spoon",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Family keepsake, photographed August 2026 — see the research page"
+  },
+  {
+   "person": "robertLemoine",
+   "claim": "Washington, and why he lies at Arlington",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States Census, 1940 — Tract 96, Police Precinct 11, District of Columbia"
+  },
+  {
+   "person": "robertLemoine",
+   "claim": "Where the Utah was, while he was aboard her",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Dictionary of American Naval Fighting Ships, \"Utah I (Battleship No. 31),\" Naval History and Heritage Command"
+  },
+  {
+   "person": "anthonyLarmann",
+   "claim": "His own name, written out in his daughters' birth records",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Orleans, Birth Records, 1819–1915 — Mary Eugenia Larmann, 20 September 1896, certificate 91; and Louise Frances Larmann, 1897"
+  },
+  {
+   "person": "anthonyLarmann",
+   "claim": "In his father's house, aged eight",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States Census, 1880 — New Orleans, household of J. C. Larman"
+  },
+  {
+   "person": "johnCasparLarmann",
+   "claim": "His brother found — a Larmann branch in Brooklyn",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] New York City Municipal Deaths — Henry Larmann, 29 November 1938, Brooklyn, certificate 22867"
+  },
+  {
+   "person": "johnCasparLarmann",
+   "claim": "Naturalization — 16 October 1868",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Fifth District Court, New Orleans — Minor's Naturalization Book 6, p. 189B"
+  },
+  {
+   "person": "johnCasparLarmann",
+   "claim": "Obituary notices",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] NOPL obituary index — Times-Picayune, 22 Nov 1921, p. 2 col. 8, and 23 Nov 1921, p. 2 col. 8"
+  },
+  {
+   "person": "johnCasparLarmannSr",
+   "claim": "Named in his son's baptism — the primary record",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Katholische Pfarrei St. Petrus, Gesmold — Taufen 1846–1852, entry 16 of 1846"
+  },
+  {
+   "person": "johnCasparLarmannSr",
+   "claim": "His marriage — Gesmold, 8 November 1843",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Katholische Pfarrei St. Petrus, Gesmold — Heiraten 1811–1852, D2_202, last entry of 1843"
+  },
+  {
+   "person": "mariaElisabethWerges",
+   "claim": "Her marriage — Gesmold, 8 November 1843",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Katholische Pfarrei St. Petrus, Gesmold — Heiraten 1811–1852, last entry of 1843"
+  },
+  {
+   "person": "johannCasparLaarmann1791",
+   "claim": "His marriage — Gesmold, 31 January 1815",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Katholische Pfarrei St. Petrus, Gesmold — Heiraten 1811–1852, D2_202, second entry of 1815"
+  },
+  {
+   "person": "catharinaMariaOrtmann",
+   "claim": "Her marriage — Gesmold, 31 January 1815",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Katholische Pfarrei St. Petrus, Gesmold — Heiraten 1811–1852, second entry of 1815"
+  },
+  {
+   "person": "valentineGoubler",
+   "claim": "The old tomb tablet",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Goubler family tomb; photographed by the family, August 2026"
+  },
+  {
+   "person": "josephGoubler",
+   "claim": "The tomb itself",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Family photographs, August 2026"
+  },
+  {
+   "person": "alexisLemoine",
+   "claim": "HIS OWN BAPTISM — the record that named his parents",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Church of St. John the Baptist, Edgard — Baptismal book 7, p. 49 (SJBED, B7, 49); abstracted in Sacramental Records of the Archdiocese of New Orleans, Vol. 18 (1828–1829)"
+  },
+  {
+   "person": "alexisLemoine",
+   "claim": "Godfather at Poppone's baptism",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Church of St. John the Baptist, Edgard — baptism of 21 January 1864"
+  },
+  {
+   "person": "alexisLemoine",
+   "claim": "The 1880 census — his household, with Alonzo in it",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] 1880 U.S. census, 1st Ward, ED 160, St. John the Baptist Parish, sheet 7B"
+  },
+  {
+   "person": "genevieveRousselle",
+   "claim": "Her baptismal certificate — the record that proves the line",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Church of St. John the Baptist, Edgard, Louisiana; certificate issued 29 July 1936 by Rev. Ernest Milby, pastor"
+  },
+  {
+   "person": "valeryRousselle",
+   "claim": "The 1880 census — Edgard, St. John the Baptist Parish",
+   "citation": "[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] 1880 U.S. census, Edgard, St. John the Baptist Parish, Louisiana"
+  }
+ ]
+}
