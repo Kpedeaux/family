@@ -233,3 +233,42 @@ citation needs to be traced to whoever first wrote it down.
 Also established, and worth keeping: **the marriage index gives year and month only.**
 Every specific day-of-month this site prints for a marriage is therefore unverified by
 this source and must come from somewhere else.
+
+---
+
+# Triage of the "other / unclear" pile
+
+Two things came out of reading this pile properly, and the first is a mistake of mine.
+
+## 1. Six citations had been flagged that I had verified myself
+
+The original marking script keyed on a list of source names, and that list was
+incomplete. Six records carrying **Archdiocese of New Orleans Catholic Cemeteries
+burial register** citations, and **Numa Pedeaux's 1942 draft card**, were marked
+[UNVERIFIED] even though I opened those exact records in Chrome earlier the same day —
+the cemetery profiles by ID, and the draft card downloaded and read as an image.
+
+They are now marked VERIFIED. Recording the error rather than quietly fixing it,
+because it is the same class of mistake the audit exists to catch: a badge is only
+as good as the rule that assigned it.
+
+## 2. Nineteen citations are not online and need the original
+
+Re-flagged **[SOURCE NOT ONLINE — cited from earlier research; the original document
+is needed]**:
+
+| Source | Count | What it would take |
+|---|---:|---|
+| **Katholische Pfarrei St. Petrus, Gesmold** — baptisms 1846–1852, marriages 1811–1852 | 6 | The Osnabrück diocesan archive, or Matricula/Archion. These are Casper Larmann's German christening and two generations of Laarmann marriages — the deepest German evidence on the tree. |
+| **Church of St. John the Baptist, Edgard** — baptismal book 7 | 3 | Archdiocese of New Orleans Archives. The free digitised Edgard registers stop at 1818; these are later. |
+| **Family photographs and keepsakes**, August 2026 | 4 | Already in the family's hands — the Goubler tomb photos, Johanna's photograph, the USS Maine spoon. Not "unverified" so much as "not a document." |
+| **Patricia Pedeaux Ruda's research binder** (Arbëresh material) | 2 | Aunt Pat's binder. |
+| **Hébert, *Acadian Families in Exile 1785*, p. 93**, and the 1785 passenger list | 2 | Published books, not online. |
+| **Pierson, *Louisiana Soldiers in the War of 1812*** | 2 | Not online anywhere free. These are the two War of 1812 claims already withdrawn from the top of the Gaiennie pages. |
+
+## What remains genuinely open
+
+40 citations. They are mostly US census references, the FamilySearch-gated
+collections, and Louisiana vital records outside the Orleans indexes already worked.
+Kevin is signed in to FamilySearch in Chrome, which makes a large part of that block
+reachable in a future session.

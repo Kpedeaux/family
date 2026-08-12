@@ -77,7 +77,7 @@
         },
         {
           title: 'The cemetery register, in the archdiocese\'s own hand',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Archdiocese of New Orleans, Catholic Cemeteries burial register — profile 36915129, plot L3 SQ 5E / G ST. LOUIS AVENUE / 9. Searched 12 August 2026.',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Archdiocese of New Orleans, Catholic Cemeteries burial register — profile 36915129, plot L3 SQ 5E / G ST. LOUIS AVENUE / 9. Searched 12 August 2026.',
           text: 'HERBERT JOHN PEDEAUX — born 20 October 1956 — died 17 February 2009, aged 52 — buried 20 February 2009, St. Louis Cemetery No. 3.',
           highlight: 'Both his dates come back exactly as this tree already carried them, from a record nobody in the family supplied. That matters more than it looks: the archdiocese\'s register is an independent third party, and where it can be checked against what the family knew, it agrees.'
         }
@@ -181,7 +181,7 @@
         },
         {
           title: 'Her burial — and a question in the same plot',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Archdiocese of New Orleans, Catholic Cemeteries burial register — St. Louis No. 3, plot L3 SQ 5E / G ST. LOUIS AVENUE / 9, profile 36915128. Searched 12 August 2026.',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Archdiocese of New Orleans, Catholic Cemeteries burial register — St. Louis No. 3, plot L3 SQ 5E / G ST. LOUIS AVENUE / 9, profile 36915128. Searched 12 August 2026.',
           text: 'VERONICA PEDEAUX — died 6 August 2013, aged 89 — buried 10 August 2013 in the Brunetti plot, with her husband, her son, and both her parents. Also in the plot, buried 19 May 1951: "VERONICA (TWINS) BRUNETTI."',
           highlight: 'THAT 1951 ENTRY IS NOT EXPLAINED YET, AND IT SHOULD NOT BE GUESSED AT. Cemetery ledgers routinely record infants who died before naming under the mother\'s name and the plot\'s family surname — so "Veronica (Twins) Brunetti" most likely means twins born to a Veronica. Two women in this family answer to that. Veronica Franovich Brunetti was about forty-nine in 1951, which makes her very unlikely. Veronica Marie was twenty-seven, married eight years, and had her children in exactly these years — Patricia, then Buddy in 1956. Twins lost in May 1951 would sit precisely in that gap. But the ledger does not say whose they were, and this tree does not print inferences as facts: the Orleans Parish death index for May 1951 would settle it, and until it does this stays a question.'
         }
@@ -233,7 +233,7 @@
         },
         {
           title: 'HIS OWN HAND — the 1942 draft card, with his address, his telephone and his employer',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States, World War II Draft Registration Cards, 1942 — Fourth Registration, State of Louisiana; serial number U-1108, D.S.S. Form 1 (revised 4-1-42), signed by the registrant.',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] United States, World War II Draft Registration Cards, 1942 — Fourth Registration, State of Louisiana; serial number U-1108, D.S.S. Form 1 (revised 4-1-42), signed by the registrant.',
           text: 'NUMA — LOUIS — PEDEAUX. · Place of residence: 6509 WEST END BLVD., N.O., La. · Mailing address: same. · Telephone: AU-1452. · Age 54; born 3-16-1888. · PLACE OF BIRTH: LAFOURCHE PARISH, LA. · Person who will always know your address: EDNA PEDEAUX (WIFE), 6509 West End Blvd. · Employer: MARITIME ELEC. CO. · Place of employment: 615 COMMERCE PLACE, N.O., La. · Signed, Numa L. Pedeaux.',
           image: 'assets/img/pedeaux-1942-draft-card.jpg',
           imageAlt: 'A 1942 United States draft registration card for Numa Louis Pedeaux, giving his residence at 6509 West End Boulevard, his birthplace as Lafourche Parish, and his employer as Maritime Electric Co. at 615 Commerce Place',
@@ -702,7 +702,7 @@
         },
         {
           title: 'Passenger list — La Ville d\'Archangel, 1785',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Entry 21 of 55 family groups; arrived New Orleans 3 December 1785',
+          citation: '[SOURCE NOT ONLINE — cited from earlier research; the original document is needed] Entry 21 of 55 family groups; arrived New Orleans 3 December 1785',
           text: 'Michel AUCOIN 53 years, Isabelle HEBERT, his wife 48 years. Children: Jean 23, Michel 16, Pierre 14, François 11, Constant 2, Marie 21, Anne 19, Isabelle 13, Floriane 4, Grégoire 18.'
         },
         {
@@ -770,7 +770,7 @@
       records: [
         {
           title: 'Passenger list — La Ville d\'Archangel, 1785, entry 21',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Rev. Donald J. Hébert, Acadian Families in Exile 1785, p. 93',
+          citation: '[SOURCE NOT ONLINE — cited from earlier research; the original document is needed] Rev. Donald J. Hébert, Acadian Families in Exile 1785, p. 93',
           text: 'Michel AUCOIN 53 years, Isabelle HEBERT, his wife 48 years — with ten named children including "Floriane 4 years."'
         },
         {
@@ -1001,7 +1001,7 @@
         },
         {
           title: 'Militia roll — War of 1812',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana Soldiers in the War of 1812 (compiled state militia rosters)',
+          citation: '[SOURCE NOT ONLINE — cited from earlier research; the original document is needed] Louisiana Soldiers in the War of 1812 (compiled state militia rosters)',
           text: '"Gervais Gainne — 6 Reg\'t. (Landry\'s), La. Militia."',
           highlight: 'He was not alone. The same roster carries "Francis Gaignie — 4 Reg\'t. (Morgan\'s), La. Militia" and a "U. Gaignie" — his father and, most likely, his uncle Urbain. Seven Gaiennie entries in all, across the usual spelling variants.'
         },
@@ -1075,7 +1075,7 @@
         },
         {
           title: 'Militia roll — War of 1812',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana Soldiers in the War of 1812 (compiled state militia rosters)',
+          citation: '[SOURCE NOT ONLINE — cited from earlier research; the original document is needed] Louisiana Soldiers in the War of 1812 (compiled state militia rosters)',
           text: '"Francis Gaignie — 4 Reg\'t. (Morgan\'s), La. Militia."',
           highlight: 'Almost certainly this François — which would put father and son in the campaign in different regiments. Probable rather than proven.'
         }
@@ -1445,13 +1445,13 @@
         },
         {
           title: 'The name his village would have used',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Arbëresh naming custom, from the research binder kept by his granddaughter Patricia Pedeaux Ruda, printed December 2010',
+          citation: '[SOURCE NOT ONLINE — cited from earlier research; the original document is needed] Arbëresh naming custom, from the research binder kept by his granddaughter Patricia Pedeaux Ruda, printed December 2010',
           text: 'Every Arbëresh person carries a legal Italian name and an Arbëresh one. Giuseppe is ZEF · Francesco is NXHIKU · Nicola is KOLL · Antonio is NTONI · Maria is MARIEJA — and GIOVANNI is XHUAN, or JANI.',
           highlight: 'So he was Giovanni on the paperwork, John in America, and almost certainly XHUAN or JANI to his own mother. Three names for one man, and the middle one — the one his village actually said out loud — is the one no record of his life anywhere in Louisiana would ever have written down.'
         },
         {
           title: 'What Plataci was, and still is',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Arbëresh background material in the same binder; corroborated by the parish acts quoted in Alicia Bodily\'s Plataci genealogy',
+          citation: '[SOURCE NOT ONLINE — cited from earlier research; the original document is needed] Arbëresh background material in the same binder; corroborated by the parish acts quoted in Alicia Bodily\'s Plataci genealogy',
           text: 'The baptisms in Plataci\'s own parish books are recorded "secondo il rito greco" — by the Greek rite. The parish is San Giovanni Battista; the priests who sign the acts are archpriests named Chidichimo and Dramisino.',
           highlight: 'Plataci is an ARBËRESH village — one of the Italo-Albanian communities founded by refugees who crossed the Adriatic in the fifteenth century, after the Ottomans took Albania, and who have kept their language and their Byzantine rite ever since. That is why his people were Catholic but not Roman-rite, and why a Calabrian hill town five hundred miles from Albania was still speaking Albanian when he was born there in 1893.'
         }
@@ -1511,7 +1511,7 @@
       records: [
         {
           title: 'Her burial — the first of the six',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Archdiocese of New Orleans, Catholic Cemeteries burial register — St. Louis No. 3, plot L3 SQ 5E / G ST. LOUIS AVENUE / 9, profile 36915131. Searched 12 August 2026.',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Archdiocese of New Orleans, Catholic Cemeteries burial register — St. Louis No. 3, plot L3 SQ 5E / G ST. LOUIS AVENUE / 9, profile 36915131. Searched 12 August 2026.',
           text: 'VERONICA BRUNETTI — aged 79 — buried 25 August 1981, St. Louis Cemetery No. 3.',
           highlight: 'The age matches her March 1902 birth to the year. She went in six years ahead of her husband, and thirty-two years ahead of her daughter — the whole rest of the tomb filled in behind her.'
         },
@@ -1690,7 +1690,7 @@
       records: [
         {
           title: 'THE PLOT, CORRECTED — and Victoria is in it',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Archdiocese of New Orleans, Catholic Cemeteries burial register — St. Louis Cemetery No. 3, plot L3 SQ 03 / O ALLEY DE LA VIERGE / 11; profiles 36892936 and 36892935. Searched 12 August 2026.',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Archdiocese of New Orleans, Catholic Cemeteries burial register — St. Louis Cemetery No. 3, plot L3 SQ 03 / O ALLEY DE LA VIERGE / 11; profiles 36892936 and 36892935. Searched 12 August 2026.',
           text: 'ALFRED L MOIZANT — buried 24 February 1933. · "WID VICTORIA MOIZANT" — buried 10 October 1928. Two burials, one plot, five years apart.',
           highlight: 'This page used to place him at "Square 3, Section B, Lot 11," beside a daughter. The archdiocese\'s own register puts him on the ALLEY DE LA VIERGE, facing O, plot 11 — and the person already lying there was his wife, Victoria, who had gone in five years before him. Corrected here rather than quietly overwritten. One oddity is left standing on purpose: the clerk entered her as "Wid" — widow — in 1928, when Alfred still had five years to live. Either she carried a widowhood from before this marriage, or the entry was written up after 1933 and back-styled. The register does not say, so neither does this page.'
         },
@@ -1778,7 +1778,7 @@
       records: [
         {
           title: 'Her burial',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Archdiocese of New Orleans, Catholic Cemeteries burial register — profile 36892935. Searched 12 August 2026.',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Archdiocese of New Orleans, Catholic Cemeteries burial register — profile 36892935. Searched 12 August 2026.',
           text: 'Entered in the register as "WID VICTORIA MOIZANT," buried 10 October 1928.',
           highlight: 'She died on the 9th and went into the ground on the 10th — the register\'s date and this page\'s date agree. See her husband\'s entry for the "Wid" puzzle, which is not resolved.'
         }
@@ -1984,7 +1984,7 @@
         },
         {
           title: 'Her headstone — the Goubler family tomb',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Photographed by the family, August 2026',
+          citation: '[SOURCE NOT ONLINE — cited from earlier research; the original document is needed] Photographed by the family, August 2026',
           text: 'LARMANN — JOHANNA LEMOINE, JAN. 9, 1907 — DEC. 11, 1992.',
           highlight: 'The stone supplies what no index could: her exact birthday and death day.'
         },
@@ -2033,7 +2033,7 @@
         },
         {
           title: 'The battleship spoon',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Family keepsake, photographed August 2026 — see the research page',
+          citation: '[SOURCE NOT ONLINE — cited from earlier research; the original document is needed] Family keepsake, photographed August 2026 — see the research page',
           text: 'A souvenir spoon engraved U.S. BATTLESHIP MAINE — 6682 TONS, kept in the family with the story that the Maine was his ship.',
           highlight: 'He was nine when the first Maine exploded at Havana in 1898 — but a second USS Maine served from 1902 until 1920, and his service card only accounts for 1917 onward. The four years between his enlistment in October 1913 and the war are still blank, and that is exactly where a Maine posting would sit. The family story is now possible in a way it was not before, and the muster rolls for 1913–17 would settle it.'
         },
@@ -2269,7 +2269,7 @@
       records: [
         {
           title: 'His baptism — read in the Gesmold parish register',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Katholische Pfarrei St. Petrus, Gesmold (Melle) — Taufen 1846–1852, D1_105, entry 16 of 1846',
+          citation: '[SOURCE NOT ONLINE — cited from earlier research; the original document is needed] Katholische Pfarrei St. Petrus, Gesmold (Melle) — Taufen 1846–1852, D1_105, entry 16 of 1846',
           image: 'assets/img/gesmold-1846-baptisms.jpg',
           imageAlt: 'A page of the 1846 baptismal register of St. Petrus, Gesmold, in German script; entry 16 records Johann Caspar Larmann',
           imageCredit: 'Bistum Osnabrück, Pfarrei St. Petrus Gesmold, via Matricula Online, CC BY-NC-ND 2.0. Tap to enlarge.',
@@ -2387,13 +2387,13 @@
       records: [
         {
           title: 'Named in his son\'s baptism — the primary record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Katholische Pfarrei St. Petrus, Gesmold — Taufen 1846–1852, entry 16 of 1846',
+          citation: '[SOURCE NOT ONLINE — cited from earlier research; the original document is needed] Katholische Pfarrei St. Petrus, Gesmold — Taufen 1846–1852, entry 16 of 1846',
           text: '"Vat.: Jos. Caspar Larmann, Neubauer zu Weringhof… Gev.: Jos. Caspar Larmann."',
           highlight: 'A Neubauer was a smallholder settled on newly broken land — the lowest rung of the landholding peasantry, not gentry. He stood as his own son\'s godfather, or a namesake kinsman did.'
         },
         {
           title: 'His marriage — Gesmold, 8 November 1843',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Katholische Pfarrei St. Petrus, Gesmold — Heiraten 1811–1852, D2_202, last entry of 1843',
+          citation: '[SOURCE NOT ONLINE — cited from earlier research; the original document is needed] Katholische Pfarrei St. Petrus, Gesmold — Heiraten 1811–1852, D2_202, last entry of 1843',
           text: '"8. Nov. — Larmann, Johann Caspar, Neubauer, geboren d. 6ten April 1821, mit Maria Elisabeth Werges, geboren zu Haste d. 27 Jan. 1817. Zeugen: Col. Math. [Zuhfeld] und Col. Conr. Sundermann."',
           highlight: 'Read in the register. It gives his birthday to the day, his wife\'s birthday and her home village of Haste, and settles his given name as Johann. The witnesses are styled Col. — Colonus, full farm owners, a rank above the Neubauer bridegroom.'
         },
@@ -2421,7 +2421,7 @@
       records: [
         {
           title: 'Her marriage — Gesmold, 8 November 1843',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Katholische Pfarrei St. Petrus, Gesmold — Heiraten 1811–1852, last entry of 1843',
+          citation: '[SOURCE NOT ONLINE — cited from earlier research; the original document is needed] Katholische Pfarrei St. Petrus, Gesmold — Heiraten 1811–1852, last entry of 1843',
           text: '"…mit Maria Elisabeth Werges, geboren zu Haste d. 27 Jan. 1817."',
           highlight: 'The register gives her birthday and her home village — neither of which had ever reached America.'
         },
@@ -2449,7 +2449,7 @@
       records: [
         {
           title: 'His marriage — Gesmold, 31 January 1815',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Katholische Pfarrei St. Petrus, Gesmold — Heiraten 1811–1852, D2_202, second entry of 1815',
+          citation: '[SOURCE NOT ONLINE — cited from earlier research; the original document is needed] Katholische Pfarrei St. Petrus, Gesmold — Heiraten 1811–1852, D2_202, second entry of 1815',
           text: '"31 Jan. Sponsus: Joannes Casparus Laarmann, filius legitimus patris Joannis Henrici Laarmann et matris Catharinae Mariae Gerven, hic natus 1791 d. 22 Sept. Sponsa: Catharina Maria Ortmann, filia legitima patris Joannis Henrici Ortmann et matris Catharinae Mariae Decker…"',
           highlight: 'The act that reaches furthest back. Written in Latin, it names the bridegroom\'s parents, the bride\'s parents, and both birthdates — four people who had been guesses on a community tree an hour before, and are now written evidence.'
         }
@@ -2469,7 +2469,7 @@
       records: [
         {
           title: 'Her marriage — Gesmold, 31 January 1815',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Katholische Pfarrei St. Petrus, Gesmold — Heiraten 1811–1852, second entry of 1815',
+          citation: '[SOURCE NOT ONLINE — cited from earlier research; the original document is needed] Katholische Pfarrei St. Petrus, Gesmold — Heiraten 1811–1852, second entry of 1815',
           text: '"Sponsa: Catharina Maria Ortmann, filia legitima patris Joannis Henrici Ortmann et matris Catharinae Mariae Decker, [h]ic nata 1793 d. 6 Novembris."'
         }
       ],
@@ -2589,7 +2589,7 @@
         },
         {
           title: 'The old tomb tablet',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Goubler family tomb; photographed by the family, August 2026',
+          citation: '[SOURCE NOT ONLINE — cited from earlier research; the original document is needed] Goubler family tomb; photographed by the family, August 2026',
           text: 'VALENTINE GOUBLER, wife of Henry Moore — died Feb. 14, 1926, aged 77 yrs.',
           highlight: 'The stone names her marriage outright and restores the age the index garbled: seventy-seven.'
         }
@@ -2640,7 +2640,7 @@
         },
         {
           title: 'The tomb itself',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Family photographs, August 2026',
+          citation: '[SOURCE NOT ONLINE — cited from earlier research; the original document is needed] Family photographs, August 2026',
           text: 'The pediment reads "FAMILY — JOSEPH GOUBLER." The original marble tablet, now broken and replaced by the family, is still partly legible: Lucien (d. Oct. 1876) · Emile (d. 1889) · Joseph Goubler (d. Nov. 1892, aged 74 yrs) · Victoire Cirlot, wife of Joseph Goubler (d. 1895) · Anthony Moore (d. Nov. 1, 1920, aged 37 yrs) · Valentine Goubler, wife of Henry Moore (d. Feb. 14, 1926, aged 77 yrs) · Louis Goubler (d. March 1940) · Leontine M. Moore (d. March 27, 1947) · Louise M. Moore (d. 1948).',
           highlight: 'The stone documents Louis Goubler\'s 1940 death, which the state index missed entirely, and gives Anthony Moore and Leontine their exact dates.'
         }
@@ -2806,13 +2806,13 @@
       records: [
         {
           title: 'HIS OWN BAPTISM — the record that named his parents',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Church of St. John the Baptist, Edgard — Baptismal book 7, p. 49 (SJBED, B7, 49); abstracted in Sacramental Records of the Archdiocese of New Orleans, Vol. 18 (1828–1829)',
+          citation: '[SOURCE NOT ONLINE — cited from earlier research; the original document is needed] Church of St. John the Baptist, Edgard — Baptismal book 7, p. 49 (SJBED, B7, 49); abstracted in Sacramental Records of the Archdiocese of New Orleans, Vol. 18 (1828–1829)',
           text: '"LEMOINE — Alexis Allonzo (JOSEPH and MARIE RIBAS), b. Nov. 22, 1829, bn. Feb. 4, 1829, s. Pierre GRAVOIS and Marie LATOUR, all of ST. CHARLES PARISH."',
           highlight: 'Found 11 August 2026, and it ends the longest-standing wall on this tree. His birth date matches the family record to the day — born the fourth of February, baptised the twenty-second of November, nine months later. His parents were JOSEPH LEMOINE and MARIE RIBAS, two names nobody in this family has known. And the phrase "all of St. Charles Parish" moves the family one parish downriver from where we had them: they worshipped at Edgard but they lived in St. Charles.'
         },
         {
           title: 'Godfather at Poppone\'s baptism',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Church of St. John the Baptist, Edgard — baptism of 21 January 1864',
+          citation: '[SOURCE NOT ONLINE — cited from earlier research; the original document is needed] Church of St. John the Baptist, Edgard — baptism of 21 January 1864',
           text: '"…the Sponsors being ALEXIS LEMOINE and Françoise Josephine Roussel."',
           highlight: 'This is the record that broke the Lemoine line open. It was the only Lemoine name anywhere in the family papers older than Alonzo himself.'
         },
@@ -2863,7 +2863,7 @@
       records: [
         {
           title: 'Her baptismal certificate — the record that proves the line',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Church of St. John the Baptist, Edgard, Louisiana; certificate issued 29 July 1936 by Rev. Ernest Milby, pastor',
+          citation: '[SOURCE NOT ONLINE — cited from earlier research; the original document is needed] Church of St. John the Baptist, Edgard, Louisiana; certificate issued 29 July 1936 by Rev. Ernest Milby, pastor',
           text: '"Poppone Geneviève Roussel, child of VALERY ROUSSEL and MARIE EVE DESLATTES, born in Edgard, La. on the 26th day of November 1863, was baptized on the 21st day of January 1864… by the Rev. N. M. Lacour, the sponsors being ALEXIS LEMOINE and Françoise Josephine Roussel."',
           highlight: 'Three things at once. Poppone was her real baptismal name, written before Geneviève — not the pet name everyone assumed. The act names her with both parents, which is what this site requires before it will call a link proven. And her godfather was a LEMOINE: Alexis Lemoine stood over her font in 1864, more than twenty years before she married Alonzo Lemoine. The two families were already bound together in that river parish a generation before the wedding. The certificate itself was drawn up in July 1936, when she was seventy-two — almost certainly to prove her age for the new Social Security.'
         },
