@@ -98,6 +98,20 @@
       },
 
       {
+        id: 'casper-independence',
+        name: '32 Independence Street — the 600 block today',
+        kind: 'home',
+        lat: 29.96211, lng: -90.03930,
+        precision: 'block',
+        years: '1878',
+        people: ['johnCasparLarmann'],
+        who: 'John Casper Larmann, carpenter — his earliest traceable address',
+        headline: 'FOUND ON A FIRE INSURANCE MAP, FIFTEEN YEARS AFTER HE LEFT IT',
+        text: 'Soards\' 1878 puts him at 32 Independence. That number is worthless on a modern map, because New Orleans renumbered every street in 1894 — so the way in was a Sanborn fire insurance map, surveyed under the old numbers and drawing every building. The 1893 volume\'s own street index sends "Independence, 1–64" to plate 148, and plate 148 writes the numbers along the block between Royal and Chartres: 37, 35, 33, 31, 25, 19 on one side; 30, 20, 18, 12½ on the other. Number 32 belongs above 30, at the Royal corner — and by 1893 that ground held no buildings at all. It is drawn as an open yard, lettered LUMBER PILES.',
+        source: 'Sanborn Fire Insurance Map from New Orleans, 1893, Vol. IV, plate 148 — Library of Congress, Geography and Map Division. Reproduced on his page. The pin sits on the surveyed Independence × Royal intersection; the block runs from there down to Chartres at 29.96113, -90.03959, and is the 600 block in modern numbering.'
+      },
+
+      {
         id: 'larmann-922-port',
         name: '922 Port Street',
         kind: 'home',
