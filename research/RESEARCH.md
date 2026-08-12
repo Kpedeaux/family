@@ -3580,3 +3580,42 @@ which is an unsourced user attachment fitting neither the 1812 birth on the reco
    headed a household of four younger siblings by 1870. **Is there a mother in that house?**
    That single column decides it.
 3. **DOBR volumes for a second Marie Cancienne** and for Pedeaux burials after 1900.
+
+### RESOLVED — the 1870 census answers it, and corrects this archive
+
+**United States Census, 1870 — Ward 5, Assumption Parish, page 63, HOUSEHOLD 118.**
+FamilySearch ark:/61903/1:1:M8QP-V8D.
+
+> Head: **OLIVIER CANSIENE** [Cancienne], 57, b. about 1813, Louisiana
+> **NUMA PEDOU 22 · ALCEÉ 21 · ULYSSE 20 · ALICE 18 · FLORENCE 16**
+
+**There is no mother in that household, and no adult Pedeaux woman at all.**
+
+**Three consequences.**
+
+1. **Marie Cancienne was dead by 1870**, which is what the 1862 burial says. That burial
+   entry does belong to her. The doubt raised by the 1900 census is lifted, and the OPEN
+   CONFLICT badge is replaced with CONFLICT RESOLVED.
+2. **Who raised the orphans is now known, and it is a good detail.** Not strangers: their
+   **mother's own family**. Olivier Cancienne at 57 is the right age to be Marie's brother.
+   Five Pedeaux children in a Cancienne house — the Canciennes took their sister's children.
+3. **This archive was wrong about Numa** and the page has been corrected. It said he "headed
+   a household of his four younger siblings" by 1870. He did not head it. He was living in
+   it, at twenty-two, under Olivier Cancienne's roof.
+
+**So who is Mary Pedaux?** Not Numa's birth mother — that is now closed. The leading
+hypothesis, **untested and recorded as such**, is his **mother-in-law**. Eulalie Borne's
+parents are named in the 1871 marriage act as Marcellin Borne and **Anne Marie GUEDRY**. A
+widowed mother-in-law in the house would be written "Mother" by an enumerator, and the
+surname column in 1900 sheets is routinely carried down with ditto marks — which would give
+a Borne or Guedry widow the surname "Pedaux" in the index without anyone writing it. That is
+a guess about a transcription habit and **must be checked against Anne Marie Guedry's dates**
+before it goes on any page.
+
+**Two cautions from this record.**
+- FamilySearch's tree attaches this census to "Numa Pierre Pedeaux, **1848–1958**." That
+  death year belongs to his grandson Numa Louis Charles Pedeaux Sr., who died 17 July 1958.
+  The tree has conflated two men three generations apart. This site keeps them separate.
+- FamilySearch also indexes the 1871 marriage as **17 April 1871 at Napoleonville**, while
+  the Diocese of Baton Rouge volume gives **27 April 1871 at St. Philomena, Labadieville**.
+  Both the day and the church differ. Not resolved here; recorded for the next pass.

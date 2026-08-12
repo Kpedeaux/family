@@ -310,13 +310,19 @@
       father: 'antoineFlorentin', mother: 'marieCancienne',
       evidence: 'verified',
       branch: 'pedeaux',
-      blurb: 'Baptised 11 May 1848. Buried St. Philomena Cemetery, Labadieville. By 1870 he headed a household of his four younger siblings. This page long said he was ORPHANED at fourteen; a widowed “Mary Pedaux” born November 1812 is living as his MOTHER in his own house in the 1900 census, so that is in doubt — see his mother’s page.',
+      blurb: 'Baptised 11 May 1848. Buried St. Philomena Cemetery, Labadieville. Orphaned at fourteen, and taken in with his four younger siblings by his mother’s family — the 1870 census puts all five of them in the house of OLIVIER CANCIENNE. This page used to say Numa headed that household himself; he did not.',
       records: [
         {
           title: 'Baptism — Church of the Assumption, Plattenville',
           citation: '[VERIFIED against the original, August 2026 — see the verification log] Diocese of Baton Rouge, Vol. 7 (1848–1852), ASM-9, 290',
           text: 'Pierre Numa (Antoine Pedeau and Marie CANCIENNE) bn. 20 Nov. 1847 bt. 11 May 1848 spo. Pierre Cancienne and Florence Aucoin.',
           highlight: 'The godmother is Florence Aucoin — his own grandmother, Michel Pedeau\'s widow, standing at the font. One line ties 1808 to 1847.'
+        },
+        {
+          title: 'THE ORPHANS WERE TAKEN IN BY THEIR MOTHER\u2019S FAMILY — the 1870 census, and there is no mother in it',
+          text: 'Ward 5, Assumption Parish, page 63, HOUSEHOLD 118. The head is OLIVIER CANSIENE — Cancienne — aged 57, born about 1813 in Louisiana. Living with him: NUMA PEDOU 22, ALCEÉ 21, ULYSSE 20, ALICE 18 and FLORENCE 16. Five Pedeaux children in a Cancienne’s house, and NO ADULT PEDEAUX WOMAN ANYWHERE IN THE HOUSEHOLD.',
+          highlight: 'THIS SETTLES TWO THINGS AND CORRECTS A THIRD. It settles that his mother was dead by 1870, which is what the 1862 burial of Marie Cancienne says — so that burial entry does belong to her after all, and the woman called “Mary Pedaux” in the 1900 census is somebody else. It settles who raised them: not strangers, but their MOTHER’S OWN KIN, an Olivier Cancienne old enough at 57 to be her brother. And it corrects this archive, which said Numa headed that household of four younger siblings at twenty-two. He did not head it. He was living in it.',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] United States Census, 1870 — Ward 5, Assumption Parish, Louisiana, page 63, household 118, line 9 (NARA M593); FamilySearch ark:/61903/1:1:M8QP-V8D, read 12 August 2026'
         },
         {
           title: 'Marriage — St. Philomena, Labadieville',
@@ -427,7 +433,7 @@
       death: { date: '11 May 1862', place: 'Assumption Parish' },
       evidence: 'verified',
       branch: 'pedeaux',
-      blurb: 'Widowed in 1858, and — IF the 1862 burial entry is hers — dead four years later at forty. That identification is now in question; see the 1900 census conflict on this page. Her eldest son Numa was fourteen. The 1860 census caught her in between, holding a twelve-thousand-dollar farm together with her brother\'s help and four of her five children in school — a woman who could not read or write herself.',
+      blurb: 'Widowed in 1858, dead four years later at forty. Her five children went to a Cancienne — her own family. Her eldest son Numa was fourteen. The 1860 census caught her in between, holding a twelve-thousand-dollar farm together with her brother\'s help and four of her five children in school — a woman who could not read or write herself.',
       records: [
         {
           title: 'THE CANCIENNES WERE VENETIANS — a new country on this tree',
@@ -447,7 +453,7 @@
           title: 'A WOMAN CALLED MARY PEDAUX WAS LIVING IN HER SON\u2019S HOUSE IN 1900 — AND THIS PAGE CANNOT YET SAY WHO SHE WAS',
           text: 'The 1900 census of Lafourche Crossing, ED 29, Ward 5, LIVE OAK PLANTATION, sheet 3B, line 74, in the household of NUMA PEDAUX, 52, married 29 years: “MARY PEDAUX, age 88, born NOVEMBER 1812, Louisiana, WIDOWED, 8 children born, 5 living.” Her relationship to the head is written in the register as MOTHER — not inferred by an indexer, but recorded by the enumerator. The head is this Numa: married 29 years in 1900 gives 1871, the year of the verified St. Philomena marriage, and the children in the house are his.',
           highlight: 'IF THAT WOMAN IS NUMA\u2019S MOTHER, THEN THE 1862 BURIAL BELOW IS NOT HERS, AND THIS PAGE HAS THE WRONG DEATH. Notice what the birth date does: ANTOINE FLORENTIN PEDEAU WAS BORN 1 NOVEMBER 1812, and Mary Pedaux is born November 1812 — the same month of the same year as her husband. Notice also what carries the weight here. The 1848 baptism and the 1871 marriage both name Marie CANCIENNE as Numa\u2019s mother, and both are verified, but NEITHER RECORDS HER DEATH. The “about 1822” birth and the 1862 death on this page rest entirely on the single burial entry below, and Cancienne and Pedeaux were common names in Assumption Parish — the 1871 marriage alone has an Alcee and an Ulysse Pedeaux standing as witnesses. A second Marie Cancienne married to a second Antoine Pedo is not a stretch. UNTIL THIS IS SETTLED, THE STATEMENT THAT NUMA WAS ORPHANED AT FOURTEEN IS IN DOUBT.',
-          citation: '[OPEN CONFLICT — two sources disagree and this archive is not guessing between them] United States Census, 1900 — Lafourche Crossing, ED 29, Ward 5, Live Oak Plantation, sheet 3B, line 74 (NARA T623); FamilySearch ark:/61903/1:1:MS5C-CP2, read 12 August 2026. FamilySearch\u2019s own tree attaches this record to a “Neovie Cancienne, 1822”, which is an unsourced user attachment and fits neither the 1812 birth on the record nor the 1862 burial.'
+          citation: '[CONFLICT RESOLVED, August 2026 — the 1870 census shows no mother in the household, so the 1862 burial IS hers and this 1900 woman is not her; see the verification log] United States Census, 1900 — Lafourche Crossing, ED 29, Ward 5, Live Oak Plantation, sheet 3B, line 74 (NARA T623); FamilySearch ark:/61903/1:1:MS5C-CP2, read 12 August 2026. FamilySearch\u2019s own tree attaches this record to a “Neovie Cancienne, 1822”, which is an unsourced user attachment and fits neither the 1812 birth on the record nor the 1862 burial.'
         },
         {
           title: 'Burial',
