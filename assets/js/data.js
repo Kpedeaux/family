@@ -325,6 +325,12 @@
           citation: '[VERIFIED against the original, August 2026 — see the verification log] United States Census, 1870 — Ward 5, Assumption Parish, Louisiana, page 63, household 118, line 9 (NARA M593); FamilySearch ark:/61903/1:1:M8QP-V8D, read 12 August 2026'
         },
         {
+          title: 'HER EXACT BIRTH DATE, FROM THE REGISTER — 10 January 1849',
+          text: '“EULALIE (Marcellin Borne and Marie GUIDRY) bn. 10 JAN. 1849 bt. 10 Aug. 1849 spo. Jean Baptiste Borne and Ernestine Badeau” (SPH-2, 11). This page carried only “1849”.',
+          highlight: 'NOTE THE MOTHER\u2019S NAME AS PRINTED HERE: “MARIE GUIDRY”, against “ANNE MARIE GUEDRY” in the 1871 marriage act. One woman, two renderings, and neither her birth nor her death is in these volumes — the Bornes were at St. Philomena in LAFOURCHE PARISH, and Lafourche registers sit largely outside the Baton Rouge series. That is where her dates will be, and it is why the “Mary Pedaux” question could not be closed from local books.',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Diocese of Baton Rouge Catholic Church Records, Vol. 7, p. 68 — SPH-2, 11'
+        },
+        {
           title: 'Marriage — St. Philomena, Labadieville',
           citation: '[VERIFIED against the original, August 2026 — see the verification log] Diocese of Baton Rouge, Vol. 12 (1871–1873), SPH-4, 367',
           text: 'Numa (Antoine Pedeaux and Marie CANCIENNE) m. 27 April 1871 Eulalie BORNE of Lafourche Parish (Marcellin Borne and Anne Marie GUEDRY) wit. Alcee Pedeaux; Edouard Borne; Ulysse Pedeaux; Ulger Douce; Odile Foret; Edw. Vives; Marie Vives; Clementine Schiffestien.'
@@ -411,6 +417,12 @@
           text: 'Antonio Florentin (Miguel and Florencia AUCOIN) bn. 1 Nov 1812 bt. 25 Apr 1813 spo. Antonio Robertson and Margarita Bourque.'
         },
         {
+          title: 'FOUR MORE CHILDREN — and two of them are the men who witnessed Numa\u2019s wedding',
+          text: 'Baptisms of Antoine Pedeau and Marie Cancienne found in the Baton Rouge volumes: HONORÉ ALCEE CYPRIEN, bn. 3 March 1849 (ASM-9, 309) · ZEPHIRIN ULYSSE, bn. 22 April 1851 (SPH-2, 38) · MARIE ALICE, bn. 13 August 1852 (ASM-13, 1) · ROSALIA FLORENCE, bn. 30 March 1855 (ASM-13, 45).',
+          highlight: 'THE FIRST TWO NAMES SOLVE A SMALL PUZZLE ON THIS SITE. When Numa married Eulalie Borne in 1871 the witnesses included an ALCEE PEDEAUX and an ULYSSE PEDEAUX, and this archive did not know who they were. They were his younger brothers, born 1849 and 1851. Marie Alice married Taylor Paul Himel on 11 September 1873 and her brothers Alcee, Ulysse and Numa all signed as witnesses — the same three men, two years later, at their sister\u2019s wedding.',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Diocese of Baton Rouge Catholic Church Records, Vol. 7 pp. 402 (ASM-9, 309 and SPH-2, 38), Vol. 8 p. 496 (ASM-13, 1 and ASM-13, 45), Vol. 12 p. 460 (SPH-4, 458, the Himel marriage)'
+        },
+        {
           title: 'Burial — and the record names nobody, which this page had glossed over',
           citation: '[VERIFIED against the original, August 2026 — see the verification log] Diocese of Baton Rouge, Vol. 9 (1858–1862), ASM-10, 168',
           text: 'The entry reads, in its entirety: "PEDO, PEDEAU — Antoine Pedo, age 45 years, bur. 8 Aug. 1858 d. yesterday (ASM-10, 168)."',
@@ -456,7 +468,14 @@
           citation: '[CONFLICT RESOLVED, August 2026 — the 1870 census shows no mother in the household, so the 1862 burial IS hers and this 1900 woman is not her; see the verification log] United States Census, 1900 — Lafourche Crossing, ED 29, Ward 5, Live Oak Plantation, sheet 3B, line 74 (NARA T623); FamilySearch ark:/61903/1:1:MS5C-CP2, read 12 August 2026. FamilySearch\u2019s own tree attaches this record to a “Neovie Cancienne, 1822”, which is an unsourced user attachment and fits neither the 1812 birth on the record nor the 1862 burial.'
         },
         {
+          title: 'HER PARENTS, AND WHY OLIVIER CANCIENNE TOOK THE CHILDREN IN',
+          text: 'Read in the Diocese of Baton Rouge volumes: “MARIE BASILISSE (Pierre and Marie Rosalie TERIAU) bn. 17 Jan. 1822 bt. 12 May 1822 spo. Jean Baptiste Blanchard and Marie Basilisse Cantiene” (ASM-8, 211). She was buried at forty in May 1862; born 17 January 1822 she was forty years and four months. Her father: “PIERRE CANCIENNE, age 70 years, husband of Rosalie THERIOT, bur. 17 May 1857” (ASM-10, 162).',
+          highlight: 'AND THE SAME COUPLE HAD A SON IN 1818: “PIERRE OLIVIER (Pierre and Rosalie THERIAU) bn. 17 Aug 1818” (ASM-8, 127). THAT IS THE OLIVIER CANCIENNE WHO WAS RAISING FIVE ORPHANED PEDEAUX CHILDREN IN 1870 — her brother, taking his dead sister\u2019s family. THREE THINGS TIE MARIE TO THIS HOUSEHOLD INDEPENDENTLY: her father Pierre stood godfather at her son Numa\u2019s 1848 baptism; she and Antoine stood godparents to her own younger sister ZULMA in 1847; and Zulma then stood godmother to Marie\u2019s daughter Rosalia Florence in 1855. ONE DISCREPANCY, KEPT IN VIEW: the register has Olivier born 1818, the 1870 census gives his age as about 1813, a five-year gap. No Cancienne named Olivier born 1813 appears in any volume with a readable text layer. THE MARRIAGE ACT OF ANTOINE PEDEAU AND MARIE CANCIENNE WOULD SETTLE HER PARENTAGE OUTRIGHT AND IS NOT IN THESE BOOKS.',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Diocese of Baton Rouge Catholic Church Records: Vol. 4, ASM-8, 211 (baptism 12 May 1822); Vol. 3, ASM-8, 127 (Pierre Olivier, 1818); Vol. 8, ASM-10, 162 (Pierre Cancienne burial 1857); Vol. 6, ASM-9, 269 (Zulma 1847); Vol. 8, ASM-13, 45 (Rosalia Florence 1855)'
+        },
+        {
           title: 'Burial',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Diocese of Baton Rouge, Vol. 9 (1858–1862), ASM-10, 190',          title: 'Burial',
           citation: '[VERIFIED against the original, August 2026 — see the verification log] Diocese of Baton Rouge, Vol. 9 (1858–1862), ASM-10, 190',
           text: 'Marie Cancienne, age 40 years, wife of Antoine PEDO, bur. 12 May 1862 d. yesterday.'
         }
@@ -1419,6 +1438,18 @@
           highlight: 'THE SIX PROFILE NUMBERS RUN CONSECUTIVELY — 36915128 through 36915133. The archdiocese entered this plot into its database as a single ledger page, which is what it is: one family\'s space, opened by the Brunettis and closed around the Pedeaux who married into them. Three generations of this tree are in it. Kevin\'s great-grandparents, his grandmother and grandfather, and his father are all in the same nine feet of ground on St. Louis Avenue. The ledger also settles two small things the site had wrong: he is not one of two Brunettis here but one of three, and his plot is shared, not separate from his daughter\'s.'
         },
         {
+          title: 'A GENERATION FURTHER BACK — MICHELE\u2019S FATHER WAS NICOLINO BRUNETTI',
+          text: 'Plataci marriage banns, 4 October 1919, act number 12, published before Mayor Angelo Stamati: “E altresi comparso BRUNETTI MICHELE FU NICOLINO di anni sessanta, POSSIDENTE, residente in Plataci, padre di CATERINA … figlia di TROIANO DOMENICA casalinga, residente in Plataci.” Signed at the foot by Ferdinando Chidichimo and MICHELE BRUNETTI.',
+          highlight: 'THREE NEW FACTS FROM ONE ACT. “FU NICOLINO” means son of the LATE NICOLINO BRUNETTI — John Brunetti\u2019s paternal grandfather, named here for the first time in this archive. MICHELE WAS SIXTY IN OCTOBER 1919, so born about 1859, which matches the thirty-three he was given in the May 1893 birth act. He is POSSIDENTE, a property owner. And DOMENICA TROIANO WAS STILL ALIVE that October, keeping house in Plataci. The act also gives John a sister: CATERINA BRUNETTI, marrying FERDINANDO CHIDICHIMO. Note the register spells the mother TROIANO, which independently supports the correction this site already made from “Forano” to Trojano.',
+          citation: '[VERIFIED against the original image, August 2026 — see the verification log] Matrimoni, pubblicazioni: Plataci, Cosenza — Marriage Proclamation Records 1919, image 15 of 37, act 12; FamilySearch ark:/61903/3:1:3Q9M-CSMN-W9F5-3. The names, “fu Nicolino”, “possidente” and both signatures were read on the image; the ages in the machine transcript are garbled and Caterina\u2019s age needs re-reading at higher magnification'
+        },
+        {
+          title: 'FOUR CHILDREN WHO DID NOT LIVE — and two boys given the same name',
+          text: 'Indexed from the Plataci register, all naming the parents MICHELE and DOMENICA TROIANO: PIETRO BRUNETTI, died 9 January 1896, aged 0 days, certificate 2 · PIETRO BRUNETTI, died 29 December 1896, aged 0 days, certificate 36 · ROSA BRUNETTI, died 28 February 1902, aged 0 days, certificate 5 · FILOMENA BRUNETTI, died 15 July 1904, aged 4 years.',
+          highlight: 'TWO SONS NAMED PIETRO, BOTH DEAD ON THE DAY THEY WERE BORN, ELEVEN MONTHS APART IN 1896 — the second named for the first. John was three years old in that house when it happened twice.',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Italia, Cosenza, Castrovillari, Stato Civile (Tribunale), 1866–1910, FamilySearch collection 2043557 — arks 1:1:X3LT-J6J4, 1:1:X3LT-VYDJ, 1:1:X3LT-NGYC, 1:1:X3LT-2MV6'
+        },
+        {
           title: 'Marriage — the record that names his parents',
           citation: '[VERIFIED against the original, August 2026 — see the verification log] Louisiana Parish Marriages, Orleans, June 1921 (licence Vol. 46, p. 90; two entries, 15 and 18 June)',
           text: 'John Brunetti, 28, son of MICHELE BRUNETTI and DOMENICA FORANO, m. Miss Veronica Franovich, 19. Also on the record: An[thony] Franovich and Melan[ie] Moyant — the bride\'s parents.',
@@ -1566,6 +1597,12 @@
           highlight: 'Two independent death records, forty-four years apart, naming the same couple. That is what put this generation on the tree.'
         },
         {
+          title: 'HE WAS NOT THE IMMIGRANT — he was born in Louisiana, and he was already a widower',
+          text: 'The 1880 census of the 10th Ward, ED 146, Plaquemines Parish, sheet 289A, household 12111520, read at the field level: NICOLLE FRANOVICH, age 26, BORN LOUISIANA, occupation LABORER, MARITAL STATUS: WIDOWED. FATHER\u2019S BIRTHPLACE: ITALY. MOTHER\u2019S BIRTHPLACE: LOUISIANA. In the house with him: Anthony 7, Marie 4, Basille 1.',
+          highlight: 'THE ADRIATIC CROSSING IS ONE GENERATION FURTHER BACK THAN THIS ARCHIVE ASSUMED. Nicola did not come over — HIS FATHER DID, and no naturalisation or passenger record for Nicola should exist. None was found, which is now the expected result rather than a failure. The census names the father\u2019s country as ITALY, and this page reports that as written; Dalmatia was Austrian in these years and enumerators used the two loosely, but the record says Italy and the town is not given — the 1880 schedule asked only for country. AND HE WAS A WIDOWER IN JUNE 1880, which changes something else on this site entirely: see the note on Josephine Buras.',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] United States Census, 1880 — 10th Ward, ED 146, Plaquemines Parish, Louisiana, sheet 289A, household 12111520 (NARA T9); FamilySearch ark:/61903/1:1:MDXZ-QYL'
+        },
+        {
           title: 'His household in the 1880 census',
           citation: '[VERIFIED against the original, August 2026 — see the verification log] United States Census, 1880 — Plaquemines Parish, Louisiana',
           text: 'Nicolle Franovich, with children Anthony (b. 1873), Marie (b. 1876) and Basille (b. 1879), all born in Louisiana.'
@@ -1586,6 +1623,12 @@
       branch: 'franovich',
       blurb: 'A Buras of Buras. The Dalmatian who married her was marrying into the oldest family on that stretch of river, and their son Anthony was born in the village that carries her name.',
       records: [
+        {
+          title: 'SHE CANNOT BE THE MOTHER OF THE OLDER CHILDREN — the arithmetic rules it out',
+          text: 'JOSEPHINE BURAS WAS BORN IN JULY 1862, which the 1900 census gives directly. In the 1880 census, taken in June, NICOLA FRANOVICH IS RECORDED AS WIDOWED, with Anthony (b. 1873), Marie (b. 1876) and Basille (b. 1879) in the house. Josephine was seventeen years old that June. She cannot have borne a child in 1873, when she was ten.',
+          highlight: 'SO THERE WAS AN EARLIER WIFE, AND THIS ARCHIVE DOES NOT KNOW HER NAME. The 1911 and 1955 death records of Anthony and Nicole DO name Josephine as their mother, and those records are real — but on this arithmetic she was at most a STEPMOTHER to the older children, and the woman who bore them died before June 1880. She is the mother of the younger ones: the 1900 census gives her NICOLLY, born May 1881, and DOMINIQUE, born January 1892. THIS IS RECORDED AS A CONFLICT, NOT RESOLVED. A death record naming a stepmother as mother is ordinary and is not evidence of error by whoever gave the information.',
+          citation: '[CONFLICT RECORDED, August 2026 — two sound records cannot both be read the obvious way; see the verification log] United States Census, 1880 — Plaquemines Parish, sheet 289A (Nicola widowed); United States Census, 1900 — Wards 5 and 10, Plaquemines Parish (Josephine b. July 1862, with children Nicolly b. May 1881 and Dominique b. January 1892)'
+        },
         {
           title: 'Named as mother on two sons\' death records',
           citation: '[PARTLY VERIFIED, August 2026 — the DEATH ITSELF is confirmed in the Louisiana index (date, parish and age all match, and the age independently corroborates the birth year). The PARENTS named here come from the certificate, which the index does not reproduce and which has not been re-read. See the verification log] Louisiana, Deaths, 1850–1875, 1894–1960 — Anthony Franovich (1911) and Nicole Franovich (1955), both of Buras',
