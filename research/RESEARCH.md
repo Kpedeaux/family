@@ -3654,3 +3654,50 @@ year settles it. So the woman in the 1900 house is not his birth mother whoever 
 - **The relation column.** Whether the enumerator wrote "Mother" or "Mother-in-law." The
   index says Mother, but indexes abbreviate, and this is exactly the kind of distinction
   that gets flattened.
+
+### The original sheet, read — HER SURNAME WAS NEVER WRITTEN
+
+**Read 12 August 2026** in the FamilySearch image viewer: 12th Census of Population 1900,
+Lafourche, image 261 of 603 — ED 29, Ward 5, Live Oak Plantation, sheet 3B.
+
+The name column of the household reads:
+
+```
+Pedaux  Numa        Head
+   —    Ulali       wife
+   —    Louis       daughter
+   —    Eugenie     daughter
+   —    Anna        daughter
+   —    Numa        son
+   —    Agness      daughter
+   —    Roya        daughter
+   —    MARY        Mother      Nov 1812   88   Wd   8 / 5
+```
+
+**The surname is written ONCE, on the head's line, and every person below it carries a
+DASH.** Mary's surname was never written by the enumerator. **"Pedaux" is the index's
+supplied value, not a recorded fact** — FamilySearch carried the head's surname down the
+household, which is standard indexing practice and correct as indexing, but it means the
+surname on that record has no evidentiary weight whatsoever.
+
+**What the relation column actually says: "Mother."** Not "Mother-in-law." The enumerator
+wrote Mother, and the index reported it faithfully. That much was never the problem.
+
+### Where this leaves it
+
+- **Her surname is not evidence of anything.** The one fact that made her look like a
+  Pedeaux — the name — turns out to be a dash. Any woman of any surname could sit on that
+  line.
+- **She cannot be Numa's birth mother.** The 1870 census settles that independently: five
+  orphaned Pedeaux children in Olivier Cancienne's house, no mother present, eight years
+  after Marie Cancienne's 1862 burial.
+- **Therefore "Mother" is being used loosely, and mother-in-law is the reading that fits** —
+  Eulalie Borne's widowed mother, named in the 1871 marriage act as ANNE MARIE GUEDRY. Both
+  obstacles to that reading are now gone: the surname objection is dead, and the birth-mother
+  alternative is closed.
+
+**Still not proven, and it stays off the person pages until it is.** Anne Marie Guedry's
+dates remain unestablished — 570 candidate Marie Guedrys born 1808–1818 in Louisiana, with
+nothing to discriminate. What would prove it: an Assumption or Lafourche record giving
+Guedry's birth as November 1812, or the 1880 census showing her as a widow with the Bornes,
+or Eulalie Borne's own 1908 death record if it names her mother.
