@@ -66,3 +66,66 @@ Alexis Lemoine and Valery Rousselle in the 1880 census of Edgard, St. John the B
 
 The 1880 ones matter most — the Edgard pair are the foundation of the Lemoine and Rousselle
 lines, and the New Orleans one places Anthony in his father Casper's household.
+
+---
+
+# Batch 2 — the remaining four, 12 August 2026
+
+All four **CONFIRMED**. The census pile is now closed.
+
+### 1880, Plaquemines Parish — the Franovich household
+Search: https://www.familysearch.org/search/record/results?q.surname=Franovich&q.residencePlace=Plaquemines%2C+Louisiana
+
+Index returns, as four linked entries:
+- **`Nicolle Franovich · Census 1880 · Plaquemines · Birth 1854 Louisiana · Children Marie, Basille, Anthony`**
+- **`Anthony Franovich · Birth 1873 Louisiana · Parents Nicolle Franovich · Siblings Marie, Basille`**
+- **`Marie Franovich · Birth 1876`** · **`Basille Franovich · Birth 1879`**
+
+| Person | Site text | Verdict |
+|---|---|---|
+| nicolaFranovich | "Nicolle Franovich, with children Anthony (b. 1873), Marie (b. 1876) and Basille (b. 1879), all born in Louisiana." | **CONFIRMED** — every name and every birth year |
+| anthonyFranovich | "Anthony Franovich, b. 1873 Louisiana, in the household of Nicolle Franovich, with Marie (1876) and Basille (1879)." | **CONFIRMED** |
+
+Anthony's 1873 birth year here is the same one the 1910 Nairn record gives. Two censuses
+thirty years apart, indexed separately, agree — and the 1880 entry is what ties him to
+Nicola as father in an index-level record rather than by inference.
+
+### 1880, New Orleans — the household of J. C. Larman
+Search: https://www.familysearch.org/search/record/results?q.surname=Larman&q.residencePlace=New+Orleans%2C+Orleans%2C+Louisiana
+
+Index returns: **`J.C. Larman · Census 1880 · New Orleans · Birth 1845 GERMANY · Spouses Emily
+Larman · Children Anthony Larman, Bernard Larman, John Larman`**, and **`Anthony Larman ·
+Birth 1871 Louisiana · Parents Emily Larman, J.C. Larman · Siblings John, Bernard`**
+
+Site text: "Anthony Larman, son, in the household of J C Larman." → **CONFIRMED.**
+
+Worth noting for anyone checking this line: Anthony's 1900 census sheet — already verified
+here, read line by line off the image — gives "Aug 1871 … father b. Germany, mother b.
+Germany." The 1880 index, a separate record indexed separately, gives Anthony b. 1871 and
+his father J.C. b. 1845 in Germany. The birth year and the German parents agree across
+twenty years and two enumerators.
+
+### 1940, District of Columbia — Robert Lemoine
+Search: https://www.familysearch.org/search/record/results?q.givenName=Robert&q.surname=Lemoine&q.residencePlace=District+of+Columbia
+
+Index returns: **`Robert Lemoine · Census 1940 · Tract 96, District of Columbia, Police
+Precinct 11 · Birth 1888 Louisiana`**
+Site text: "Robert Lemoine, born 1888, Louisiana — resident in the District of Columbia."
+→ **CONFIRMED**, tract and police precinct both matching the citation exactly.
+
+---
+
+## A methodological warning, recorded because it nearly cost me
+
+Twice in this batch FamilySearch reported **"Historical Record Search Results (0)"** in the
+page text for a query that in fact had thousands of hits. The count renders before the
+results arrive. A screenshot taken a moment later showed 3,291 results for the search that
+had just said zero.
+
+**A premature read is indistinguishable from a NOT FOUND.** Any verdict in these logs
+recorded as NOT FOUND on the strength of an empty result list should be treated as soft
+until re-checked with a deliberate wait and a visual confirmation. The two standing NOT
+FOUND verdicts here — the 1906 Lemoine–Hanley marriage and the 1910 Wellmeyer–Sander
+marriage — were both reached in the Louisiana SOS index, which renders differently and was
+read visually, so they stand. But the rule from here on: **wait, screenshot, and see the
+result count before recording an absence.**

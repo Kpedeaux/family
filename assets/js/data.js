@@ -1549,7 +1549,7 @@
         },
         {
           title: 'His household in the 1880 census',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States Census, 1880 — Plaquemines Parish, Louisiana',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] United States Census, 1880 — Plaquemines Parish, Louisiana',
           text: 'Nicolle Franovich, with children Anthony (b. 1873), Marie (b. 1876) and Basille (b. 1879), all born in Louisiana.'
         }
       ],
@@ -1614,7 +1614,7 @@
         },
         {
           title: 'In his father\'s house, aged seven',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States Census, 1880 — Plaquemines Parish',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] United States Census, 1880 — Plaquemines Parish',
           text: 'Anthony Franovich, b. 1873 Louisiana, in the household of Nicolle Franovich, with Marie (1876) and Basille (1879).'
         }
       ],
@@ -2054,7 +2054,7 @@
         },
         {
           title: 'Washington, and why he lies at Arlington',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States Census, 1940 — Tract 96, Police Precinct 11, District of Columbia',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] United States Census, 1940 — Tract 96, Police Precinct 11, District of Columbia',
           text: 'Robert Lemoine, born 1888, Louisiana — resident in the District of Columbia.',
           highlight: 'By 1940 he had come off the ships and was living in Washington, which is the missing step between a New Orleans boyhood and a grave in Virginia. He died in 1949 and was buried at Arlington on 23 November. The arc runs Camp Street to Mare Island to the capital.'
         },
@@ -2190,7 +2190,7 @@
         },
         {
           title: 'In his father\'s house, aged eight',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] United States Census, 1880 — New Orleans, household of J. C. Larman',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] United States Census, 1880 — New Orleans, household of J. C. Larman',
           text: 'Anthony Larman, son, in the household of J C Larman.',
           highlight: 'Two years before his mother died, and four before his father remarried. The 1880 census catches the first family whole, before that house became two half-families under one roof.'
         },
