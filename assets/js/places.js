@@ -100,26 +100,26 @@
         kind: 'home',
         lat: 29.9651816, lng: -90.0511917,
         precision: 'exact',
-        years: '1935–1948',
-        people: ['charlesEmileLarmann', 'johnLarmannSr'],
-        who: 'Leontine and Louise Moore — the aunts who raised an orphaned nephew',
-        headline: 'THE HOUSE JOHN LARMANN SR. POINTED OUT TO HIS GRANDSON',
-        text: 'Charles Emile Larmann lost his father at eighteen months and his mother at eighteen years, and was raised by his mother\'s two unmarried sisters, Leontine — "Tene" — and Louise Moore. The family remembered Franklin Avenue and nothing more precise. The 1940 census finds the two sisters here together, Leontine 60 and head of the house, Louise 62: they OWNED it, it was valued at $2,200, and they had been in it since at least 1935. One detail of that house outlived everyone in it — the aunts had an instantaneous gas water heater, which John Larmann Sr. remembered as a marvel and described to his own grandson, who was fitting a tankless heater into a shotgun house when he heard the story.',
-        source: 'United States Census, 1940 — New Orleans Ward 9, ED 36-246, sheet 11A, line 38, household 255 (NARA T627). The enumerator wrote the street as "Almonaster"; see the note on Charles Emile Larmann\'s page for why that is this avenue.'
+        years: 'by 1935 – 1947/48',
+        people: ['charlesEmileLarmann'],
+        who: 'Leontine and Louise Moore — the last house, the one they owned',
+        headline: 'Where the two sisters ended, four blocks down from where they started',
+        text: 'The 1940 census finds them here together and independent: Leontine, 60, head of the house, single; Louise, 62, her sister. They OWNED it — valued at $2,200 — and had been in it since at least 1935. Leontine died in March 1947 and Louise the year after, and this is the address they died at. It is not, however, the house the family remembers visiting: that is 927, up the avenue, and the two dates fit together rather than fight.',
+        source: 'United States Census, 1940 — New Orleans Ward 9, ED 36-246, sheet 11A, line 38, household 255 (NARA T627). The enumerator wrote the street as "Almonaster"; the house number was checked digit by digit against 919, 923 and 925 on the same sheet, whose nines are looped where this seven is not.'
       },
 
       {
         id: 'moore-franklin-927',
-        name: '927 Franklin Avenue — the earlier house',
+        name: '927 Franklin Avenue — THE HOUSE',
         kind: 'home',
         lat: 29.9671702, lng: -90.0505977,
         precision: 'exact',
-        years: '1910',
-        people: ['charlesEmileLarmann'],
-        who: 'Valentine Moore, widow, and her daughters Louise and Leontine',
-        headline: 'Two blocks up the same avenue, while their mother was still alive',
-        text: 'In 1910 the sisters were not yet on their own. Their widowed mother VALENTINE MOORE, 62 — born Marie Valentine Goubler — kept the house, with Louise, 30, and Leontine, 27, at home and single. Charles Emile was seven, and had been fatherless for six years. By 1940 the mother was long dead and the two sisters had moved down to the 700 block, into a house they owned outright.',
-        source: 'United States Census, 1910 — New Orleans Ward 9, ED 132, sheet 7A, dwelling 126, family 142 (NARA T624). The enumerator wrote the street as "Lafayette Street."'
+        years: '1910 – early 1930s',
+        people: ['charlesEmileLarmann', 'johnLarmannSr'],
+        who: 'Valentine Moore and her daughters — where Charles Emile was raised, and where his son visited',
+        headline: 'THE ONE ADDRESS ON THIS MAP THAT CAME BACK FROM LIVING MEMORY FIRST',
+        text: 'This is the aunts\' house. Charles Emile Larmann lost his father at eighteen months and his mother at eighteen years, and was brought up here by his mother\'s two unmarried sisters, Leontine — "Tene" — and Louise Moore. The 1910 census catches the household whole: their widowed mother VALENTINE MOORE, 62, born Marie Valentine Goubler, keeping the house, with Louise, 30, and Leontine, 27, at home and single. Charles was seven and six years fatherless. His son John Larmann Sr., born 1926, remembered visiting his great-aunts HERE — which dates those visits to before about 1935, when the two sisters moved down to the 700 block. And one detail of this house outlived everyone in it: the aunts had an instantaneous gas water heater, which John remembered as a marvel and described to his own grandson, who happened to be fitting a tankless heater into a shotgun house when he heard the story.',
+        source: 'United States Census, 1910 — New Orleans Ward 9, ED 132, sheet 7A, dwelling 126, family 142 (NARA T624); the enumerator wrote the street as "Lafayette Street." The house number comes from family memory — John Larmann Sr. named 927 to his grandson — and the census independently puts this household at 927 on this block twenty-five years earlier.'
       },
 
       /* ── CHURCH ───────────────────────────────────────────────── */
