@@ -2699,6 +2699,8 @@
         'Marie Louise Moore, and John Henry Moore who married Nathe Schnider',
         { id: 'eugeniaMoore' }
       ],
+      father: 'johnMoore',
+      mother: 'christineLoumann',
       given: 'Henry', surname: 'Moore', sex: 'M',
       birth: { date: '27 February 1847' },
       death: { date: '9 December 1893', place: 'Orleans Parish' },
@@ -3407,6 +3409,50 @@
       branch: 'wellmeyer',
       blurb: 'The Westphalian stay-behind generation: married Maria Anna Stiegemann at Ibbenbüren on 21 October 1817, raised eight children there, and watched at least one son leave for Louisiana.',
       note: 'From the sourced FamilySearch reconstruction; the Ibbenbüren Catholic parish registers (Bistum Münster) are the primary source to read. Ibbenbüren sits in the Tecklenburg district between Osnabrück and Münster.'
+    },
+
+    johnMoore: {
+      children: [
+        { id: 'henryMoore' },
+      ],
+      given: 'John',
+      surname: 'Moore',
+      sex: 'M',
+      origin: 'Germany',
+      evidence: 'verified',
+      branch: 'larmann',
+      blurb: 'The hundredth person on this tree, and he arrives the way most of the oldest ones do \u2014 named once, on his son\u2019s marriage act, and nowhere else yet. A German who got as far as New Orleans and whose son was born a Louisianian.',
+      records: [
+        {
+          title: 'THE ACT THAT NAMES HIM \u2014 his son\u2019s marriage, 23 May 1871',
+          text: '\u201cHENRY MOORE, age 23, b. abt 1848. Marriage 23 MAY 1871, Orleans. PARENTS: JOHN MOORE, father; CHRISTINE LOUMANN, mother. Spouse: VALENTINE GOUBLER. Also on the record: Joseph Goubler.\u201d The Louisiana index carries the same act at Orleans Vol 2, p. 162.',
+          highlight: 'AND A SECOND RECORD SAYS WHERE HE CAME FROM, WITHOUT NAMING HIM. The 1880 census gives Henry as born in LOUISIANA with FATHER\u2019S BIRTHPLACE GERMANY and MOTHER\u2019S BIRTHPLACE GERMANY. So John Moore was an immigrant and his son was not. \u201cMOORE\u201d IS ALMOST CERTAINLY NOT WHAT HE WAS CALLED IN GERMANY \u2014 it is the kind of name a New Orleans clerk reaches for, and his wife\u2019s surname on the same act, LOUMANN, is plainly the German the clerk was hearing. What he was actually called is an open question.',
+          citation: '[VERIFIED against the index, August 2026 \u2014 see the verification log] Louisiana, Parish Marriages, 1787\u20131958 \u2014 FamilySearch ark:/61903/1:1:QKJW-NFW2, Orleans Vol 2 p. 162; with United States Census, 1880 \u2014 New Orleans, ED 64, sheet 211A, FamilySearch ark:/61903/1:1:MDX7-5XG. THE INDEX ENTRY HAS BEEN READ; THE ORIGINAL ACT IMAGE HAS NOT'
+        },
+      ],
+      note: 'He and Christine Loumann are the hundredth and hundred-and-first people here, added 12 August 2026. They are LEAF ANCESTORS in the strict sense: known from one record, which is their son\u2019s, and from no record of their own. No birth, marriage or death has been found for either of them, in Louisiana or in Germany, and none is estimated here. The link to Henry is badged documented because a civil act names father and son together \u2014 which is the standard this site set \u2014 but the act itself has been read only as an index row. Pulling the original image is the next step, and the German spelling of both surnames is the question after that.'
+    },
+
+    christineLoumann: {
+      children: [
+        { id: 'henryMoore' },
+      ],
+      given: 'Christine',
+      surname: 'Loumann',
+      sex: 'F',
+      origin: 'Germany',
+      evidence: 'verified',
+      branch: 'larmann',
+      blurb: 'Named on her son\u2019s 1871 marriage act and, so far, nowhere else. Her surname as the clerk wrote it is LOUMANN \u2014 most likely LOHMANN or LAUMANN, both common Westphalian names, caught by ear in a New Orleans office.',
+      records: [
+        {
+          title: 'NAMED AS HENRY\u2019S MOTHER \u2014 the same act, 23 May 1871',
+          text: 'The Orleans marriage act of Henry Moore and Valentine Goubler names the groom\u2019s parents as JOHN MOORE and CHRISTINE LOUMANN. The 1880 census, which does not name her, records Henry\u2019s MOTHER\u2019S BIRTHPLACE as GERMANY.',
+          highlight: 'SHE MARRIED INTO A NAME THAT SURVIVED AND KEPT ONE THAT DID NOT. \u201cMoore\u201d passed down four more generations to Kevin; \u201cLoumann\u201d appears exactly once in this entire archive, on this one line, in a clerk\u2019s spelling. If the German form is ever established it will come from a passenger list or a church register, not from anything Louisiana wrote down.',
+          citation: '[VERIFIED against the index, August 2026 \u2014 see the verification log] Louisiana, Parish Marriages, 1787\u20131958 \u2014 FamilySearch ark:/61903/1:1:QKJW-NFW2, Orleans Vol 2 p. 162. THE INDEX ENTRY HAS BEEN READ; THE ORIGINAL ACT IMAGE HAS NOT'
+        },
+      ],
+      note: 'See John Moore. Neither of them has a record of their own yet.'
     },
 
     mariaAnnaStiegemann: {
