@@ -454,7 +454,21 @@
       evidence: 'verified',
       branch: 'pedeaux',
       immigrant: true,
-      blurb: 'The crossing. A "Foreign French" immigrant from the Nantes quayside who reached Louisiana after 1803, married an Acadian exile\'s daughter in January 1808, and was dead within about five years, leaving three small sons on Bayou Lafourche.',
+      blurb: 'The crossing. A "Foreign French" immigrant from the Nantes quayside who reached Louisiana after 1803, married an Acadian exile\'s daughter in January 1808, and was dead within about five years, leaving three small sons on Bayou Lafourche. He was born at Chantenay in the years it was the Acadian quarter of Nantes — which may be the whole explanation for where he ended up.',
+      records: [
+        {
+          title: 'CHANTENAY WAS THE ACADIAN QUARTER — and their ships went to Assumption Parish',
+          citation: 'Patrimonia Nantes, "Fresque des Acadiens"; Acadian.org and the Association des Richard on the seven ships of 1785; LaGenWeb Terrebonne on where the Lafourche families were settled; Nantes Saint-Nazaire Port, history of the port, for the tonnage collapse',
+          text: 'Nantes held the largest concentration of exiled Acadians in France — about 1,300 arrived by ship in 1775–76, rising to nearly 1,400, placed above all in the parish of SAINT-MARTIN DE CHANTENAY, in the poor Hermitage quarter above the port. Michel was born at Chantenay, probably 20 May 1777, in that parish in that decade. In 1785, under an agreement between Spain and Louis XVI, SEVEN SHIPS carried about 1,600 Acadians from Nantes and Paimbœuf to Louisiana. Two sailed from Nantes itself: Le Beaumont, 11 June, reaching New Orleans 19 August with 178 aboard, and La Caroline, 19 October, arriving 12 December with 75. The families sent up Bayou Lafourche were settled at VALENZUELA — later renamed ASSUMPTION.',
+          highlight: 'THIS IS A LEAD, AND IT IS LABELLED ONE. No document names any Pédeau among the Acadians, and this page will not pretend otherwise. But set the facts side by side. A boy is born in 1777 in the one parish of Nantes where fourteen hundred Acadians were living. Eight years later they sail for a specific stretch of a specific Louisiana bayou. Twenty-three years after that, he marries an Acadian exile\'s daughter on that same bayou, in the parish their ships were bound for. Emigrants do not cross oceans toward nowhere — they go where somebody they know has already gone, and Chantenay is a mechanism where "he emigrated" was only a blank. AND THE PUSH IS DOCUMENTED TOO. The Nantes port authority\'s own figures: 237,716 tonnes shipped in 1790, 261,163 in 1792, and 43,242 in 1807 — an eighty-three per cent collapse in fifteen years, from civil war, the abolition decree, the loss of Saint-Domingue and the continental blockade. A young man raised in the shipbuilding trades on the lower Fosse watched his father\'s industry cease to exist. The registers of Saint-Martin de Chantenay are where this is proved or killed.'
+        },
+        {
+          title: '"FOREIGN FRENCH" — what the phrase actually means, corrected',
+          citation: 'Carl A. Brasseaux, The "Foreign French": Nineteenth-Century French Immigration into Louisiana (Center for Louisiana Studies, 1990); 64 Parishes, "Refugee Revolution"',
+          text: 'Louisiana used "les français étrangers" for immigrants who came FROM FRANCE ITSELF, as distinct from the long-settled Creoles. Governor Claiborne separately used "foreign Frenchmen" for the Saint-Domingue refugees who reached Louisiana by way of Cuba — more than ten thousand of them between 1792 and 1810, about ten thousand in the 1809 wave alone.',
+          highlight: 'TWO DIFFERENT GROUPS, ONE PHRASE, AND THIS ARCHIVE SHOULD NOT BLUR THEM. Michel was born at Nantes and emigrated from France, which puts him squarely in the first sense. He was NOT a refugee of the Haitian Revolution, and nothing here should be read as placing him in the Cuban fleets of 1809–10 unless a document turns up saying so. The distinction matters because the two migrations had entirely different reasons, timings and politics behind them.'
+        }
+      ],
       records: [
         {
           title: 'Marriage — Church of the Assumption, Plattenville',

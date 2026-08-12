@@ -23,6 +23,64 @@
 
     items: [
 
+      /* ── FRANCE — where the Pedeau line begins ────────────────── */
+
+      {
+        id: 'bas-de-la-fosse',
+        name: 'Le bas de la Fosse, Nantes',
+        kind: 'home',
+        lat: 47.20689, lng: -1.57294,
+        precision: 'block',
+        years: 'to 1799',
+        people: ['michelPedeauPere'],
+        who: 'Michel Pédeau, charpentier et calfat de marine',
+        headline: 'THE POOR END OF THE QUAY — and "bas" is not a guess, it is a documented word',
+        text: 'Michel Pédeau, ship\'s carpenter and caulker, is recorded living "au bas de la Fosse." Contemporaries split that quay in two, and the split was social as well as geographic. A study of the quarter\'s own feudal declarations finds the HAUTE FOSSE, near the Port-au-Vin facing the Loire, held "la population la plus aisée du quartier, celle des riches marchands" — the wealthiest people, the rich merchants — while the BASSE FOSSE, further downriver to the west, held "une population plus hétérogène et moins riche." He lived at the working end. And the shipyards came to him: Nantes\' yards moved steadily downstream, occupying the Fosse in 1688, the Chézine by royal decree in 1738, and la Piperie in Chantenay by 1780.',
+        source: 'Sandrine Dosseul, "Le quartier de la Fosse à Nantes aux XVIe et XVIIe siècles," Mémoires de la Société d\'Histoire et d\'Archéologie de Bretagne, t. 76 (1998), pp. 215–230; Patrimonia Nantes. ONE HONEST LIMIT: Dosseul\'s evidence is sixteenth and seventeenth century, one to two generations before Michel. The geography of the phrase is settled; its social character is continuity, not proof. Pin is the quay\'s western terminus at the place de Jacksonville.'
+      },
+
+      {
+        id: 'chantenay',
+        name: 'Chantenay, on the Loire below Nantes',
+        kind: 'town',
+        lat: 47.20694, lng: -1.59500,
+        precision: 'town',
+        years: '1777',
+        people: ['michelPedeau'],
+        who: 'Where the emigrant was born — and where the Acadians of Nantes were living',
+        headline: 'THE STRANGEST COINCIDENCE IN THIS ARCHIVE, AND IT IS ONLY A COINCIDENCE SO FAR',
+        text: 'Michel Pédeau the younger was born at Chantenay, probably in May 1777 — an independent commune just downriver of Nantes, absorbed by the city only in 1908. Here is what else was happening in that parish in that decade. Nantes held the largest concentration of exiled Acadians in France: about 1,300 arrived by ship in 1775–76, rising to nearly 1,400, and they were placed above all in the parish of SAINT-MARTIN DE CHANTENAY, in the poor Hermitage quarter overlooking the port. They stayed ten years. Then, under a 1785 agreement between Spain and Louis XVI, seven ships carried some 1,600 of them from Nantes and Paimbœuf to Louisiana — and those sent up Bayou Lafourche settled at Valenzuela, the place later renamed ASSUMPTION. Twenty-three years after that fleet sailed, the boy born at Chantenay married an Acadian exile\'s daughter in Assumption Parish.',
+        source: 'Patrimonia Nantes, "Fresque des Acadiens"; Acadian.org, ships transporting Acadians to Louisiana, 1785. THIS IS A LEAD, NOT A FINDING: no document names any Pédeau in connection with the Acadians. What the overlap supplies is a plausible mechanism — a neighbourhood that knew exactly where in Louisiana to go — which "he emigrated" does not. The Saint-Martin de Chantenay registers are where it would be proved or killed.'
+      },
+
+      {
+        id: 'moulin-de-la-marche',
+        name: 'The Moulin de la Marche, Sainte-Pazanne',
+        kind: 'work',
+        lat: 47.10354, lng: -1.80698,
+        precision: 'block',
+        years: 'early 1700s',
+        people: ['pierrePedeauFarinier'],
+        who: 'Pierre Pédeau, farinier',
+        headline: 'THE MILL IS GONE, BUT THE WORD FARINIER PLACES HIM',
+        text: 'At the end of the eighteenth century Sainte-Pazanne had ten mills. One was "le moulin turquois de la Marche, aujourd\'hui disparu" — the turquois mill of la Marche, now vanished — which stood near no. 27 of what is today the rue de l\'Auditoire. "Turquois" is a mill type, not a place. And the local heritage literature uses Pierre\'s exact recorded occupation: the parish mills belonged either to the seigneuries, whose tenants were bound to grind there, or to private "meuniers ou fariniers," who it says generally belonged to the wealthier class of the population. So the first Pédeau this archive can name a trade for was not a poor man. His son left the mill for the Nantes shipyards.',
+        source: 'Destination Pornic heritage notice, "Les moulins de Sainte-Pazanne." CORRECTION CARRIED FORWARD: this archive previously placed the mill near the rue de l\'Abreuvoir. Every source found says rue de l\'Auditoire. The rue de l\'Abreuvoir does exist in Sainte-Pazanne but nothing connects it to the mill, so the earlier reading is withdrawn as unverified.'
+      },
+
+      {
+        id: 'machecoul',
+        name: 'Machecoul — La Trinité and Sainte-Croix',
+        kind: 'church',
+        lat: 46.99246, lng: -1.81875,
+        precision: 'block',
+        years: '1683 · 1705 · 1729',
+        people: ['celtonPedeau', 'pierrePedeauFarinier', 'anneBety'],
+        who: 'The deepest ground this family can be traced to',
+        headline: 'AND THE SURNAME IS STILL THICKEST HERE',
+        text: 'Pierre Pédeau was born about 1683 in the parish of SAINTE-CROIX, the older of Machecoul\'s two parishes, and married there twice — Jeanne Garnier in 1705, Anne Béty in January 1729. The 1705 act is the one that names his father, in a hand three centuries have nearly erased. From 1581 Machecoul was the capital of the duché-pairie de Retz, one of the greatest lordships in Brittany; its castle had belonged to Gilles de Rais until his execution in 1440. And the name has not left: indexed French records place PEDEAU more thickly at Machecoul than at any other commune in France.',
+        source: 'InfoBretagne, Machecoul; Filae surname index (record occurrences, not people). TWO DATING CAVEATS: the church of La Trinité standing today is neo-Gothic, built 1863–1881, so the acts were witnessed in its medieval predecessor; and the ruins of Sainte-Croix could not be geolocated, so this pin is on La Trinité. Sainte-Pazanne\'s own church, where Michel was baptised in 1739, was burned in the Revolution and rebuilt in 1819.'
+      },
+
       /* ── HOMES ────────────────────────────────────────────────── */
 
       {
