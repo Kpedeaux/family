@@ -95,6 +95,8 @@ street sign.
 
 ---
 
+### ✅ RESOLVED 2026-08-12 — it was DRAUGHTSMAN. (Original flag kept below for the record.)
+
 ### 🔴 FLAG — "Architect" on Anthony Henry Larmann is UNSOURCED
 
 `anthonyLarmann.occupation` on the live site reads **"Architect."** Checked all four of his
@@ -340,3 +342,40 @@ The 1913–1917 gap that would settle the **USS Maine spoon** cannot be closed f
 **What we can already say honestly:** the spoon went from *unlikely* to *open*. The second USS
 Maine served until 1920; his card covers 1917 onward only; 1913–17 is blank and is exactly where a
 Maine posting fits.
+
+### ✅ THE "ARCHITECT" FLAG — RESOLVED. He was a DRAUGHTSMAN. 2026-08-12
+
+Read off the sheet itself. **United States Census, 1900 — ED 85, 4th Precinct, New Orleans Ward 9,
+sheet 14A, LINE 46**, house 922, family 267 (NARA T623; FamilySearch image `3:1:S3HY-6SQY-F2`,
+record `1:1:MS5L-2HW`).
+
+> **LARMANN, ANTHONY H.** — Head — w m — Aug 1871 — 28 — M 4 — b. Louisiana, father b. Germany,
+> mother b. Germany — **OCCUPATION: DRAUGHTSMAN** — 0 months unemployed.
+> Wife **Eugenia**, Oct 1874, 25, married 4 yrs, **3 children born / 2 living**.
+> Daughters **Mary C.** (Sept 1896) and **Bernadine**.
+
+**VERDICT: "Architect" was wrong but not wildly wrong — he was the man who DREW the plans.** Family
+memory rounded it up one rung, which is what family memory does, and it was close enough that
+nobody questioned it for a century. `occupation` on the tree now reads DRAUGHTSMAN with the census
+cited, and the cropped sheet is published at `assets/img/larmann-1900-draughtsman.jpg`.
+
+**Corroborating detail on the same line:** his brother-in-law **James L. Connor** (line 45, b. Oct
+1857 Louisiana, parents Irish) is a **Clerk** — a white-collar household, which fits.
+
+⚠️ **A trap on this same line:** his **mother's birthplace is entered GERMANY.** Emily Mevers was
+born at **Pascagoula, Mississippi**. The enumerator recorded the family's origin, not her
+birthplace. Anyone reading this line cold would move her to Germany. Noted on the site.
+
+⚠️ **"3 children born, 2 living"** in June 1900 independently confirms Louisa Francis died in 1898.
+
+### 🛠 TOOLING — how to actually get FamilySearch images out
+
+The viewer's Download button behaves differently by collection, and this cost me a dozen calls:
+1. Some collections (e.g. Plataci registers) download a **.jpg named for the ark tail**.
+2. Others (e.g. the **1900 census**) download a **PDF called `Transcript (n).pdf`** — easy to
+   mistake for someone else's file. **The census image is an EMBEDDED image inside it**, and
+   `page.get_pixmap()` renders a mostly-blank page. **Extract the embedded image instead:**
+   `fitz.Pixmap(doc, xref)` over `page.get_images(full=True)` — gave a **3718 × 3641** original.
+3. A **dialog** often intercepts the first click. Click the toolbar Download, then `find` the
+   **"Download" button inside the dialog** and click that too.
+4. The viewer's own zoom is never sharp enough to read handwriting. Always pull the file.

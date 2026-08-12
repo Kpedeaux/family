@@ -1930,7 +1930,7 @@
         'Esther Marguerite (2 Jan 1904 – 14 Sept 1976)'
       ],
       given: 'Anthony Henry', surname: 'Larmann', sex: 'M',
-      occupation: 'Architect — family memory, and NOT yet found in any record. See the note below.',
+      occupation: 'DRAUGHTSMAN — read off the 1900 census in his own enumerator\'s hand. The family remembered "architect"; the record says the man who drew the plans.',
       birth: { date: '26 August 1871', place: 'New Orleans' },
       death: { date: '12 February 1904', place: 'Orleans Parish' },
       father: 'johnCasparLarmann', mother: 'emilyMevers',
@@ -1938,6 +1938,15 @@
       branch: 'larmann',
       blurb: 'Dead at thirty-two, six weeks after his sixth child was born. His widow raised six children alone; the family record his daughter Esther kept is how all of their dates survived. The eldest of Casper\'s ten, and the only one of them on this line of descent.',
       records: [
+        {
+          title: 'WHAT HE DID FOR A LIVING — the 1900 census, read off the sheet',
+          citation: 'United States Census, 1900 — ED 85, 4th Precinct, New Orleans Ward 9, sheet 14A, LINE 46; house 922, family 267 (NARA T623). FamilySearch image 3:1:S3HY-6SQY-F2.',
+          text: 'LARMANN, ANTHONY H. — Head — w m — Aug 1871 — 28 — M 4 — b. Louisiana, father b. Germany, mother b. Germany — OCCUPATION: DRAUGHTSMAN — 0 months unemployed. Wife Eugenia, Oct 1874, 25, married 4 years, 3 children born and 2 living. Daughters Mary C., Sept 1896, and Bernadine.',
+          image: 'assets/img/larmann-1900-draughtsman.jpg',
+          imageAlt: 'The 1900 census sheet for New Orleans Ward 9, line 46, showing Anthony H. Larmann as head of household with the occupation Draughtsman',
+          imageCredit: 'United States Census, 1900, ED 85 sheet 14A line 46 — NARA T623, via FamilySearch. Tap to enlarge.',
+          highlight: 'THIS SETTLES A FLAG THIS SITE RAISED ON ITSELF. His occupation here read "Architect" — a bare claim with no record behind it, on a site whose whole rule is that claims carry citations. The occupation column is on the original sheet and simply was never indexed, so it had to be read by eye. It says DRAUGHTSMAN. Not architect — the man who drew the plans. Family memory rounded it up by one rung, which is exactly what family memory does, and it was close enough that nobody questioned it for a century. His brother-in-law James L. Connor, on the line above, is a clerk. One other thing on this line worth flagging: his MOTHER\'S birthplace is entered as GERMANY. Emily Mevers was born at Pascagoula, Mississippi. The enumerator recorded the family\'s origin, not her birthplace.'
+        },
         {
           title: 'His marriage — the act that names his parents',
           citation: 'Louisiana, Parish Marriages, 1787–1958 — Orleans, November 1895; civil index Vol. 18, p. 718',
