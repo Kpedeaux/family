@@ -11,3 +11,7 @@ From-Judy-Larmann-Gifford/
 # The archives forbid internet republication of their scans without authorization;
 # the readings are transcribed in research/RESEARCH.md.
 am441_*.pdf
+
+# stray geocoding scratch scripts
+geo*.sh
+mz.json
