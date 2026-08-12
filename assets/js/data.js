@@ -2810,6 +2810,12 @@
       blurb: 'The old tablet reads "Victoire Cirlot, wife of Joseph Goubler"; the death index reversed her to "Theoline Victoire"; Judy\'s notes made it Circlot. One woman, three spellings — the stone\'s is preferred here.',
       records: [
         {
+          title: 'SHE WAS A MIDWIFE — and it puts the family on that block thirty-three years earlier',
+          text: 'Soards’ New Orleans City Directory for 1875 lists her twice: in the alphabetical section, “GOUBLER JOSEPH MRS. MIDWIFE, r. ws. LAFAYETTE AV. BET. BURGUNDY AND N. RAMPART” (p. 324), and again in the volume’s classified list of MIDWIVES (p. 808). A woman with a trade of her own, listed under it, in 1875.',
+          highlight: 'AND LOOK WHERE SHE IS. The west side of Lafayette Avenue between Burgundy and North Rampart is THE SAME BLOCK this archive already maps as “THE HOUSE” — 927 Lafayette, which became Almonaster and then Franklin. This site had the family on that block from 1908. THE 1875 DIRECTORY PUTS THEM THERE THIRTY-THREE YEARS EARLIER, and Louis Goubler is listed at 927 Lafayette av. in the 1908 volume, two years before the earliest citation this page previously carried.',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Soards’ New Orleans City Directory, 1875, p. 324 and classified midwives’ list p. 808 — HathiTrust umn.31951002253299l, scan 328; with Soards’ 1908 p. 450'
+        },
+        {
           title: 'Louisiana death record',
           citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, 23 December 1895 — Vol. 110, p. 79',
           text: 'GOUBLER, THEOLINE VICTOIRE, age 74.'
@@ -3210,6 +3216,12 @@
       branch: 'wellmeyer',
       blurb: 'The middle Wellmeyer generation: son of Bernard and Caroline, father of eight — and with Catherine he buried three of them, a baby daughter, a baby son, and the eleven-year-old Aloysius, drowned in 1901.',
       records: [
+        {
+          title: 'HE KEPT HIS FATHER\u2019S STORE — and then his mother took it over',
+          text: 'Three directory years in a row tell it. 1878 — “Wellmeyer John, clk. r. 761 N. Rampart”, clerking in the family shop. 1883, three years after his father died — “WELLMEYER JOHN, GROCER 761 N. RAMPART”, listed in the alphabetical section AND in the volume\u2019s classified grocers\u2019 list. 1884 — the business is under his mother: “WELLMEYER GERTRUDE MRS. GROCERY, 761 N. RAMPART.”',
+          highlight: 'A SON RAN IT FOR A WHILE AND THEN THE WIDOW TOOK IT BACK. By 1908 John has left the trade entirely: “Wellmeyer John, clk. r. 3903 N. Rampart”, and by 1912 he is a clerk for the SOUTHERN PACIFIC at the foot of St. Louis Street.',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Soards\u2019 New Orleans City Directory 1878 p. 694 (HathiTrust uc1.31158002719507); Soards\u2019 1883 p. 756 and grocers\u2019 list p. 854 (hvd.hxdjvm); Polk\u2019s 1884 p. 761 and grocers\u2019 list p. 866 (chi.66516778); Soards\u2019 1908 p. 1098; New Orleans city directory 1912 p. 1164 (uiug.30112045772842)'
+        },
         {
           title: 'Louisiana marriage record',
           citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, January 1883 — Vol. 9, p. 738',

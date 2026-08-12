@@ -338,6 +338,20 @@
       },
 
       {
+        id: 'wellmeyer-derbigny',
+        name: '2626 N. Derbigny Street',
+        kind: 'home',
+        lat: 29.9737, lng: -90.0674,
+        precision: 'street',
+        years: '1912',
+        people: ['henryJohnWellmeyer'],
+        who: 'Henry J. Wellmeyer — machinist, in his own house',
+        headline: 'THE YEAR HE MOVED OUT',
+        text: 'The 1912 directory: "WELLMEYER HENRY J MACHINIST r 2626 N DERBIGNY." Two years earlier he and his father John were both at 1029 Alvar. This is the year he sets up on his own — still a machinist, but at his own address, across the neighbourhood from his father.',
+        source: 'New Orleans city directory 1912, p. 1164 — HathiTrust uiug.30112045772842, scan 1168. PIN IS STREET-LEVEL: the block is certain from the number, the exact lot is not.'
+      },
+
+      {
         id: 'wellmeyer-alvar',
         name: '1029 Alvar Street — and 3903 N. Rampart round the corner',
         kind: 'home',
