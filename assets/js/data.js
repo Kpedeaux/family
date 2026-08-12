@@ -2700,7 +2700,7 @@
         { id: 'eugeniaMoore' }
       ],
       father: 'johnMoore',
-      mother: 'christineLoumann',
+      mother: 'christineLaumann',
       given: 'Henry', surname: 'Moore', sex: 'M',
       birth: { date: '27 February 1847' },
       death: { date: '9 December 1893', place: 'Orleans Parish' },
@@ -3424,21 +3424,27 @@
       blurb: 'The hundredth person on this tree, and he arrives the way most of the oldest ones do \u2014 named once, on his son\u2019s marriage act, and nowhere else yet. A German who got as far as New Orleans and whose son was born a Louisianian.',
       records: [
         {
+          title: 'WHAT THE INDEX LEFT OUT \u2014 a minister, three witnesses, and a Moore nobody had seen',
+          text: 'Read off the act: the marriage was celebrated 23 May 1871 by REV. M. H\u2039A\u203aLBEA\u2039T\u203a \u2014 a MINISTER, so this was a church wedding, not a Justice of the Peace one \u2014 and registered three days later on 26 May. The licence had been issued on 19 MAY 1871 by Hon. J. G. BAUM, Justice of the Peace, witnessed by JOS GOUBLER and C. F. HINSLAGE. Witnesses at the ceremony itself: EMILE GOUBLER, B. MOORE and J. B. GOUBLER. Licence returned and filed, Book 2, Folio 428.',
+          highlight: 'TWO NAMES ON THIS ACT ALSO APPEAR ON CASPER LARMANN\u2019S MARRIAGE LICENCE SEVEN MONTHS EARLIER. J. G. BAUM signed Casper\u2019s licence as Fourth Justice of the Peace in October 1870, and a C. F. HENSLAGE witnessed it \u2014 the same surname the clerk here writes HINSLAGE. The same official and, on the face of it, the same witness, in two branches of this family that would not marry into each other for three more generations. AND \u201cB. MOORE\u201d IS A MOORE RELATIVE THE INDEX NEVER SURFACES. The officiant\u2019s surname is the one word on the act that resists reading and is left half-transcribed here rather than guessed at.',
+          citation: '[VERIFIED against the original, August 2026 \u2014 see the verification log] Orleans Parish marriage act, 23 May 1871, registered 26 May 1871, Vol 2 p. 162, licence Book 2 Folio 428 \u2014 page image read 12 August 2026 at FamilySearch ark:/61903/3:1:939K-YNC2-H'
+        },
+        {
           title: 'THE ACT THAT NAMES HIM \u2014 his son\u2019s marriage, 23 May 1871',
           text: '\u201cHENRY MOORE, age 23, b. abt 1848. Marriage 23 MAY 1871, Orleans. PARENTS: JOHN MOORE, father; CHRISTINE LOUMANN, mother. Spouse: VALENTINE GOUBLER. Also on the record: Joseph Goubler.\u201d The Louisiana index carries the same act at Orleans Vol 2, p. 162.',
-          highlight: 'AND A SECOND RECORD SAYS WHERE HE CAME FROM, WITHOUT NAMING HIM. The 1880 census gives Henry as born in LOUISIANA with FATHER\u2019S BIRTHPLACE GERMANY and MOTHER\u2019S BIRTHPLACE GERMANY. So John Moore was an immigrant and his son was not. \u201cMOORE\u201d IS ALMOST CERTAINLY NOT WHAT HE WAS CALLED IN GERMANY \u2014 it is the kind of name a New Orleans clerk reaches for, and his wife\u2019s surname on the same act, LOUMANN, is plainly the German the clerk was hearing. What he was actually called is an open question.',
-          citation: '[VERIFIED against the index, August 2026 \u2014 see the verification log] Louisiana, Parish Marriages, 1787\u20131958 \u2014 FamilySearch ark:/61903/1:1:QKJW-NFW2, Orleans Vol 2 p. 162; with United States Census, 1880 \u2014 New Orleans, ED 64, sheet 211A, FamilySearch ark:/61903/1:1:MDX7-5XG. THE INDEX ENTRY HAS BEEN READ; THE ORIGINAL ACT IMAGE HAS NOT'
+          highlight: 'AND A SECOND RECORD SAYS WHERE HE CAME FROM, WITHOUT NAMING HIM. The 1880 census gives Henry as born in LOUISIANA with FATHER\u2019S BIRTHPLACE GERMANY and MOTHER\u2019S BIRTHPLACE GERMANY. So John Moore was an immigrant and his son was not. THE ACT IMAGE HAS SINCE BEEN READ, and it settles the spellings. MOORE is written plainly, twice, with no German form anywhere on the page \u2014 so if he was called something else in Germany, this act does not preserve it. His wife\u2019s surname is NOT Loumann as the index has it: the original reads LAUMANN, a Westphalian farm name.',
+          citation: '[VERIFIED against the original, August 2026 \u2014 see the verification log] Louisiana, Parish Marriages, 1787\u20131958 \u2014 FamilySearch ark:/61903/1:1:QKJW-NFW2, Orleans Vol 2 p. 162; with United States Census, 1880 \u2014 New Orleans, ED 64, sheet 211A, FamilySearch ark:/61903/1:1:MDX7-5XG. PAGE IMAGE READ 12 August 2026 at FamilySearch ark:/61903/3:1:939K-YNC2-H, image 97 of 365, Image Group 004705626; act registered 26 May 1871, licence returned Book 2 Folio 428'
         },
       ],
-      note: 'He and Christine Loumann are the hundredth and hundred-and-first people here, added 12 August 2026. They are LEAF ANCESTORS in the strict sense: known from one record, which is their son\u2019s, and from no record of their own. No birth, marriage or death has been found for either of them, in Louisiana or in Germany, and none is estimated here. The link to Henry is badged documented because a civil act names father and son together \u2014 which is the standard this site set \u2014 but the act itself has been read only as an index row. Pulling the original image is the next step, and the German spelling of both surnames is the question after that.'
+      note: 'He and Christine Laumann are the hundredth and hundred-and-first people here, added 12 August 2026. They are LEAF ANCESTORS in the strict sense: known from one record, which is their son\u2019s, and from no record of their own. No birth, marriage or death has been found for either of them, in Louisiana or in Germany, and none is estimated here. The link to Henry is badged documented because a civil act names father and son together \u2014 which is the standard this site set \u2014 but the act itself has been read only as an index row. Pulling the original image is the next step, and the German spelling of both surnames is the question after that.'
     },
 
-    christineLoumann: {
+    christineLaumann: {
       children: [
         { id: 'henryMoore' },
       ],
       given: 'Christine',
-      surname: 'Loumann',
+      surname: 'Laumann',
       sex: 'F',
       origin: 'Germany',
       evidence: 'verified',
@@ -3446,10 +3452,16 @@
       blurb: 'Named on her son\u2019s 1871 marriage act and, so far, nowhere else. Her surname as the clerk wrote it is LOUMANN \u2014 most likely LOHMANN or LAUMANN, both common Westphalian names, caught by ear in a New Orleans office.',
       records: [
         {
+          title: 'THE ACT ITSELF SAYS LAUMANN \u2014 she was misnamed here for one day',
+          text: 'The page image was pulled the day after she was added to this tree, and the index is wrong. The original act reads CHRISTINE LAUMANN, with an A. The second letter was compared at magnification against the clerk\u2019s own hand elsewhere on the same page: his O closes at the top and exits HIGH into the next letter, as in \u201cLouisiana\u201d written twice in this very act; his A closes and exits at the BASELINE, as in \u201cBaum\u201d four lines below. The surname\u2019s second letter exits at the baseline. It is an A.',
+          highlight: 'AND IT IS NOT LOHMANN EITHER \u2014 there is no H and no ascender loop after the A. The \u2011MANN ending is read rather than guessed: the stroke count between the U and the final \u2011ANN matches the M of \u201cBaum\u201d in the same hand. Her given name is CHRISTINE, not Christina or Christiane, and her husband is JOHN, not Johann \u2014 so whatever German the family spoke, the clerk was given the English forms. LAUMANN IS A WESTPHALIAN FARM NAME, which sits well beside the \u201cmother\u2019s birthplace Germany\u201d on the 1880 census.',
+          citation: '[VERIFIED against the original, August 2026 \u2014 see the verification log] Orleans Parish marriage act, 23 May 1871, Vol 2 p. 162 \u2014 page image read 12 August 2026 at FamilySearch ark:/61903/3:1:939K-YNC2-H, image 97 of 365, Image Group 004705626. The FamilySearch INDEX spells it LOUMANN; the ACT spells it LAUMANN, and this page follows the act'
+        },
+        {
           title: 'NAMED AS HENRY\u2019S MOTHER \u2014 the same act, 23 May 1871',
           text: 'The Orleans marriage act of Henry Moore and Valentine Goubler names the groom\u2019s parents as JOHN MOORE and CHRISTINE LOUMANN. The 1880 census, which does not name her, records Henry\u2019s MOTHER\u2019S BIRTHPLACE as GERMANY.',
-          highlight: 'SHE MARRIED INTO A NAME THAT SURVIVED AND KEPT ONE THAT DID NOT. \u201cMoore\u201d passed down four more generations to Kevin; \u201cLoumann\u201d appears exactly once in this entire archive, on this one line, in a clerk\u2019s spelling. If the German form is ever established it will come from a passenger list or a church register, not from anything Louisiana wrote down.',
-          citation: '[VERIFIED against the index, August 2026 \u2014 see the verification log] Louisiana, Parish Marriages, 1787\u20131958 \u2014 FamilySearch ark:/61903/1:1:QKJW-NFW2, Orleans Vol 2 p. 162. THE INDEX ENTRY HAS BEEN READ; THE ORIGINAL ACT IMAGE HAS NOT'
+          highlight: 'SHE MARRIED INTO A NAME THAT SURVIVED AND KEPT ONE THAT DID NOT. \u201cMoore\u201d passed down four more generations to Kevin; LAUMANN appears exactly once in this entire archive, on this one line. The index had it as \u201cLoumann\u201d and the act corrected that within a day of her being added here \u2014 but the act is still the only place she exists. Anything more will come from a passenger list or a German church register, not from anything Louisiana wrote down.',
+          citation: '[VERIFIED against the original, August 2026 \u2014 see the verification log] Louisiana, Parish Marriages, 1787\u20131958 \u2014 FamilySearch ark:/61903/1:1:QKJW-NFW2, Orleans Vol 2 p. 162. PAGE IMAGE READ 12 August 2026 at FamilySearch ark:/61903/3:1:939K-YNC2-H, image 97 of 365, Image Group 004705626; act registered 26 May 1871, licence returned Book 2 Folio 428'
         },
       ],
       note: 'See John Moore. Neither of them has a record of their own yet.'
