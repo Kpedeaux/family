@@ -126,7 +126,14 @@
       evidence: 'verified',
       branch: 'pedeaux',
       blurb: 'Married Veronica Brunetti in April 1943, served in the Army, and re-enlisted for the Panama Canal Zone when the war ended. Buried St. Louis Cemetery No. 3, Sq. 5 East, Facing G, St. Louis Avenue, Space 9 — in his wife\'s family\'s tomb, alongside her parents.',
+      occupation: 'ELECTRICIAN for a construction company — read off the 1950 census, where he had worked forty weeks the year before.',
       records: [
+        {
+          title: 'AN ELECTRICIAN, LIKE HIS FATHER — the 1950 census household',
+          citation: 'United States Census, 1950 — New Orleans, Orleans Parish, ED 36-458, sheet 6, lines 26–28 (NARA T628); house number 1638, dwelling unit 53',
+          text: 'PEDEAUX, HERBERT J., head, 28, married — occupation ELECTRICIAN, industry "Construction Co," class of worker P (private wage or salary), forty weeks worked in 1949. VERONICA M., wife, 26. PATRICIA ANN, daughter, 3. Buddy would not be born for another six years.',
+          highlight: 'THE TRADE RAN IN THE HOUSE. His father Numa Sr. was an electrician in 1910 and still doing electrical work at Maritime Electric in 1942; his brother Numa Jr. carried an IBEW Local 130 card for sixty years; and here he is at twenty-eight, wiring buildings for a construction company with a three-year-old in the house. ONE THING IS NOT SETTLED and is flagged rather than printed as fact: the street written vertically in the margin of that sheet reads as MAGAZINE, but the hand is not certain enough to publish or to plot on the map. The house number, 1638, is clear. The street needs a second reading before it goes anywhere.'
+        },
         {
           title: 'Louisiana birth record',
           citation: 'Orleans Parish, 10 July 1921 — Vol. 175, p. 791',
@@ -188,7 +195,7 @@
     numaSr: {
       siblings: [
         'Antoine Philippe Joseph “Philip” Pedeaux (1872–1946)',
-        'Edward Hector Pedeaux (1876–1930)',
+        'Edward Hector Pedeaux (22 Feb 1876 – 25 January 1930) — the brother who reached New Orleans first, and the one the rest seem to have followed. Manager of the implement department at STAUFFER, ESHLEMAN & CO. LTD. on Canal Street; the city directories track him from 2417 Ursulines Avenue in 1908 to 2524 Ursulines in 1910 to WEST END BOULEVARD NEAR FILLMORE in 1912 — the same street, in the same volume, that first shows his brother Numa there. Buried St. Louis Cemetery No. 2. Find a Grave gives his death as 15 January; the New Orleans Public Library obituary index and the archdiocese’s own burial register independently both say the 25th, so the 25th stands here.',
         'Louise Pedeaux (b. 1878)',
         'Eugenie Pedeaux (1880–1974, died at 94)',
         'Anna Pedeaux (b. 1883)',
@@ -212,6 +219,12 @@
       occupation: 'ELECTRICIAN — for W. H. Neville at 931 Canal Street in 1912, and for Maritime Electric Co. at 615 Commerce Place in 1942. Thirty years in the same trade.',
       blurb: 'A bayou-born man who ended up in Lakeview. He was working for a marine electrical company at fifty-four, in the middle of a war that had New Orleans building ships as fast as it could. Buried at Greenwood Cemetery in his wife\'s family tomb — "5 Palmetto Magnolia Hawthorne, A. F. Gaiennie Tomb."',
       records: [
+        {
+          title: 'FOUR ELECTRICIANS, TWO FAMILIES, AND THE SAME UNION LOCAL BEFORE THE WEDDING',
+          citation: 'Soards\' New Orleans City Directory, 1910 and 1912 (Numa Sr.). United States Census, 1950 — New Orleans, ED 36-458, sheet 6, lines 26–28 (Herbert Joseph). Obituary of Numa Louis Pedeaux Jr., Find a Grave memorial 137366059. John Richard Larmann Sr.\'s trade from his 2018 obituary and family record.',
+          text: 'NUMA SR. — "electrician," Soards\' 1910 and 1912; Maritime Electric Co. on his 1942 draft card. · HERBERT JOSEPH PEDEAUX, his son — 1950 census, occupation ELECTRICIAN, industry "Construction Co," forty weeks worked in 1949. · NUMA LOUIS PEDEAUX JR., his other son — "a skilled electrician and a proud member of the INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS, LOCAL 130, for over sixty years." · And on the other side of this tree entirely: JOHN RICHARD LARMANN SR., electrician, IBEW LOCAL 130, retired 1988.',
+          highlight: 'THE TWO HALVES OF THIS FAMILY WERE IN THE SAME UNION HALL BEFORE THEY WERE IN THE SAME FAMILY. Kevin\'s father\'s people and his mother\'s people did not meet until Buddy Pedeaux married Jean Larmann. But look at what was already true. Numa Sr. was wiring New Orleans in 1910. His son Herbert was an electrician for a construction company in 1950. His other son Numa Jr. carried an IBEW LOCAL 130 card for sixty years. And Jean\'s father, John Richard Larmann Sr., was an electrician of IBEW LOCAL 130 who retired in 1988. Numa Jr. and John Sr. were members of the SAME LOCAL, in the same city, for decades — two men from families that had never heard of each other, whose descendants would marry. Nobody in this family put that together, because nobody had both obituaries on the same desk. Four documented electricians across two unrelated lines, and one union local sitting in the middle of them.'
+        },
         {
           title: 'AN ELECTRICIAN AT TWENTY-FOUR — and already on West End Boulevard',
           citation: 'Soards\' New Orleans City Directory, 1912, p. 871; with the 1910 volume, p. 882',
@@ -282,7 +295,7 @@
       ],
       children: [
         'Antoine Philippe Joseph “Philip” Pedeaux (1872–1946)',
-        'Edward Hector Pedeaux (1876–1930)',
+        'Edward Hector Pedeaux (22 Feb 1876 – 25 January 1930) — the brother who reached New Orleans first, and the one the rest seem to have followed. Manager of the implement department at STAUFFER, ESHLEMAN & CO. LTD. on Canal Street; the city directories track him from 2417 Ursulines Avenue in 1908 to 2524 Ursulines in 1910 to WEST END BOULEVARD NEAR FILLMORE in 1912 — the same street, in the same volume, that first shows his brother Numa there. Buried St. Louis Cemetery No. 2. Find a Grave gives his death as 15 January; the New Orleans Public Library obituary index and the archdiocese’s own burial register independently both say the 25th, so the 25th stands here.',
         'Louise Pedeaux (b. 1878)',
         'Eugenie Pedeaux (1880–1974)',
         'Anna Pedeaux (b. 1883)',
@@ -325,7 +338,7 @@
       ],
       children: [
         'Antoine Philippe Joseph “Philip” Pedeaux (1872–1946)',
-        'Edward Hector Pedeaux (1876–1930)',
+        'Edward Hector Pedeaux (22 Feb 1876 – 25 January 1930) — the brother who reached New Orleans first, and the one the rest seem to have followed. Manager of the implement department at STAUFFER, ESHLEMAN & CO. LTD. on Canal Street; the city directories track him from 2417 Ursulines Avenue in 1908 to 2524 Ursulines in 1910 to WEST END BOULEVARD NEAR FILLMORE in 1912 — the same street, in the same volume, that first shows his brother Numa there. Buried St. Louis Cemetery No. 2. Find a Grave gives his death as 15 January; the New Orleans Public Library obituary index and the archdiocese’s own burial register independently both say the 25th, so the 25th stands here.',
         'Louise Pedeaux (b. 1878)',
         'Eugenie Pedeaux (1880–1974)',
         'Anna Pedeaux (b. 1883)',
@@ -1734,6 +1747,12 @@
       occupation: 'Electrician, IBEW Local 130 — retired 1988',
       blurb: 'Married sixty-three years. Buried St. Vincent de Paul Cemetery No. 3.',
       records: [
+        {
+          title: 'HIS LOCAL WAS ALSO HIS DAUGHTER\'S FUTURE IN-LAWS\' LOCAL',
+          citation: 'His trade and local from his 2018 obituary and family record; Numa Louis Pedeaux Jr.\'s from his own obituary, Find a Grave memorial 137366059',
+          text: 'John Richard Larmann Sr. — ELECTRICIAN, IBEW LOCAL 130, retired 1988. Numa Louis Pedeaux Jr. (1930–2014), uncle of the man who married John\'s daughter — "a skilled electrician and a proud member of the International Brotherhood of Electrical Workers, LOCAL 130, for over sixty years."',
+          highlight: 'THEY WERE IN THE SAME UNION HALL BEFORE THEY WERE IN THE SAME FAMILY. His daughter Jean married Buddy Pedeaux. Buddy\'s uncle Numa Jr. carried a Local 130 card for sixty years, and Buddy\'s father Herbert was an electrician too, and Buddy\'s grandfather Numa Sr. had been wiring New Orleans since 1910. John Sr. spent his own working life in that same local. Two families that had no connection to each other were sending men to the same union for decades, in the same city, and then their children married. Nobody spotted it because nobody had both obituaries in front of them at once.'
+        },
         {
           title: 'BEFORE THE UNION CARD — a motor repairer at twenty-two, living with his parents',
           citation: 'United States Census, 1950 — New Orleans, Orleans Parish, ED 36-460, page 77, line 5 (NARA T628); household at 1607 Piety Street',
