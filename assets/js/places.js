@@ -113,10 +113,10 @@
         lat: 30.0432578, lng: -90.5600869,
         precision: 'town',
         years: '1829–1900s',
-        people: ['josephLemoine', 'alonzoLemoine', 'valeryRousselle', 'genevieveRousselle'],
+        people: ['josephLemoine', 'alonzoLemoine', 'alexisLemoine', 'valeryRousselle', 'genevieveRousselle'],
         who: 'The Lemoines and the Rousselles, on the west bank',
         headline: 'THE RIVER PARISHES — a whole branch that never lived in the city',
-        text: 'Forty miles up the Mississippi from New Orleans, on the west bank of the German Coast. The oldest Lemoine this archive can name appears here in one line of one register, as the father of a boy baptised at Edgard in November 1829. Valery Rousselle was found here in the 1880 census with nine children, four of whose names Judy Gifford had written down from memory sixty years later. Paul Alonzo Lemoine was born here about 1855. Johanna Lemoine, who married Charles Emile Larmann in 1924 and brought this line into the Bywater, came down from Edgard.',
+        text: 'THE TWO FAMILIES WERE NEIGHBOURS HERE BEFORE THEY JOINED. In the 1880 census both households sit in the 1st Ward, ED 160: ALEXIS LEMOINE, 51, A BRICK MASON whose own father was born in France, is household 12133481 at sheet 7B; VALERY ROUSSEL, 39, A COOPER, is household 12133494 at sheet 8D. THIRTEEN HOUSEHOLDS APART — the enumerator walked from one door to the other the same afternoon. A barrel maker in sugar country, and a brick mason, thirteen doors along. Forty miles up the Mississippi from New Orleans, on the west bank of the German Coast. The oldest Lemoine this archive can name appears here in one line of one register, as the father of a boy baptised at Edgard in November 1829. Valery Rousselle was found here in the 1880 census with nine children, four of whose names Judy Gifford had written down from memory sixty years later. Paul Alonzo Lemoine was born here about 1855. Johanna Lemoine, who married Charles Emile Larmann in 1924 and brought this line into the Bywater, came down from Edgard.',
         source: 'Edgard sacramental registers, November 1829; United States Census, 1880, Edgard, St. John the Baptist Parish, 1st Ward, ED 160, sheet 7B; family notes of Judy Larmann Gifford.'
       },
 
