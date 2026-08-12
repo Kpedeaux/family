@@ -129,3 +129,58 @@ FOUND verdicts here — the 1906 Lemoine–Hanley marriage and the 1910 Wellmeye
 marriage — were both reached in the Louisiana SOS index, which renders differently and was
 read visually, so they stand. But the rule from here on: **wait, screenshot, and see the
 result count before recording an absence.**
+
+---
+
+# Batch 3 — the last four census citations, 12 August 2026
+
+| Person | Verdict |
+|---|---|
+| alexisLemoine 1880 | **CONFIRMED** verbatim, including ED 160 and sheet 7B |
+| valeryRousselle 1880 | **CONFIRMED** |
+| johnBrunetti 1930 | **CONFIRMED** |
+| johannaLemoine 1910 | **CORRECTED** — uniqueness holds, household description did not |
+
+## New facts taken onto the pages
+
+- **Alexis Lemoine was a BRICK MASON, and his FATHER WAS BORN IN FRANCE.** An eighth child,
+  ANAIS, aged 3, is in the household and was not on this site.
+- **Valery Roussel was a COOPER** — barrel maker, in sugar country. Both parents born in
+  Louisiana. Child ages recorded for the first time; **Leo was 3 months old**, dating his
+  birth to about March 1880.
+- **The two families were neighbours.** Alexis Lemoine is household 12133481 at sheet 7B and
+  Valery Roussel is household 12133494 at sheet 8D — same ward, same ED 160, **thirteen
+  households apart**, years before the families joined.
+- **John Brunetti's 1940 census gives Ward 9 and "Residence 1935: Same House."** The 1934 tax
+  bill already on this site is for district 9-W, square 724, Mazant and Derbigny. A tax bill
+  and a census, unrelated documents, put the family at the same corner in the same years.
+  His **1942 draft card (4th registration) gives his birth as 5 May 1893** — the Plataci
+  birth act to the day, written out in New Orleans half a century later.
+
+## The correction, in full
+
+The site said Johanna's 1910 household held "Genevieve Lemoine (b. c. 1865)" and "a toddler
+Robert Lemoine (b. 1909)."
+
+- She is indexed **"Johanna LEMOIN"**, and the head is indexed **"GENEVIEVE LEONOIRCE"**, not
+  Lemoine. Re-running the search on "Lemoine" will not find her.
+- **Robert Lemoine b. 1909 is not in this household at all.** He is in New Orleans Ward 9,
+  ED 151, sheet 15B, indexed as the **son of Eugene and Mary T. Lemoine**.
+
+What survived unchanged: she is the only Johanna Lemoine in Louisiana in 1910; there is no
+Alonzo Lemoine in the country; there is no adult Agnes Lemoine in Louisiana.
+
+## The generation problem, now with evidence — and a brake on it
+
+**1910 and 1920 both index Johanna as GRANDDAUGHTER**, and 1920 puts her and Robert in
+Eugene Lemoin's household. Judy Gifford's notes list Robert, Eugene and Johanna as siblings.
+The censuses put Robert and Johanna a generation below Eugene.
+
+**But the 1920 entry is internally impossible as indexed** — a 37-year-old head with a
+13-year-old granddaughter. Either the relationship column was misread or a person is missing
+from the transcription. **The original image has not been read and nothing in the tree has
+been restructured.** This is recorded as evidence, not acted on.
+
+**Separate lead, not proved:** EVA ROUSELLE, 68, in the 1910 household was born about 1842.
+Valery Roussel's wife Marie was 38 in 1880 — also about 1842 — and this archive records her
+as MARIE EVE DELATTE. Very likely the same woman, living with her widowed daughter.

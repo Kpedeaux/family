@@ -1442,8 +1442,14 @@
           text: 'One Declaration of Intention for a Giovanni Brunetti, birth year 1893, birthplace Italy.'
         },
         {
+          title: 'THE 1940 CENSUS PUTS HIM IN WARD 9 IN 1935 — which corroborates the tax bill',
+          text: 'JOHN BRUNETTI, 46, born ITALY, head, married; wife Veronica 38, daughter Veronica M. 16. Louisiana, Orleans, NEW ORLEANS CITY WARD 9, enumeration district 36-252, Tract 13 (part), sheet 61A, line 12. And the column that matters: RESIDENCE IN 1935 — “SAME HOUSE.”',
+          highlight: 'THE 1934 TAX BILL ON THIS PAGE IS FOR DISTRICT 9-W, SQUARE 724, MAZANT AND DERBIGNY. The census says he was in the same house in 1935 as in 1940, in Ward 9. Two unrelated documents — a tax bill and a census — independently put the family at the same corner in the same years. Also new: his 1942 draft card, the FOURTH registration, gives his birth as 5 MAY 1893, which is the Plataci birth act on this page to the day, written out in New Orleans nearly fifty years later. Its employer field names himself, so he was working for himself in 1942.',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] United States Census, 1940 — New Orleans City Ward 9, ED 36-252, sheet 61A, line 12 (NARA T627), FamilySearch ark:/61903/1:1:VYPL-XQX; and World War II Draft Registration Cards (4th registration), Louisiana, FamilySearch ark:/61903/1:1:XP14-16T'
+        },
+        {
           title: '1930 U.S. Census, Orleans Parish',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Household of John Brunette',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Household of John Brunette',
           text: 'John Brunette, b. about 1894 in Italy; wife Veronica; daughter Veronica M., b. about 1924 in Louisiana.'
         },
         {
@@ -2007,9 +2013,15 @@
           highlight: 'The stone supplies what no index could: her exact birthday and death day.'
         },
         {
+          title: 'THE CENSUS CALLS HER A GRANDDAUGHTER — TWICE, TEN YEARS APART',
+          text: '1910, New Orleans Ward 2, ED 14, sheet 2B: Johanna Lemoin, 3, RELATIONSHIP TO HEAD — GRANDDAUGHTER. Head: GENEVIEVE LEONOIRCE, 45, b. about 1865, WIDOWED. Also in the house: EVA ROUSELLE, 68, and Tennessee Deroche, 13. · 1920, New Orleans Ward 7, ED 123, sheet 11B, household 257: Johanna Lemoin, 13, again GRANDDAUGHTER — in the household of EUGENE LEMOIN, 37, with Marie 32, ROBERT 11, Leonie 9 and Leas 6.',
+          highlight: 'THIS IS DIRECT EVIDENCE FOR THE FLATTENED GENERATION THIS ARCHIVE HAS SUSPECTED. Judy Gifford\u2019s notes list Robert, Eugene and Johanna as SIBLINGS. Both censuses instead put Robert and Johanna a generation BELOW Eugene. AND A WARNING AGAINST BELIEVING IT TOO FAST: the 1920 entry has a 37-year-old head with a 13-year-old GRANDdaughter, which is impossible as indexed — either the relationship column was misread or somebody is missing from the transcription. THE ORIGINAL IMAGE HAS NOT BEEN READ AND NOTHING HERE IS RESTRUCTURED UNTIL IT IS. A SEPARATE LEAD: Eva Rouselle, 68 in 1910, was born about 1842; Valery Roussel\u2019s wife Marie was 38 in 1880, also about 1842, and this archive records her as MARIE EVE DELATTE. Very likely the same woman living with her widowed daughter — not yet proved.',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] United States Census, 1910 — New Orleans Ward 2, ED 14, sheet 2B (NARA T624), FamilySearch ark:/61903/1:1:MPYZ-K23; and United States Census, 1920 — New Orleans Ward 7, ED 123, sheet 11B, household 257, line 58 (NARA T625), FamilySearch ark:/61903/1:1:MV7D-FVB'
+        },
+        {
           title: 'The 1910 census — the only Johanna Lemoine in Louisiana',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] 1910 U.S. census index, Orleans Parish',
-          text: 'Johanna Lemoine, born 1907, in an Orleans Parish household. She is the only Johanna Lemoine in the state. In the same index: Genevieve Lemoine (b. c. 1865, Orleans), a toddler Robert Lemoine (b. 1909, Orleans) — and no Alonzo Lemoine anywhere in the country, no adult Agnes Lemoine anywhere in Louisiana.',
+          citation: '[CORRECTED, August 2026 — the uniqueness claim holds but the household described here was wrong; see the verification log] 1910 U.S. census index, Orleans Parish',
+          text: 'Re-read at the source, August 2026, and two halves of this came apart. WHAT HOLDS: she is the ONLY Johanna Lemoine in Louisiana in 1910 — exact given name, fuzzy surname, one result. There is NO Alonzo Lemoine anywhere in the country, and NO adult Agnes Lemoine anywhere in Louisiana; the only two Agnes Lemoines in the state are children in Avoyelles Parish. WHAT WAS WRONG: she is indexed “Johanna LEMOIN”, and the head of her house is indexed “GENEVIEVE LEONOIRCE”, not Lemoine — so anyone re-running this search on Lemoine will not find her. And the toddler Robert Lemoine b. 1909 IS NOT IN THIS HOUSEHOLD. He is in New Orleans Ward 9, ED 151, sheet 15B, indexed as the SON of Eugene and Mary T. Lemoine.',
           highlight: 'The census image itself, with its relation-to-head column, is the next document to pull: it will say in one word — daughter or granddaughter — which generation raised her on paper.'
         }
       ],
@@ -2859,8 +2871,14 @@
           highlight: 'This is the record that broke the Lemoine line open. It was the only Lemoine name anywhere in the family papers older than Alonzo himself.'
         },
         {
+          title: 'HIS TRADE, HIS FATHER\u2019S COUNTRY, AND THE ROUSSELLES THIRTEEN DOORS AWAY',
+          text: 'The same 1880 index entry carries three things this page never recorded. ALEXIS LEMOINE, 51, was a BRICK MASON. HIS FATHER WAS BORN IN FRANCE — his mother in Louisiana. And the household holds one more child than this page lists: ANAIS LEMOINE, aged 3.',
+          highlight: 'AND THE STRUCTURAL FACT. Alexis Lemoine is household 12133481 at sheet 7B; VALERY ROUSSEL is household 12133494 at sheet 8D — the SAME enumeration district, 1st Ward, ED 160, THIRTEEN HOUSEHOLDS APART. The Lemoines and the Rousselles were near neighbours at Edgard in 1880, before the families joined. The enumerator walked from one door to the other in the same afternoon.',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] United States Census, 1880 — 1st Ward, ED 160, St. John the Baptist Parish, Louisiana, sheet 7B, household 12133481 (NARA T9); FamilySearch ark:/61903/1:1:MDXX-QPK'
+        },
+        {
           title: 'The 1880 census — his household, with Alonzo in it',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] 1880 U.S. census, 1st Ward, ED 160, St. John the Baptist Parish, sheet 7B',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] 1880 U.S. census, 1st Ward, ED 160, St. John the Baptist Parish, sheet 7B',
           text: 'Alexis Lemoine, 51, brick mason, born Louisiana — FATHER\'S BIRTHPLACE: FRANCE, mother\'s: Louisiana. Wife Alice, 48. Children: Alozo 25, Alexis 22, Alexina 18, Alscee 17, Alfred 14, Azemia 11, Amelius 7.',
           highlight: 'Two things at once: it puts Alonzo in his father\'s house, and it says the generation above was born in France. The Lemoines had been a wall on this tree; this line is the door.'
         }
@@ -2937,8 +2955,14 @@
       blurb: 'Found at last in August 2026, in the 1880 census of Edgard, St. John the Baptist Parish — a river-parish household with nine children, four of whose names Judy had already written down from memory sixty years later.',
       records: [
         {
+          title: 'HE WAS A COOPER — and the baby in the house was three months old',
+          text: 'VALERY ROUSSEL, 39, OCCUPATION COOPER — a barrel maker, in sugar country, where barrels were how the crop moved. Both his parents born in Louisiana. The household with ages: Marie 38, Ozeme 18, Genevieve 16, Noemie 14, Florentine 12, Joseph 10, Ignace 8, Aurelia 7, Ettienne 2, and LEO, AGED 3 MONTHS — which dates his birth to about March 1880.',
+          highlight: 'Genevieve at sixteen gives her a birth about 1864. The index files him as “VALLERY ROUSSEL JR.”, which implies a father of the same name, and a Valery Roussel born January 1802 appears in the 1880 mortality schedule having died that same January. That is a lead and nothing more — it has not been opened, and it is not claimed here.',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] United States Census, 1880 — 1st Ward, ED 160, St. John the Baptist Parish, Louisiana, sheet 8D, household 12133494 (NARA T9); FamilySearch ark:/61903/1:1:MDXX-QTK'
+        },
+        {
           title: 'The 1880 census — Edgard, St. John the Baptist Parish',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] 1880 U.S. census, Edgard, St. John the Baptist Parish, Louisiana',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] 1880 U.S. census, Edgard, St. John the Baptist Parish, Louisiana',
           text: 'Valery Roussel, born about 1841 in Louisiana, with wife Marie and children Ignace, Florentine, GENEVIEVE, Ettienne, Leo, Joseph, Aurelia, Noemie and Ozeme.',
           highlight: 'Judy\'s notes named four of these children from family memory — Genevieve, Joseph, "Aurelian," and "Naomi." The census gives Aurelia and Noemie, and five siblings nobody had. This is the household Poupone grew up in.'
         },
