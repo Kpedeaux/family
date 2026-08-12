@@ -26,16 +26,16 @@
 
       {
         id: 'casper-dauphine',
-        name: 'The Larmann house on Dauphine — 2833 or 2883',
+        name: '2833 Dauphine Street',
         kind: 'home',
         lat: 29.9653529, lng: -90.0483747,
-        precision: 'block',
-        years: 'to 1921',
+        precision: 'exact',
+        years: 'to 1921, and his children after him',
         people: ['johnCasparLarmann'],
-        who: 'John Casper Larmann, carpenter',
-        headline: 'THE CARPENTER\'S HOUSE — AND TWO SOURCES THAT DISAGREE BY FIFTY NUMBERS',
-        text: 'Casper landed at New Orleans in 1866 and was a carpenter of Local 1312; he died at home on Dauphine Street in November 1921, aged seventy-five. But the number is not settled. The 1900 census transcription gives 2833 Dauphine; his 1921 obituary gives 2883 Dauphine, "near Press." One is probably a typo — and since Press Street runs at about the 3100 block, the obituary\'s 2883 sits closer to where it says he was. They may also simply have moved in twenty-one years. This archive prints both and harmonizes neither, so the pin is drawn on the block rather than the doorstep.',
-        source: '1900 census transcription (2833); obituary, New Orleans, November 1921 (2883, "near Press"); Orleans Parish death record. All quoted on his page.'
+        who: 'John Casper Larmann, carpenter — and the house his children kept',
+        headline: 'THE CARPENTER\'S HOUSE, AND A GREAT-GRANDSON WHO WALKED INTO IT',
+        text: 'Casper came ashore at New Orleans in 1866 and was a carpenter of Local 1312. He died in this house in November 1921, aged seventy-five, one block from Holy Trinity, the German parish his obituary names. His children stayed on in it after him: John Larmann Sr., born 1926, remembered visiting Casper\'s sons and daughters here — which is how a house that appears in an 1900 census reached a man alive in the twenty-first century, and through him his grandson.',
+        source: 'The number is 2833, from two independent directions: the 1900 census transcription, and John Larmann Sr.\'s own account of visiting Casper\'s children here, passed to his grandson. Casper\'s 1921 obituary prints 2883 "near Press" — a single source against two, and treated here as the outlier rather than quietly averaged away.'
       },
 
       {
@@ -64,6 +64,20 @@
         headline: 'The address that broke a wrong conclusion',
         text: 'The 1880 census finds Joseph Stauder\'s household here, and in it "LOUISA EHMANN, 22, BOARDER, SINGLE, clerk." This site had earlier read a later census as making Louisa a Stauder daughter. This house is where that reading died: in 1880 she was a lodger under their roof, not a child of it.',
         source: 'United States Census, 1880 — Orleans Parish, dwelling 117.'
+      },
+
+      {
+        id: 'larmann-1607-piety',
+        name: '1607 Piety Street',
+        kind: 'home',
+        lat: 29.9722527, lng: -90.0399174,
+        precision: 'exact',
+        years: '1950',
+        people: ['charlesEmileLarmann', 'johannaLemoine', 'johnLarmannSr', 'annWellmeyer'],
+        who: 'Three generations of Larmanns under one roof',
+        headline: 'APRIL 1950 — AND KEVIN\'S GRANDPARENTS ARE THE NEWLYWEDS IN THE BACK ROOM',
+        text: 'The census taker found five people in this house on 10 April 1950. CHARLES EMILE LARMANN, 47, head — a BOOKKEEPER at an AUTO REPAIR SHOP. His wife JOHANNA, 43. Their son JOHN R. LARMANN, 22, married, a MOTOR REPAIRER at an electric motor repair shop. His wife ANN G., 21, married, a CASHIER in a retail department store. And JOHN R. LARMANN JR., aged one, entered as "grandson."',
+        source: 'United States Census, 1950 — New Orleans, Orleans Parish, ED 36-460, page 77, lines 3–7 (NARA T628). House number 1607, dwelling 64, read off the sheet; the street is written vertically in column 1 as "Piety." Neighbours at 1615 and 1511 on the same page match the modern block exactly.'
       },
 
       {
