@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Where they lived — The Pedeaux Family Archive</title>
+<meta name="description" content="Every family address this archive can prove, plotted on a map of New Orleans and the delta — with the record behind each pin.">
+<meta name="theme-color" content="#f7f3ea">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="Where they lived — Pedeaux Family Archive">
+<meta property="og:description" content="The addresses, the parish church, and the tombs — each one tied to the document it came from.">
+<meta property="og:site_name" content="Pedeaux Family Archive">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/vendor/leaflet.css">
+<link rel="stylesheet" href="assets/css/styles.css?v=20260812i">
+<link rel="stylesheet" href="assets/css/map.css?v=20260812i">
+
+</head>
+<body>
+
+<a class="skip-link" href="#map">Skip to the map</a>
+
+<header class="masthead">
+  <div class="wrap masthead__inner">
+    <a class="masthead__mark" href="index.html">Pedeaux <span>Family Archive</span></a>
+    <nav class="masthead__nav" aria-label="Sections">
+      <a href="index.html#tree-section" class="always">Tree</a>
+      <a href="index.html#crossings">Crossings</a>
+      <a href="index.html#streams-section">Lines</a>
+      <a href="map.html" class="always" aria-current="page">Map</a>
+      <a href="research.html" class="always">Field notes</a>
+    </nav>
+  </div>
+</header>
+
+<main id="top">
+
+  <section class="hero">
+    <div class="wrap">
+      <p class="hero__eyebrow">Bywater · The French Quarter · Bayou Lafourche · The delta</p>
+      <h1>Where they actually <em>lived</em>.</h1>
+      <p class="hero__lede">
+        A tree tells you who. It never tells you where — and in this family the where is half the
+        story. Every pin below comes off a document that is quoted on somebody's page: a census
+        sheet, an enlistment card, an obituary, a cemetery register. Where the record gives a house
+        number, the pin is on the house. Where it only gives a street, the pin says so and sits in
+        the middle of it, waiting to be corrected.
+      </p>
+    </div>
+  </section>
+
+  <div class="mapwrap">
+    <p class="mapnote">
+      <strong>Two things worth noticing before you zoom in.</strong> The first is how tight the
+      Bywater cluster is. Casper Larmann's house at 2833 Dauphine and Holy Trinity, the German
+      parish named in his obituary, are <strong>123 metres apart</strong> — one block. The cemetery
+      his own priest founded is 1,157 metres from his front door, a quarter-hour on foot. He lived,
+      worshipped and was buried inside three quarters of a mile. The second thing is the pin marked
+      <em>street only</em> on Franklin Avenue. That house is remembered but not yet documented, and
+      it stays deliberately vague until a record fixes it.
+    </p>
+
+    <div class="mapgrid">
+      <div>
+        <div id="map"></div>
+        <ul class="maplegend" id="legend"></ul>
+      </div>
+      <nav class="placelist" aria-label="All places">
+        <h2>Every place, by name</h2>
+        <div id="placelist"></div>
+      </nav>
+    </div>
+  </div>
+
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <div class="foot__rule"></div>
+    <p>
+      Map tiles &copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">OpenStreetMap</a>
+      contributors. Coordinates geocoded from OpenStreetMap; the records behind them are cited on
+      each pin and quoted in full on the person's own page.
+    </p>
+    <p>
+      Compiled for the Pedeaux family. Corrections and family memory are very welcome — especially
+      house numbers.
+    </p>
+  </div>
+</footer>
+
+<script src="assets/vendor/leaflet.js"></script>
+<script src="assets/js/places.js?v=20260812i"></script>
+<script src="assets/js/map.js?v=20260812i"></script>
+
+</body>
+</html>

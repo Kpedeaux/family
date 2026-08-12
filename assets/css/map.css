@@ -1,0 +1,85 @@
+/* ==========================================================================
+   Pedeaux Family Archive — map page
+   Kept in a real stylesheet, not a <style> block: the site's CSP is
+   style-src 'self', so inline styles and style="" attributes are blocked.
+   ========================================================================== */
+
+.mapwrap { max-width: var(--maxw); margin: 0 auto; padding: 0 20px 48px; }
+
+.mapgrid { display: grid; gap: 20px; grid-template-columns: 1fr; }
+@media (min-width: 900px) { .mapgrid { grid-template-columns: 1fr 340px; align-items: start; } }
+
+#map {
+  height: 62vh; min-height: 420px; border: 1px solid var(--rule);
+  border-radius: var(--radius); background: var(--paper-2);
+}
+@media (min-width: 900px) { #map { height: 70vh; } }
+
+.maplegend {
+  display: flex; flex-wrap: wrap; gap: 6px 16px; margin: 14px 0 0; padding: 0;
+  list-style: none; font: 500 13px/1.4 var(--sans); color: var(--ink-2);
+}
+.maplegend li { display: flex; align-items: center; gap: 7px; }
+.maplegend i { width: 12px; height: 12px; border-radius: 50%; box-shadow: 0 0 0 2px var(--card); flex: none; }
+
+/* Branch/kind swatches — classes, not inline colours, for CSP */
+.sw-home    { background: #7a2e2e; }
+.sw-church  { background: #a8873f; }
+.sw-grave   { background: #4a423a; }
+.sw-service { background: #4a6b45; }
+.sw-town    { background: #3d5a6c; }
+.sw-approx  { background: transparent; box-shadow: 0 0 0 2px #7d7266 inset; }
+
+.placelist {
+  border: 1px solid var(--rule); border-radius: var(--radius);
+  background: var(--card); max-height: 70vh; overflow-y: auto;
+}
+.placelist h2 {
+  font: 600 13px/1 var(--sans); letter-spacing: .09em; text-transform: uppercase;
+  color: var(--ink-3); margin: 0; padding: 14px 16px;
+  border-bottom: 1px solid var(--rule-soft); position: sticky; top: 0; background: var(--card);
+}
+.placelist button {
+  display: block; width: 100%; text-align: left; background: none; border: 0;
+  border-bottom: 1px solid var(--rule-soft); padding: 11px 16px; cursor: pointer;
+  font: 400 15px/1.35 var(--serif); color: var(--ink);
+}
+.placelist button:hover, .placelist button:focus-visible { background: var(--paper-2); }
+.placelist button .pl__who {
+  display: block; font: 500 11.5px/1.4 var(--sans); letter-spacing: .05em;
+  text-transform: uppercase; color: var(--ink-3); margin-top: 3px;
+}
+.placelist button .pl__dot {
+  display: inline-block; width: 9px; height: 9px; border-radius: 50%;
+  margin-right: 7px; vertical-align: 1px;
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: var(--radius); background: var(--card);
+  box-shadow: 0 6px 26px rgba(28, 24, 21, .22);
+}
+.leaflet-popup-content {
+  margin: 15px 17px; width: 290px !important;
+  font: 400 14px/1.55 var(--sans); color: var(--ink-2);
+}
+.leaflet-popup-content h3 { font: 600 19px/1.2 var(--serif); color: var(--ink); margin: 0 0 2px; }
+.leaflet-popup-content .pop__who {
+  font: 500 11.5px/1.4 var(--sans); letter-spacing: .05em; text-transform: uppercase;
+  color: var(--ink-3); margin: 0 0 10px;
+}
+.leaflet-popup-content .pop__head { font: 600 13.5px/1.45 var(--sans); color: var(--oxblood); margin: 0 0 8px; }
+.leaflet-popup-content .pop__src {
+  font: 400 12px/1.5 var(--sans); color: var(--ink-3);
+  margin: 10px 0 0; padding-top: 9px; border-top: 1px solid var(--rule-soft);
+}
+.leaflet-popup-content .pop__prec {
+  display: inline-block; font: 600 10.5px/1 var(--sans); letter-spacing: .07em;
+  text-transform: uppercase; padding: 4px 7px; border-radius: 2px; margin-bottom: 9px;
+}
+.prec-exact  { background: #e6ecdf; color: #3c5738; }
+.prec-block  { background: #f0e7cf; color: #7a6224; }
+.prec-street { background: #f0dfdf; color: #7a2e2e; }
+.prec-town   { background: #f0dfdf; color: #7a2e2e; }
+
+.mapnote { font: 400 15px/1.6 var(--sans); color: var(--ink-2); max-width: 62ch; margin: 0 0 22px; }
+.mapnote strong { color: var(--ink); }
