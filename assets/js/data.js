@@ -2906,13 +2906,25 @@
       ],
       given: 'Henry John', surname: 'Wellmeyer', sex: 'M',
       birth: { date: '13 March 1886', place: 'New Orleans' },
-      death: { date: '23 February 1970' },
+      death: { date: '23 February 1970', place: 'St. Bernard Parish — not Orleans, per the state death index' },
       father: 'johnWellmeyer', mother: 'catherineLange',
       evidence: 'verified',
       branch: 'wellmeyer',
       blurb: '"Papa" in his granddaughter Judy\'s notes, and the "H" of the Wellmeyer tomb at St. Vincent de Paul No. 3. A labourer at twenty-two and a machinist by twenty-four, married the year in between.',
       occupation: 'Labourer in 1908; MACHINIST from 1910 onward — the city directories catch the change.',
       records: [
+        {
+          title: 'SENTINEL OF PELICAN LODGE NO. 62 — he was a union man',
+          citation: 'The Herald (New Orleans), 23 January 1913, p. 4 — installation of officers, Pelican Lodge No. 62, International Association of Machinists, at Pythian Hall (Chronicling America)',
+          text: 'Among the officers installed: "…William Braselman, conductor; HENRY WELLMEYER, SENTINEL."',
+          highlight: 'THREE YEARS AFTER HE BECAME A MACHINIST, HE WAS AN OFFICER OF HIS LODGE. The directories show him entered as "lab." in 1908 and "machinist" by 1910, the year he married. By January 1913 he is being installed as sentinel of Pelican Lodge No. 62 of the International Association of Machinists — a minor office, the one that keeps the door, but an office, and it means he was in the union early and known in it. This is also the second trade union on this tree, and the two sit either side of the marriage that joined the families: the Wellmeyers in the machinists, the Larmanns and Pedeaux in IBEW Local 130.'
+        },
+        {
+          title: 'HIS 1942 DRAFT CARD — and the word under EMPLOYER',
+          citation: 'United States, World War II Draft Registration Cards, Fourth Registration — NARA RG 147, Local Board No. 4, Orleans Parish, 4621 Canal St., registered 27 April 1942',
+          text: 'HENRY JOHN WELLMEYER, 56. Residence 1322 CONTI ST, APT. S. Born 13 March 1886, New Orleans. Person who will always know your address: "Mrs. H. J. Wellmeyer — same address." Height 5\'5", weight 162. Eyes HAZEL, hair GRAY, complexion RUDDY. Other physical characteristics: "SCAR ON PALM OF LEFT HAND." Employer: "UNEMPLOYED."',
+          highlight: 'THE ONLY CARD ON THIS TREE THAT SAYS UNEMPLOYED. He was fifty-six, a skilled machinist of thirty-two years and a union officer, and in April 1942 — with the country four months into a war that would consume every machinist it could find — he had no employer to name. The card does not say why, and nothing else found so far does either. What it does give is the man himself: five foot five, a hundred and sixty-two pounds, grey-haired and ruddy, with a scar across his left palm that no story in this family remembers.'
+        },
         {
           title: 'LABOURER TO MACHINIST IN FOUR YEARS — three directories, three addresses',
           citation: 'Soards\' New Orleans City Directory, 1908 p. 1100, 1910 p. 1177, and 1912',
@@ -2952,8 +2964,16 @@
         { id: 'annWellmeyer' }
       ],
       given: 'Bertha Florence', surname: 'Sander', sex: 'F',
-      birth: { date: '27 August 1885', place: 'New Orleans' },
-      death: { date: '1956' },
+      birth: { date: '2 August 1885 (see note)', place: 'New Orleans' },
+      death: { date: '2 April 1956' },
+      records: [
+        {
+          title: 'TWO CORRECTIONS FROM THE STATE INDEXES — her birthday and her death date',
+          citation: 'Louisiana, Orleans Parish birth index, Volume 83, p. 27; Louisiana death index, Orleans, Volume 0, p. 2306; New Orleans Public Library Obituary Index',
+          text: 'BIRTH: "1885 | 8 | 2 | SANDER, FLORENCE BERTHA | Mother: ORR, CATHERINE | Father: SANDER, LOUIS E." · DEATH: 2 April 1956, with five separate death notices — the Item and the States on 3 April, the Times-Picayune on 3 and 4 April, the States again on the 4th — every one giving next of kin as "Henry J Wellmeyer (husband)."',
+          highlight: 'THE FAMILY SAID THE 27th; THE STATE SAYS THE 2nd. Judy Gifford\'s notes give "Grandma Bertha" a birthday of 27 August 1885, and that is what this page carried. The Orleans birth index registers her on 2 AUGUST 1885 — and reverses her names, entering her as FLORENCE BERTHA. Both readings are printed here rather than one being quietly dropped, because a family birthday remembered for a century is evidence too, and index clerks transpose digits. Volume 83, page 27 is the page that settles it. The mother\'s surname in that index reads "ORR," which is the same clerk\'s rendering of OHR that appears on her siblings\' entries — not a different family. Her death gains real precision: this page said only "1956," and it was the second of April.'
+        }
+      ],
       father: 'louisSander', mother: 'catharineOhr',
       evidence: 'confirm',
       branch: 'wellmeyer',
@@ -3046,7 +3066,7 @@
         'Joseph H. Wellmeyer (c. 1867 – 27 February 1899) — died at thirty-two',
         'and probably the infant Anne, dead at two months in October 1872'
       ],
-      given: 'Henry Bernard', alsoKnownAs: 'christened Bernard Heinrich Wallmeyer', surname: 'Wellmeyer', sex: 'M',
+      given: 'Henry Bernard', alsoKnownAs: 'christened Bernard Heinrich Wallmeyer — but every New Orleans record calls him BERNARD H., never Henry Bernard', surname: 'Wellmeyer', sex: 'M',
       birth: { date: 'christened 1 July 1823', place: 'Ibbenbüren, Tecklenburg, Westphalia, Prussia' },
       death: { date: '23 September 1880', place: 'New Orleans' },
       father: 'gerardWallmeyer', mother: 'mariaAnnaStiegemann',
@@ -3056,6 +3076,30 @@
       immigrant: true,
       blurb: 'The German immigrant of the line: a miner\'s-country boy from Ibbenbüren in Westphalia who kept a New Orleans grocery, raised his family there, and died in September 1880 at fifty-seven — three months after the census takers came through. The civil record calls him Bernard.',
       records: [
+        {
+          title: 'A WELLMEYER ON STAGE AT HOLY TRINITY, 1877 — the same parish, four generations early',
+          citation: 'The Morning Star and Catholic Messenger, New Orleans, 28 October 1877, p. 5, and 9 December 1877, p. 5 (Chronicling America)',
+          text: 'OCTOBER — the St. Aloysius Dramatic Society performing "The Bottle, or The Drunkard\'s End" at "TRINITY HALL, corner of Royal and St. Ferdinand streets, 3rd District, FOR THE BENEFIT OF THE BENEDICTINE SISTERS." In the cast: "a sworn broker, appraiser……W. WELLMEYER," alongside Vollmer, Leidinger, Lange and Roth. · DECEMBER, a review — "the young actors filled their parts, but especial praise is due to Messrs. Holzhorst, Schaumburg, Vollmers, Linden, Lange, Newell and WELLMEYER… young gentlemen of the St. Aloysius Dramatic Society… THEIR HALL, AT HOLY TRINITY SCHOOL… They have lately, at a great cost, added scenery, carpets, gas… all of which was paid for out of their private purse."',
+          highlight: 'HOLY TRINITY AGAIN — AND THIS TIME FROM THE OTHER SIDE OF THE FAMILY. This archive already knew that parish three ways: it was John Casper Larmann\'s church, named in his obituary; its priest Father Thevis founded the cemetery Casper lies in; and in the 1960s Buddy Pedeaux was enrolled in its school after his mother claimed a German ancestry the Pedeaux did not have. Here is a fourth. In 1877, a young Wellmeyer is acting in a temperance melodrama in Trinity Hall to raise money for the Benedictine Sisters who ran that school, in a company of Vollmers and Langes and Leidingers — and LANGE is the surname his own family would marry into six years later, when John Wellmeyer married Catharine Elizabeth Lange. The German Catholic Third District was not a big world. Everyone on this tree who was German went through that one parish, and they kept going through it for a hundred and twenty years.'
+        },
+        {
+          title: 'HE SIGNED A POLITICAL PETITION IN 1872, AND SAT ON A JURY IN 1880',
+          citation: 'New Orleans Republican, 23 June 1872, p. 2 (Chronicling America). New Orleans Daily Democrat, 7 January 1880, p. 2, and 26 June 1878, p. 3.',
+          text: 'JUNE 1872 — "B Wellmeyer" appears in the mass signature list beneath the Liberal Republican Address to the People of the State of Louisiana: "We, the undersigned, citizens of the State of Louisiana, WITHOUT DISTINCTION OF PARTY, fully concur in and fully approve of the foregoing address." The same page prints the movement\'s GERMAN COMMITTEE. · JANUARY 1880 — Superior Criminal Court, petit jury list: "…Adam Haumer, M. Ward, B. WELLMEYER, A. C. F. Drez…" Eight months before he died. · JUNE 1878 — the Department of Waterworks and Public Buildings reports bids to the City Council for repairing the engine-house of No. 24 Fire Company: "HENRY WELLMEYER……$1295 00," against Fortier, Airlie and Connoly. Connoly won it at $997.95.',
+          highlight: 'THIS IS WHAT CITIZENSHIP LOOKED LIKE FOR A GERMAN IMMIGRANT IN RECONSTRUCTION NEW ORLEANS. He put his name to the Greeley–Brown Liberal Republican movement in the summer of 1872 — a fusion campaign that split the Republican party and drew heavily on the city\'s German voters, which is why that page carries a German Committee. Eight years later he was in a jury box in the Superior Criminal Court, which meant he was a registered voter in good standing. And in between he bid on a city contract to rebuild a fire station, in his old cabinetmaker\'s trade, and lost by three hundred dollars. ONE HONEST AMBIGUITY: that 1878 bid is printed under "Henry Wellmeyer," and both Bernard H. and his son Henry were in the building trades at 761 N. Rampart. The paper does not say which of them it was, so neither does this page.'
+        },
+        {
+          title: 'THE SUPREME COURT OF LOUISIANA SETTLED HIS ESTATE — and his son sued it for wages',
+          citation: 'Succession of Bernard Wellmeyer, No. 8343, 34 La. Ann. 819 (Supreme Court of Louisiana, May 1882). Full opinion, Caselaw Access Project.',
+          text: 'The court was deciding what could be deducted from the $1,000 the law allowed a widow and minor children "in necessitous circumstances." Three items came off: "Amount received by her from the JACKSON BENEVOLENT ASSOCIATION, $152. Amount received by her from ST. JOSEPH\'S SOCIETY, $105. The difference between the alleged market value of FIVE SHARES OF THE STOCK OF THE FIREMEN\'S INSURANCE COMPANY, $290, and the price which the said shares brought at auction, $165." Filed against the same estate on 24 January 1881, and appearing "in propria persona" — in his own person, without a lawyer — was JNO. WELLMEYER, his son, claiming $755.81 AS CLERK HIRE. The administratrix he was suing was his mother.',
+          highlight: 'A GROCER WHO DIED WITH A FOOT IN THREE INSTITUTIONS, AND A FAMILY THAT WENT TO COURT OVER THE COUNTER. This one document does more for knowing the man than any census line. He belonged to the Jackson Benevolent Association and to St. Joseph\'s Society — mutual-aid bodies of the kind German Catholic New Orleans ran for exactly this purpose, paying out to a member\'s widow when he died. He also held five shares in the Firemen\'s Insurance Company, which is a small man\'s investment, not a poor man\'s. And the case is in the reports at all because the family fought: John had clerked in his father\'s store since at least 1875, listed in the directory as "clk. B. H. Wellmeyer," and when his father died he put in for seven hundred and fifty-five dollars and eighty-one cents of back wages against his mother\'s administration of the estate. Three years later she was running the shop under her own name.'
+        },
+        {
+          title: 'THE SHOP, AND WHAT HE DID BEFORE IT — Clouet at North Rampart',
+          citation: 'Gardner\'s New Orleans directories 1861 and 1866; Soards\' 1875 (pp. 701 and 797), 1878 and 1883; Polk\'s 1876 and 1884',
+          text: '1861 — "Wellmeyer B. CABINET MKR. 291 Rampart." · 1866 — "Wellmeyer B. cabinet maker, 291 Rampart" AND "Wellmeyer B. GROCERY, 113 Clouet," in the same volume. · 1875 — "WELLMEYER BERNARD H. GROCER, CLOUET, NE. COR. N. RAMPART," and he is listed again in the volume\'s GROCERS section. · 1876 and 1878 — grocer, 761 N. Rampart. · 1883, three years after his death — "Wellmeyer Gertrude, WID. Bernard H. r. 761 N. Rampart" with "Wellmeyer John, GROCER 761 N. Rampart." · 1884 — "WELLMEYER GERTRUDE MRS. GROCERY, 761 N. RAMPART."',
+          highlight: 'HE CHANGED TRADES IN MIDDLE AGE, AND HIS WIDOW KEPT THE BUSINESS. The 1866 volume catches him doing both at once — still a cabinet maker, already a grocer — which is what changing your life looks like in a directory. By 1875 the cabinet work is gone and he is simply a grocer at a corner store, with his son behind the counter and the family living in the same building. Then he dies in 1880, and the directories show the shop passing first to John and then, in 1884, to GERTRUDE MRS. under her own name. A German immigrant\'s widow running a corner grocery in the Third District is not a footnote; it is the reason the family stayed solvent. NOTE ON THE NUMBER: 761 N. Rampart is pre-1894 and is not today\'s 761. The corner of Clouet and North Rampart is the locator, and it is on the map.'
+        },
         {
           title: 'The 1880 census — taken weeks before his death',
           citation: 'New Orleans, ED 62, sheet 165C — NARA T9',
