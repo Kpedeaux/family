@@ -184,3 +184,52 @@ Not yet reached, and still flagged: Henry Moore's marriages of 1871 and 1895, An
 Larmann's 1895 marriage, Henry John Wellmeyer's 1910 marriage, and Louis Sander's 1872
 marriage. The Wellmeyer and Sander result sets exceed the 25-row display and need paging or
 a narrower search.
+
+---
+
+# Batch 4 — the last of the Orleans marriages
+
+## CONFIRMED EXACTLY — 4 more
+
+| Person | Citation on the page | Index row, transcribed | Verdict |
+|---|---|---|---|
+| louisSander | Orleans Parish, June 1872 — Vol. 3, p. 109 | `1872 · month 6 · Ohr, Catherine × Sanders, Louis Ed. · Orleans · Vol 3 p 109` | **CONFIRMED** |
+| anthonyLarmann | Orleans, November 1895; civil index Vol. 18, p. 718 | `1895 · month 11 · MOORE, EUGENIE × LARMANN, ANTHONY · Orleans · Vol 18 p 718` | **CONFIRMED** |
+| henryMoore | Orleans Parish, May 1871 — Vol. 2, p. 162 | `1871 · month 5 · GOUBLER, VALENTINE × MOORE, HENRY · Orleans · Vol 2 p 162` | **CONFIRMED** |
+| johnLarmannSr | Orleans Parish, July 1947 — p. 3644 | `1947 · month 7 · WELLMEYER, ANN G × LARMANN, JOHN R · Orleans · Vol 0 p 3644` | **CONFIRMED** — a bonus; this one was sitting in the "other/unclear" pile, not this one |
+
+The 1872 entry files him as **SANDERS** with an s, which is exactly how this site
+already transcribes it. The 1871 entry gives the bride simply as VALENTINE GOUBLER —
+the woman who, fifty-five years later, would be indexed at her death as "Marie Valentine"
+with an age of 7.
+
+## NOT FOUND — 1, and this one is a real absence
+
+**Henry John Wellmeyer × Bertha Florence Sander, 1910, cited as Vol. 32, p. 303.**
+
+Searching WELLMEYER in the Orleans marriage index returns **22 results of 22 — the
+complete set, not a truncated page** — and there is no 1910 marriage among them. The
+list runs 1877, 1919, 1925, 1935, 1938, 1939, 1941, 1947, 1953, 1958, 1959, 1962, 1965,
+1968, 1970 and later. Searching SANDER and SANDERS separately produced no 1910 Wellmeyer
+marriage either.
+
+This is a stronger negative than the 1906 Lemoine–Hanley one, because the Wellmeyer
+result set is demonstrably complete. Either the cited volume and page are wrong, or that
+marriage is not in the SOS index at all. **No replacement has been guessed.** The page
+keeps its [UNVERIFIED] flag and now has a specific question attached to it: the 15 April
+1910 date on this site comes from Judy Gifford's family notes, and the Vol. 32 / p. 303
+citation needs to be traced to whoever first wrote it down.
+
+---
+
+# Running totals for the Louisiana SOS pile
+
+| Verdict | Count |
+|---|---:|
+| CONFIRMED against the index | **29** |
+| NOT FOUND | **2** (Lemoine–Hanley 1906; Wellmeyer–Sander 1910) |
+| Discrepancies recorded, record otherwise confirmed | **3** (Casper's age 73 vs 75; Marie Valentine's age 7 vs 78; "LARMANN, JOHN G" and "MEVERS, MARIE E" in 1870) |
+
+Also established, and worth keeping: **the marriage index gives year and month only.**
+Every specific day-of-month this site prints for a marriage is therefore unverified by
+this source and must come from somewhere else.

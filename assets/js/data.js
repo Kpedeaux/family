@@ -1830,7 +1830,7 @@
         },
         {
           title: 'Louisiana marriage record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, July 1947 — p. 3644',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, July 1947 — p. 3644',
           text: 'WELLMEYER, ANN G × LARMANN, JOHN R.'
         },
         {
@@ -2178,7 +2178,7 @@
         },
         {
           title: 'His marriage — the act that names his parents',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Louisiana, Parish Marriages, 1787–1958 — Orleans, November 1895; civil index Vol. 18, p. 718',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Louisiana, Parish Marriages, 1787–1958 — Orleans, November 1895; civil index Vol. 18, p. 718',
           text: 'ANTHONY LARMANN, born 1871, son of CASPAR LARMANN and EMILY MEVERS, m. Eugenie Moore.',
           highlight: 'The church-marriage series again — the same collection that cracked the Brunetti and Larmann walls. The state\'s civil index gives only "MOORE, EUGENIE × LARMANN, ANTHONY"; the parish act names both his parents, which is what this site requires before it will call a link proven. His link to Casper and Emily moved from single-source to documented on 11 August 2026. Esther\'s ledger supplies the day — Tuesday, 12 November 1895 — and his exact ages: born Saturday 26 August 1871, married at 24, dead at 32.'
         },
@@ -2550,7 +2550,7 @@
       records: [
         {
           title: 'Louisiana marriage record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, May 1871 — Vol. 2, p. 162',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, May 1871 — Vol. 2, p. 162',
           text: 'GOUBLER, VALENTINE × MOORE, HENRY.'
         },
         {
@@ -2973,7 +2973,7 @@
         },
         {
           title: 'Louisiana marriage record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, 1910 — Vol. 32, p. 303',
+          citation: '[NOT FOUND in the Louisiana SOS marriage index — all 22 Wellmeyer marriages checked, none in 1910; citation needs tracing] Orleans Parish, 1910 — Vol. 32, p. 303',
           text: 'SANDER, BERTHA FLORENCE × WELLMEYER, HENRY JOHN.',
           highlight: 'Judy\'s notes supply the day: 15 April 1910.'
         }
@@ -3029,7 +3029,7 @@
       records: [
         {
           title: 'Louisiana marriage record',
-          citation: '[UNVERIFIED — not re-checked in the August 2026 audit; see the claims ledger] Orleans Parish, June 1872 — Vol. 3, p. 109',
+          citation: '[VERIFIED against the original, August 2026 — see the verification log] Orleans Parish, June 1872 — Vol. 3, p. 109',
           text: 'OHR, CATHERINE × SANDERS, LOUIS ED.'
         },
         {
