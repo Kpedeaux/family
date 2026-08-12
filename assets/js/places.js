@@ -96,6 +96,48 @@
       },
 
       {
+        id: 'mcdonogh-16',
+        name: 'McDonogh School No. 16 — 1814 Bourbon Street',
+        kind: 'work',
+        lat: 29.9546820, lng: -90.0691720,
+        precision: 'block',
+        years: 'c. 1907–1947',
+        people: ['charlesEmileLarmann'],
+        who: 'Where Leontine Moore taught for forty years',
+        headline: 'THE CLASSROOM THAT PAID FOR THE HOUSE THAT RAISED THE ORPHAN',
+        text: 'Soards\' New Orleans directories print her the same way three years running — 1908, 1910 and 1912: "MOORE Leontine V. Miss, teacher McDonogh School No. 16, 1814 Bourbon, r. 927 Lafayette av." Her obituary index note in 1947 says forty years at that school. This is where those forty years happened, and it is why two unmarried sisters could own their house outright. The McDonogh schools were built from the bequest of John McDonogh, who left his fortune to public education in New Orleans and Baltimore.',
+        source: 'Soards\' New Orleans City Directory, 1908 p. 762, 1910 p. 817, and 1912 — all giving the school and its Bourbon Street address; New Orleans Public Library Obituary Index for the forty years. The directories give the school\'s street number but no building survives under that number in modern addressing, so this pin is on the block.'
+      },
+
+      {
+        id: 'wellmeyer-alvar',
+        name: '1029 Alvar Street — and 3903 N. Rampart round the corner',
+        kind: 'home',
+        lat: 29.9649846, lng: -90.0365484,
+        precision: 'exact',
+        years: '1908–1912',
+        people: ['henryJohnWellmeyer'],
+        who: 'Henry Wellmeyer — labourer, then machinist',
+        headline: 'A TRADE RISING, TRACKED THREE DIRECTORIES RUNNING',
+        text: 'Soards\' catches him moving up and moving house at the same time. 1908: "Wellmeyer Henry, LAB. r. 3903 N. Rampart" — a labourer, with Elizabeth and John at the same address. 1910: "Wellmeyer Henry, MACHINIST, r. 1029 Alvar." 1912: "Wellmeyer Henry J, MACHINIST, r. 2626 N. Derbigny." The first two addresses are thirty-five metres apart — he moved around the corner, not across town. In four years he goes from labourer to machinist, which in New Orleans then meant the railway shops, the foundries or the riverfront.',
+        source: 'Soards\' New Orleans City Directory, 1908 p. 1100, 1910 p. 1177, and 1912. Pin is on the 1910 address; 3903 N. Rampart is the corner behind it.'
+      },
+
+      {
+        id: 'neville-canal',
+        name: 'W. H. Neville — 931 Canal Street',
+        kind: 'work',
+        lat: 29.9552020, lng: -90.0712633,
+        precision: 'block',
+        years: '1912',
+        people: ['numaSr'],
+        who: 'Numa Pedeaux Sr.\'s employer, thirty years before Maritime Electric',
+        headline: 'HE WAS AN ELECTRICIAN THE WHOLE TIME',
+        text: 'The 1912 directory prints him in full: "PEDEAUX Numa J jr, ELECTRICIAN, W H Neville, 931 Canal, r. West End boul." He is twenty-four. Three things fall into place at once — he was already an electrician in 1912, he was already living on West End Boulevard, and he was working a Canal Street address in the years the city was wiring itself for electric light. Thirty years later his draft card still says electrical work, at Maritime Electric on Commerce Place.',
+        source: 'Soards\' New Orleans City Directory, 1912, p. 871. The 1910 directory also lists "Pedeaux Numa, electrician," at a Columbus Street address the OCR truncates — unverified and therefore not plotted.'
+      },
+
+      {
         id: 'maritime-electric',
         name: 'Maritime Electric Co. — 615 Commerce Place',
         kind: 'work',

@@ -209,9 +209,15 @@
       father: 'pierreNuma', mother: 'eulalieBorne',
       evidence: 'verified',
       branch: 'pedeaux',
-      occupation: 'Worked for MARITIME ELECTRIC CO., 615 Commerce Place — a marine electrical firm in the Warehouse District, named on his own 1942 draft card.',
+      occupation: 'ELECTRICIAN — for W. H. Neville at 931 Canal Street in 1912, and for Maritime Electric Co. at 615 Commerce Place in 1942. Thirty years in the same trade.',
       blurb: 'A bayou-born man who ended up in Lakeview. He was working for a marine electrical company at fifty-four, in the middle of a war that had New Orleans building ships as fast as it could. Buried at Greenwood Cemetery in his wife\'s family tomb — "5 Palmetto Magnolia Hawthorne, A. F. Gaiennie Tomb."',
       records: [
+        {
+          title: 'AN ELECTRICIAN AT TWENTY-FOUR — and already on West End Boulevard',
+          citation: 'Soards\' New Orleans City Directory, 1912, p. 871; with the 1910 volume, p. 882',
+          text: '1912: "PEDEAUX Numa J jr, ELECTRICIAN, W H Neville, 931 Canal, r. WEST END BOUL." · 1910: "Pedeaux Numa, electrician" — at a Columbus Street address the scan cuts off mid-word. · 1908, the generation before him: "Pedeaux Edward H. r. 2417 Ursuline av."',
+          highlight: 'THIRTY YEARS, ONE TRADE, ONE STREET. His 1942 draft card gives his employer as Maritime Electric and his home as 6509 West End Boulevard, and this page treated both as facts about a man in middle age. The 1912 directory shows they were facts about him at twenty-four. He was an electrician before the First World War, working out of a Canal Street firm in the years New Orleans was wiring itself for electric light, and he was already living on West End Boulevard — three decades before the card that names it. He did not move to Lakeview late and he did not change trades. The one thing not nailed down is the 1910 address: the directory prints "2325 Colum-" and the page breaks the word, so it is almost certainly Columbus Street and is deliberately not plotted on the map until somebody reads the page itself.'
+        },
         {
           title: 'HIS OWN HAND — the 1942 draft card, with his address, his telephone and his employer',
           citation: 'United States, World War II Draft Registration Cards, 1942 — Fourth Registration, State of Louisiana; serial number U-1108, D.S.S. Form 1 (revised 4-1-42), signed by the registrant.',
@@ -1809,6 +1815,12 @@
       note: 'One detail of that house survived three generations of retelling: the aunts had an instantaneous gas water heater — you lit it, and it heated the water as it flowed. His son John remembered it as a marvel, something they had "before that was a thing," and passed the story to his own grandson Kevin, who happened to be installing a tankless heater in a shotgun house at the time. The aunts were not ahead of their era so much as squarely in it: instantaneous gas heaters reached the American market in 1893 and the 1900s were their golden age, until temperature swings in the shower drove buyers to storage tanks and the design fell out of fashion for most of a century. The thing Kevin put in his own wall is the same idea, come back around.',
       records: [
         {
+          title: 'HIS MOTHER WAS IN THAT HOUSE TOO — the 1910 directory, one address, two families',
+          citation: 'Soards\' New Orleans City Directory, 1910, p. 672 and p. 817 (also 1908 p. 754 and p. 762, and 1912)',
+          text: 'Page 672: "LARMANN EUGENIE MRS. r. 927 LAFAYETTE AV." Page 817 of the same volume: "MOORE Valentine Mrs. r. 927 Lafayette av." and "MOORE Leontine V. Miss, teacher McDonogh School No. 16, 1814 Bourbon, r. 927 Lafayette av." The 1908 volume adds "MOORE John H. carp. r. 927 Lafayette av."',
+          highlight: 'THE TWO FAMILIES WERE UNDER ONE ROOF, AND THE DIRECTORY PROVES IT ON ITS OWN PAGES. "Mrs. Eugenie Larmann" is Charles\'s widowed mother, Eugenia Moore — and she is listed at the same house as her mother Valentine, her sister Leontine and her brother John. So the picture this page had of a boy handed over to aunts is too simple. In 1910 he was eight years old in a household holding his mother, his grandmother, his schoolteacher aunt and a carpenter uncle, all at 927 Lafayette Avenue — the street now called Franklin. His mother lived another decade. What the aunts did, when she died about 1920, was not take him in: they were already raising him, and they simply carried on.'
+        },
+        {
           title: 'WHO THE AUNTS WERE — and one of them taught school for forty years',
           citation: 'New Orleans Public Library Obituary Index, 1804–1972 — entry "MOORE, Leontine Victoria," death date 27 March 1947, with the index\'s own note; obituary cited to the Times-Picayune, 28 March 1947, p. 2, cols. 4 and 8, sec. 1. Sister: "MOORE, Miss Marie Louise," death date 12 May 1948, aged 71 — Times-Picayune, 13 May 1948, p. 2 col. 8, and the Item, 12 May 1948, p. 9 col. 2.',
           text: 'The library\'s index carries one line of biography under Leontine\'s name: "TEACHER AT THE McDONOGH NO. 16 SCHOOL FOR 40 YEARS." Her sister is indexed not as Louise but as MARIE LOUISE MOORE, and died on 12 May 1948 aged seventy-one, thirteen months after Leontine.',
@@ -2241,10 +2253,10 @@
           highlight: 'A whole life in one paragraph. He was a CARPENTER — a union man of Local 1312 — and his parish was HOLY TRINITY, the German national church of New Orleans. He died at home on Dauphine Street in the Bywater and was buried in St. Roch. "Aged 75" gives 1846, agreeing with Esther\'s ledger against the death index\'s 1848.'
         },
         {
-          title: 'HIS HOUSE — 2833 DAUPHINE, and the great-grandson who went inside it',
-          citation: 'The 1900 census transcription for this household; family testimony from John Larmann Sr. (b. 1926) via his grandson Kevin, August 2026; obituary, New Orleans, November 1921',
-          text: 'Two independent sources give 2833 Dauphine Street: the 1900 census transcription, and John Larmann Sr.\'s own account of visiting Casper\'s children in that house as a boy. His 1921 obituary prints 2883 Dauphine, "near Press."',
-          highlight: 'THE CONFLICT IS RESOLVED, AND NOT BY AVERAGING. This site carried both numbers side by side for want of a tiebreaker — the census said 2833, the obituary said 2883, and Press Street\'s position mildly favoured the obituary. The tiebreaker turned out to be alive until 2018. John Larmann Sr., Casper\'s great-grandson, visited Casper\'s sons and daughters at 2833 and told his own grandson so. That is two independent sources against one, and the obituary\'s 2883 is now treated as the outlier rather than a rival. It also says something the numbers do not: the family did not leave. Casper died in 1921 and his children were still keeping that house when a boy born in 1926 was old enough to be walked through the door.'
+          title: 'FORTY-SIX YEARS OF ADDRESSES — the city directories, and a trade that changed',
+          citation: 'Soards\' New Orleans City Directory and its predecessors: 1876 p. 422; 1878 p. 424; 1883 p. 460; 1884 p. 483; 1908 p. 624; 1910 p. 672; 1912 p. 657. Read in the digitised full-view volumes at HathiTrust, August 2026. With the 1900 census transcription, the November 1921 obituary, and family testimony from John Larmann Sr. via his grandson.',
+          text: '1876 — "Larmann John K. CARPENTER, r. 62 Desire." · 1878 — "Larmann John K. carpenter, r. 32 INDEPENDENCE." · 1883 — "Larma Casper, carpenter, r. 710 N. Rampart." · 1884 — "Larman Casper, carpenter, r. 795 N. Rampart." · 1908 — "Larmann Caspar, CABINET MAKER, r. 2833 DAUPHINE." · 1910 — "Larmann John C. cabinetmaker, r. 2833 Dauphine." · 1912 — "Larmann John C, cabinetmaker, r. 2833 Dauphine." Living at 2833 with him across those years: ALBERT F., clerk · HENRY C., painter and then saddler · JOSEPH B., clerk at Jas. A. Puech & Co.',
+          highlight: 'THE DAUPHINE QUESTION IS OVER, AND THE MAN GOT BIGGER. This page carried 2833 and 2883 side by side for want of a tiebreaker. There are now FOUR independent sources for 2833 — three directory years and his own great-grandson, who visited Casper\'s children there — against one obituary. 2883 is a misprint. But the trail matters more than the tiebreak. He is a CARPENTER in 1876 and a CABINET MAKER by 1908: the rough trade at thirty, the fine one at sixty-two, which is a man moving from framing houses to making furniture. And the addresses trace a working life across the downriver wards — Desire, Independence, North Rampart twice, then Dauphine, where he stayed for the last fifteen years and died. ONE THING CANNOT BE MAPPED, AND IT IS SAID HERE RATHER THAN FUDGED: New Orleans renumbered every street in 1894 by Ordinance 9411 C.S. "62 Desire" and "32 Independence" and those Rampart numbers are pre-renumbering, so they are real addresses that no longer point anywhere on a modern map. They are printed here and left off the map on purpose.'
         },
         {
           title: 'HIS GRAVE, LOCATED — and the walk is named for his own parish priest',
@@ -2828,8 +2840,15 @@
       father: 'johnWellmeyer', mother: 'catherineLange',
       evidence: 'verified',
       branch: 'wellmeyer',
-      blurb: '"Papa" in his granddaughter Judy\'s notes, and the "H" of the Wellmeyer tomb at St. Vincent de Paul No. 3.',
+      blurb: '"Papa" in his granddaughter Judy\'s notes, and the "H" of the Wellmeyer tomb at St. Vincent de Paul No. 3. A labourer at twenty-two and a machinist by twenty-four, married the year in between.',
+      occupation: 'Labourer in 1908; MACHINIST from 1910 onward — the city directories catch the change.',
       records: [
+        {
+          title: 'LABOURER TO MACHINIST IN FOUR YEARS — three directories, three addresses',
+          citation: 'Soards\' New Orleans City Directory, 1908 p. 1100, 1910 p. 1177, and 1912',
+          text: '1908 — "WELLMEYER Henry, LAB. r. 3903 N. RAMPART," with Mrs. Elizabeth and John, clerk, at the same address. · 1910 — "Wellmeyer Henry, MACHINIST, r. 1029 ALVAR." · 1912 — "Wellmeyer Henry J, MACHINIST, r. 2626 N. DERBIGNY."',
+          highlight: 'A YOUNG MAN CLIMBING, CAUGHT IN THREE SNAPSHOTS. In 1908 he is twenty-two and entered as "lab." — a labourer, in his family\'s house on North Rampart. He marries Bertha Sander on 15 April 1910. By that year\'s directory he is a MACHINIST with an address of his own at 1029 Alvar, which is thirty-five metres round the corner from where he started — the shortest move a man ever made to become a householder. Two years later he is on North Derbigny. A machinist in New Orleans then meant the railway shops, the foundries or the riverfront, and it was a skilled union trade where "labourer" was not. The generation above him ran to the building trades too: an earlier Henry Wellmeyer appears as a cabinetmaker on North Rampart in 1876 and a carpenter on Marigny in 1883 and Clouet in 1884, all pre-1894 street numbers that no longer map.'
+        },
         {
           title: 'Louisiana birth record',
           citation: 'Orleans Parish, 13 March 1886 — Vol. 83, p. 968',
