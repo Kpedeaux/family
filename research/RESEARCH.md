@@ -3619,3 +3619,38 @@ before it goes on any page.
 - FamilySearch also indexes the 1871 marriage as **17 April 1871 at Napoleonville**, while
   the Diocese of Baton Rouge volume gives **27 April 1871 at St. Philomena, Labadieville**.
   Both the day and the church differ. Not resolved here; recorded for the next pass.
+
+### Anne Marie Guedry — NOT ESTABLISHED. What was tried, and why it failed
+
+**Her dates are still unknown.** Two approaches, neither conclusive.
+
+**1. Name search — defeated by how common the name is.** FamilySearch returns **570**
+Marie Guedry/Guidry records born 1808–1818 in Louisiana, with nothing on the face of them
+to tell one from another. Guedry is among the most common Acadian surnames in the state.
+Searching Borne × Guedry together returns 431,316 hits, almost all 20th-century Guidry
+marriages. **No candidate was selected, because selecting one would have been arbitrary.**
+
+**2. A discriminating test on the surname, which came back suggestive but not decisive.**
+If "Mary Pedaux" were genuinely a Pedaux — living in Lafourche in 1900 at eighty-eight —
+she should have died there within a few years and appear in the Louisiana death index.
+Searched: **"Pedaux" returns zero deaths statewide**; "Pedeaux" returns 32, of which the
+only Lafourche or Assumption match is *PEDEAUX, EDWARD MRS, 1937, age 62* — born about
+1875, not her.
+
+**Why that is weaker than it looks, and it must be said.** Louisiana did not register
+deaths statewide until about 1911. Before that the index is essentially Orleans Parish. A
+woman dying in Lafourche in 1903 would very likely not be in it at all. **So her absence
+is close to meaningless, and it is recorded here as suggestive only.** It leans toward
+her surname not really being Pedaux; it does not show it.
+
+**What remains true regardless.** Numa's own mother was dead by 1870 — the census of that
+year settles it. So the woman in the 1900 house is not his birth mother whoever she was.
+
+**The decisive test, not yet run: READ THE ORIGINAL 1900 SHEET.** Live Oak Plantation, ED
+29, sheet 3B, line 74. Two columns answer it outright:
+- **The surname column.** If it is a DITTO MARK rather than the word Pedaux, her surname
+  was never written and the index supplied it from the head of household. That is the whole
+  mother-in-law hypothesis, confirmed or killed in one glance.
+- **The relation column.** Whether the enumerator wrote "Mother" or "Mother-in-law." The
+  index says Mother, but indexes abbreviate, and this is exactly the kind of distinction
+  that gets flattened.
