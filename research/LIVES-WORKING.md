@@ -379,3 +379,63 @@ The viewer's Download button behaves differently by collection, and this cost me
 3. A **dialog** often intercepts the first click. Click the toolbar Download, then `find` the
    **"Download" button inside the dialog** and click that too.
 4. The viewer's own zoom is never sharp enough to read handwriting. Always pull the file.
+
+### 📍 CITY DIRECTORIES + ST. ROCH PLOT — where both stand. 2026-08-12
+
+**🟢 THE DIRECTORIES ARE FREE AND FULL-VIEW — on HATHITRUST, not archive.org.**
+Archive.org has only two Soards' *guide books* (1884, 1885), NOT the annual directories. HathiTrust
+has the real thing, **public domain, full view**:
+- Series catalog: `catalog.hathitrust.org/Record/008375996`
+- **1883**: `babel.hathitrust.org/cgi/pt?id=hvd.hxdjvm` — 932 page scans
+- **1875**: `id=umn.31951002253299l`
+- In-volume search: `.../cgi/pt/search?q1=<term>&id=<id>`
+
+**❌ "LARMANN" RETURNS ZERO IN THE 1883 VOLUME** — and I ran a control to be sure it wasn't the
+tool: **"carpenter" returns 618 hits** in the same volume, with clean OCR
+(*"Abadie Dominique, carpenter; r. Dauphine, nw. cor. Delery"*). So the search works. Either he is
+not listed in 1883, or his surname OCR'd into something else.
+
+**🟢 THE PAGE TO READ BY EYE: p. 460 (scan seq 462).** Found it by searching a neighbour —
+**"Larose"** hits there, on a page running *Larue · Larosa · Larose*. **Larmann sorts immediately
+before Larosa**, so he would be on **scan 462 or 461** if he is there at all.
+
+**🔴 BLOCKED:** HathiTrust then cut off my IP on the image endpoints —
+*"Page Blocked … IP address 98.185.35.137"* — so I could not read the page scan. The reader URL
+still renders; only `imgsrv` and plaintext are blocked. **Kevin or a fresh IP can just open
+`babel.hathitrust.org/cgi/pt?id=hvd.hxdjvm&seq=462` and look at the Lar– column.**
+
+**NOT YET TRIED:** OCR variants (Larman, Lannann, Larmarm, Lai-mann); other years — Casper worked
+in New Orleans ~1866–1921, so **1875, 1890s, 1900s, 1910s** volumes all exist and each gives
+address + trade for one year. This is still the best single source for mapping his working life.
+
+### 📍 CASPER'S PLOT IN ST. ROCH — the three places it is recorded
+
+He was buried from Holy Trinity into **St. Roch Cemetery** after dying 21 Nov 1921 (obituary,
+*Times-Picayune*, 23 Nov 1921). There are **two** — St. Roch No. 1 (1874) and No. 2 (1895), both on
+St. Roch Ave in the 8th Ward, both run by the Archdiocese. **Which one, and the plot, are not yet
+established.** Three routes, in order of ease:
+
+1. 🟢 **NEW ORLEANS CATHOLIC CEMETERIES HAS A FREE PUBLIC BURIAL SEARCH — WITH MAPS.**
+   **`https://nolacatholiccem.discovereverafter.com/`** (linked from
+   `nolacatholiccemeteries.org/burial-search`). Search by name, filter by cemetery. It is a
+   JavaScript app and **would not execute through automation for me** — the form accepted the name
+   but never returned results to the DOM. **Ten seconds by hand.** They also publish cemetery
+   **maps** under Research and Records.
+2. **USGenWeb Orleans Parish** has the **St. Roch interment books transcribed, 1904–1998**.
+   **Casper's 1921 death falls in Book #1 (1904–1934).** `usgwarchives.net/la/orleans/cemroch.htm`
+   — ⚠️ **the site was unreachable today** (connection refused), try again later.
+3. **City Archives & Special Collections**, New Orleans Public Library — the interment books on
+   microfilm, call number **mf GS36-112 to 115**.
+4. Direct: **New Orleans Catholic Cemeteries**, 65 Fontainebleau Drive, 504-596-3050,
+   `NolaCatholicCem@arch-no.org`.
+
+⚠️ **MANAGE EXPECTATIONS:** the transcribers note that **some interments from 1904 onward have no
+location recorded at all** — "not known to anyone in the cemetery or on any of the records." A 1921
+burial may or may not have a plot on file.
+
+### 📸 PROOF IMAGES NOW PUBLISHED ON PERSON PANELS (Aaron's point, well taken)
+**8 record images across 6 people** — Marguerite Reyne (1784 marriage register), Marie Françoise
+Renard (1740 filiation, 1740 WPA card, 1747 WPA card), John Brunetti (1893 birth act), Robert
+Lemoine (1913 service card), **Anthony Larmann (1900 census, "Draughtsman")**, John Casper Larmann
+(Gesmold 1846 baptism). Every one is the actual document, cropped from the original scan, with the
+archive credited underneath. **Standing rule from here: if it is worth claiming, capture it.**
