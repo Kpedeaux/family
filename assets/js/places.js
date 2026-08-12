@@ -144,11 +144,11 @@
         kind: 'church',
         lat: 29.9646498, lng: -90.0493592,
         precision: 'exact',
-        years: 'founded 1847',
-        people: ['johnCasparLarmann'],
-        who: 'The German national church of New Orleans — Casper\'s parish',
-        headline: 'He died 123 metres from his own altar — one block',
-        text: 'Holy Trinity stood at St. Ferdinand and Dauphine, the German national parish, and Casper\'s obituary names it as his. Its pastor was Father Peter Leonhard Thevis, who in the yellow fever of 1867 vowed a chapel to St. Roch if his congregation were spared. Not one Holy Trinity parishioner died. He built the chapel, founded the cemetery around it in 1875, and lies beneath its floor.',
+        years: 'founded 1847 · school 1871 · closed 1997',
+        people: ['johnCasparLarmann', 'buddy'],
+        who: 'The German national church — Casper\'s parish, and Buddy\'s school',
+        headline: 'He died 123 metres from his own altar — and four generations later his descendant had to fake being German to get in',
+        text: 'Holy Trinity stood at St. Ferdinand and Dauphine, founded in 1847 for the German Catholics below Canal Street, in a stretch of the Marigny then called LITTLE SAXONY. Casper\'s obituary names it as his parish. Its pastor was Father Peter Leonhard Thevis, who in the yellow fever of 1867 vowed a chapel to St. Roch if his congregation were spared. Not one Holy Trinity parishioner died. He built the chapel, founded the cemetery around it in 1875, and lies beneath its floor. The parish opened a school in 1871 under Benedictine sisters — and in the 1960s Buddy Pedeaux, who had French, Italian, Albanian and Croatian ancestors and not one German among them, was enrolled in it after his mother told the parish otherwise. He grew up and married a great-great-great-granddaughter of Casper Larmann. The church closed in 1997 and is now the Marigny Opera House.',
         source: 'Casper\'s obituary; parish history. Distance measured between the two geocoded points on this map — his house at 2833 Dauphine is the next marker over.'
       },
 
